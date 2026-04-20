@@ -1,0 +1,8 @@
+.env
+checkpoints/raw_messages.json
+checkpoints/progress.json
+output/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
