@@ -14,21 +14,36 @@ files already in this repo.
 
 ## Project State
 
-**Current Phase:** Phase 1 – Not yet started  
-**Records Parsed:** 0 / ~5,121 messages → ? audio records  
-**Records Extracted:** 0 / ?  
+**Current Phase:** Complete ✓  
+**Records Parsed:** 1,772 audio records from 5,121 total messages across 4 HTML files  
+**Records Extracted:** 1,772 / 1,772 (1,112 with full confidence, 660 flagged for review)  
 **Last Session:** 2026-04-20  
-**Checkpoint file:** `checkpoints/progress.json` (does not exist yet — run Phase 1 first)
+**Checkpoint file:** `checkpoints/progress.json` (complete)
+
+### Extraction Quality Summary
+| Metric | Count |
+|--------|-------|
+| Total audio records | 1,772 |
+| Khutba (sermons) | 355 |
+| Series (lessons) | 1,417 |
+| Confidence: none (clean) | 1,112 |
+| Doubt: lesson_number_not_found | 604 |
+| Doubt: category_uncertain | 216 |
+| Doubt: series_name_uncertain | 3 |
+
+### Category Breakdown
+Fiqh: 574 | Aqeedah: 412 | Khutba: 358 | Seerah: 68 | Hadeeth: 87 | Quran: 57 | Other: 216
 
 ---
 
 ## To-Do List
 
-- [ ] Phase 1: Run `python src/parse_html.py` → produces `checkpoints/raw_messages.json`
-- [ ] Phase 2: Run `python src/extract_metadata.py` → produces `checkpoints/progress.json` (safe to stop/restart)
-- [ ] Phase 3: Run `python src/export_excel.py` → produces `output/full_archive.xlsx` and `output/khutba_only.xlsx`
-- [ ] Manually review spot-check 10–20 records in output files against sample files
-- [ ] Final commit with output files (or upload separately)
+- [x] Phase 1: HTML parsing → `checkpoints/raw_messages.json` (1,772 audio records)
+- [x] Phase 2: Rule-based extraction → `checkpoints/progress.json` (no API key needed)
+- [x] Phase 3: Excel export → `output/full_archive.xlsx` (1,772 rows) and `output/khutba_only.xlsx` (355 rows)
+- [ ] Manual review: spot-check 10–20 records against sample files
+- [ ] Review 216 "category_uncertain" records and update category map if needed
+- [ ] Review 604 records with missing lesson numbers — check if they are standalone lectures vs. numbered series
 
 ---
 
