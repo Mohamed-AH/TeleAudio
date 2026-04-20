@@ -47,7 +47,7 @@ def parse_file(html_path: Path) -> list[dict]:
     records = []
     skipped = 0
 
-    for message_div in soup.find_all("div", class_="message default"):
+    for message_div in soup.select("div.message.default"):
         msg_id = message_div.get("id", "")
 
         # Find audio attachments: media_audio_file OR media_file with audio extension

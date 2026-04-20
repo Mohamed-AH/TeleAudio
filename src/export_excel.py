@@ -100,7 +100,7 @@ def apply_data_row(ws, row_idx: int, values: list, headers: list[str]):
         cell = ws.cell(row=row_idx, column=col_idx, value=value)
         cell.fill = fill
         if header in ARABIC_COLUMNS:
-            cell.alignment = Alignment(horizontal="right", reading_order=2)
+            cell.alignment = Alignment(horizontal="right", readingOrder=2)
         else:
             cell.alignment = Alignment(horizontal="left")
 
