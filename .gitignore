@@ -1,7 +1,7 @@
 .env
 checkpoints/raw_messages.json
 checkpoints/progress.json
-output/
+# output/  # Excel outputs are now tracked
 __pycache__/
 *.pyc
 *.pyo
