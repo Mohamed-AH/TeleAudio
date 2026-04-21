@@ -194,7 +194,7 @@ def detect_category(msg_type: str, title: str, text: str) -> str:
         return "Aqeedah"
     if re.search(r"فقه|أحكام|طهارة|صلاة|زكاة|صيام|حج|نكاح|طلاق|بيع|جنايات", combined):
         return "Fiqh"
-    if re.search(r"حديث|سنة.*نبو|أربعين|مورد|زلال", combined):
+    if re.search(r"حديث|سنة.*نبو|أربعين|مورد|زلال|صحيح.*بخاري|صحيح.*مسلم|بخاري|مسلم.*كتاب", combined):
         return "Hadeeth"
     if re.search(r"تفسير|سورة|قرآن|تلاوة", combined):
         return "Quran"
@@ -240,8 +240,8 @@ def extract_series_name(title: str, text: str) -> str:
         if clean_title and len(clean_title) > 3:
             return clean_title
 
-    # 3. Look for "كلمة بعنوان: <title>" or "درس بعنوان: <title>"
-    m = re.search(r"(?:كلمة|درس)\s+بعنوان\s*[:\-]\s*([^\n\|]+)", text)
+    # 3. Look for "كلمة بعنوان: <title>" / "درس بعنوان: <title>" / "عنوان الخطبة: <title>"
+    m = re.search(r"(?:كلمة|درس|عنوان الخطبة)\s*[:\-]\s*\n?\s*([^\n\|🔹🔸]{4,})", text)
     if m:
         return m.group(1).strip()
 
@@ -272,6 +272,8 @@ def extract_series_name(title: str, text: str) -> str:
 
 def clean_series_name_for_display(name: str) -> str:
     """Clean up series name for final output."""
+    # Strip Unicode direction/formatting marks (RLM, LRM, ZWNJ, ZWJ, etc.)
+    name = re.sub(r"[\u200b-\u200f\u202a-\u202e\u2066-\u2069\ufeff]", "", name)
     name = re.sub(r"\s+", " ", name).strip()
     name = re.sub(r"^[\s\-–:]+|[\s\-–:]+$", "", name)
     return name
