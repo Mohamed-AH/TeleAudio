@@ -20,6 +20,7 @@ from pathlib import Path
 from typing import Callable
 
 from bs4 import BeautifulSoup
+from hijridate import Gregorian
 
 ROOT = Path(__file__).parent.parent
 CHANNEL = "daririhasan"
@@ -350,11 +351,25 @@ def to_arabic_numeral(n: int) -> str:
     return "".join(_ARABIC_DIGITS[int(d)] for d in str(n))
 
 
+def to_hijri_display(date_raw: str) -> str:
+    """Convert DD.MM.YYYY Gregorian to 'DD MonthNameAr YYYYهـ' (Umm al-Qura)."""
+    if not date_raw:
+        return "—"
+    try:
+        dd, mm, yyyy = map(int, date_raw.split("."))
+        h = Gregorian(yyyy, mm, dd).to_hijri()
+        day_ar = to_arabic_numeral(h.day)
+        year_ar = to_arabic_numeral(h.year)
+        return f"{day_ar} {h.month_name('ar')} {year_ar}هـ"
+    except Exception:
+        return date_raw
+
+
 def format_entry(sno: int, rec: dict) -> str:
     num = to_arabic_numeral(sno)
     if rec.get("title"):
-        # Khutba / titled series: show title + date
-        date_display = rec["date_raw"].replace(".", "/") if rec["date_raw"] else "—"
+        # Khutba / titled series: show title + Hijri date
+        date_display = to_hijri_display(rec["date_raw"])
         return f"* {num}) {rec['title']} | {date_display} 📎 [{rec['link']}]"
     else:
         # Lesson-number series
