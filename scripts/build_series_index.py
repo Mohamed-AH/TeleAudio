@@ -5,16 +5,17 @@ groups by old/new series (split at 2025), flags duplicates, and chunks output at
 4,000 characters (Telegram message limit).
 
 Usage:
-    python scripts/build_series_index.py                  # all series → output/*.txt
-    python scripts/build_series_index.py --series fiqh    # single series → stdout
+    python scripts/build_series_index.py                   # all series → output/*.txt
+    python scripts/build_series_index.py --series fiqh     # single series → stdout
     python scripts/build_series_index.py --series fatawa
     python scripts/build_series_index.py --series qawl
+    python scripts/build_series_index.py --series khutba
 """
 
 import argparse
 import re
 import sys
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Callable
 
@@ -114,10 +115,9 @@ def extract_circled_lesson(text: str) -> int | None:
     if not m:
         return None
     chars = m.group(1)
-    # Single pre-composed char (⑩–⑳)
     if len(chars) == 1:
         return _CIRCLED.get(chars)
-    # Multi-char: digits written RTL (units first) → reverse for decimal
+    # Multi-char RTL: digits stored units-first → reverse for decimal
     digits = []
     for c in reversed(chars):
         d = _CIRCLED.get(c)
@@ -131,16 +131,124 @@ def extract_circled_lesson(text: str) -> int | None:
 
 
 # ---------------------------------------------------------------------------
+# Khutba title extraction
+# ---------------------------------------------------------------------------
+_NOISE_LINE_RE = re.compile(
+    r"^(https?://|🎙|🔸|🔹|📌|لفضيلة|للشيخ|للإستماع|حسن\s|غفر|⏰|🗓|🔗|🖇|══|╭|╰|رابط|00:00|\s*$)",
+)
+# Leading emoji / decorative chars to strip from titles
+_LEAD_DECO_RE = re.compile(r"^[\U0001F300-\U0001FFFF☀-⟿🔖🌀🎗•✿❁]+\s*")
+_TRAIL_DECO_RE = re.compile(r"[\s\-/•]+$")
+
+
+def _clean_title(raw: str) -> str:
+    t = raw.replace("\n", " ").strip()
+    t = t.strip("•[]/◈")
+    t = re.sub(r"[​-‏‪-‮⁦-⁩﻿]", "", t)   # direction marks
+    t = _LEAD_DECO_RE.sub("", t)
+    t = _TRAIL_DECO_RE.sub("", t)
+    return t.strip()
+
+
+def extract_khutba_title(text: str) -> str:
+    # 1. •[ TITLE ]• or •/ TITLE /• — may span lines (2023+, some 2018-2019)
+    m = re.search(r"•[\[/]\s*([\s\S]+?)\s*[\]/]•", text)
+    if m:
+        t = _clean_title(m.group(1))
+        if len(t) > 3:
+            return t
+
+    # 2. [◈ TITLE] — 2022 format
+    m = re.search(r"\[◈\s*(.+?)\]", text)
+    if m:
+        t = _clean_title(m.group(1))
+        if len(t) > 3:
+            return t
+
+    # 3. عنوان الخطبة: \n TITLE — 2025-2026
+    m = re.search(r"عنوان الخطبة\s*[:\s]*\n+\s*(.+)", text)
+    if m:
+        t = _clean_title(m.group(1))
+        if len(t) > 3:
+            return t
+
+    # 4. 🌀 TITLE 🌀 or 🎗 TITLE 🎗 — 2018-2021
+    m = re.search(r"[🌀🎗]\s*(.+?)\s*[🌀🎗]", text)
+    if m:
+        t = _clean_title(m.group(1))
+        if len(t) > 3:
+            return t
+
+    # 5. «TITLE» Arabic quotes — 2017
+    m = re.search(r'[«"]\s*(.+?)\s*[»"]', text)
+    if m:
+        t = _clean_title(m.group(1))
+        if len(t) > 3:
+            return t
+
+    # 6. Title on same line BEFORE خطبة keyword, or on the immediately preceding line
+    lines = text.split("\n")
+    for i, line in enumerate(lines):
+        if re.search(r"خطبة.{0,6}(الجمعة|جمعة)", line):
+            # Same line: text before keyword
+            before = re.split(r"خطبة.{0,6}(الجمعة|جمعة)", line)[0].strip()
+            before = _clean_title(before)
+            if len(before) > 5 and not before.startswith("http"):
+                return before
+            # Previous line as title
+            if i > 0:
+                prev = _clean_title(lines[i - 1].strip())
+                if len(prev) > 3 and not _NOISE_LINE_RE.match(lines[i - 1].strip()):
+                    return prev
+            break
+    lines = text.split("\n")  # reset for pattern 7
+
+    # 7. First meaningful line after خطبة keyword, collecting multi-line titles
+    lines = text.split("\n")
+    for i, line in enumerate(lines):
+        if re.search(r"خطبة.{0,6}(الجمعة|جمعة)", line):
+            # Collect up to 2 non-noise lines to handle split titles
+            title_parts: list[str] = []
+            for j in range(i + 1, min(i + 5, len(lines))):
+                candidate = lines[j].strip()
+                if not candidate or _NOISE_LINE_RE.match(candidate):
+                    if title_parts:
+                        break
+                    continue
+                cleaned = _clean_title(candidate)
+                if len(cleaned) > 3:
+                    title_parts.append(cleaned)
+                    # Only grab 2nd line if it looks like a title continuation (no emoji start)
+                    if len(title_parts) == 1 and not _LEAD_DECO_RE.match(candidate):
+                        next_j = j + 1
+                        if next_j < len(lines):
+                            nxt = _clean_title(lines[next_j].strip())
+                            if (len(nxt) > 3
+                                    and not _NOISE_LINE_RE.match(lines[next_j].strip())
+                                    and re.search(r"[اإأآ-ي]", nxt)
+                                    and not re.search(r"[🎙🔸🔹]", lines[next_j])):
+                                title_parts.append(nxt)
+                    break
+            if title_parts:
+                return " ".join(title_parts)
+            break
+
+    return ""
+
+
+# ---------------------------------------------------------------------------
 # Series configuration
 # ---------------------------------------------------------------------------
 
 @dataclass
 class SeriesConfig:
     key: str
-    title: str                          # display title
-    hashtag_re: re.Pattern              # must match raw HTML of the post
-    extract_lesson: Callable            # function(text: str) → int | None
-    output_file: str                    # filename under output/
+    title: str                                   # display title for header
+    hashtag_re: re.Pattern                       # must match raw HTML of the post
+    output_file: str                             # filename under output/
+    extract_lesson: Callable | None = None       # text → int | None (lesson series)
+    extract_title: Callable | None = None        # text → str (khutba / titled series)
+    sort_by_date: bool = False                   # True → sort by date, False → lesson num
 
 
 SERIES: dict[str, SeriesConfig] = {
@@ -164,6 +272,18 @@ SERIES: dict[str, SeriesConfig] = {
         hashtag_re=re.compile(r"القول_السديد_شرح_كتاب_التوحيد"),
         extract_lesson=extract_circled_lesson,
         output_file="qawl_sadeed_index.txt",
+    ),
+    "khutba": SeriesConfig(
+        key="khutba",
+        title="خطبة الجمعة",
+        # خطبة_الجمعة hashtag anywhere, OR خطبة (الجمعة|جمعة) within first 120 raw chars
+        # (older posts open with the title immediately; false positives cite it much later)
+        hashtag_re=re.compile(
+            r"خطبة_الجمعة|(?:^[\s\S]{0,120}خطبة.{0,4}(?:الجمعة|جمعة))"
+        ),
+        extract_title=extract_khutba_title,
+        sort_by_date=True,
+        output_file="khutba_index.txt",
     ),
 }
 
@@ -194,17 +314,21 @@ def parse_series(cfg: SeriesConfig) -> list[dict]:
             date_raw = ""
             if date_el and date_el.get("title"):
                 date_raw = date_el["title"].split()[0]
-            all_records.append({
+
+            rec: dict = {
                 "msg_id": msg_id,
                 "date_raw": date_raw,
-                "lesson_num": cfg.extract_lesson(text),
                 "link": f"https://t.me/{CHANNEL}/{msg_id}",
-            })
+                "lesson_num": cfg.extract_lesson(text) if cfg.extract_lesson else None,
+                "title": cfg.extract_title(text) if cfg.extract_title else "",
+                "is_dup": False,
+            }
+            all_records.append(rec)
     return all_records
 
 
 # ---------------------------------------------------------------------------
-# Duplicate flagging
+# Duplicate flagging (lesson-number series only)
 # ---------------------------------------------------------------------------
 
 def mark_duplicates(records: list[dict]) -> None:
@@ -227,13 +351,20 @@ def to_arabic_numeral(n: int) -> str:
 
 
 def format_entry(sno: int, rec: dict) -> str:
-    lesson = (
-        f"الدرس رقم {rec['lesson_num']}"
-        if rec["lesson_num"] is not None
-        else "درس (رقم غير محدد)"
-    )
-    dup = " [DUPLICATE - MANUAL CHECK]" if rec["is_dup"] else ""
-    return f"* {to_arabic_numeral(sno)}) {lesson} 📎 [{rec['link']}]{dup}"
+    num = to_arabic_numeral(sno)
+    if rec.get("title"):
+        # Khutba / titled series: show title + date
+        date_display = rec["date_raw"].replace(".", "/") if rec["date_raw"] else "—"
+        return f"* {num}) {rec['title']} | {date_display} 📎 [{rec['link']}]"
+    else:
+        # Lesson-number series
+        lesson = (
+            f"الدرس رقم {rec['lesson_num']}"
+            if rec["lesson_num"] is not None
+            else "درس (رقم غير محدد)"
+        )
+        dup = " [DUPLICATE - MANUAL CHECK]" if rec["is_dup"] else ""
+        return f"* {num}) {lesson} 📎 [{rec['link']}]{dup}"
 
 
 def build_section(header: str, records: list[dict]) -> str:
@@ -263,15 +394,23 @@ def chunk_text(text: str, limit: int = 4000) -> list[str]:
 # Build index for one series → string
 # ---------------------------------------------------------------------------
 
+def _date_sort_key(r: dict) -> tuple:
+    d = r["date_raw"]
+    if d:
+        try:
+            dd, mm, yyyy = d.split(".")
+            return (int(yyyy), int(mm), int(dd))
+        except ValueError:
+            pass
+    return (9999, 99, 99)
+
+
 def build_index(cfg: SeriesConfig) -> str:
     records = parse_series(cfg)
-    print(
-        f"[{cfg.key}] {len(records)} posts found",
-        file=sys.stderr,
-    )
+    print(f"[{cfg.key}] {len(records)} posts found", file=sys.stderr)
 
-    old_records = []
-    new_records = []
+    old_records: list[dict] = []
+    new_records: list[dict] = []
     for rec in records:
         year = 0
         if rec["date_raw"]:
@@ -281,14 +420,17 @@ def build_index(cfg: SeriesConfig) -> str:
                 pass
         (new_records if year >= 2025 else old_records).append(rec)
 
-    def sort_key(r):
-        n = r["lesson_num"]
-        return (0 if n is not None else 1, n if n is not None else 9999)
-
-    old_records.sort(key=sort_key)
-    new_records.sort(key=sort_key)
-    mark_duplicates(old_records)
-    mark_duplicates(new_records)
+    if cfg.sort_by_date:
+        old_records.sort(key=_date_sort_key)
+        new_records.sort(key=_date_sort_key)
+    else:
+        def lesson_sort_key(r: dict):
+            n = r["lesson_num"]
+            return (0 if n is not None else 1, n if n is not None else 9999)
+        old_records.sort(key=lesson_sort_key)
+        new_records.sort(key=lesson_sort_key)
+        mark_duplicates(old_records)
+        mark_duplicates(new_records)
 
     old_dup = sum(1 for r in old_records if r["is_dup"])
     new_dup = sum(1 for r in new_records if r["is_dup"])
@@ -301,7 +443,7 @@ def build_index(cfg: SeriesConfig) -> str:
     sections = []
     if old_records:
         header = (
-            f"📚 فهرس دروس {cfg.title}\n"
+            f"📚 فهرس {cfg.title}\n"
             "━━━━━━━━━━━━━━━━━━━━━━\n"
             "🎙 الشيخ حسن الدغريري\n"
             "━━━━━━━━━━━━━━━━━━━━━━"
@@ -309,7 +451,7 @@ def build_index(cfg: SeriesConfig) -> str:
         sections.append(build_section(header, old_records))
     if new_records:
         header = (
-            f"📚 فهرس دروس {cfg.title} — المجموعة الجديدة (٢٠٢٥–٢٠٢٦)\n"
+            f"📚 فهرس {cfg.title} — ٢٠٢٥–٢٠٢٦\n"
             "━━━━━━━━━━━━━━━━━━━━━━\n"
             "🎙 الشيخ حسن الدغريري\n"
             "━━━━━━━━━━━━━━━━━━━━━━"
@@ -347,7 +489,6 @@ def main():
         cfg = SERIES[args.series]
         print(build_index(cfg))
     else:
-        # Build all series → write to output/ files
         out_dir = ROOT / "output"
         out_dir.mkdir(exist_ok=True)
         for cfg in SERIES.values():
