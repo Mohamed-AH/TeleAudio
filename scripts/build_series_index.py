@@ -40,7 +40,7 @@ def normalise_digits(text: str) -> str:
 
 
 _UNITS = {
-    "الأول": 1, "الاول": 1, "الواحد": 1,  # with/without hamza + compound form
+    "الأول": 1, "الاول": 1, "الواحد": 1, "واحد": 1,  # with/without article/hamza
     "الثاني": 2, "الثالث": 3, "الرابع": 4, "الخامس": 5,
     "السادس": 6, "السابع": 7, "الثامن": 8, "التاسع": 9, "العاشر": 10,
     "الحادي": 1, "الثانية": 2, "الثانيه": 2,
@@ -62,15 +62,37 @@ def ordinal_to_int(word: str) -> int | None:
     word = word.strip()
     if word in _UNITS:
         return _UNITS[word]
+    # 11–19: handle both masculine and feminine forms (الثامن/الثامنة عشر)
     m = re.match(
-        r"(الحادي|الثاني|الثالث|الرابع|الخامس|السادس|السابع|الثامن|التاسع)\s+عشر",
+        r"(الحادي|الثاني[ةه]?|الثالث|الرابع|الخامس|السادس|السابع|الثامن[ةه]?|التاسع)\s+عشر[ةه]?",
         word,
     )
     if m:
+        unit = m.group(1).rstrip("ةه")
         return {
             "الحادي": 11, "الثاني": 12, "الثالث": 13, "الرابع": 14,
             "الخامس": 15, "السادس": 16, "السابع": 17, "الثامن": 18, "التاسع": 19,
-        }[m.group(1)]
+        }.get(unit)
+    # Compound with "و": "الواحد و العشرون" (spaces around و)
+    m = re.match(r"(\S+)\s+و\s+(\S+)", word)
+    if m:
+        u = _UNITS.get(m.group(1), 0)
+        t = _TENS.get("ال" + m.group(2).lstrip("ال"), _TENS.get(m.group(2).lstrip("ال"), 0))
+        if u and t:
+            return u + t
+    # Compound without "و": "الحادي الأربعون" = 41 (informal Arabic)
+    m = re.match(
+        r"(الحادي|الثاني|الثالث|الرابع|الخامس|السادس|السابع|الثامن|التاسع)"
+        r"\s+(الأربعون|الأربعين|الخمسون|الخمسين|الستون|الستين|السبعون|السبعين"
+        r"|الثمانون|الثمانين|التسعون|التسعين)",
+        word,
+    )
+    if m:
+        u = _UNITS.get(m.group(1), 0)
+        t = _TENS.get(m.group(2), 0)
+        if u and t:
+            return u + t
+    # Legacy compound without "و" using old و-concatenation pattern
     m = re.match(r"(\S+)\s+و(\S+)", word)
     if m:
         u = _UNITS.get(m.group(1), 0)
@@ -275,6 +297,71 @@ def extract_lecture_title(text: str) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Sub-book extractors — return a grouping label ('' = main/default section)
+# ---------------------------------------------------------------------------
+
+def extract_fatawa_subbook(text: str) -> str:
+    """Detect sub-book in فتاوى أركان الإسلام readings."""
+    # "الدرس (١) - كتاب الصلاة" format
+    m = re.search(r"الدرس\s*\([^)]+\)\s*[-–]\s*(كتاب\s+\S+)", text)
+    if m:
+        return m.group(1).strip()
+    # "#كتاب_الصيام\n(١)" standalone format (no الدرس keyword present)
+    m = re.search(r"#(كتاب_الصيام|كتاب_الصلاة|كتاب_الحج|كتاب_الزكاة)", text)
+    if m and not re.search(r"\bالدرس\s", text):
+        return m.group(1).replace("_", " ")
+    return ""
+
+
+def extract_tanbeeh_subbook(text: str) -> str:
+    """Detect sub-book in تنبيه الأنام readings."""
+    m = re.search(r"#(كتاب_الصيام|كتاب_الحج|كتاب_الزكاة|كتاب_الجهاد)", text)
+    return m.group(1).replace("_", " ") if m else ""
+
+
+def extract_tafseer_subbook(text: str) -> str:
+    """Detect surah section in التفسير الميسر readings."""
+    m = re.search(r"-\s*(تفسير\s+سورة\s+\S+)", text)
+    return m.group(1).strip() if m else ""
+
+
+def extract_mulakhkhas_subbook(text: str) -> str:
+    """Detect sub-book or session in الملخص الفقهي readings."""
+    # 2025+ new format: "الدرس (١) - كتاب الطهارة"
+    m = re.search(r"الدرس\s*\([^)]+\)\s*[-–]\s*(كتاب\s+\S+)", text)
+    if m:
+        return m.group(1).strip()
+    # Older sub-book hashtag format
+    m = re.search(r"#(كتاب_الصيام|كتاب_الصلاة|كتاب_الحج|كتاب_الطهارة|كتاب_الزكاة)", text)
+    if m:
+        return m.group(1).replace("_", " ")
+    return ""
+
+
+def extract_majaalis_subbook(text: str) -> str:
+    """Distinguish two recording sessions of مجالس شهر رمضان."""
+    if "#جديد_التعليقات" in text:
+        return "الجلسة الثانية"
+    return ""
+
+
+def extract_tuhfa_subbook(text: str) -> str:
+    """Distinguish two recording sessions of التحفة النجمية."""
+    # Newer session uses {N} format; older uses explicit ordinal text with (الحديث X)
+    if re.search(r"\{0*\d+\}", text):
+        return "الجلسة الثانية"
+    return ""
+
+
+def extract_irshad_subbook(text: str) -> str:
+    """Distinguish two recording sessions of إرشاد الساري."""
+    # Newer session uses {N} format
+    if re.search(r"\{0*\d+\}", text):
+        return "الجلسة الثانية"
+    return ""
+
+
+# ---------------------------------------------------------------------------
 # Series configuration
 # ---------------------------------------------------------------------------
 
@@ -289,6 +376,7 @@ class SeriesConfig:
     extract_lesson: Callable | None = None
     extract_title: Callable | None = None
     sort_by_date: bool = False
+    extract_subbook: Callable | None = None
 
 
 SERIES: dict[str, SeriesConfig] = {
@@ -306,6 +394,7 @@ SERIES: dict[str, SeriesConfig] = {
         title="فتاوى أركان الإسلام",
         match_re=re.compile(r"فتاوى_أركان_الإسلام"),
         extract_lesson=extract_ordinal_lesson,
+        extract_subbook=extract_fatawa_subbook,
         output_file="fatawa_arkan_index.txt",
     ),
     "qawl": SeriesConfig(
@@ -335,6 +424,7 @@ SERIES: dict[str, SeriesConfig] = {
         match_re=re.compile(r"تنبيه.*الأنام|سبل_السلام"),
         exclude_re=re.compile(r"من_الأرشيف"),
         extract_lesson=extract_ordinal_lesson,
+        extract_subbook=extract_tanbeeh_subbook,
         output_file="tanbeeh_anam_index.txt",
     ),
 
@@ -365,6 +455,7 @@ SERIES: dict[str, SeriesConfig] = {
         title="التعليق على كتاب مجالس شهر رمضان",
         match_re=re.compile(r"كتاب_مجالس_شهر_رمضان"),
         extract_lesson=extract_ordinal_lesson,
+        extract_subbook=extract_majaalis_subbook,
         output_file="majaalis_ramadan_index.txt",
     ),
 
@@ -375,6 +466,7 @@ SERIES: dict[str, SeriesConfig] = {
         match_re=re.compile(r"الملخص[\s_]الفقهي"),
         exclude_re=re.compile(r"من_الأرشيف"),
         extract_lesson=extract_ordinal_lesson,
+        extract_subbook=extract_mulakhkhas_subbook,
         output_file="mulakhkhas_fiqhi_index.txt",
     ),
 
@@ -460,6 +552,7 @@ SERIES: dict[str, SeriesConfig] = {
         title="التفسير الميسر",
         match_re=re.compile(r"التفسير[\s_]الميسر"),
         extract_lesson=extract_ordinal_lesson,
+        extract_subbook=extract_tafseer_subbook,
         output_file="tafseer_muyassar_index.txt",
     ),
 
@@ -469,6 +562,7 @@ SERIES: dict[str, SeriesConfig] = {
         title="التحفة النجمية بشرح الأربعين النووية",
         match_re=re.compile(r"التعليق_على_كتاب_الأربعين_النووية|الأربعين[\s_]النووية"),
         extract_lesson=extract_ordinal_lesson,
+        extract_subbook=extract_tuhfa_subbook,
         output_file="tuhfa_najmiyya_index.txt",
     ),
 
@@ -536,6 +630,7 @@ SERIES: dict[str, SeriesConfig] = {
         title="إرشاد الساري شرح السنة للبربهاري",
         match_re=re.compile(r"شرح_كتاب_شرح_السنة_للبربهاري|للبربهاري"),
         extract_lesson=extract_ordinal_lesson,
+        extract_subbook=extract_irshad_subbook,
         output_file="irshad_sari_index.txt",
     ),
 
@@ -811,6 +906,7 @@ def parse_series(cfg: SeriesConfig) -> list[dict]:
             "link": f"https://t.me/{CHANNEL}/{msg['msg_id']}",
             "lesson_num": cfg.extract_lesson(text) if cfg.extract_lesson else None,
             "title": cfg.extract_title(text) if cfg.extract_title else "",
+            "subbook": cfg.extract_subbook(text) if cfg.extract_subbook else "",
             "is_dup": False,
         })
     return records
@@ -903,6 +999,86 @@ def _date_sort_key(r: dict) -> tuple:
     return (9999, 99, 99)
 
 
+def _lesson_sort_key(r: dict):
+    n = r["lesson_num"]
+    return (0 if n is not None else 1, n if n is not None else 9999)
+
+
+def _subbook_order_key(subbook: str, records: list[dict]) -> tuple:
+    """Main section ('') sorts first; sub-books sort by earliest message ID."""
+    return (0 if subbook == "" else 1, min(int(r["msg_id"]) for r in records))
+
+
+def _build_period_sections(
+    cfg: SeriesConfig,
+    period_records: list[dict],
+    period_suffix: str,
+    is_first_period: bool,
+) -> list[str]:
+    """Build formatted section strings for one time period, grouped by sub-book."""
+    if not period_records:
+        return []
+
+    # Group by sub-book
+    by_subbook: dict[str, list[dict]] = {}
+    for rec in period_records:
+        sb = rec["subbook"]
+        by_subbook.setdefault(sb, []).append(rec)
+
+    subbook_keys = sorted(
+        by_subbook.keys(),
+        key=lambda sb: _subbook_order_key(sb, by_subbook[sb]),
+    )
+
+    result: list[str] = []
+    for idx, subbook in enumerate(subbook_keys):
+        recs = by_subbook[subbook]
+
+        if cfg.sort_by_date:
+            recs.sort(key=_date_sort_key)
+        else:
+            recs.sort(key=_lesson_sort_key)
+            mark_duplicates(recs)
+
+        dup_count = sum(1 for r in recs if r["is_dup"])
+        print(
+            f"[{cfg.key}] {'Old' if not period_suffix else '2025+'}"
+            f"/{subbook or 'main'}: {len(recs)} posts ({dup_count} dups)",
+            file=sys.stderr,
+        )
+
+        # Build section header
+        if subbook:
+            # Sub-book section: compact header with book name + period
+            suffix_label = f" — {period_suffix}" if period_suffix else ""
+            header = (
+                f"📖 {subbook}{suffix_label}\n"
+                "─────────────────────────"
+            )
+        elif is_first_period and idx == 0:
+            # First section of all: full title header
+            suffix_label = f" — {period_suffix}" if period_suffix else ""
+            header = (
+                f"📚 فهرس {cfg.title}{suffix_label}\n"
+                "━━━━━━━━━━━━━━━━━━━━━━\n"
+                "🎙 الشيخ حسن الدغريري\n"
+                "━━━━━━━━━━━━━━━━━━━━━━"
+            )
+        else:
+            # Continuation main section (new period, no sub-book)
+            suffix_label = f" — {period_suffix}" if period_suffix else ""
+            header = (
+                f"📚 فهرس {cfg.title}{suffix_label}\n"
+                "━━━━━━━━━━━━━━━━━━━━━━\n"
+                "🎙 الشيخ حسن الدغريري\n"
+                "━━━━━━━━━━━━━━━━━━━━━━"
+            )
+
+        result.append(build_section(header, recs))
+
+    return result
+
+
 def build_index(cfg: SeriesConfig) -> tuple[str, int]:
     """Return (formatted_text, total_post_count)."""
     records = parse_series(cfg)
@@ -920,43 +1096,9 @@ def build_index(cfg: SeriesConfig) -> tuple[str, int]:
                 pass
         (new_records if year >= 2025 else old_records).append(rec)
 
-    if cfg.sort_by_date:
-        old_records.sort(key=_date_sort_key)
-        new_records.sort(key=_date_sort_key)
-    else:
-        def lesson_sort_key(r: dict):
-            n = r["lesson_num"]
-            return (0 if n is not None else 1, n if n is not None else 9999)
-        old_records.sort(key=lesson_sort_key)
-        new_records.sort(key=lesson_sort_key)
-        mark_duplicates(old_records)
-        mark_duplicates(new_records)
-
-    old_dup = sum(1 for r in old_records if r["is_dup"])
-    new_dup = sum(1 for r in new_records if r["is_dup"])
-    print(
-        f"[{cfg.key}] Old: {len(old_records)} ({old_dup} dups) | "
-        f"New (2025+): {len(new_records)} ({new_dup} dups)",
-        file=sys.stderr,
-    )
-
-    sections = []
-    if old_records:
-        header = (
-            f"📚 فهرس {cfg.title}\n"
-            "━━━━━━━━━━━━━━━━━━━━━━\n"
-            "🎙 الشيخ حسن الدغريري\n"
-            "━━━━━━━━━━━━━━━━━━━━━━"
-        )
-        sections.append(build_section(header, old_records))
-    if new_records:
-        header = (
-            f"📚 فهرس {cfg.title} — ٢٠٢٥–٢٠٢٦\n"
-            "━━━━━━━━━━━━━━━━━━━━━━\n"
-            "🎙 الشيخ حسن الدغريري\n"
-            "━━━━━━━━━━━━━━━━━━━━━━"
-        )
-        sections.append(build_section(header, new_records))
+    sections: list[str] = []
+    sections.extend(_build_period_sections(cfg, old_records, "", is_first_period=True))
+    sections.extend(_build_period_sections(cfg, new_records, "٢٠٢٥–٢٠٢٦", is_first_period=not old_records))
 
     if not sections:
         return (f"[No posts found for: {cfg.title}]", 0)
