@@ -6,3 +6,5 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+downloads/download_report.json
+downloads/*.part

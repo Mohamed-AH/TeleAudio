@@ -1,0 +1,77 @@
+=================================================================
+SERIES INDEX GENERATION REPORT
+Generated: 2026-05-07 10:53
+=================================================================
+
+USER-SPECIFIED SERIES (29 requested):
+
+  [ 1] FOUND (25 posts) — تنبيه الأنام على ما في كتاب سبل السلام من الفوائد والأحكام
+  [ 2] FOUND (12 posts) — التعليقات البهية على الرسائل العقدية
+  [ 3] MISSING — تأسيس الأحكام شرح عمدة الأحكام - عن بعد
+  [ 4] FOUND (3 posts) — تأسيس الأحكام شرح عمدة الأحكام - أرشيف رمضان
+  [ 5] FOUND (66 posts) — التعليق على كتاب مجالس شهر رمضان
+  [ 6] FOUND (46 posts) — الملخص الفقهي
+  [ 7] FOUND (7 posts) — صحيح البخاري
+  [ 8] NOT FOUND (0 posts in data) — خطبة الجمعة - مختصر السيرة النبوية
+  [ 9] FOUND (13 posts) — مختصر السيرة النبوية
+  [10] MISSING — الأفنان الندية - عن بعد
+  [11] NOT FOUND (0 posts in data) — الممتع شرح زاد المستقنع - أرشيف رمضان
+  [12] NOT FOUND (0 posts in data) — تنبيه الأنام على ما في كتاب سبل السلام من الفوائد والأحكام - أرشيف رمضان
+  [13] FOUND (93 posts) — تأسيس الأحكام شرح عمدة الأحكام
+  [14] FOUND (33 posts) — الملخص شرح كتاب التوحيد
+  [15] FOUND (42 posts) — التفسير الميسر
+  [16] FOUND (55 posts) — التحفة النجمية بشرح الأربعين النووية
+  [17] FOUND (6 posts) — محاضرات متفرقة
+  [18] FOUND (1 posts) — الملخص الفقهي - أرشيف رمضان
+  [19] FOUND (9 posts) — إتمام المنة بشرح أصول السنة
+  [20] FOUND (10 posts) — الشرح الموجز الممهد لتوحيد الخالق الممجد
+  [21] FOUND (2 posts) — تأسيس الأحكام شرح عمدة الأحكام - الطهارة
+  [22] FOUND (31 posts) — دروس رمضان - وزارة الشؤون الإسلامية
+  [23] FOUND (57 posts) — إرشاد الساري شرح السنة للبربهاري
+  [24] FOUND (38 posts) — المورد العذب الزلال
+  [25] FOUND (22 posts) — معارج القبول شرح منظومة سلم الوصول - عن بعد
+  [26] FOUND (14 posts) — الأفنان الندية - أرشيف رمضان
+  [27] FOUND (1 posts) — شرح كتاب الفقه الميسر - أرشيف رمضان
+  [28] FOUND (12 posts) — كتاب آداب المشي إلى الصلاة - أرشيف رمضان
+  [29] FOUND (6 posts) — تيسير العلي القدير لاختصار تفسير ابن كثير
+
+  Result: 24 found with posts / 5 not found in data
+
+-----------------------------------------------------------------
+
+SERIES NOT FOUND IN DATA:
+
+  [ 3] تأسيس الأحكام شرح عمدة الأحكام - عن بعد
+        (no matching hashtag or text pattern found in export)
+  [ 8] خطبة الجمعة - مختصر السيرة النبوية
+        (0 posts matched — this specific variant is absent from the export)
+  [10] الأفنان الندية - عن بعد
+        (no matching hashtag or text pattern found in export)
+  [11] الممتع شرح زاد المستقنع - أرشيف رمضان
+        (0 posts matched — this specific variant is absent from the export)
+  [12] تنبيه الأنام على ما في كتاب سبل السلام من الفوائد والأحكام - أرشيف رمضان
+        (0 posts matched — this specific variant is absent from the export)
+
+-----------------------------------------------------------------
+
+NEWLY DISCOVERED SERIES (not in user's list of 29):
+
+  التعليق على شرح كتاب التوحيد: 50 posts  ->  output/ta3leeq_tawheed_index.txt
+  التعليقات الأثرية على العقيدة الواسطية: 19 posts  ->  output/ta3leeqat_athariyya_index.txt
+  التعليقات المختصرة: 13 posts  ->  output/ta3leeqat_mukhtasara_index.txt
+  أعلام السنة المنشورة: 13 posts  ->  output/a3lam_sunna_index.txt
+  الفضل المبين: 8 posts  ->  output/fadl_mubeen_index.txt
+  التعليق على الأصول الثلاثة: 7 posts  ->  output/usul_thalatha_index.txt
+  التعليق على الأصول الستة: 2 posts  ->  output/usul_sitta_index.txt
+  الرد الشرعي المعقول على المتصل المجهول: 14 posts  ->  output/radd_shar3i_index.txt
+
+-----------------------------------------------------------------
+
+EXISTING SERIES (generated in previous sessions, regenerated):
+
+  شرح كتاب الفقه الميسر: 132 posts  ->  output/fiqh_muyassar_index.txt
+  فتاوى أركان الإسلام: 151 posts  ->  output/fatawa_arkan_index.txt
+  القول السديد شرح كتاب التوحيد: 13 posts  ->  output/qawl_sadeed_index.txt
+  خطبة الجمعة: 367 posts  ->  output/khutba_index.txt
+
+=================================================================

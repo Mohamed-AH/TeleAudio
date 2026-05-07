@@ -4,3 +4,4 @@ openpyxl>=3.1
 anthropic>=0.40
 python-dotenv>=1.0
 tqdm>=4.66
+hijridate>=2.3.0
