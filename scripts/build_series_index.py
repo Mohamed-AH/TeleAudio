@@ -40,7 +40,7 @@ def normalise_digits(text: str) -> str:
 
 
 _UNITS = {
-    "الأول": 1, "الاول": 1,  # with and without hamza
+    "الأول": 1, "الاول": 1, "الواحد": 1,  # with/without hamza + compound form
     "الثاني": 2, "الثالث": 3, "الرابع": 4, "الخامس": 5,
     "السادس": 6, "السابع": 7, "الثامن": 8, "التاسع": 9, "العاشر": 10,
     "الحادي": 1, "الثانية": 2, "الثانيه": 2,
@@ -81,14 +81,37 @@ def ordinal_to_int(word: str) -> int | None:
 
 
 def extract_ordinal_lesson(text: str) -> int | None:
+    # Strip Arabic tatweel/kashida (ـ U+0640) which decorates الـدرس in older posts
+    text = text.replace("ـ", "")
     text_norm = normalise_digits(text)
+
+    # 0. {N} embedded in word: "المج{01}لس" or "ال{1}درس" (early archive format)
+    m = re.search(r"\{0*(\d+)\}", text_norm)
+    if m:
+        return int(m.group(1))
+
+    # 1. "الدرس رقم N"
     m = re.search(r"الدرس\s+رقم\s*[:\-]?\s*(\d+)", text_norm)
     if m:
         return int(m.group(1))
+
+    # 2. "الدرس (N)" — parenthesized number directly after keyword
+    m = re.search(r"الدرس\s*\(\s*0*(\d+)\s*\)", text_norm)
+    if m:
+        return int(m.group(1))
+
+    # 3. "الدرس N" or "الدرس - N -" with bare digit
     m = re.search(r"الدرس\s+[-–]?\s*(\d+)\s*[-–]?", text_norm)
     if m:
         return int(m.group(1))
-    m = re.search(r"الدرس\s+([؀-ۿ\s]+?)(?:\s*[:\.\|]|\s*\n|$)", text, re.UNICODE)
+
+    # 4. "الدرس [Arabic ordinal]" — also handles:
+    #    • "الدرس: الستون"  (colon between keyword and ordinal)
+    #    • "الدرس الأول - تفسير..."  (dash terminator)
+    #    • "الدرس الحادي عشر ( باب..."  (paren terminator)
+    #    • "الدرس الاول في جامع الورود في 14 / 3 / ..."  (digit/slash terminator)
+    #    Use text_norm so Arabic-Indic digits convert to ASCII and act as terminators.
+    m = re.search(r"الدرس\s*:?\s*([؀-ۿ\s]+?)(?:\s*[-–(/\d:\.\|،]|\s*\n|$)", text_norm, re.UNICODE)
     if m:
         ordinal_text = m.group(1).strip()
         num = ordinal_to_int(ordinal_text)
@@ -98,6 +121,15 @@ def extract_ordinal_lesson(text: str) -> int | None:
             n = ordinal_to_int(word)
             if n:
                 return n
+
+    # 5. "مجلس [السماع] [ordinal]" — used in المورد العذب الزلال and similar series
+    m = re.search(r"مجلس\s+(?:السماع\s+)?([؀-ۿ\s]+?)(?:\s*[-–(:\.\|،]|\s*\n|$)", text, re.UNICODE)
+    if m:
+        ordinal_text = m.group(1).strip()
+        num = ordinal_to_int(ordinal_text)
+        if num:
+            return num
+
     return None
 
 
