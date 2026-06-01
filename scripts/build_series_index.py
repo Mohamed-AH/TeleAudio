@@ -27,6 +27,7 @@ HTML_FILES = [
     ROOT / "messages2.html",
     ROOT / "messages3.html",
     ROOT / "messages4.html",
+    ROOT / "messages_june1.html",
 ]
 
 # ---------------------------------------------------------------------------
@@ -620,6 +621,7 @@ SERIES: dict[str, SeriesConfig] = {
         key="durus_wazara",
         title="دروس رمضان — وزارة الشؤون الإسلامية",
         match_re=re.compile(r"وزارة[\s_]الشؤون[\s_]الإسلامية|وزارة_الشؤون_الإسلامية"),
+        exclude_re=re.compile(r"دروس[\s_]عشر[\s_]ذي[\s_]الحجة"),
         extract_lesson=extract_ordinal_lesson,
         output_file="durus_wazara_index.txt",
     ),
@@ -763,6 +765,24 @@ SERIES: dict[str, SeriesConfig] = {
         extract_title=extract_lecture_title,
         sort_by_date=True,
         output_file="radd_shar3i_index.txt",
+    ),
+
+    # دروس عشر ذي الحجة (10 lessons, 1447H)
+    "ashr_dhilhijja": SeriesConfig(
+        key="ashr_dhilhijja",
+        title="دروس عشر ذي الحجة",
+        match_re=re.compile(r"دروس[\s_]عشر[\s_]ذي[\s_]الحجة"),
+        extract_lesson=extract_ordinal_lesson,
+        output_file="ashr_dhilhijja_index.txt",
+    ),
+
+    # التحقيق والإيضاح لكثير من مسائل الحج والعمرة والزيارة — ابن باز
+    "tahqeeq_idah": SeriesConfig(
+        key="tahqeeq_idah",
+        title="التحقيق والإيضاح لكثير من مسائل الحج والعمرة والزيارة",
+        match_re=re.compile(r"التحقيق[\s_]والإيضاح[\s_]لكثير|التحقيق_والإيضاح"),
+        extract_lesson=extract_ordinal_lesson,
+        output_file="tahqeeq_idah_index.txt",
     ),
 }
 
