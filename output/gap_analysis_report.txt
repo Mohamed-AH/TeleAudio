@@ -1,0 +1,1463 @@
+================================================================================
+=== CONTINUATIONS (existing DB series with new lessons in HTML files) ===
+================================================================================
+
+Series: إتمام المنة بشرح أصول السنة
+  DB: 3 lessons, date range: 1447/08/05 → 1447/08/19
+  New in HTML: 1 message(s)
+    - msg   6651 | hijri 1447/10/16 | درس 4 | file AUDIO-2026-04-04-22-00-41.m4a | greg 05.04.2026 [جامع الورود]
+
+Series: الأفنان الندية - عن بعد
+  DB: 33 lessons, date range: 1447/04/16 → 1447/08/21
+  New in HTML: 96 message(s)
+    - msg   6578 | hijri 1447/10/10 | درس 9 | file AUDIO-2026-03-29-23-35-39.m4a | greg 31.03.2026 [عن بعد]
+    - msg   6802 | hijri 1447/10/24 | درس 11 | file AUDIO-2026-04-13-02-48-27.m4a | greg 16.04.2026 [عن بعد]
+    - msg   6807 | hijri 1447/10/25 | درس 11 | file AfnanNadiyyah.m4a | greg 16.04.2026 [عن بعد]
+    - msg   6856 | hijri 1447/11/02 | درس 11 | file AUDIO-2026-04-19-21-56-10.m4a | greg 20.04.2026 [عن بعد]
+    - msg   6879 | hijri 1447/11/03 | درس 6 | file AUDIO-2026-04-20-22-44-13.m4a | greg 24.04.2026 [عن بعد]
+    - msg   6947 | hijri 1447/11/09 | درس 7 | file AUDIO-2026-04-26-22-47-52.m4a | greg 29.04.2026 [عن بعد]
+    - msg   6581 | hijri 1447/11/10 | درس 1 | file AUDIO-2026-03-30-21-50-32.m4a | greg 31.03.2026 [عن بعد]
+    - msg   6950 | hijri 1447/11/10 | درس 8 | file AUDIO-2026-04-27-21-42-44.m4a | greg 29.04.2026 [عن بعد]
+    - msg   7062 | hijri 1447/11/16 | درس 9 | file تسجيل جديد ٦٤٥.m4a | greg 03.05.2026 [عن بعد]
+    - msg   7081 | hijri 1447/11/16 | درس 13 | file AUDIO-2026-05-03-21-54-27.m4a | greg 04.05.2026 [عن بعد]
+    - msg   7135 | hijri 1447/11/17 | درس 14 | file AUDIO-2026-05-04-21-48-28.m4a | greg 08.05.2026 [عن بعد]
+    - msg   7212 | hijri 1447/11/23 | درس 15 | file AUDIO-2026-05-10-21-50-47.m4a | greg 12.05.2026 [عن بعد]
+    - msg   7225 | hijri 1447/11/24 | درس 16 | file AUDIO-2026-05-11-21-53-36.m4a | greg 12.05.2026 [عن بعد]
+    - msg   7349 | hijri 1447/11/30 | درس 17 | file AUDIO-2026-05-17-22-26-07.m4a | greg 18.05.2026 [عن بعد]
+    - msg   7430 | hijri 1447/11/30 | درس 18 | file AUDIO-2026-05-18-21-43-24.m4a | greg 21.05.2026 [عن بعد]
+    - msg   6667 | hijri 1447/17/10 | درس 10 | file AUDIO-2026-04-05-23-17-44.m4a | greg 06.04.2026 [عن بعد]
+    - msg   6686 | hijri 1447/18/10 | درس 11 | file AUDIO-2026-04-06-21-46-52.m4a | greg 08.04.2026 [عن بعد]
+    - msg   3848 | hijri — | درس 30 | file الأفنان_الندية_باب_صلاة_الجمعة_الدرس_30.mp3 | greg 03.12.2023
+    - msg   3849 | hijri — | درس (?) | file الأفنان_الندية_تابع_باب_صلاة_الجمعة_الدرس_رقم_٣١.mp3 | greg 03.12.2023
+    - msg   3850 | hijri — | درس 2 | file الأفنان_الندية_تابع_باب_صلاة_الجمعة_الدرس_رقم_٣٢.mp3 | greg 03.12.2023
+    - msg   3851 | hijri — | درس 3 | file الأفنان_الندية_تابع_باب_صلاة_الجمعة_الدرس_رقم_٣٣.mp3 | greg 03.12.2023
+    - msg   3852 | hijri — | درس 4 | file الأفنان_الندية_ظاهرة_سيئة_الدرس_رقم_34.mp3 | greg 03.12.2023
+    - msg   3853 | hijri — | درس 5 | file الأفنان_الندية_باب_الرواتب_قبل_الفرائض_وبعدها_الدرس_رقم_٣٥.mp3 | greg 03.12.2023
+    - msg   3854 | hijri — | درس 6 | file الأفنان_الندية_باب_سبحة_الضحى_الدرس_رقم_36.mp3 | greg 03.12.2023
+    - msg   3858 | hijri — | درس 7 | file الأفنان_الندية_باب_التهجد_بالليل_الدرس_رقم_37.m4a | greg 04.12.2023
+    - msg   3871 | hijri — | درس 8 | file الأفنان_الندية_شرح_منظومة_السبل_السوية_الدرس_رقم_٣٨_تابع_باب_التهجد.m4a | greg 11.12.2023
+    - msg   3872 | hijri — | درس 9 | file الأفنان_الندية_شرح_منظومة_السبل_السوية_الدرس_رقم_٣٩_تابع_باب_التهجد.m4a | greg 11.12.2023
+    - msg   3876 | hijri — | درس 40 | file الأفنان_الندية_باب_قيام_رمضان_الدرس_رقم_٤٠.m4a | greg 17.12.2023
+    - msg   3883 | hijri — | درس (?) | file AUD-20231218-WA0002.m4a | greg 19.12.2023
+    - msg   3909 | hijri — | درس 2 | file AUD-20231225-WA0005.m4a | greg 25.12.2023
+    - msg   3922 | hijri — | درس 3 | file _⁨الأفنان_الندية_كتاب_الصلاة_الدرس_رقم_43⁩.m4a | greg 27.12.2023
+    - msg   3937 | hijri — | درس 4 | file AUD-20240101-WA0001.m4a | greg 01.01.2024
+    - msg   3945 | hijri — | درس 5 | file AUD-20240102-WA0001.m4a | greg 02.01.2024
+    - msg   3990 | hijri — | درس 6 | file AUD-20240114-WA0015.m4a | greg 15.01.2024
+    - msg   4024 | hijri — | درس 7 | file AUD-20240115-WA0009.m4a | greg 22.01.2024
+    - msg   4026 | hijri — | درس 8 | file AUD-20240121-WA0007.m4a | greg 22.01.2024
+    - msg   4080 | hijri — | درس 9 | file AUD-20240123-WA0000.m4a | greg 29.01.2024
+    - msg   4082 | hijri — | درس 50 | file الأفنان الندية.m4a | greg 29.01.2024
+    - msg   4113 | hijri — | درس (?) | file AUD-20240204-WA0003.m4a | greg 05.02.2024
+    - msg   4121 | hijri — | درس 2 | file AUD-20240206-WA0001.m4a | greg 06.02.2024
+    - msg   4143 | hijri — | درس 3 | file AUD-20240212-WA0001.m4a | greg 12.02.2024
+    - msg   4150 | hijri — | درس 4 | file AUD-20240212-WA0006.m4a | greg 12.02.2024
+    - msg   4171 | hijri — | درس 5 | file AUD-20240220-WA0001.m4a | greg 20.02.2024
+    - msg   4198 | hijri — | درس 6 | file AUD-20240226-WA0001.m4a | greg 26.02.2024
+    - msg   4211 | hijri — | درس 7 | file AUD-20240227-WA0001.m4a | greg 28.02.2024
+    - msg   4229 | hijri — | درس 8 | file AUD-20240303-WA0006.m4a | greg 04.03.2024
+    - msg   4323 | hijri — | درس 9 | file AUD-20240424-WA0003.m4a | greg 24.04.2024
+    - msg   4325 | hijri — | درس 60 | file AUD-20240424-WA0002.m4a | greg 24.04.2024
+    - msg   4354 | hijri — | درس (?) | file AUD-20240430-WA0000.m4a | greg 30.04.2024
+    - msg   4372 | hijri — | درس 2 | file AUD-20240506-WA0004.m4a | greg 06.05.2024
+    - msg   4391 | hijri — | درس 3 | file AUD-20240512-WA0003.m4a | greg 13.05.2024
+    - msg   4395 | hijri — | درس 4 | file AUD-20240514-WA0000.m4a | greg 15.05.2024
+    - msg   4576 | hijri — | درس 5 | file AUD-20240819-WA0002.m4a | greg 20.08.2024
+    - msg   4578 | hijri — | درس 6 | file AUD-20240819-WA0003.m4a | greg 20.08.2024
+    - msg   4598 | hijri — | درس 7 | file AUD-20240826-WA0004.m4a | greg 26.08.2024
+    - msg   4610 | hijri — | درس 1 | file AUD-20240901-WA0000.m4a | greg 02.09.2024
+    - msg   4641 | hijri — | درس 2 | file AUD-20240912-WA0001.m4a | greg 12.09.2024
+    - msg   4643 | hijri — | درس 3 | file AUD-20240910-WA0000.m4a | greg 12.09.2024
+    - msg   4645 | hijri — | درس 4 | file AUD-20240910-WA0001.m4a | greg 12.09.2024
+    - msg   4659 | hijri — | درس 5 | file AUD-20240917-WA0001.m4a | greg 17.09.2024
+    - msg   4680 | hijri — | درس 6 | file AUD-20240924-WA0001.m4a | greg 24.09.2024
+    - msg   4698 | hijri — | درس 7 | file AUD-20241002-WA0000.m4a | greg 02.10.2024
+    - msg   4714 | hijri — | درس 8 | file AUD-20241011-WA0003.m4a | greg 11.10.2024
+    - msg   4729 | hijri — | درس 9 | file AUD-20241011-WA0010.m4a | greg 11.10.2024
+    - msg   4757 | hijri — | درس 10 | file AUD-20241015-WA0040.m4a | greg 15.10.2024
+    - msg   4764 | hijri — | درس 1 | file AUD-20241018-WA0001.m4a | greg 18.10.2024
+    - msg   4777 | hijri — | درس 2 | file AUD-20241020-WA0005.m4a | greg 21.10.2024
+    - msg   4781 | hijri — | درس 3 | file AUD-20241023-WA0002.m4a | greg 23.10.2024
+    - msg   4797 | hijri — | درس 4 | file AUD-20241030-WA0013.m4a | greg 30.10.2024
+    - msg   4823 | hijri — | درس 5 | file AUD-20241104-WA0005.m4a | greg 09.11.2024
+    - msg   4827 | hijri — | درس 6 | file AUD-20241105-WA0001.m4a | greg 09.11.2024
+    - msg   4859 | hijri — | درس 7 | file AUD-20241123-WA0006.m4a | greg 23.11.2024
+    - msg   4865 | hijri — | درس 8 | file AUD-20241123-WA0009.m4a | greg 23.11.2024
+    - msg   4881 | hijri — | درس 9 | file AUD-20241126-WA0015.m4a | greg 27.11.2024
+    - msg   4911 | hijri — | درس 10 | file AUD-20241201-WA0005.m4a | greg 02.12.2024
+    - msg   4923 | hijri — | درس 11 | file AUD-20241203-WA0001.m4a | greg 04.12.2024
+    - msg   4974 | hijri — | درس 12 | file AUD-20241210-WA0012.m4a | greg 16.12.2024
+    - msg   4976 | hijri — | درس 13 | file AUD-20241216-WA0006.m4a | greg 16.12.2024
+    - msg   4983 | hijri — | درس 14 | file AUD-20241217-WA0000.m4a | greg 23.12.2024
+    - msg   4995 | hijri — | درس 15 | file AUD-20241223-WA0024.m4a | greg 23.12.2024
+    - msg   5008 | hijri — | درس 16 | file AUD-20241225-WA0010.m4a | greg 25.12.2024
+    - msg   5028 | hijri — | درس 17 | file AUD-20241230-WA0000.m4a | greg 30.12.2024
+    - msg   5061 | hijri — | درس 18 | file AUD-20250108-WA0029.m4a | greg 08.01.2025
+    - msg   5087 | hijri — | درس 19 | file AUD-20250113-WA0002.m4a | greg 19.01.2025
+    - msg   5103 | hijri — | درس 1 | file AUD-20250126-WA0001.m4a | greg 26.01.2025
+    - msg   5122 | hijri — | درس 2 | file AUD-20250129-WA0003.m4a | greg 29.01.2025
+    - msg   5134 | hijri — | درس 3 | file AUD-20250202-WA0002.m4a | greg 03.02.2025
+    - msg   5158 | hijri — | درس 4 | file AUD-20250217-WA0028.m4a | greg 18.02.2025
+    - msg   5538 | hijri — | درس 5 | file AUD-20250707-WA0000.m4a | greg 07.07.2025
+    - msg   5543 | hijri — | درس 6 | file AUD-20250708-WA0002.m4a | greg 08.07.2025
+    - msg   5590 | hijri — | درس 7 | file AUD-20250715-WA0004.m4a | greg 15.07.2025
+    - msg   5705 | hijri — | درس 10 | file 4_5996911497937164265.mp3 | greg 08.10.2025 [عن بعد]
+    - msg   5718 | hijri — | درس 11 | file Mp3 Editor_251010204807.mp3 | greg 10.10.2025 [عن بعد]
+    - msg   5719 | hijri — | درس 12 | file Mp3 Editor_251010205658.mp3 | greg 10.10.2025 [عن بعد]
+    - msg   5730 | hijri — | درس 13 | file Mp3 Editor_251013232558.mp3 | greg 14.10.2025 [عن بعد]
+    - msg   6536 | hijri — | درس 8 | file AUD-20241011-WA0003.m4a | greg 19.03.2026
+
+Series: التفسير الميسر
+  DB: 15 lessons, date range: 1447/04/21 → 1447/08/19
+  New in HTML: 31 message(s)
+    - msg   4651 | hijri — | درس 1 | file AUD-20240907-WA0001.m4a | greg 13.09.2024
+    - msg   4673 | hijri — | درس 2 | file AUD-20240921-WA0002.m4a | greg 22.09.2024
+    - msg   4718 | hijri — | درس 3 | file AUD-20241011-WA0005.m4a | greg 11.10.2024
+    - msg   4737 | hijri — | درس 4 | file AUD-20241012-WA0030.m4a | greg 13.10.2024
+    - msg   4773 | hijri — | درس 5 | file AUD-20241020-WA0003.m4a | greg 21.10.2024
+    - msg   4795 | hijri — | درس 6 | file AUD-20241030-WA0012.m4a | greg 30.10.2024
+    - msg   4819 | hijri — | درس 7 | file AUD-20241104-WA0002.m4a | greg 09.11.2024
+    - msg   4848 | hijri — | درس 8 | file AUD-20241122-WA0002.m4a | greg 22.11.2024
+    - msg   4855 | hijri — | درس 9 | file AUD-20241123-WA0002.m4a | greg 23.11.2024
+    - msg   4945 | hijri — | درس 1 | file AUD-20241207-WA0002.m4a | greg 10.12.2024
+    - msg   4991 | hijri — | درس 2 | file AUD-20241223-WA0022.m4a | greg 23.12.2024
+    - msg   5026 | hijri — | درس 3 | file AUD-20241228-WA0001.m4a | greg 30.12.2024
+    - msg   5059 | hijri — | درس 4 | file AUD-20250108-WA0028.m4a | greg 08.01.2025
+    - msg   5113 | hijri — | درس 5 | file AUD-20250126-WA0006.m4a | greg 26.01.2025
+    - msg   5115 | hijri — | درس 6 | file AUD-20250126-WA0007.m4a | greg 26.01.2025
+    - msg   5130 | hijri — | درس 7 | file AUD-20250202-WA0000.m4a | greg 03.02.2025
+    - msg   5166 | hijri — | درس 8 | file AUD-20250218-WA0001.m4a | greg 18.02.2025
+    - msg   5190 | hijri — | درس 9 | file AUD-20250225-WA0001.m4a | greg 26.02.2025
+    - msg   5343 | hijri — | درس 10 | file AUD-20250421-WA0000.m4a | greg 21.04.2025
+    - msg   5361 | hijri — | درس 11 | file AUD-20250426-WA0002.m4a | greg 26.04.2025
+    - msg   5426 | hijri — | درس 12 | file AUD-20250524-WA0007.m4a | greg 26.05.2025
+    - msg   5474 | hijri — | درس 13 | file AUD-20250614-WA0004.m4a | greg 15.06.2025
+    - msg   5518 | hijri — | درس 14 | file AUD-20250630-WA0009.m4a | greg 30.06.2025
+    - msg   5534 | hijri — | درس 15 | file AUD-20250706-WA0001.m4a | greg 06.07.2025
+    - msg   5588 | hijri — | درس 16 | file AUD-20250712-WA0006.m4a | greg 15.07.2025
+    - msg   5627 | hijri — | درس 17 | file AUD-20250806-WA0001.m4a | greg 06.08.2025
+    - msg   5908 | hijri — | درس 9 | file Mp3 Editor_251129231102.mp3 | greg 30.11.2025 [جامع الورود]
+    - msg   5909 | hijri — | درس 11 | file AUD-20251130-WA0012.m4a | greg 30.11.2025 [جامع الورود]
+    - msg   5926 | hijri — | درس 10 | file Mp3 Editor_251202163202.mp3 | greg 02.12.2025 [جامع الورود]
+    - msg   5974 | hijri — | درس 12 | file AUD-20251209-WA0004.m4a | greg 09.12.2025 [جامع الورود]
+    - msg   6011 | hijri — | درس 13 | file AUD-20251215-WA0000.m4a | greg 15.12.2025 [جامع الورود]
+
+Series: الشرح الموجز الممهد لتوحيد الخالق الممجد الذي ألفه شيخ الإسلام محمد
+  DB: 3 lessons, date range: 1447/08/06 → 1447/08/19
+  New in HTML: 6 message(s)
+    - msg   6650 | hijri 1447/10/16 | درس 4 | file AUDIO-2026-04-04-21-54-53.m4a | greg 05.04.2026 [جامع الورود]
+    - msg   6752 | hijri 1447/10/23 | درس 5 | file AUDIO-2026-04-11-22-02-46.m4a | greg 12.04.2026 [جامع الورود]
+    - msg   6853 | hijri 1447/11/01 | درس 6 | file AUDIO-2026-04-18-20-48-22.m4a | greg 20.04.2026 [جامع الورود]
+    - msg   7074 | hijri 1447/11/15 | درس 7 | file موجز التوحيد.m4a | greg 04.05.2026 [جامع الورود]
+    - msg   7215 | hijri 1447/11/22 | درس 8 | file AUDIO-2026-05-10-23-30-14.m4a | greg 12.05.2026 [جامع الورود]
+    - msg   7345 | hijri 1447/11/29 | درس 9 | file الموجز الممهد٢٩.m4a | greg 18.05.2026 [جامع الورود]
+
+Series: الملخص الفقهي
+  DB: 35 lessons, date range: 1447/04/18 → 1447/08/21
+  New in HTML: 13 message(s)
+    - msg   6579 | hijri 1447/10/11 | درس 36 | file AUDIO-2026-03-30-21-01-25.m4a | greg 31.03.2026 [جامع الورود]
+    - msg   6595 | hijri 1447/10/13 | درس 37 | file AUDIO-2026-04-01-17-00-50.m4a | greg 02.04.2026 [جامع الورود]
+    - msg   6685 | hijri 1447/10/18 | درس 38 | file AUDIO-2026-04-06-19-19-46.m4a | greg 08.04.2026 [جامع الورود]
+    - msg   6705 | hijri 1447/10/20 | درس 39 | file AUDIO-2026-04-08-18-26-52.m4a | greg 09.04.2026 [جامع الورود]
+    - msg   6806 | hijri 1447/10/25 | درس (?) | file AUDIO-2026-04-13-17-36-14.m4a | greg 16.04.2026 [جامع الورود]
+    - msg   6811 | hijri 1447/10/27 | درس 1 | file AUDIO-2026-04-15-20-46-56.m4a | greg 16.04.2026 [جامع الورود]
+    - msg   6884 | hijri 1447/11/03 | درس 2 | file AUDIO-2026-04-22-18-34-52.m4a | greg 24.04.2026 [جامع الورود]
+    - msg   6883 | hijri 1447/11/05 | درس 3 | file AUDIO-2026-04-22-18-26-40.m4a | greg 24.04.2026 [جامع الورود]
+    - msg   6949 | hijri 1447/11/10 | درس 3 | file AUDIO-2026-04-27-19-08-14.m4a | greg 29.04.2026 [جامع الورود]
+    - msg   6979 | hijri 1447/11/12 | درس 4 | file Fiqh44.m4a | greg 30.04.2026 [جامع الورود]
+    - msg   7133 | hijri 1447/11/17 | درس 5 | file AUDIO-2026-05-04-19-31-46.m4a | greg 08.05.2026 [جامع الورود]
+    - msg   7138 | hijri 1447/11/19 | درس 6 | file AUDIO-2026-05-06-19-17-06 (1).m4a | greg 08.05.2026 [جامع الورود]
+    - msg   7429 | hijri 1447/12/01 | درس 8 | file AUDIO-2026-05-18-20-33-02.m4a | greg 21.05.2026 [جامع الورود]
+
+Series: الملخص شرح كتاب التوحيد
+  DB: 36 lessons, date range: 1447/04/17 → 1447/08/22
+  New in HTML: 48 message(s)
+    - msg   6576 | hijri 1447/10/10 | درس 7 | file AUDIO-2026-03-29-23-55-49.m4a | greg 31.03.2026 [جامع الورود]
+    - msg   6585 | hijri 1447/10/12 | درس 8 | file AUDIO-2026-03-31-21-51-26.m4a | greg 01.04.2026 [جامع الورود]
+    - msg   6666 | hijri 1447/10/17 | درس 9 | file AUDIO-2026-04-05-19-32-54.m4a | greg 06.04.2026 [جامع الورود]
+    - msg   6687 | hijri 1447/10/19 | درس (?) | file AUDIO-2026-04-07-19-40-30.m4a | greg 08.04.2026 [جامع الورود]
+    - msg   6804 | hijri 1447/10/24 | درس 1 | file AUDIO-2026-04-13-02-58-34.m4a | greg 16.04.2026 [جامع الورود]
+    - msg   6858 | hijri 1447/11/02 | درس 2 | file AUDIO-2026-04-20-09-41-03.m4a | greg 20.04.2026 [جامع الورود]
+    - msg   6880 | hijri 1447/11/04 | درس 3 | file AUDIO-2026-04-21-16-43-01.m4a | greg 24.04.2026 [جامع الورود]
+    - msg   6948 | hijri 1447/11/09 | درس 4 | file AUDIO-2026-04-27-15-52-42.m4a | greg 29.04.2026 [جامع الورود]
+    - msg   7078 | hijri 1447/11/12 | درس 5 | file AUDIO-2026-05-03-15-42-02.m4a | greg 04.05.2026 [جامع الورود]
+    - msg   7080 | hijri 1447/11/16 | درس (?) | file AUDIO-2026-05-03-17-35-31.m4a | greg 04.05.2026 [جامع الورود]
+    - msg   7227 | hijri 1447/11/17 | درس 7 | file AUDIO-2026-05-12-14-17-26.m4a | greg 12.05.2026 [جامع الورود]
+    - msg   7213 | hijri 1447/11/23 | درس 8 | file التوحيد٢٢.m4a | greg 12.05.2026 [جامع الورود]
+    - msg   7260 | hijri 1447/11/24 | درس 9 | file AUDIO-2026-05-12-17-05-28.m4a | greg 14.05.2026 [جامع الورود]
+    - msg   6075 | hijri 1447/25/06 | درس 7 | file AUDIO-2025-12-22-17-22-12.m4a | greg 22.12.2025 [جامع الورود]
+    - msg   4950 | hijri — | درس 1 | file AUD-20241211-WA0003.m4a | greg 11.12.2024
+    - msg   4978 | hijri — | درس 2 | file AUD-20241216-WA0007.m4a | greg 16.12.2024
+    - msg   4985 | hijri — | درس 3 | file AUD-20241218-WA0003.m4a | greg 23.12.2024
+    - msg   5000 | hijri — | درس 4 | file AUD-20241223-WA0026.m4a | greg 23.12.2024
+    - msg   5010 | hijri — | درس 5 | file AUD-20241225-WA0011.m4a | greg 25.12.2024
+    - msg   5047 | hijri — | درس 6 | file AUD-20250102-WA0000.m4a | greg 02.01.2025
+    - msg   5063 | hijri — | درس 7 | file AUD-20250108-WA0030.m4a | greg 08.01.2025
+    - msg   5089 | hijri — | درس 8 | file AUD-20250113-WA0001.m4a | greg 19.01.2025
+    - msg   5105 | hijri — | درس 9 | file AUD-20250126-WA0002.m4a | greg 26.01.2025
+    - msg   5109 | hijri — | درس 10 | file AUD-20250126-WA0004.m4a | greg 26.01.2025
+    - msg   5150 | hijri — | درس 11 | file AUD-20250210-WA0001.m4a | greg 11.02.2025
+    - msg   5156 | hijri — | درس 12 | file AUD-20250217-WA0027.m4a | greg 18.02.2025
+    - msg   5352 | hijri — | درس 13 | file AUD-20250424-WA0002.m4a | greg 26.04.2025
+    - msg   5364 | hijri — | درس 14 | file AUD-20250430-WA0004.m4a | greg 30.04.2025
+    - msg   5369 | hijri — | درس 15 | file AUD-20250501-WA0001.m4a | greg 02.05.2025
+    - msg   5376 | hijri — | درس 16 | file AUD-20250503-WA0011.m4a | greg 05.05.2025
+    - msg   5378 | hijri — | درس 17 | file AUD-20250505-WA0001.m4a | greg 05.05.2025
+    - msg   5402 | hijri — | درس 18 | file AUD-20250514-WA0002.m4a | greg 14.05.2025
+    - msg   5460 | hijri — | درس 19 | file AUD-20250526-WA0009.m4a | greg 08.06.2025
+    - msg   5462 | hijri — | درس 20 | file AUD-20250604-WA0003.m4a | greg 08.06.2025
+    - msg   5469 | hijri — | درس 1 | file AUD-20250612-WA0000.m4a | greg 12.06.2025
+    - msg   5488 | hijri — | درس 2 | file AUD-20250618-WA0004.m4a | greg 18.06.2025
+    - msg   5502 | hijri — | درس 3 | file AUD-20250624-WA0002.m4a | greg 25.06.2025
+    - msg   5514 | hijri — | درس 4 | file AUD-20250630-WA0010.m4a | greg 30.06.2025
+    - msg   5516 | hijri — | درس 5 | file AUD-20250630-WA0008.m4a | greg 30.06.2025
+    - msg   5545 | hijri — | درس 6 | file AUD-20250708-WA0003.m4a | greg 08.07.2025
+    - msg   5547 | hijri — | درس 7 | file AUD-20250708-WA0001.m4a | greg 08.07.2025
+    - msg   5592 | hijri — | درس 8 | file AUD-20250715-WA0005.m4a | greg 15.07.2025
+    - msg   5601 | hijri — | درس 9 | file AUD-20250718-WA0005.m4a | greg 18.07.2025
+    - msg   5625 | hijri — | درس 30 | file AUD-20250806-WA0000.m4a | greg 06.08.2025
+    - msg   5812 | hijri — | درس 13 | file Mp3 Editor_251026022439.mp3 | greg 26.10.2025 [جامع الورود]
+    - msg   5968 | hijri — | درس 2 | file AUD-20251208-WA0010.m4a | greg 09.12.2025 [جامع الورود]
+    - msg   5989 | hijri — | درس 5 | file AUD-20251212-WA0000.m4a | greg 12.12.2025 [جامع الورود]
+    - msg   6031 | hijri — | درس 6 | file AUD-20251217-WA0001.m4a | greg 18.12.2025 [جامع الورود]
+
+Series: المورد العذب الزلال
+  DB: 10 lessons, date range: 1447/06/08 → 1447/08/13
+  New in HTML: 12 message(s)
+    - msg   6754 | hijri 1447/08/19 | درس 11 | file AUDIO-2026-04-11-22-49-59.m4a | greg 12.04.2026 [جامع الورود]
+    - msg   6755 | hijri 1447/10/23 | درس 12 | file AUDIO-2026-04-11-22-57-54.m4a | greg 12.04.2026 [جامع الورود]
+    - msg   6855 | hijri 1447/11/01 | درس 13 | file AUDIO-2026-04-18-20-49-59.m4a | greg 20.04.2026 [جامع الورود]
+    - msg   7075 | hijri 1447/11/15 | درس 14 | file مورد العذب.m4a | greg 04.05.2026 [جامع الورود]
+    - msg   7218 | hijri 1447/11/22 | درس 15 | file المورد العذب٢.m4a | greg 12.05.2026 [جامع الورود]
+    - msg   7344 | hijri 1447/11/29 | درس 16 | file المورد.m4a | greg 18.05.2026 [جامع الورود]
+    - msg   3837 | hijri — | درس 14 | file المورد العذب الزلال الدرس 14.m4a | greg 28.11.2023
+    - msg   3838 | hijri — | درس 15 | file المورد العذب الزلال الدرس 15.m4a | greg 28.11.2023
+    - msg   3839 | hijri — | درس 16 | file المورد العذب الزلال الدرس 16.m4a | greg 28.11.2023
+    - msg   3864 | hijri — | درس 17 | file المورد_العذب_الزلال_الدرس_رقم_١٧.m4a | greg 06.12.2023
+    - msg   3887 | hijri — | درس 18 | file AUD-20231219-WA0000.m4a | greg 19.12.2023
+    - msg   3920 | hijri — | درس 19 | file AUD-20231227-WA0003.m4a | greg 27.12.2023
+
+Series: تأسيس الأحكام شرح عمدة الأحكام
+  DB: 17 lessons, date range: 1447/06/17 → 1447/08/21
+  New in HTML: 109 message(s)
+    - msg   6577 | hijri 1447/10/10 | درس 7 | file AUDIO-2026-03-29-23-52-32.m4a | greg 31.03.2026 [جامع الورود]
+    - msg   6580 | hijri 1447/10/11 | درس 8 | file AUDIO-2026-03-30-20-59-55.m4a | greg 31.03.2026 [جامع الورود]
+    - msg   6664 | hijri 1447/10/17 | درس 8 | file AUDIO-2026-04-05-19-27-40.m4a | greg 06.04.2026 [جامع الورود]
+    - msg   6684 | hijri 1447/10/18 | درس 9 | file AUDIO-2026-04-06-19-17-42.m4a | greg 08.04.2026 [جامع الورود]
+    - msg   6803 | hijri 1447/10/24 | درس 30 | file AUDIO-2026-04-13-02-55-07.m4a | greg 16.04.2026 [جامع الورود]
+    - msg   6805 | hijri 1447/10/25 | درس 1 | file AUDIO-2026-04-13-17-35-29.m4a | greg 16.04.2026 [جامع الورود]
+    - msg   6857 | hijri 1447/11/02 | درس 2 | file AUDIO-2026-04-20-09-39-58.m4a | greg 20.04.2026 [جامع الورود]
+    - msg   6878 | hijri 1447/11/03 | درس 3 | file AUDIO-2026-04-20-18-06-20.m4a | greg 24.04.2026 [جامع الورود]
+    - msg   6945 | hijri 1447/11/09 | درس 4 | file AUDIO-2026-04-26-18-20-52.m4a | greg 29.04.2026 [جامع الورود]
+    - msg   6951 | hijri 1447/11/10 | درس 5 | file combined_audio.m4a | greg 29.04.2026 [جامع الورود]
+    - msg   7079 | hijri 1447/11/16 | درس 6 | file AUDIO-2026-05-03-17-33-54.m4a | greg 04.05.2026 [جامع الورود]
+    - msg   7134 | hijri 1447/11/17 | درس 7 | file Tasees37.m4a | greg 08.05.2026 [جامع الورود]
+    - msg   7214 | hijri 1447/11/23 | درس 8 | file AUDIO-2026-05-10-23-26-47.m4a | greg 12.05.2026 [جامع الورود]
+    - msg   7224 | hijri 1447/11/24 | درس 9 | file AUDIO-2026-05-11-17-57-14.m4a | greg 12.05.2026 [جامع الورود]
+    - msg   7346 | hijri 1447/11/30 | درس 40 | file AUDIO-2026-05-17-20-18-16.m4a | greg 18.05.2026 [جامع الورود]
+    - msg   7428 | hijri 1447/12/01 | درس 41 | file AUDIO-2026-05-18-18-08-46.m4a | greg 21.05.2026 [جامع الورود]
+    - msg   1876 | hijri — | درس 37 | file التعليق_على_تأسيس_الأحكام_على_ما_صح_من_خير_الأنام_بشرح_zos88VZk4dU.m4a | greg 30.11.2021
+    - msg   2033 | hijri — | درس 2 | file AUD-20220219-WA0002.m4a | greg 19.02.2022
+    - msg   2037 | hijri — | درس 4 | file AUD-20220221-WA0001.m4a | greg 21.02.2022
+    - msg   2042 | hijri — | درس 9 | file AUD-20220224-WA0008.m4a | greg 24.02.2022
+    - msg   2046 | hijri — | درس 12 | file AUD-20220226-WA0005.m4a | greg 26.02.2022
+    - msg   2060 | hijri — | درس 20 | file AUD-20220310-WA0003.m4a | greg 10.03.2022
+    - msg   2062 | hijri — | درس (?) | file AUD-20220310-WA0004.m4a | greg 10.03.2022
+    - msg   2064 | hijri — | درس 2 | file AUD-20220310-WA0005.m4a | greg 10.03.2022
+    - msg   2067 | hijri — | درس 8 | file AUD-20220310-WA0006.m4a | greg 10.03.2022
+    - msg   2076 | hijri — | درس (?) | file AUD-20220312-WA0010.m4a | greg 13.03.2022
+    - msg   2274 | hijri — | درس 3 | file AUD-20220628-WA0002.m4a | greg 28.06.2022
+    - msg   2381 | hijri — | درس 4 | file AUD-20220907-WA0004.m4a | greg 08.09.2022
+    - msg   2406 | hijri — | درس 5 | file AUD-20220921-WA0002.m4a | greg 21.09.2022
+    - msg   2445 | hijri — | درس 6 | file AUD-20221012-WA0020.m4a | greg 12.10.2022
+    - msg   2452 | hijri — | درس 7 | file AUD-20221012-WA0022.m4a | greg 12.10.2022
+    - msg   2481 | hijri — | درس 8 | file AUD-20221019-WA0001.m4a | greg 19.10.2022
+    - msg   2515 | hijri — | درس 9 | file AUD-20221026-WA0016.m4a | greg 26.10.2022
+    - msg   2534 | hijri — | درس 60 | file AUD-20221102-WA0006.m4a | greg 03.11.2022
+    - msg   2571 | hijri — | درس (?) | file AUD-20221109-WA0017.m4a | greg 10.11.2022
+    - msg   2693 | hijri — | درس 2 | file AUD-20221214-WA0007 (1).m4a | greg 15.12.2022
+    - msg   2712 | hijri — | درس 3 | file AUD-20221221-WA0015.m4a | greg 22.12.2022
+    - msg   2752 | hijri — | درس 4 | file AUD-20221228-WA0006.m4a | greg 29.12.2022
+    - msg   2949 | hijri — | درس 5 | file AUD-20230202-WA0002.m4a | greg 02.02.2023
+    - msg   2973 | hijri — | درس 6 | file AUD-20230209-WA0007.m4a | greg 10.02.2023
+    - msg   2999 | hijri — | درس 7 | file AUD-20230215-WA0011.m4a | greg 17.02.2023
+    - msg   3027 | hijri — | درس 8 | file AUD-20230222-WA0009.m4a | greg 23.02.2023
+    - msg   3244 | hijri — | درس 9 | file AUD-20230504-WA0005.m4a | greg 04.05.2023
+    - msg   3260 | hijri — | درس 70 | file AUD-20230510-WA0008.m4a | greg 11.05.2023
+    - msg   3310 | hijri — | درس (?) | file AUD-20230520-WA0011.m4a | greg 21.05.2023
+    - msg   3326 | hijri — | درس 2 | file AUD-20230524-WA0018.m4a | greg 25.05.2023
+    - msg   3373 | hijri — | درس 3 | file AUD-20230608-WA0003.m4a | greg 08.06.2023
+    - msg   3583 | hijri — | درس 4 | file AUD-20230816-WA0012.m4a | greg 24.08.2023
+    - msg   3585 | hijri — | درس 5 | file AUD-20230823-WA0010.m4a | greg 24.08.2023
+    - msg   3616 | hijri — | درس 6 | file AUD-20230830-WA0002.m4a | greg 30.08.2023
+    - msg   3644 | hijri — | درس 7 | file AUD-20230907-WA0001.m4a | greg 07.09.2023
+    - msg   3671 | hijri — | درس 8 | file AUD-20230915-WA0002.m4a | greg 15.09.2023
+    - msg   3722 | hijri — | درس 9 | file AUD-20230929-WA0000.m4a | greg 29.09.2023
+    - msg   3774 | hijri — | درس 80 | file AUD-20231014-WA0004.m4a | greg 14.10.2023
+    - msg   3844 | hijri — | درس (?) | file تأسيس_الأحكام_الدرس_رقم_81_باب_الربا_والصرف.m4a | greg 01.12.2023
+    - msg   3845 | hijri — | درس 2 | file تأسيس_الأحكام_الدرس_رقم_82_باب_الرهن_وغيره.m4a | greg 01.12.2023
+    - msg   3865 | hijri — | درس 3 | file تأسيس_الاحكام_كتاب_الجنائز_الدرس_رقم_٨٣.m4a | greg 06.12.2023
+    - msg   3891 | hijri — | درس 4 | file AUD-20231221-WA0000.m4a | greg 21.12.2023
+    - msg   3925 | hijri — | درس 5 | file AUD-20231228-WA0000.m4a | greg 28.12.2023
+    - msg   3955 | hijri — | درس 6 | file AUD-20240103-WA0008.m4a | greg 04.01.2024
+    - msg   3999 | hijri — | درس 7 | file AUD-20240118-WA0001.m4a | greg 18.01.2024
+    - msg   4098 | hijri — | درس 8 | file تأسيس الأحكام.m4a | greg 01.02.2024
+    - msg   4159 | hijri — | درس 9 | file AUD-20240215-WA0005.mp3 | greg 15.02.2024
+    - msg   4184 | hijri — | درس 90 | file AUD-20240222-WA0004.m4a | greg 23.02.2024
+    - msg   4215 | hijri — | درس 1 | file AUD-20240228-WA0000-[AudioTrimmer.com].m4a | greg 29.02.2024
+    - msg   4370 | hijri — | درس 1 | file AUD-20240505-WA0006.m4a | greg 06.05.2024
+    - msg   4412 | hijri — | درس 2 | file AUD-20240520-WA0008.m4a | greg 20.05.2024
+    - msg   4418 | hijri — | درس 3 | file AUD-20240522-WA0000.m4a | greg 22.05.2024
+    - msg   4420 | hijri — | درس 4 | file AUD-20240522-WA0001.m4a | greg 22.05.2024
+    - msg   4442 | hijri — | درس 5 | file AUD-20240603-WA0001.m4a | greg 03.06.2024
+    - msg   4453 | hijri — | درس 6 | file AUD-20240603-WA0002.m4a | greg 10.06.2024
+    - msg   4455 | hijri — | درس 7 | file AUD-20240610-WA0001.m4a | greg 10.06.2024
+    - msg   4459 | hijri — | درس 8 | file AUD-20240611-WA0005.m4a | greg 12.06.2024
+    - msg   4465 | hijri — | درس 9 | file AUD-20240613-WA0000.m4a | greg 13.06.2024
+    - msg   4471 | hijri — | درس 10 | file AUD-20240614-WA0001.m4a | greg 14.06.2024
+    - msg   4484 | hijri — | درس 11 | file AUD-20240618-WA0023.m4a | greg 18.06.2024
+    - msg   4486 | hijri — | درس 12 | file AUD-20240618-WA0022.m4a | greg 18.06.2024
+    - msg   4488 | hijri — | درس 13 | file AUD-20240618-WA0021.m4a | greg 18.06.2024
+    - msg   4492 | hijri — | درس 14 | file AUD-20240620-WA0000.m4a | greg 20.06.2024
+    - msg   4606 | hijri — | درس (?) | file AUD-20240829-WA0002.m4a | greg 29.08.2024
+    - msg   4625 | hijri — | درس (?) | file AUD-20240904-WA0011.m4a | greg 05.09.2024
+    - msg   4667 | hijri — | درس (?) | file AUD-20240918-WA0002.m4a | greg 19.09.2024
+    - msg   4685 | hijri — | درس (?) | file AUD-20240926-WA0008.m4a | greg 26.09.2024
+    - msg   4766 | hijri — | درس (?) | file AUD-20241018-WA0002.m4a | greg 18.10.2024
+    - msg   4790 | hijri — | درس (?) | file AUD-20241030-WA0003.m4a | greg 30.10.2024
+    - msg   4806 | hijri — | درس (?) | file AUD-20241031-WA0022.m4a | greg 31.10.2024
+    - msg   4829 | hijri — | درس (?) | file AUD-20241109-WA0002.m4a | greg 09.11.2024
+    - msg   4867 | hijri — | درس (?) | file AUD-20241123-WA0010.m4a | greg 23.11.2024
+    - msg   4987 | hijri — | درس (?) | file AUD-20241218-WA0004.m4a | greg 23.12.2024
+    - msg   5014 | hijri — | درس (?) | file AUD-20241225-WA0012.m4a | greg 26.12.2024
+    - msg   5125 | hijri — | درس (?) | file AUD-20250201-WA0002.m4a | greg 01.02.2025
+    - msg   5141 | hijri — | درس (?) | file AUD-20250208-WA0005.m4a | greg 08.02.2025
+    - msg   5162 | hijri — | درس (?) | file AUD-20250217-WA0030.m4a | greg 18.02.2025
+    - msg   5603 | hijri — | درس (?) | file AUD-20250718-WA0006.m4a | greg 18.07.2025
+    - msg   5700 | hijri — | درس 2 | file 4_5992475423785622177 (1).mp3 | greg 07.10.2025
+    - msg   5707 | hijri — | درس 3 | file 4_5996911497937164392.mp3 | greg 09.10.2025
+    - msg   5720 | hijri — | درس 4 | file Mp3 Editor_251010210205.mp3 | greg 10.10.2025
+    - msg   5743 | hijri — | درس 5 | file Mp3 Editor_251015221637.mp3 | greg 16.10.2025
+    - msg   5753 | hijri — | درس 6 | file AUD-20251012-WA0033.m4a | greg 17.10.2025
+    - msg   5764 | hijri — | درس 7 | file AUD-20251015-WA0055.m4a | greg 17.10.2025
+    - msg   5797 | hijri — | درس 33 | file التعليق_على_كتاب_﴿تأسيس_الأحكام_على_ما_صح_من_خير_الأنام_بشرح_عمدة.mp3 | greg 23.10.2025
+    - msg   5798 | hijri — | درس 34 | file التعليق_على_كتاب_﴿تأسيس_الأحكام_على_ما_صح_من_خير_الأنام_بشرح_عمدة (1).mp3 | greg 23.10.2025
+    - msg   5799 | hijri — | درس 37 | file التعليق_على_تأسيس_الأحكام_على_ما_صح_من_خير_الأنام_بشرح_zos88VZk4dU.m4a | greg 23.10.2025
+    - msg   5800 | hijri — | درس 35 | file التعليق_على_كتاب_﴿تأسيس_الأحكام_على_ما_صح_من_خير_الأنام_بشرح_عمدة (2).mp3 | greg 23.10.2025
+    - msg   5801 | hijri — | درس 36 | file التعليق_على_كتاب_﴿تأسيس_الأحكام_على_ما_صح_من_خير_الأنام_بشرح_عمدة (3).mp3 | greg 23.10.2025
+    - msg   5802 | hijri — | درس 37 | file التعليق_على_كتاب_تأسيس_الأحكام_على_ما_صح_من_خير_الأنام_بشرح_عمدة.mp3 | greg 23.10.2025
+    - msg   5803 | hijri — | درس 38 | file التعليق_على_كتاب_تأسيس_الأحكام_على_ما_صح_من_خير_الأنام_بشرح_عمدة (1).mp3 | greg 23.10.2025
+    - msg   5804 | hijri — | درس 39 | file التعليق_على_كتاب_تأسيس_الأحكام_على_ما_صح_من_خير_الأنام_بشرح_عمدة (2).mp3 | greg 23.10.2025
+    - msg   5805 | hijri — | درس 40 | file التعليق_على_كتاب_تأسيس_الأحكام_على_ما_صح_من_خير_الأنام_بشرح_عمدة (3).mp3 | greg 23.10.2025
+
+Series: تأسيس الأحكام شرح عمدة الأحكام - عن بعد
+  DB: 15 lessons, date range: 1447/04/15 → 1447/08/23
+  New in HTML: 3 message(s)
+    - msg   7139 | hijri 1447/11/19 | درس 4 | file AUDIO-2026-05-06-21-54-39.m4a | greg 08.05.2026 [عن بعد]
+    - msg   7268 | hijri 1447/11/26 | درس 1 | file AUDIO-2026-05-14-10-23-34.m4a | greg 15.05.2026 [عن بعد]
+    - msg   6707 | hijri 1447/20/10 | درس 3 | file AUDIO-2026-04-08-21-53-49.m4a | greg 09.04.2026 [عن بعد]
+
+Series: تنبيه الانام على ما في كتاب سبل السلام من الفوائد والأحكام
+  DB: 6 lessons, date range: 1447/07/02 → 1447/08/26
+  New in HTML: 10 message(s)
+    - msg   6649 | hijri 1447/10/16 | درس 8 | file AUDIO-2026-04-04-08-30-42.m4a | greg 05.04.2026 [جامع الورود]
+    - msg   6750 | hijri 1447/10/23 | درس 9 | file AUDIO-2026-04-11-08-31-40.m4a | greg 12.04.2026 [جامع الورود]
+    - msg   6943 | hijri 1447/11/08 | درس 11 | file تنبيه_الانام_على_ما_في_كتاب_سبل_السلام٨١١_١٤٤٧.m4a | greg 29.04.2026 [جامع الورود]
+    - msg   7077 | hijri 1447/11/15 | درس 12 | file AUDIO-2026-05-03-15-22-36.m4a | greg 04.05.2026 [جامع الورود]
+    - msg   7222 | hijri 1447/11/22 | درس 13 | file AUDIO-2026-05-11-08-23-48.m4a | greg 12.05.2026 [جامع الورود]
+    - msg   7340 | hijri 1447/11/28 | درس 14 | file AUDIO-2026-05-15-21-57-08.m4a | greg 18.05.2026 [جامع الورود]
+    - msg   7341 | hijri 1447/11/29 | درس 15 | file تنبيه اانام.m4a | greg 18.05.2026 [جامع الورود]
+    - msg   1414 | hijri — | درس (?) | file AUD-20210223-WA0002.mp3 | greg 25.02.2021
+    - msg   1415 | hijri — | درس (?) | file AUD-20210225-WA0003.mp3 | greg 25.02.2021
+    - msg   1416 | hijri — | درس (?) | file AUD-20210226-WA0002.mp3 | greg 26.02.2021
+
+Series: تيسير العلي القدير لاختصار تفسير ابن كثير
+  DB: 5 lessons, date range: 1447/09/06 → 1447/09/15
+  New in HTML: 8 message(s)
+    - msg   6596 | hijri 1447/10/13 | درس 6 | file AUDIO-2026-04-01-22-41-55.m4a | greg 02.04.2026 [جامع الورود]
+    - msg   6706 | hijri 1447/10/20 | درس 7 | file AUDIO-2026-04-08-18-29-28.m4a | greg 09.04.2026 [جامع الورود]
+    - msg   6812 | hijri 1447/10/27 | درس 8 | file AUDIO-2026-04-15-21-12-31.m4a | greg 16.04.2026 [جامع الورود]
+    - msg   6882 | hijri 1447/11/05 | درس 9 | file AUDIO-2026-04-22-18-21-11.m4a | greg 24.04.2026 [جامع الورود]
+    - msg   6978 | hijri 1447/11/12 | درس 10 | file Tafseer10.m4a | greg 30.04.2026 [جامع الورود]
+    - msg   7140 | hijri 1447/11/19 | درس 11 | file Tafseer.m4a | greg 08.05.2026 [جامع الورود]
+    - msg   7261 | hijri 1447/11/26 | درس 12 | file AUDIO-2026-05-13-20-23-55.m4a | greg 14.05.2026 [جامع الورود]
+    - msg   7437 | hijri 1447/12/03 | درس 13 | file ابن كثير.m4a | greg 21.05.2026 [جامع الورود]
+
+Series: خطب الجمعة
+  DB: 5 lessons, date range: 1447/08/24 → 1447/09/17
+  New in HTML: 119 message(s)
+    - msg    209 | hijri — | درس (?) | file قصة_الإسراء_والمعراج_٢٧_٧_١٤٣٩.m4a | greg 18.10.2018
+    - msg    212 | hijri — | درس (?) | file أسباب_صلاح_الأولاد@_١٤_١١_١٤٣٩.m4a | greg 25.10.2018
+    - msg    214 | hijri — | درس (?) | file من أحكام النكاح 1.amr | greg 28.10.2018
+    - msg    259 | hijri — | درس (?) | file أضرار القات على الفرد والمجتمع.m4a | greg 25.01.2019
+    - msg    341 | hijri — | درس (?) | file وقفات مع شهر رمضان 1-[AudioTrimmer.com].m4a | greg 17.05.2019
+    - msg    343 | hijri — | درس (?) | file وقفات مع شهر رمضان 2-[AudioTrimmer.com].m4a | greg 17.05.2019
+    - msg    345 | hijri — | درس (?) | file وقفات مع شهر رمضان 3-[AudioTrimmer.com].m4a | greg 17.05.2019
+    - msg    349 | hijri — | درس (?) | file وقفات مع شهر رمضان 4-[AudioTrimmer.com].m4a | greg 24.05.2019
+    - msg    352 | hijri — | درس (?) | file وقفات مع شهر رمضان 5-[AudioTrimmer.com].m4a | greg 01.06.2019
+    - msg    388 | hijri — | درس (?) | file الموت_ووجوب_الاستعداد_له_AudioTrimmer.m4a | greg 28.06.2019
+    - msg    398 | hijri — | درس (?) | file منكرات الزواج-[AudioTrimmer.com].m4a | greg 12.07.2019
+    - msg    421 | hijri — | درس (?) | file نهاية عام وبداية عام دراسي جديد.m4a | greg 30.08.2019
+    - msg    433 | hijri — | درس (?) | file الهجرة النبوية.m4a | greg 14.09.2019
+    - msg    441 | hijri — | درس (?) | file نعمة الأمن وبيان أسبابه.m4a | greg 21.09.2019
+    - msg    451 | hijri — | درس (?) | file أهمية العقيدة الإسلامية وفضلها.m4a | greg 28.09.2019
+    - msg    455 | hijri — | درس (?) | file من حقوق الخدم والعمال.m4a | greg 04.10.2019
+    - msg    465 | hijri — | درس (?) | file النفخ في الصور.m4a | greg 10.10.2019
+    - msg    495 | hijri — | درس (?) | file من أحكام النكاح ١.MP3 | greg 12.11.2019
+    - msg    496 | hijri — | درس (?) | file من أحكام النكاح ٢.MP3 | greg 12.11.2019
+    - msg    497 | hijri — | درس (?) | file من أحكام النكاح ٣.MP3 | greg 12.11.2019
+    - msg    498 | hijri — | درس (?) | file من أحكام النكاح ٤.MP3 | greg 12.11.2019
+    - msg    513 | hijri — | درس (?) | file بعض_المظاهر_السيئة_عند_العمال_والموظفين.m4a | greg 23.11.2019
+    - msg    523 | hijri — | درس (?) | file آيات_من_سورة_الأعراف_وتفسيرها_٢.m4a | greg 29.11.2019
+    - msg    550 | hijri — | درس (?) | file الإيمان بالملائكة ١٦-٤-١٤٤١.m4a | greg 21.12.2019
+    - msg    551 | hijri — | درس (?) | file فصل الشتاء ٢٣-٤-١٤٤١.m4a | greg 21.12.2019
+    - msg    580 | hijri — | درس (?) | file قصة_ابراهيم_عليه_السلام_١_٨_٥_١٤٤١.m4a | greg 03.01.2020
+    - msg    607 | hijri — | درس (?) | file الكتب الالهية ١.m4a | greg 25.01.2020
+    - msg    621 | hijri — | درس (?) | file الايمان_بالرسل_عليهم_الصلاة_والسلام.m4a | greg 31.01.2020
+    - msg    630 | hijri — | درس (?) | file الجوالات الحديثة.m4a | greg 08.02.2020
+    - msg    643 | hijri — | درس (?) | file آيات في وصف الجنة ٢٠ - ٦ - ١٤٤١.m4a | greg 15.02.2020
+    - msg    657 | hijri — | درس (?) | file طلوع الشمس من مغربها ١٧ - ٦ - ١٤٤١.m4a | greg 21.02.2020
+    - msg    672 | hijri — | درس (?) | file مرض (فيروس كورونا).m4a | greg 28.02.2020
+    - msg    683 | hijri — | درس (?) | file تفسير_سورة_الفاتحة_وشيءمن_فوائدها.mp3 | greg 06.03.2020
+    - msg    707 | hijri — | درس (?) | file الأذكار النبوية ١٨ رجب ١٤٤١.m4a | greg 13.03.2020
+    - msg    784 | hijri — | درس (?) | file صوم شعبان.m4a | greg 28.03.2020
+    - msg    945 | hijri — | درس (?) | file udr60zI4xE8.m4a | greg 12.05.2020
+    - msg    977 | hijri — | درس (?) | file ماذا بعد رمضان ؟ شوال ١٤٣٧.m4a | greg 30.05.2020
+    - msg    983 | hijri — | درس (?) | file الأخذ_بالاحترازات_الوقائية_١٣_شوال_١٤٤١.m4a | greg 06.06.2020
+    - msg    990 | hijri — | درس (?) | file الدروس_المستفادة_من_جائحة_كورونا_٢٠_شوال_١٤٤١.m4a | greg 12.06.2020
+    - msg   1005 | hijri — | درس (?) | file الدعاء_ثمراته_وآدابه_٢٧_شوال_١٤٤١.m4a | greg 19.06.2020
+    - msg   1022 | hijri — | درس (?) | file الحج_على_المستطيع_في_ظل_جائحة_كورونا.m4a | greg 27.06.2020
+    - msg   1038 | hijri — | درس (?) | file الصلاة_في_المساجد_في_ظل_وباء_كورونا.m4a | greg 04.07.2020
+    - msg   1059 | hijri — | درس (?) | file الأشهر الحرم في ظل جائحة كورونا.m4a | greg 10.07.2020
+    - msg   1067 | hijri — | درس (?) | file أيام العشر من ذي الحجة ١٤٤٠.m4a | greg 17.07.2020
+    - msg   1088 | hijri — | درس (?) | file من أحكام الأضحية ٣-١٢-١٤٤١.m4a | greg 25.07.2020
+    - msg   1114 | hijri — | درس (?) | file نجاح حج عام ١٤٤١.m4a | greg 01.08.2020
+    - msg   1129 | hijri — | درس (?) | file في ظلال حديث نبوي شريف ( ١ ).m4a | greg 14.08.2020
+    - msg   1142 | hijri — | درس (?) | file في ظلال حديث نبوي شريف ( ٢ ).m4a | greg 21.08.2020
+    - msg   1163 | hijri — | درس (?) | file التعليم_ودعم_الحكومة_السعودية_له_٩_١_١٤٤٢.m4a | greg 28.08.2020
+    - msg   1177 | hijri — | درس (?) | file في_ظلال_حديث_نبوي_شريف_٣_١٦_١_١٤٤٢.m4a | greg 04.09.2020
+    - msg   1189 | hijri — | درس (?) | file في_ظلال_آية_قرآنية_كريمة_١_٢٣_١_١٤٤٢.m4a | greg 12.09.2020
+    - msg   1199 | hijri — | درس (?) | file المملكة_العربية_السعودية_١_٢_١٤٤٢.m4a | greg 18.09.2020
+    - msg   1208 | hijri — | درس (?) | file في_ظلال_آية_قرآنية_كريمة_٢_٨_٢_١٤٤٢.m4a | greg 25.09.2020
+    - msg   1228 | hijri — | درس (?) | file الإيمان_باليوم_الآخر_٥_والأخذ_بالاحترازات.m4a | greg 09.10.2020
+    - msg   1230 | hijri — | درس (?) | file الإيمان_بالقضاء_والقدر_٦_٢٢_٢_١٤٤٢.m4a | greg 09.10.2020
+    - msg   1234 | hijri — | درس (?) | file الايمان بالله ٤ - ٣ - ١٤٤١.m4a | greg 14.10.2020
+    - msg   1240 | hijri — | درس (?) | file الدُّخَان ٢٩ - ٢ - ١٤٤٢.m4a | greg 16.10.2020
+    - msg   1258 | hijri — | درس (?) | file الاحتفال_بالمولد_النبوي_١٠_٣_١٤٤٣٨.m4a | greg 20.10.2020
+    - msg   1260 | hijri — | درس (?) | file خصائص_النبي_صلى_الله_عليه_وسلم_والاخذ_بالاحترا.m4a | greg 23.10.2020
+    - msg   1269 | hijri — | درس (?) | file سلسلة_الحقوق_الشرعية_٢_حق_رسول_الله_ﷺ_.mp3 | greg 30.10.2020
+    - msg   1277 | hijri — | درس (?) | file من_خصائص_النبي_صلى_الله_عليه_وسلم_٢.m4a | greg 06.11.2020
+    - msg   1291 | hijri — | درس (?) | file الحذر من الجماعات المفرقة.m4a | greg 13.11.2020
+    - msg   1300 | hijri — | درس (?) | file البعث والنشور ٥ - ٤ - ١٤٤٢.m4a | greg 20.11.2020
+    - msg   1307 | hijri — | درس (?) | file رزق الله تعالى لعباده ١٢ - ٤ - ١٤٤٢.m4a | greg 27.11.2020
+    - msg   1310 | hijri — | درس (?) | file تفسير_سورة_الفاتحة_وشيءمن_فوائدها.mp3 | greg 01.12.2020
+    - msg   1325 | hijri — | درس (?) | file قصة لوط عليه السلام.m4a | greg 06.12.2020
+    - msg   1335 | hijri — | درس (?) | file العمل والعمال ٢٢ - ١١ - ٢٠١٩.m4a | greg 11.12.2020
+    - msg   1342 | hijri — | درس (?) | file طلحة_بن_عبيدالله_رضي_الله_عنه_٣_٥_١٤٤٢.m4a | greg 18.12.2020
+    - msg   1344 | hijri — | درس (?) | file قصة_آدم_عليه_السلام_١_٨_٤_١٤٣٨.m4a | greg 19.12.2020
+    - msg   1345 | hijri — | درس (?) | file قصة_آدم_عليه_السلام_٢_١٥_٤_١٤٣٨.m4a | greg 19.12.2020
+    - msg   1347 | hijri — | درس (?) | file قصة ابني آدم ٢٠ - ٦ - ١٤٣٨.m4a | greg 20.12.2020
+    - msg   1349 | hijri — | درس (?) | file خطر_المخدرات_ومنها_القات_١٠_٥_١٤٤٢.m4a | greg 25.12.2020
+    - msg   1357 | hijri — | درس (?) | file الأخذ_بلقاحات_كورونا_الآمنة_١٧_٥_١٤٤٢.m4a | greg 01.01.2021
+    - msg   1363 | hijri — | درس (?) | file في ظلال حديث شريف ( ٤ ) ٢٤ - ٥ - ١٤٤٢.m4a | greg 09.01.2021
+    - msg   1368 | hijri — | درس (?) | file الحشر يوم القيامة ٢ - ٦ - ١٤٤٢.m4a | greg 15.01.2021
+    - msg   1374 | hijri — | درس (?) | file من أهوال يوم القيامة ٨ - ٦ - ١٤٤٢.m4a | greg 22.01.2021
+    - msg   1383 | hijri — | درس (?) | file الزبير بن العوام ١٥ - ٦ - ١٤٤٢.m4a | greg 29.01.2021
+    - msg   1388 | hijri — | درس (?) | file في ظلال حديث شريف ( ٥ ) ٢٣ - ٦ - ١٤٤٢.m4a | greg 05.02.2021
+    - msg   1401 | hijri — | درس (?) | file قصة أيوب عليه السلام ٣٠ - ٦ - ١٤٤٢.m4a | greg 12.02.2021
+    - msg   1410 | hijri — | درس (?) | file أخطاء_في_الطهارة_والصلاة_١_٧_٧_١٤٤٢.m4a | greg 19.02.2021
+    - msg   1418 | hijri — | درس (?) | file أخطاء_في_الطهارة_والصلاة_٢_١٤_٧_١٤٤٢.m4a | greg 26.02.2021
+    - msg   1426 | hijri — | درس (?) | file دفاعي عن بلادي السعودية.m4a | greg 05.03.2021
+    - msg   1428 | hijri — | درس (?) | file من_نواقص_الإسلام_الشرك_الأكبر_٢١_٧_١٤٤٢.m4a | greg 05.03.2021
+    - msg   1445 | hijri — | درس (?) | file من_نواقض_الإسلام_من_جعل_بينه_وبين_الله_وسائط.m4a | greg 12.03.2021
+    - msg   1457 | hijri — | درس (?) | file الاستعداد لرمضان (١) ١٣ - ٨ - ١٤٤٢.m4a | greg 26.03.2021
+    - msg   1468 | hijri — | درس (?) | file الاستعداد لرمضان (٢) ٢٠ - ٨ - ١٤٤٢.m4a | greg 03.04.2021
+    - msg   1474 | hijri — | درس (?) | file استقبال شهر رمضان ٢٣ - ٨ - ١٤٣٨.m4a | greg 05.04.2021
+    - msg   1489 | hijri — | درس (?) | file الاستعداد لرمضان (٣) ٢٧ - ٨ - ١٤٤٢.m4a | greg 09.04.2021
+    - msg   1503 | hijri — | درس (?) | file الجود في رمضان ٤ - ٩ - ١٤٤٢.m4a | greg 16.04.2021
+    - msg   1510 | hijri — | درس (?) | file القرآن في رمضان ١١ - ٩ - ١٤٤٢.m4a | greg 23.04.2021
+    - msg   1517 | hijri — | درس (?) | file الصلاة في رمضان ١٨ - ٩ - ١٤٤٢.m4a | greg 30.04.2021
+    - msg   1529 | hijri — | درس (?) | file نهاية رمضان ٢٥ - ٩ - ١٤٤٢.m4a | greg 07.05.2021
+    - msg   1534 | hijri — | درس (?) | file في_ظلال_آية_قرآنية_كريمة_٥_٢_١٠_١٤٤٢.m4a | greg 15.05.2021
+    - msg   1561 | hijri — | درس (?) | file في_ظلال_سورة_عظيمة_٥_١٦_١٠_١٤٤٢.m4a | greg 28.05.2021
+    - msg   1572 | hijri — | درس (?) | file خطبة جمعة - الدخان ٢٣ - ١٠ - ١٤٤٢.m4a | greg 04.06.2021
+    - msg   1589 | hijri — | درس (?) | file من أسباب صلاح الأولاد ١ - ١١ - ١٤٤٢.m4a | greg 11.06.2021
+    - msg   1594 | hijri — | درس (?) | file دنو_الشمس_من_الرؤوس_يوم_القيامة_٨_١١_١٤٤٢.m4a | greg 18.06.2021
+    - msg   1610 | hijri — | درس (?) | file الخسوفات الثلاث ١١ - ٣ - ١٤٤١.m4a | greg 23.06.2021
+    - msg   1613 | hijri — | درس (?) | file نزول عيسى عليه السلام.m4a | greg 23.06.2021
+    - msg   1615 | hijri — | درس (?) | file يأجوج ومأجوج.m4a | greg 24.06.2021
+    - msg   1623 | hijri — | درس (?) | file نار_تخرج_من_عدن_تسوق_الناس_١٥_١١_١٤٤٢.m4a | greg 25.06.2021
+    - msg   1629 | hijri — | درس (?) | file الحقوق الشرعية 1- حق الله تعالى.mp3 | greg 26.06.2021
+    - msg   1636 | hijri — | درس (?) | file AUD-20210629-WA0005.mp3 | greg 29.06.2021
+    - msg   1650 | hijri — | درس (?) | file الشفاعة الكبرى 22 - 11 - 1442.mp3 | greg 02.07.2021
+    - msg   1665 | hijri — | درس (?) | file الأعمال_الصالحة_في_أيام_العشر_٢٩_١١_١٤٤٢.m4a | greg 09.07.2021
+    - msg   1678 | hijri — | درس (?) | file وصايا لمن عزم الحج ٦ - ١٢ - ١٤٤٢.m4a | greg 16.07.2021
+    - msg   1685 | hijri — | درس (?) | file في_ظلال_آية_قرآنية_كريمة_٥_١٣_١٢_١٤٤٢.m4a | greg 23.07.2021
+    - msg   1690 | hijri — | درس (?) | file عبد_الرحمن_بن_عوف_رضي_الله_عنه_٢٠_١٢_١٤٤٢.m4a | greg 30.07.2021
+    - msg   1693 | hijri — | درس (?) | file نهاية_العام_والأخذ_بالاحترازات_٢٧_١٢_١٤٤٢.m4a | greg 06.08.2021
+    - msg   1695 | hijri — | درس (?) | file وقفات_مع_شهر_الله_المحرم_٥_١_١٤٤٣.m4a | greg 13.08.2021
+    - msg   1702 | hijri — | درس (?) | file المعلمون_وبعض_الآداب_الواجبة_عليهم_١١_١_١٤٤٣.m4a | greg 20.08.2021
+    - msg   1712 | hijri — | درس (?) | file بعض_الواجبات_المهمة_على_طلاب_العلم_١٨_١_١٤٤٣.m4a | greg 27.08.2021
+    - msg   1727 | hijri — | درس (?) | file التمائم الشركية ٢٥ - ١ - ١٤٤٣.m4a | greg 03.09.2021
+    - msg   1740 | hijri — | درس (?) | file قصة يوسف عليه السلام (١).m4a | greg 17.09.2021
+    - msg   1742 | hijri — | درس (?) | file قالوا عن السعودية.m4a | greg 17.09.2021
+    - msg   2333 | hijri — | درس (?) | file الوقت والإجازة الصيفية - جاهزة.m4a | greg 13.08.2022
+    - msg   2337 | hijri — | درس (?) | file الآداب الشرعية للمسافر.m4a | greg 16.08.2022
+    - msg   2875 | hijri — | درس (?) | file أهمية_العقيدة_الإسلامية_xVbygkjOahQ_139.m4a | greg 17.01.2023
+    - msg   5689 | hijri — | درس (?) | file مفاسد المظاهرات (1).m4a | greg 03.10.2025
+
+Series: خطبة الجمعة - مختصر السيرة النبوية
+  DB: 9 lessons, date range: 1447/04/20 → 1447/07/27
+  New in HTML: 11 message(s)
+    - msg   6203 | hijri 1447/07/28 | درس 3 | file AUDIO-2026-01-17-14-54-56.m4a | greg 17.01.2026 [جامع الورود]
+    - msg   6256 | hijri 1447/08/05 | درس 4 | file AUDIO-2026-01-24-12-46-00.m4a | greg 25.01.2026 [جامع الورود]
+    - msg   6326 | hijri 1447/08/12 | درس 5 | file AUDIO-2026-01-31-09-20-02.m4a | greg 01.02.2026 [جامع الورود]
+    - msg   6437 | hijri 1447/08/26 | درس 6 | file AUDIO-2026-02-14-11-04-13.m4a | greg 15.02.2026 [جامع الورود]
+    - msg   6648 | hijri 1447/10/16 | درس 7 | file AUDIO-2026-04-04-08-26-22.m4a | greg 05.04.2026 [جامع الورود]
+    - msg   6751 | hijri 1447/10/23 | درس 8 | file AUDIO-2026-04-11-08-34-04.m4a | greg 12.04.2026 [جامع الورود]
+    - msg   6852 | hijri 1447/11/01 | درس 9 | file AUDIO-2026-04-18-12-20-30.m4a | greg 20.04.2026 [جامع الورود]
+    - msg   6942 | hijri 1447/11/08 | درس 10 | file درس_السيره_النبويه_٨_ذو_القعده١٤٤٧.m4a | greg 29.04.2026 [جامع الورود]
+    - msg   7073 | hijri 1447/11/15 | درس 10 | file MukhtasarSeerah.m4a | greg 04.05.2026 [جامع الورود]
+    - msg   7220 | hijri 1447/11/22 | درس 1 | file AUDIO-2026-05-11-08-21-22.m4a | greg 12.05.2026 [جامع الورود]
+    - msg   7343 | hijri 1447/11/29 | درس 2 | file السيره٢٩.m4a | greg 18.05.2026 [جامع الورود]
+
+Series: دروس رمضان - وزارة الشؤون الإسلامية
+  DB: 22 lessons, date range: 1447/08/29 → 1447/09/22
+  New in HTML: 17 message(s)
+    - msg   6514 | hijri 1447/09/23 | درس 3 | file AUDIO-2026-03-12-19-01-09.m4a | greg 12.03.2026 [جامع الورود]
+    - msg   6516 | hijri 1447/09/24 | درس 4 | file AUDIO-2026-03-13-17-29-05.m4a | greg 13.03.2026 [جامع الورود]
+    - msg   6517 | hijri 1447/09/25 | درس 5 | file AUDIO-2026-03-14-19-39-15.m4a | greg 14.03.2026 [جامع الورود]
+    - msg   6521 | hijri 1447/09/26 | درس 6 | file AUDIO-2026-03-15-22-34-45.m4a | greg 16.03.2026 [جامع الورود]
+    - msg   6522 | hijri 1447/09/27 | درس 7 | file AUDIO-2026-03-16-17-30-59.m4a | greg 16.03.2026 [جامع الورود]
+    - msg   6524 | hijri 1447/09/28 | درس 8 | file AUDIO-2026-03-17-16-50-53.m4a | greg 17.03.2026 [جامع الورود]
+    - msg   6540 | hijri 1447/09/29 | درس 9 | file AUDIO-2026-03-19-15-33-38.m4a | greg 19.03.2026 [جامع الورود]
+    - msg   6541 | hijri 1447/09/30 | درس 30 | file AUDIO-2026-03-19-20-17-08.m4a | greg 19.03.2026 [جامع الورود]
+    - msg   7436 | hijri 1447/12/03 | درس 2 | file AUDIO-2026-05-20-17-46-26.m4a | greg 21.05.2026 [جامع الورود]
+    - msg   7459 | hijri 1447/12/04 | درس 3 | file AUDIO-2026-05-23-14-49-23.m4a | greg 24.05.2026 [جامع الورود]
+    - msg   7460 | hijri 1447/12/05 | درس 4 | file AUDIO-2026-05-24-05-13-50.m4a | greg 24.05.2026 [جامع الورود]
+    - msg   7461 | hijri 1447/12/06 | درس 5 | file AUDIO-2026-05-24-05-28-20.m4a | greg 24.05.2026 [جامع الورود]
+    - msg   7462 | hijri 1447/12/07 | درس 6 | file AUDIO-2026-05-24-05-40-05.m4a | greg 24.05.2026 [جامع الورود]
+    - msg   7463 | hijri 1447/12/08 | درس 7 | file AUDIO-2026-05-24-10-41-48.m4a | greg 24.05.2026 [جامع الورود]
+    - msg   7473 | hijri 1447/12/08 | درس 8 | file AUDIO-2026-05-24-10-53-13.m4a | greg 26.05.2026 [جامع الورود]
+    - msg   7474 | hijri 1447/12/08 | درس 9 | file AUDIO-2026-05-24-16-10-09.m4a | greg 26.05.2026 [جامع الورود]
+    - msg   7475 | hijri 1447/12/08 | درس 10 | file AUDIO-2026-05-24-16-17-27.m4a | greg 26.05.2026 [جامع الورود]
+
+Series: شرح كتاب الفقه الميسر - أرشيف رمضان
+  DB: 6 lessons, date range: - → -
+  New in HTML: 1 message(s)
+    - msg   3878 | hijri — | درس 1 | file شرح الفقه الميسر 01.mp3 | greg 18.12.2023
+
+Series: صحيح البخاري
+  DB: 4 lessons, date range: 1447/07/13 → 1447/08/25
+  New in HTML: 5 message(s)
+    - msg   6646 | hijri 1447/10/15 | درس 5 | file AUDIO-2026-04-03-19-40-32.m4a | greg 05.04.2026 [جامع الورود]
+    - msg   6748 | hijri 1447/10/22 | درس 6 | file AUDIO-2026-04-10-17-58-14.m4a | greg 12.04.2026 [جامع الورود]
+    - msg   6941 | hijri 1447/11/07 | درس 7 | file AUDIO-2026-04-25-09-52-02.m4a | greg 29.04.2026 [جامع الورود]
+    - msg   7071 | hijri 1447/11/14 | درس 8 | file AUDIO-2026-05-01-20-04-02.m4a | greg 04.05.2026 [جامع الورود]
+    - msg   7339 | hijri 1447/11/28 | درس 9 | file AUDIO-2026-05-15-21-54-33.m4a | greg 18.05.2026 [جامع الورود]
+
+Series: كتاب آداب المشي إلى الصلاة- كتاب_الصيام - أرشيف رمضان
+  DB: 6 lessons, date range: - → -
+  New in HTML: 3 message(s)
+    - msg    877 | hijri — | درس (?) | file كتاب__#الصيام_من_آداب_المشي_إلى_الصلاة.mp3 | greg 17.04.2020
+    - msg    900 | hijri — | درس (?) | file كتاب_الصيام_آداب_المشي_إلى_الصلاة_03.mp3 | greg 26.04.2020
+    - msg    908 | hijri — | درس (?) | file كتاب_الصيام_آداب_المشي_إلى_الصلاة_04.mp3 | greg 01.05.2020
+
+Series: معارج القبول شرح منظومة سلم الوصول - عن بعد
+  DB: 15 lessons, date range: 1447/04/17 → 1447/08/15
+  New in HTML: 14 message(s)
+    - msg   6586 | hijri 1447/10/12 | درس (?) | file AUDIO-2026-03-31-23-28-35.m4a | greg 01.04.2026 [عن بعد]
+    - msg   6688 | hijri 1447/10/19 | درس (?) | file AUDIO-2026-04-07-21-37-07.m4a | greg 08.04.2026 [عن بعد]
+    - msg   6810 | hijri 1447/10/26 | درس 2 | file AUDIO-2026-04-14-21-47-53.m4a | greg 16.04.2026 [عن بعد]
+    - msg   6881 | hijri 1447/11/04 | درس 3 | file AUDIO-2026-04-21-21-54-36.m4a | greg 24.04.2026 [عن بعد]
+    - msg   6935 | hijri 1447/11/11 | درس 5 | file AUDIO-2026-04-28-19-51-14.m4a | greg 29.04.2026 [عن بعد]
+    - msg   7136 | hijri 1447/11/18 | درس 6 | file AUDIO-2026-05-05-22-05-19.m4a | greg 08.05.2026 [عن بعد]
+    - msg   7434 | hijri 1447/12/02 | درس 7 | file AUDIO-2026-05-20-09-08-42.m4a | greg 21.05.2026 [عن بعد]
+    - msg   7435 | hijri 1447/12/02 | درس 8 | file AUDIO-2026-05-20-09-09-34.m4a | greg 21.05.2026 [عن بعد]
+    - msg   5739 | hijri — | درس 6 | file Mp3 Editor_251015104815.mp3 | greg 15.10.2025 [عن بعد]
+    - msg   5761 | hijri — | درس 7 | file Mp3 Editor_251017165500.mp3 | greg 17.10.2025 [عن بعد]
+    - msg   6932 | hijri — | درس 4 | file AUDIO-2026-04-28-20-23-11.m4a | greg 28.04.2026 [عن بعد]
+    - msg   6966 | hijri — | درس 4 | file AUDIO-2026-04-30-04-27-19.m4a | greg 30.04.2026 [عن بعد]
+    - msg   6968 | hijri — | درس 11 | file AUDIO-2026-04-30-04-53-45.m4a | greg 30.04.2026 [عن بعد]
+    - msg   6969 | hijri — | درس 12 | file AUDIO-2026-04-30-04-46-05.m4a | greg 30.04.2026 [عن بعد]
+
+================================================================================
+=== NEW SERIES (found in HTML but not matched to any DB series) ===
+================================================================================
+
+Series: فتاوى أركان الإسلام
+  Source: messages2.html, messages3.html, messages4.html
+  Count: 151
+  Date range: 1445/01/28 → 1445/02/25
+  Lessons:
+    - msg   3544 | hijri 1445/01/28 | درس 1 | file AUD-20230815-WA0007.m4a | greg 15.08.2023
+    - msg   3555 | hijri 1445/02/01 | درس 2 | file Ringtone_AUD-20230817-WA0003.mp3 | greg 17.08.2023
+    - msg   3566 | hijri 1445/02/04 | درس 3 | file AUD-20230820-WA0008.m4a | greg 20.08.2023
+    - msg   3574 | hijri 1445/02/06 | درس 4 | file AUD-20230822-WA0002.m4a | greg 23.08.2023
+    - msg   3587 | hijri 1445/02/08 | درس 5 | file AUD-20230824-WA0005.m4a | greg 25.08.2023
+    - msg   3613 | hijri 1445/02/13 | درس 6 | file AUD-20230829-WA0003.m4a | greg 30.08.2023
+    - msg   3619 | hijri 1445/02/15 | درس 7 | file AUD-20230831-WA0007.m4a | greg 31.08.2023
+    - msg   3637 | hijri 1445/02/20 | درس 8 | file AUD-20230905-WA0005.m4a | greg 05.09.2023
+    - msg   3654 | hijri 1445/02/22 | درس 9 | file Ringtone_AUD-20230908-WA0000.mp3 | greg 08.09.2023
+    - msg   3659 | hijri 1445/02/25 | درس 10 | file AUD-20230910-WA0000.m4a | greg 10.09.2023
+    - msg   3674 | hijri — | درس 11 | file AUD-20230915-WA0003.m4a | greg 15.09.2023
+    - msg   3677 | hijri — | درس 12 | file Ringtone_AUD-20230915-WA0006.mp3 | greg 16.09.2023
+    - msg   3681 | hijri — | درس 13 | file AUD-20230917-WA0005.m4a | greg 17.09.2023
+    - msg   3692 | hijri — | درس 14 | file AUD-20230919-WA0007.m4a | greg 20.09.2023
+    - msg   3701 | hijri — | درس 15 | file Ringtone_AUD-20230924-WA0006 (1).mp3 | greg 24.09.2023
+    - msg   3716 | hijri — | درس 16 | file AUD-20230926-WA0002.m4a | greg 26.09.2023
+    - msg   3724 | hijri — | درس 17 | file AUD-20230929-WA0001.m4a | greg 29.09.2023
+    - msg   3743 | hijri — | درس 18 | file AUD-20231006-WA0000.m4a | greg 06.10.2023
+    - msg   3749 | hijri — | درس 19 | file AUD-20231006-WA0004.m4a | greg 06.10.2023
+    - msg   3770 | hijri — | درس 20 | file Ringtone_AUD-20231014-WA0000.mp3 | greg 14.10.2023
+    - msg   3780 | hijri — | درس (?) | file AUD-20231016-WA0006.m4a | greg 16.10.2023
+    - msg   3790 | hijri — | درس 2 | file Ringtone_AUD-20231020-WA0001.m4a | greg 20.10.2023
+    - msg   3823 | hijri — | درس 3 | file الدرس_23_من_فتاوى_أركان_الإسلام_للشيخ_حسن_بن_محمد_الدغريري.mp3 | greg 26.11.2023
+    - msg   3824 | hijri — | درس 4 | file الدرس_24_من_فتاوى_أركان_الإسلام_للشيخ_حسن_بن_محمد_الدغريري.mp3 | greg 26.11.2023
+    - msg   3825 | hijri — | درس 5 | file الدرس_25_من_فتاوى_أركان_الإسلام_للشيخ_حسن_بن_محمد_الدغريري.mp3 | greg 26.11.2023
+    - msg   3826 | hijri — | درس 6 | file الدرس_26_من_فتاوى_أركان_الإسلام_للشيخ_حسن_بن_محمد_الدغريري.mp3 | greg 26.11.2023
+    - msg   3863 | hijri — | درس 8 | file من_فتاوى_أركان_الإسلام_في_العقيدة_الدرس_رقم_٢٨.m4a | greg 06.12.2023
+    - msg   3875 | hijri — | درس 9 | file فتاوى_اركان_الإسلام_الدرس_رقم_٢٩.m4a | greg 17.12.2023
+    - msg   3935 | hijri — | درس 30 | file AUD-20231231-WA0013.m4a | greg 01.01.2024
+    - msg   3949 | hijri — | درس (?) | file AUD-20240102-WA0010.m4a | greg 03.01.2024
+    - msg   3988 | hijri — | درس 2 | file AUD-20240114-WA0012.m4a | greg 15.01.2024
+    - msg   4049 | hijri — | درس 3 | file AUD-20240119-WA0000.m4a | greg 25.01.2024
+    - msg   4051 | hijri — | درس 4 | file AUD-20240125-WA0002.m4a | greg 25.01.2024
+    - msg   4101 | hijri — | درس 5 | file AUD-20240201-WA0010.m4a | greg 01.02.2024
+    - msg   4129 | hijri — | درس 6 | file AUD-20240208-WA0001.m4a | greg 09.02.2024
+    - msg   4131 | hijri — | درس 7 | file AUD-20240208-WA0002.m4a | greg 09.02.2024
+    - msg   4141 | hijri — | درس 8 | file AUD-20240211-WA0012.m4a | greg 12.02.2024
+    - msg   4157 | hijri — | درس 9 | file AUD-20240215-WA0004.m4a | greg 15.02.2024
+    - msg   4166 | hijri — | درس 40 | file AUD-20240219-WA0000.m4a | greg 19.02.2024
+    - msg   4173 | hijri — | درس 1 | file AUD-20240220-WA0002.m4a | greg 20.02.2024
+    - msg   4186 | hijri — | درس 2 | file AUD-20240222-WA0005.m4a | greg 23.02.2024
+    - msg   4191 | hijri — | درس 3 | file AUD-20240225-WA0003.m4a | greg 25.02.2024
+    - msg   4217 | hijri — | درس 4 | file AUD-20240229-WA0004.m4a | greg 01.03.2024
+    - msg   4227 | hijri — | درس 5 | file AUD-20240303-WA0005.m4a | greg 04.03.2024
+    - msg   4232 | hijri — | درس 6 | file AUD-20240304-WA0005.m4a | greg 04.03.2024
+    - msg   4234 | hijri — | درس 7 | file AUD-20240307-WA0023.m4a | greg 08.03.2024
+    - msg   4236 | hijri — | درس 8 | file AUD-20240307-WA0024.m4a | greg 08.03.2024
+    - msg   4243 | hijri — | درس (?) | file AUD-20240311-WA0005.m4a | greg 12.03.2024
+    - msg   4247 | hijri — | درس (?) | file AUD-20240315-WA0000.m4a | greg 15.03.2024
+    - msg   4251 | hijri — | درس (?) | file AUD-20240318-WA0031.m4a | greg 19.03.2024
+    - msg   4253 | hijri — | درس (?) | file AUD-20240318-WA0032.m4a | greg 19.03.2024
+    - msg   4255 | hijri — | درس (?) | file AUD-20240320-WA0001.m4a | greg 21.03.2024
+    - msg   4257 | hijri — | درس (?) | file AUD-20240321-WA0001.m4a | greg 22.03.2024
+    - msg   4264 | hijri — | درس (?) | file AUD-20240323-WA0007-[AudioTrimmer.com].m4a | greg 24.03.2024
+    - msg   4269 | hijri — | درس (?) | file AUD-20240324-WA0008.m4a | greg 24.03.2024
+    - msg   4273 | hijri — | درس (?) | file AUD-20240327-WA0012.m4a | greg 27.03.2024
+    - msg   4275 | hijri — | درس (?) | file AUD-20240328-WA0000.m4a | greg 28.03.2024
+    - msg   4279 | hijri — | درس (?) | file AUD-20240331-WA0005.m4a | greg 01.04.2024
+    - msg   4281 | hijri — | درس (?) | file AUD-20240403-WA0018.m4a | greg 03.04.2024
+    - msg   4289 | hijri — | درس (?) | file AUD-20240408-WA0000.m4a | greg 08.04.2024
+    - msg   4321 | hijri — | درس 9 | file AUD-20240421-WA0011.m4a | greg 24.04.2024
+    - msg   4331 | hijri — | درس 50 | file AUD-20240425-WA0000.m4a | greg 26.04.2024
+    - msg   4350 | hijri — | درس 1 | file AUD-20240429-WA0005.m4a | greg 30.04.2024
+    - msg   4352 | hijri — | درس 2 | file AUD-20240430-WA0005.m4a | greg 30.04.2024
+    - msg   4366 | hijri — | درس 3 | file AUD-20240505-WA0005.m4a | greg 06.05.2024
+    - msg   4380 | hijri — | درس 4 | file AUD-20240507-WA0006.m4a | greg 08.05.2024
+    - msg   4384 | hijri — | درس 5 | file AUD-20240509-WA0000.m4a | greg 09.05.2024
+    - msg   4389 | hijri — | درس 6 | file AUD-20240512-WA0004.m4a | greg 13.05.2024
+    - msg   4401 | hijri — | درس 7 | file AUD-20240516-WA0006.m4a | greg 16.05.2024
+    - msg   4410 | hijri — | درس 1 | file AUD-20240520-WA0007.m4a | greg 20.05.2024
+    - msg   4422 | hijri — | درس 2 | file AUD-20240522-WA0002.m4a | greg 22.05.2024
+    - msg   4427 | hijri — | درس 3 | file AUD-20240524-WA0005.m4a | greg 24.05.2024
+    - msg   4432 | hijri — | درس 4 | file AUD-20240529-WA0000.m4a | greg 29.05.2024
+    - msg   4437 | hijri — | درس 5 | file AUD-20240601-WA0003.m4a | greg 01.06.2024
+    - msg   4440 | hijri — | درس 6 | file AUD-20240603-WA0000.m4a | greg 03.06.2024
+    - msg   4469 | hijri — | درس 7 | file AUD-20240613-WA0002.m4a | greg 14.06.2024
+    - msg   4498 | hijri — | درس 8 | file AUD-20240623-WA0004.m4a | greg 23.06.2024
+    - msg   4500 | hijri — | درس 9 | file AUD-20240625-WA0013.m4a | greg 26.06.2024
+    - msg   4505 | hijri — | درس 10 | file AUD-20240701-WA0003.m4a | greg 01.07.2024
+    - msg   4509 | hijri — | درس 11 | file AUD-20240707-WA0000.m4a | greg 07.07.2024
+    - msg   4518 | hijri — | درس 12 | file AUD-20240718-WA0002.m4a | greg 18.07.2024
+    - msg   4526 | hijri — | درس 13 | file AUD-20240729-WA0001.m4a | greg 29.07.2024
+    - msg   4528 | hijri — | درس 14 | file AUD-20240729-WA0000.m4a | greg 29.07.2024
+    - msg   4542 | hijri — | درس 15 | file AUD-20240805-WA0007.m4a | greg 05.08.2024
+    - msg   4544 | hijri — | درس 16 | file AUD-20240805-WA0008.m4a | greg 05.08.2024
+    - msg   4546 | hijri — | درس 17 | file AUD-20240807-WA0008.m4a | greg 07.08.2024
+    - msg   4552 | hijri — | درس 18 | file AUD-20240810-WA0003.m4a | greg 10.08.2024
+    - msg   4556 | hijri — | درس 19 | file AUD-20240813-WA0000.m4a | greg 13.08.2024
+    - msg   4558 | hijri — | درس 20 | file AUD-20240815-WA0000.m4a | greg 15.08.2024
+    - msg   4560 | hijri — | درس 21 | file AUD-20240815-WA0001.m4a | greg 15.08.2024
+    - msg   4596 | hijri — | درس 22 | file AUD-20240826-WA0003.m4a | greg 26.08.2024
+    - msg   4614 | hijri — | درس 23 | file AUD-20240903-WA0000.m4a | greg 03.09.2024
+    - msg   4621 | hijri — | درس 24 | file AUD-20240904-WA0007.m4a | greg 05.09.2024
+    - msg   4623 | hijri — | درس 25 | file AUD-20240905-WA0001.m4a | greg 05.09.2024
+    - msg   4657 | hijri — | درس 26 | file AUD-20240917-WA0000.m4a | greg 17.09.2024
+    - msg   4663 | hijri — | درس 27 | file AUD-20240918-WA0000.m4a | greg 19.09.2024
+    - msg   4669 | hijri — | درس 28 | file AUD-20240920-WA0002.m4a | greg 20.09.2024
+    - msg   4682 | hijri — | درس 29 | file AUD-20240924-WA0002.m4a | greg 24.09.2024
+    - msg   4712 | hijri — | درس 30 | file AUD-20241011-WA0002.m4a | greg 11.10.2024
+    - msg   4716 | hijri — | درس 31 | file AUD-20241011-WA0004.m4a | greg 11.10.2024
+    - msg   4720 | hijri — | درس 32 | file AUD-20241011-WA0006.m4a | greg 11.10.2024
+    - msg   4727 | hijri — | درس 33 | file AUD-20241011-WA0009.m4a | greg 11.10.2024
+    - msg   4731 | hijri — | درس 34 | file AUD-20241011-WA0011.m4a | greg 11.10.2024
+    - msg   4761 | hijri — | درس 35 | file AUD-20241015-WA0039.m4a | greg 15.10.2024
+    - msg   4775 | hijri — | درس 36 | file AUD-20241020-WA0004.m4a | greg 21.10.2024
+    - msg   4793 | hijri — | درس 37 | file AUD-20241030-WA0011.m4a | greg 30.10.2024
+    - msg   4821 | hijri — | درس 38 | file AUD-20241104-WA0004.m4a | greg 09.11.2024
+    - msg   4832 | hijri — | درس 39 | file AUD-20241109-WA0003.m4a | greg 11.11.2024
+    - msg   4834 | hijri — | درس 40 | file AUD-20241111-WA0000.m4a | greg 11.11.2024
+    - msg   4857 | hijri — | درس 41 | file AUD-20241122-WA0004.m4a | greg 23.11.2024
+    - msg   4863 | hijri — | درس 42 | file AUD-20241123-WA0008.m4a | greg 23.11.2024
+    - msg   4883 | hijri — | درس 43 | file AUD-20241127-WA0005.m4a | greg 27.11.2024
+    - msg   4885 | hijri — | درس 44 | file AUD-20241126-WA0014.m4a | greg 27.11.2024
+    - msg   4921 | hijri — | درس 45 | file AUD-20241203-WA0000.m4a | greg 04.12.2024
+    - msg   4960 | hijri — | درس 46 | file AUD-20241213-WA0008.m4a | greg 13.12.2024
+    - msg   4962 | hijri — | درس 47 | file AUD-20241212-WA0041.m4a | greg 13.12.2024
+    - msg   4989 | hijri — | درس 48 | file AUD-20241219-WA0001.m4a | greg 23.12.2024
+    - msg   4993 | hijri — | درس 49 | file AUD-20241223-WA0023.m4a | greg 23.12.2024
+    - msg   5068 | hijri — | درس 50 | file AUD-20250108-WA0034.m4a | greg 08.01.2025
+    - msg   5070 | hijri — | درس 51 | file AUD-20250108-WA0033.m4a | greg 08.01.2025
+    - msg   5077 | hijri — | درس 52 | file AUD-20250113-WA0000.m4a | greg 13.01.2025
+    - msg   5111 | hijri — | درس 53 | file AUD-20250126-WA0005.m4a | greg 26.01.2025
+    - msg   5120 | hijri — | درس 54 | file AUD-20250129-WA0002.m4a | greg 29.01.2025
+    - msg   5132 | hijri — | درس 55 | file AUD-20250202-WA0001.m4a | greg 03.02.2025
+    - msg   5139 | hijri — | درس 56 | file AUD-20250206-WA0000.m4a | greg 08.02.2025
+    - msg   5164 | hijri — | درس 57 | file AUD-20250218-WA0000.m4a | greg 18.02.2025
+    - msg   5168 | hijri — | درس 58 | file AUD-20250218-WA0002.m4a | greg 18.02.2025
+    - msg   5345 | hijri — | درس 59 | file AUD-20250421-WA0001.m4a | greg 21.04.2025
+    - msg   5350 | hijri — | درس 60 | file AUD-20250424-WA0000.m4a | greg 24.04.2025
+    - msg   5366 | hijri — | درس 61 | file AUD-20250430-WA0008.m4a | greg 30.04.2025
+    - msg   5373 | hijri — | درس 62 | file AUD-20250504-WA0001.m4a | greg 05.05.2025
+    - msg   5397 | hijri — | درس 8 | file AUD-20250511-WA0000.m4a | greg 12.05.2025
+    - msg   5400 | hijri — | درس 9 | file AUD-20250513-WA0002.m4a | greg 13.05.2025
+    - msg   5428 | hijri — | درس 10 | file AUD-20250525-WA0006.m4a | greg 26.05.2025
+    - msg   5434 | hijri — | درس 11 | file AUD-20250527-WA0004.m4a | greg 28.05.2025
+    - msg   5443 | hijri — | درس 12 | file AUD-20250602-WA0011.m4a | greg 02.06.2025
+    - msg   5450 | hijri — | درس 13 | file AUD-20250603-WA0000.m4a | greg 03.06.2025
+    - msg   5464 | hijri — | درس 63 | file AUD-20250608-WA0005.m4a | greg 08.06.2025
+    - msg   5482 | hijri — | درس 64 | file AUD-20250617-WA0003.m4a | greg 17.06.2025
+    - msg   5484 | hijri — | درس 65 | file AUD-20250617-WA0001.m4a | greg 17.06.2025
+    - msg   5486 | hijri — | درس 66 | file AUD-20250617-WA0002.m4a | greg 17.06.2025
+    - msg   5499 | hijri — | درس 67 | file AUD-20250622-WA0003.m4a | greg 22.06.2025
+    - msg   5511 | hijri — | درس (?) | file AUD-20250630-WA0007.m4a | greg 30.06.2025
+    - msg   5521 | hijri — | درس 1 | file AUD-20250701-WA0000.m4a | greg 02.07.2025
+    - msg   5584 | hijri — | درس 2 | file AUD-20250715-WA0003.m4a | greg 15.07.2025
+    - msg   5586 | hijri — | درس 3 | file AUD-20250715-WA0002.m4a | greg 15.07.2025
+    - msg   5599 | hijri — | درس 4 | file AUD-20250718-WA0004.m4a | greg 18.07.2025
+    - msg   5605 | hijri — | درس 5 | file AUD-20250718-WA0007.m4a | greg 18.07.2025
+    - msg   5629 | hijri — | درس 6 | file AUD-20250806-WA0002.m4a | greg 06.08.2025
+    - msg   5637 | hijri — | درس 7 | file AUD-20250808-WA0000.m4a | greg 09.08.2025
+    - msg   5643 | hijri — | درس 8 | file AUD-20250813-WA0000.m4a | greg 13.08.2025
+
+Series: جديد الدروس
+  Source: messages.html, messages3.html
+  Count: 60
+  Date range: — → —
+  Lessons:
+    - msg    916 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 01.m4a | greg 05.05.2020
+    - msg    917 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 02.m4a | greg 06.05.2020
+    - msg    918 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 03.m4a | greg 06.05.2020
+    - msg    919 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 04.m4a | greg 06.05.2020
+    - msg    920 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 05.m4a | greg 06.05.2020
+    - msg    921 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 06.m4a | greg 06.05.2020
+    - msg    922 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 07.m4a | greg 06.05.2020
+    - msg    930 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 08.m4a | greg 07.05.2020
+    - msg    931 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 09.m4a | greg 07.05.2020
+    - msg    932 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 10.mp3 | greg 08.05.2020
+    - msg    934 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 11.m4a | greg 08.05.2020
+    - msg    937 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 12.m4a | greg 09.05.2020
+    - msg    938 | hijri — | درس (?) | file التعليق_على_كتاب_مجالس_شهر_رمضان_13.m4a | greg 12.05.2020
+    - msg    939 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 14.m4a | greg 12.05.2020
+    - msg    946 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 15.m4a | greg 13.05.2020
+    - msg    947 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 16.m4a | greg 15.05.2020
+    - msg    948 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 17.m4a | greg 15.05.2020
+    - msg    949 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 18.m4a | greg 15.05.2020
+    - msg    950 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 19.m4a | greg 17.05.2020
+    - msg    951 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 20.m4a | greg 17.05.2020
+    - msg    959 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 21.m4a | greg 26.05.2020
+    - msg    960 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 22.m4a | greg 26.05.2020
+    - msg    961 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 23.m4a | greg 26.05.2020
+    - msg    962 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 24.m4a | greg 26.05.2020
+    - msg    963 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 25.m4a | greg 26.05.2020
+    - msg    964 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 26.m4a | greg 26.05.2020
+    - msg    965 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 27.m4a | greg 26.05.2020
+    - msg    966 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 28.m4a | greg 26.05.2020
+    - msg    967 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 29.m4a | greg 26.05.2020
+    - msg    968 | hijri — | درس (?) | file التعليق على مجالس شهر رمضان 30.m4a | greg 26.05.2020
+    - msg   5192 | hijri — | درس (?) | file AUD-20250226-WA0000.m4a | greg 27.02.2025
+    - msg   5194 | hijri — | درس (?) | file AUD-20250226-WA0001.m4a | greg 27.02.2025
+    - msg   5196 | hijri — | درس (?) | file AUD-20250226-WA0002.m4a | greg 27.02.2025
+    - msg   5202 | hijri — | درس (?) | file AUD-20250303-WA0000.m4a | greg 07.03.2025
+    - msg   5204 | hijri — | درس (?) | file AUD-20250307-WA0000.m4a | greg 07.03.2025
+    - msg   5206 | hijri — | درس (?) | file AUD-20250307-WA0001.m4a | greg 07.03.2025
+    - msg   5212 | hijri — | درس (?) | file AUD-20250311-WA0002.m4a | greg 11.03.2025
+    - msg   5214 | hijri — | درس (?) | file AUD-20250311-WA0003.m4a | greg 11.03.2025
+    - msg   5216 | hijri — | درس (?) | file AUD-20250311-WA0004.m4a | greg 11.03.2025
+    - msg   5218 | hijri — | درس (?) | file AUD-20250311-WA0005.m4a | greg 11.03.2025
+    - msg   5220 | hijri — | درس (?) | file AUD-20250312-WA0029.m4a | greg 13.03.2025
+    - msg   5222 | hijri — | درس (?) | file AUD-20250312-WA0028.m4a | greg 13.03.2025
+    - msg   5224 | hijri — | درس (?) | file AUD-20250313-WA0003.m4a | greg 15.03.2025
+    - msg   5226 | hijri — | درس (?) | file AUD-20250314-WA0023.m4a | greg 15.03.2025
+    - msg   5228 | hijri — | درس (?) | file AUD-20250315-WA0003.m4a | greg 15.03.2025
+    - msg   5230 | hijri — | درس (?) | file AUD-20250317-WA0000.m4a | greg 17.03.2025
+    - msg   5232 | hijri — | درس (?) | file AUD-20250317-WA0004.m4a | greg 18.03.2025
+    - msg   5234 | hijri — | درس (?) | file AUD-20250318-WA0001.m4a | greg 18.03.2025
+    - msg   5246 | hijri — | درس (?) | file AUD-20250320-WA0002.m4a | greg 21.03.2025
+    - msg   5248 | hijri — | درس (?) | file AUD-20250320-WA0003.m4a | greg 21.03.2025
+    - msg   5258 | hijri — | درس (?) | file AUD-20250322-WA0000.m4a | greg 23.03.2025
+    - msg   5260 | hijri — | درس (?) | file AUD-20250323-WA0000.m4a | greg 23.03.2025
+    - msg   5262 | hijri — | درس (?) | file AUD-20250324-WA0002.m4a | greg 24.03.2025
+    - msg   5264 | hijri — | درس (?) | file AUD-20250325-WA0000.m4a | greg 25.03.2025
+    - msg   5271 | hijri — | درس (?) | file AUD-20250327-WA0003.m4a | greg 27.03.2025
+    - msg   5273 | hijri — | درس (?) | file AUD-20250327-WA0004.m4a | greg 27.03.2025
+    - msg   5277 | hijri — | درس (?) | file AUD-20250329-WA0004.m4a | greg 29.03.2025
+    - msg   5279 | hijri — | درس (?) | file AUD-20250329-WA0005.m4a | greg 29.03.2025
+    - msg   5281 | hijri — | درس (?) | file AUD-20250329-WA0006.m4a | greg 29.03.2025
+    - msg   5284 | hijri — | درس (?) | file AUD-20250329-WA0007.m4a | greg 30.03.2025
+
+Series: أعلام السنة المنشورة
+  Source: messages2.html, messages3.html
+  Count: 13
+  Date range: 1444/10/12 → 1445/04/01
+  Lessons:
+    - msg   3242 | hijri 1444/10/12 | درس 1 | file AUD-20230504-WA0004.m4a | greg 04.05.2023
+    - msg   3258 | hijri 1444/10/19 | درس 2 | file AUD-20230510-WA0000.m4a | greg 10.05.2023
+    - msg   3308 | hijri 1444/10/26 | درس 3 | file AUD-20230517-WA0010.m4a | greg 21.05.2023
+    - msg   3341 | hijri 1444/11/10 | درس 4 | file AUD-20230531-WA0007.m4a | greg 31.05.2023
+    - msg   3371 | hijri 1444/11/17 | درس 5 | file AUD-20230608-WA0002.m4a | greg 08.06.2023
+    - msg   3538 | hijri 1445/01/27 | درس 6 | file AUD-20230814-WA0045.m4a | greg 15.08.2023
+    - msg   3597 | hijri 1445/02/12 | درس 7 | file AUD-20230828-WA0007.m4a | greg 29.08.2023
+    - msg   3635 | hijri 1445/02/19 | درس 8 | file AUD-20230904-WA0051.m4a | greg 05.09.2023
+    - msg   3668 | hijri 1445/02/19 | درس 9 | file AUD-20230915-WA0001.m4a | greg 15.09.2023
+    - msg   3688 | hijri 1445/03/03 | درس 10 | file AUD-20230919-WA0002.m4a | greg 19.09.2023
+    - msg   3714 | hijri 1445/03/09 | درس 11 | file AUD-20230926-WA0000.m4a | greg 26.09.2023
+    - msg   3747 | hijri 1445/03/17 | درس 12 | file AUD-20231006-WA0001 (2).m4a | greg 06.10.2023
+    - msg   3786 | hijri 1445/04/01 | درس 13 | file AUD-20231019-WA0018.m4a | greg 20.10.2023
+
+Series: قناة الشيخ حسن الدغريري على التلجرام
+  Source: messages.html, messages2.html
+  Count: 12
+  Date range: — → —
+  Lessons:
+    - msg    287 | hijri — | درس (?) | file AUD-20190101-WA0019.mp3 | greg 27.01.2019
+    - msg    354 | hijri — | درس (?) | file خطبة_عيد_الفطر_المبارك_لعام_١٤٤٠.m4a | greg 04.06.2019
+    - msg    957 | hijri — | درس (?) | file خطبة_عيد_الفطر_المبارك_لعام_١٤٤٠.m4a | greg 24.05.2020
+    - msg    976 | hijri — | درس (?) | file العمل الصالح بعد رمضان.m4a | greg 29.05.2020
+    - msg   1112 | hijri — | درس (?) | file خطبة عيد الأضحى المبارك ١٤٤١.m4a | greg 01.08.2020
+    - msg   1115 | hijri — | درس (?) | file تلاوة_طيبة_للشيخ_حسن_الدغريري_صلاة_الجمعة.m4a | greg 01.08.2020
+    - msg   1298 | hijri — | درس (?) | file خطبة الاستسقاء ٤ - ٤ - ١٤٤٢.m4a | greg 19.11.2020
+    - msg   1537 | hijri — | درس (?) | file AUD-20210515-WA0004.m4a | greg 15.05.2021
+    - msg   1683 | hijri — | درس (?) | file خطبة عيد الأضحى ١٤٤٢.m4a | greg 20.07.2021
+    - msg   1826 | hijri — | درس (?) | file AUD-20211104-WA0005-[AudioTrimmer.com].m4a | greg 04.11.2021
+    - msg   1901 | hijri — | درس (?) | file صلاة الاستسقاء.m4a | greg 13.12.2021
+    - msg   2040 | hijri — | درس (?) | file اسباب_الثبات_عل_AudioConverter_AudioTrimmer_com.m4a | greg 22.02.2022
+
+Series: الرد الشرعي المعقول على المتصل المجهول
+  Source: messages3.html
+  Count: 12
+  Date range: — → —
+  Lessons:
+    - msg   4045 | hijri — | درس 1 | file AUD-20240125-WA0001.m4a | greg 25.01.2024
+    - msg   4095 | hijri — | درس 2 | file الرد الشرعي المعقول.m4a | greg 01.02.2024
+    - msg   4125 | hijri — | درس 3 | file AUD-20240206-WA0014.m4a | greg 07.02.2024
+    - msg   4182 | hijri — | درس 4 | file AUD-20240221-WA0000.m4a | greg 22.02.2024
+    - msg   4368 | hijri — | درس 5 | file AUD-20240501-WA0000.m4a | greg 06.05.2024
+    - msg   4382 | hijri — | درس 6 | file AUD-20240508-WA0004.m4a | greg 08.05.2024
+    - msg   4397 | hijri — | درس 7 | file AUD-20240514-WA0001.m4a | greg 15.05.2024
+    - msg   4584 | hijri — | درس 8 | file AUD-20240822-WA0001.m4a | greg 22.08.2024
+    - msg   4604 | hijri — | درس 9 | file AUD-20240829-WA0001.m4a | greg 29.08.2024
+    - msg   4619 | hijri — | درس 10 | file AUD-20240904-WA0009.m4a | greg 05.09.2024
+    - msg   4649 | hijri — | درس 11 | file AUD-20240912-WA0000.m4a | greg 12.09.2024
+    - msg   4665 | hijri — | درس 12 | file AUD-20240918-WA0001.m4a | greg 19.09.2024
+
+Series: التعليقات المختصرة
+  Source: messages2.html
+  Count: 11
+  Date range: 1443/03/11 → 1443/07/06
+  Lessons:
+    - msg   1799 | hijri 1443/03/11 | درس 5 | file AUD-20211024-WA0017.m4a | greg 24.10.2021
+    - msg   1803 | hijri 1443/03/18 | درس 6 | file AUD-20211025-WA0005.m4a | greg 26.10.2021
+    - msg   1821 | hijri 1443/03/26 | درس 7 | file AUD-20211101-WA0020.m4a | greg 02.11.2021
+    - msg   1835 | hijri 1443/04/04 | درس 8 | file AUD-20211110-WA0028.m4a | greg 10.11.2021
+    - msg   1847 | hijri 1443/04/09 | درس 9 | file AUD-20211115-WA0016.m4a | greg 15.11.2021
+    - msg   1860 | hijri 1443/04/17 | درس 10 | file AUD-20211122-WA0009.m4a | greg 22.11.2021
+    - msg   1905 | hijri 1443/05/09 | درس 11 | file AUD-20211213-WA0009.m4a | greg 14.12.2021
+    - msg   1961 | hijri 1443/06/14 | درس 12 | file AUD-20220118-WA0006.m4a | greg 18.01.2022
+    - msg   1973 | hijri 1443/06/21 | درس 13 | file AUD-20220125-WA0000.m4a | greg 27.01.2022
+    - msg   1983 | hijri 1443/06/28 | درس 14 | file AUD-20220201-WA0001.m4a | greg 01.02.2022
+    - msg   2002 | hijri 1443/07/06 | درس 15 | file m_2230775m51.mp3 | greg 08.02.2022
+
+Series: جديد الخطب
+  Source: messages2.html, messages3.html, messages4.html
+  Count: 9
+  Date range: 1447/10/01 → 1447/10/01
+  Lessons:
+    - msg   2175 | hijri — | درس (?) | file AUD-20220502-WA0030-[AudioTrimmer.com].m4a | greg 03.05.2022
+    - msg   3216 | hijri — | درس (?) | file AUD-20230421-WA0015-[AudioTrimmer.com].m4a | greg 22.04.2023
+    - msg   3263 | hijri — | درس (?) | file AUD-20230512-WA0000-[AudioTrimmer.com].m4a | greg 12.05.2023
+    - msg   3295 | hijri — | درس (?) | file AUD-20230519-WA0006-[AudioTrimmer.com].m4a | greg 19.05.2023
+    - msg   3444 | hijri — | درس (?) | file AUD-20230629-WA0002-[AudioTrimmer.com].m4a | greg 30.06.2023
+    - msg   4294 | hijri — | درس (?) | file AUD-20240410-WA0005-[AudioTrimmer.com].m4a | greg 10.04.2024
+    - msg   4481 | hijri — | درس (?) | file AUD-20240617-WA0006-[AudioTrimmer.com].m4a | greg 18.06.2024
+    - msg   5289 | hijri — | درس (?) | file AUD-20250330-WA0033-[AudioTrimmer.com].m4a | greg 30.03.2025
+    - msg   6545 | hijri 1447/10/01 | درس (?) | file AUDIO-2026-03-21-00-33-34.m4a | greg 21.03.2026
+
+Series: الفضل المبين
+  Source: messages2.html
+  Count: 8
+  Date range: 1444/07/02 → 1444/08/29
+  Lessons:
+    - msg   2907 | hijri 1444/07/02 | درس 1 | file AUD-20230124-WA0016.m4a | greg 25.01.2023
+    - msg   2943 | hijri 1444/07/09 | درس 2 | file AUD-20230131-WA0007.m4a | greg 01.02.2023
+    - msg   2966 | hijri 1444/07/16 | درس 3 | file AUD-20230207-WA0012.m4a | greg 08.02.2023
+    - msg   2994 | hijri 1444/07/24 | درس 4 | file AUD-20230214-WA0018.m4a | greg 15.02.2023
+    - msg   3018 | hijri 1444/08/01 | درس 5 | file AUD-20230221-WA0003.m4a | greg 22.02.2023
+    - msg   3051 | hijri 1444/08/08 | درس 6 | file AUD-20230228-WA0048.m4a | greg 01.03.2023
+    - msg   3094 | hijri 1444/08/22 | درس 7 | file AUD-20230314-WA0017.m4a | greg 14.03.2023
+    - msg   3119 | hijri 1444/08/29 | درس 8 | file AUD-20230322-WA0003.m4a | greg 22.03.2023
+
+Series: التعليقات الأثرية على العقيدة الواسطية
+  Source: messages_june1.html, messages_new.html
+  Count: 5
+  Date range: 1447/10/23 → 1447/11/29
+  Lessons:
+    - msg   6753 | hijri 1447/10/23 | درس 1 | file AUDIO-2026-04-11-22-05-16.m4a | greg 12.04.2026 [جامع الورود]
+    - msg   6854 | hijri 1447/11/01 | درس 2 | file AUDIO-2026-04-18-20-48-23.m4a | greg 20.04.2026 [جامع الورود]
+    - msg   7072 | hijri 1447/11/15 | درس 3 | file AUDIO-2026-05-03-05-13-18.m4a | greg 04.05.2026 [جامع الورود]
+    - msg   7219 | hijri 1447/11/21 | درس 4 | file AUDIO-2026-05-11-08-18-29.m4a | greg 12.05.2026 [جامع الورود]
+    - msg   7352 | hijri 1447/11/29 | درس 5 | file AUDIO-2026-05-18-11-07-02.m4a | greg 18.05.2026 [جامع الورود]
+
+Series: التحقيق والإيضاح لكثير من مسائل الحج والعمرة والزيارة
+  Source: messages_june1.html
+  Count: 5
+  Date range: 1447/11/19 → 1447/12/02
+  Lessons:
+    - msg   7141 | hijri 1447/11/19 | درس 1 | file AUDIO-2026-05-06-23-04-52.m4a | greg 08.05.2026 [جامع الورود]
+    - msg   7262 | hijri 1447/11/26 | درس 2 | file المجلس_الثاني_التحقيق_والايضاح_لكثير_من_مسائل_الحج.m4a | greg 14.05.2026 [جامع الورود]
+    - msg   7348 | hijri 1447/11/30 | درس 3 | file التحقيق والايضاح.m4a | greg 18.05.2026 [جامع الورود]
+    - msg   7427 | hijri 1447/12/01 | درس 4 | file AUDIO-2026-05-18-18-05-51.m4a | greg 21.05.2026 [جامع الورود]
+    - msg   7433 | hijri 1447/12/02 | درس 5 | file الايضاح.m4a | greg 21.05.2026 [جامع الورود]
+
+Series: صحيح مسلم - مقدمة الإمام مسلم
+  Source: messages4.html, messages_new.html
+  Count: 3
+  Date range: 1447/10/16 → 1447/11/01
+  Lessons:
+    - msg   6647 | hijri 1447/10/16 | درس 1 | file SahihMuslim1.m4a | greg 05.04.2026 [جامع الورود]
+    - msg   6749 | hijri 1447/10/23 | درس 2 | file AUDIO-2026-04-11-08-30-01.m4a | greg 12.04.2026 [جامع الورود]
+    - msg   6851 | hijri 1447/11/01 | درس 3 | file AUDIO-2026-04-18-12-14-03.m4a | greg 20.04.2026 [جامع الورود]
+
+Series: فتح الرب الغفور ذي الرحمة في شرح الواجبات المتحتمات المعرفة على كل مسلم ومسلمة
+  Source: messages_june1.html
+  Count: 3
+  Date range: 1447/11/12 → 1447/12/03
+  Lessons:
+    - msg   6980 | hijri 1447/11/12 | درس 1 | file AUDIO-2026-04-30-05-43-45.m4a | greg 30.04.2026 [جامع الورود]
+    - msg   7137 | hijri 1447/11/19 | درس 2 | file AUDIO-2026-05-06-19-17-06.m4a | greg 08.05.2026 [جامع الورود]
+    - msg   7438 | hijri 1447/12/03 | درس 3 | file الواجبات.m4a | greg 21.05.2026 [جامع الورود]
+
+Series: صحيح مسلم
+  Source: messages_june1.html
+  Count: 3
+  Date range: 1447/11/15 → 1447/11/29
+  Lessons:
+    - msg   7076 | hijri 1447/11/15 | درس 5 | file AUDIO-2026-05-03-15-22-06.m4a | greg 04.05.2026 [جامع الورود]
+    - msg   7223 | hijri 1447/11/22 | درس 6 | file مسلم٢.m4a | greg 12.05.2026 [جامع الورود]
+    - msg   7342 | hijri 1447/11/29 | درس 7 | file AUDIO-2026-05-16-15-10-18.m4a | greg 18.05.2026 [جامع الورود]
+
+Series: حسن بن محمد منصور الدغريري
+  Source: messages.html, messages4.html
+  Count: 2
+  Date range: — → —
+  Lessons:
+    - msg    277 | hijri — | درس (?) | file نصيحة عامة.mp3 | greg 27.01.2019
+    - msg   6209 | hijri — | درس (?) | file فضل_العلم_ومنزلة_أهله_كلمة_للشيخ_حسن_محمد_دغريري_6_4_1440.mp3 | greg 18.01.2026 [مسجد الصلوي]
+
+Series: رابط القناة على التلجرام👇🏻
+  Source: messages.html
+  Count: 2
+  Date range: — → —
+  Lessons:
+    - msg    307 | hijri — | درس 2 | file شرح الفقه الميسر 02.mp3 | greg 09.02.2019
+    - msg    308 | hijri — | درس 3 | file شرح الفقه الميسر 03.mp3 | greg 09.02.2019
+
+Series: جديد الكلمات
+  Source: messages2.html, messages4.html
+  Count: 2
+  Date range: — → —
+  Lessons:
+    - msg   1936 | hijri — | درس (?) | file file_2@03-01-2022_12-16-05.mpga | greg 03.01.2022
+    - msg   5652 | hijri — | درس (?) | file الشيخ_حسن_الدغريري_شرح_حديث_هذا_سبيل_الله.mp3 | greg 30.08.2025
+
+Series: البدع في شهر رجب🔸
+  Source: messages2.html
+  Count: 2
+  Date range: 1443/07/06 → 1443/07/06
+  Lessons:
+    - msg   1996 | hijri 1443/07/06 | درس (?) | file AUD-20220206-WA0002.m4a | greg 07.02.2022
+    - msg   2910 | hijri 1443/07/06 | درس (?) | file AUD-20220206-WA0002.m4a | greg 26.01.2023
+
+Series: رد الجواب على من طلب مني عدم طبع الكتاب
+  Source: messages3.html
+  Count: 2
+  Date range: — → —
+  Lessons:
+    - msg   3951 | hijri — | درس 1 | file AUD-20240102-WA0011.m4a | greg 03.01.2024
+    - msg   3997 | hijri — | درس 2 | file AUD-20240118-WA0000.m4a | greg 18.01.2024
+
+Series: خطبة الاستسقاء
+  Source: messages4.html
+  Count: 2
+  Date range: 1447/05/22 → 1447/08/24
+  Lessons:
+    - msg   5918 | hijri 1447/05/22 | درس (?) | file AUD-20251201-WA0005.mp3 | greg 02.12.2025
+    - msg   6424 | hijri 1447/08/24 | درس (?) | file AUDIO-2026-02-12-10-51-44.m4a | greg 12.02.2026 [جامع الورود]
+
+Series: صفة الحج (حكمه وأحكامه وشروطه ومواقيت الإحرام)
+  Source: messages_new.html
+  Count: 2
+  Date range: 1447/10/27 → 1447/10/27
+  Lessons:
+    - msg   6813 | hijri 1447/10/27 | درس (?) | file AUDIO-2026-04-15-21-11-35.m4a | greg 16.04.2026 [جامع الورود]
+    - msg   6814 | hijri 1447/10/27 | درس (?) | file AUDIO-2026-04-15-21-10-32.m4a | greg 16.04.2026 [جامع الورود]
+
+  [Messages with no series name extracted: 318]
+    - msg    317 | hijri — | درس 4 | file شرح الفقه الميسر 04.mp3 | greg 18.02.2019
+    - msg    318 | hijri — | درس 5 | file شرح الفقه الميسر 05.mp3 | greg 18.02.2019
+    - msg    392 | hijri — | درس 6 | file شرح الفقه الميسر 06.3gp | greg 03.07.2019
+    - msg    393 | hijri — | درس 7 | file شرح الفقه الميسر 07.3gp | greg 03.07.2019
+    - msg    397 | hijri — | درس 9 | file شرح الفقه الميسر 09.3gp | greg 09.07.2019
+    ... and 313 more
+
+================================================================================
+=== OLD MESSAGES (DB series with HTML messages BEFORE first DB date) ===
+================================================================================
+
+Series: إتمام المنة بشرح أصول السنة
+  DB: 3 lessons, first DB date: 1447/08/05
+  Pre-DB in HTML: 6 message(s)
+    - msg   2690 | hijri 1444/05/19 | درس 1 | file AUD-20221213-WA0010.m4a | greg 14.12.2022
+    - msg   2709 | hijri 1444/05/26 | درس 2 | file AUD-20221221-WA0002.m4a | greg 21.12.2022
+    - msg   2748 | hijri 1444/06/04 | درس 3 | file AUD-20221228-WA0001.m4a | greg 28.12.2022
+    - msg   2792 | hijri 1444/06/10 | درس 4 | file AUD-20230103-WA0015.m4a | greg 04.01.2023
+    - msg   2846 | hijri 1444/06/17 | درس 5 | file AUD-20230111-WA0003.m4a | greg 11.01.2023
+    - msg   2878 | hijri 1444/06/24 | درس 6 | file AUD-20230117-WA0020.m4a | greg 18.01.2023
+
+Series: إرشاد الساري شرح السنة للبربهاري
+  DB: 14 lessons, first DB date: 1447/04/21
+  Pre-DB in HTML: 4 message(s)
+    - msg   5810 | hijri 1447/03/21 | درس 1 | file Mp3 Editor_251026020733.mp3 | greg 26.10.2025 [جامع الورود]
+    - msg   5728 | hijri 1447/03/28 | درس 2 | file Mp3 Editor_251013230959.mp3 | greg 14.10.2025 [جامع الورود]
+    - msg   5746 | hijri 1447/04/12 | درس 3 | file Mp3 Editor_251015223341.mp3 | greg 16.10.2025 [جامع الورود]
+    - msg   5756 | hijri 1447/04/19 | درس 4 | file Mp3 Editor_251017122807.mp3 | greg 17.10.2025 [جامع الورود]
+
+Series: الأفنان الندية - عن بعد
+  DB: 33 lessons, first DB date: 1447/04/16
+  Pre-DB in HTML: 40 message(s)
+    - msg   2371 | hijri 1444/02/09 | درس 1 | file AUD-20220906-WA0002.m4a | greg 06.09.2022
+    - msg   2733 | hijri 1444/06/02 | درس 1 | file AUD-20221226-WA0000.m4a | greg 26.12.2022
+    - msg   2771 | hijri 1444/06/08 | درس 2 | file AUD-20230101-WA0026.m4a | greg 02.01.2023
+    - msg   2774 | hijri 1444/06/09 | درس 3 | file AUD-20230102-WA0010.m4a | greg 03.01.2023
+    - msg   2826 | hijri 1444/06/15 | درس 4 | file AUD-20230108-WA0014.m4a | greg 09.01.2023
+    - msg   2835 | hijri 1444/06/16 | درس 5 | file AUD-20230109-WA0003.m4a | greg 10.01.2023
+    - msg   2870 | hijri 1444/06/23 | درس 6 | file AUD-20230116-WA0021.m4a | greg 17.01.2023
+    - msg   2894 | hijri 1444/06/30 | درس 7 | file AUD-20230122-WA0009.m4a | greg 23.01.2023
+    - msg   2901 | hijri 1444/07/01 | درس 8 | file AUD-20230124-WA0001.m4a | greg 24.01.2023
+    - msg   2936 | hijri 1444/07/08 | درس 9 | file AUD-20230131-WA0000.m4a | greg 31.01.2023
+    - msg   2959 | hijri 1444/07/14 | درس 10 | file AUD-20230205-WA0004.m4a | greg 06.02.2023
+    - msg   2964 | hijri 1444/07/15 | درس 11 | file AUD-20230207-WA0011.m4a | greg 08.02.2023
+    - msg   2986 | hijri 1444/07/21 | درس 12 | file AUD-20230212-WA0015 (1).m4a | greg 13.02.2023
+    - msg   2991 | hijri 1444/07/22 | درس 13 | file AUD-20230213-WA0008.m4a | greg 14.02.2023
+    - msg   3010 | hijri 1444/07/28 | درس 1 | file AUD-20230219-WA0015.m4a | greg 20.02.2023
+    - msg   3055 | hijri 1444/08/10 | درس 2 | file AUD-20230301-WA0025.m4a | greg 02.03.2023
+    - msg   3063 | hijri 1444/08/10 | درس 3 | file AUD-20230302-WA0068.m4a | greg 03.03.2023
+    - msg   3070 | hijri 1444/08/11 | درس 4 | file AUD-20230303-WA0024.m4a | greg 04.03.2023
+    - msg   3076 | hijri 1444/08/12 | درس 5 | file AUD-20230305-WA0003.m4a | greg 05.03.2023
+    - msg   3087 | hijri 1444/08/20 | درس 6 | file AUD-20230313-WA0016 (1).m4a | greg 14.03.2023
+    - msg   3089 | hijri 1444/08/21 | درس 7 | file AUD-20230314-WA0004.m4a | greg 14.03.2023
+    - msg   3099 | hijri 1444/08/23 | درس 8 | file AUD-20230315-WA0010.m4a | greg 16.03.2023
+    - msg   3109 | hijri 1444/08/27 | درس 9 | file AUD-20230320-WA0002.m4a | greg 20.03.2023
+    - msg   3114 | hijri 1444/08/28 | درس 10 | file AUD-20230320-WA0007.m4a | greg 21.03.2023
+    - msg   3324 | hijri 1444/10/02 | درس (?) | file AUD-20230524-WA0016.m4a | greg 25.05.2023
+    - msg   3229 | hijri 1444/10/10 | درس 14 | file AUD-20230430-WA0017.m4a | greg 01.05.2023
+    - msg   3235 | hijri 1444/10/11 | درس 15 | file AUD-20230501-WA0012.m4a | greg 02.05.2023
+    - msg   3251 | hijri 1444/10/17 | درس 16 | file AUD-20230508-WA0000.m4a | greg 08.05.2023
+    - msg   3255 | hijri 1444/10/18 | درس 17 | file AUD-20230509-WA0002.m4a | greg 09.05.2023
+    - msg   3304 | hijri 1444/10/24 | درس 18 | file AUD-20230515-WA0008.m4a | greg 20.05.2023
+    - msg   3306 | hijri 1444/10/25 | درس 19 | file AUD-20230517-WA0011 (1).m4a | greg 21.05.2023
+    - msg   3322 | hijri 1444/11/01 | درس 20 | file AUD-20230524-WA0015.m4a | greg 25.05.2023
+    - msg   3337 | hijri 1444/11/08 | درس 2 | file AUD-20230530-WA0005.m4a | greg 30.05.2023
+    - msg   3369 | hijri 1444/11/15 | درس 3 | file AUD-20230608-WA0000.m4a | greg 08.06.2023
+    - msg   3528 | hijri 1445/01/26 | درس 4 | file AUD-20230813-WA0003.m4a | greg 13.08.2023
+    - msg   3632 | hijri 1445/02/18 | درس 5 | file AUD-20230904-WA0002.m4a | greg 04.09.2023
+    - msg   3683 | hijri 1445/03/02 | درس 6 | file AUD-20230917-WA0008.m4a | greg 17.09.2023
+    - msg   3707 | hijri 1445/03/09 | درس 7 | file AUD-20230924-WA0007.m4a | greg 24.09.2023
+    - msg   3745 | hijri 1445/03/16 | درس 8 | file AUD-20231001-WA0003.m4a | greg 06.10.2023
+    - msg   3765 | hijri 1445/03/23 | درس 9 | file AUD-20231009-WA0001.m4a | greg 09.10.2023
+
+Series: التحفة النجمية بشرح الأربعين النووية
+  DB: 7 lessons, first DB date: 1447/07/02
+  Pre-DB in HTML: 1 message(s)
+    - msg   6062 | hijri 1447/06/29 | درس 1 | file AUDIO-2025-12-22-07-20-10 (1).m4a | greg 22.12.2025 [جامع الورود]
+
+Series: التعليقات البهية على الرسائل العقدية
+  DB: 9 lessons, first DB date: 1447/05/04
+  Pre-DB in HTML: 2 message(s)
+    - msg   5808 | hijri 1447/04/26 | درس 1 | file Mp3 Editor_251026014231.mp3 | greg 26.10.2025 [جامع الورود]
+    - msg   5821 | hijri 1447/05/03 | درس 2 | file Mp3 Editor_251026073039.mp3 | greg 26.10.2025 [جامع الورود]
+
+Series: التفسير الميسر
+  DB: 15 lessons, first DB date: 1447/04/21
+  Pre-DB in HTML: 6 message(s)
+    - msg   5703 | hijri 1447/03/14 | درس 1 | file 4_5996911497937164163.mp3 | greg 08.10.2025 [جامع الورود]
+    - msg   5711 | hijri 1447/03/21 | درس 2 | file 4_5999163297750849343.mp3 | greg 09.10.2025 [جامع الورود]
+    - msg   5724 | hijri 1447/03/28 | درس 3 | file Mp3 Editor_251013151759.mp3 | greg 13.10.2025 [جامع الورود]
+    - msg   5737 | hijri 1447/04/05 | درس 4 | file Mp3 Editor_251015092648.mp3 | greg 15.10.2025 [جامع الورود]
+    - msg   5747 | hijri 1447/04/12 | درس 5 | file Mp3 Editor_251015223639.mp3 | greg 16.10.2025 [جامع الورود]
+    - msg   5755 | hijri 1447/04/19 | درس 6 | file Mp3 Editor_251017122120.mp3 | greg 17.10.2025 [جامع الورود]
+
+Series: الشرح الموجز الممهد لتوحيد الخالق الممجد الذي ألفه شيخ الإسلام محمد
+  DB: 3 lessons, first DB date: 1447/08/06
+  Pre-DB in HTML: 1 message(s)
+    - msg   6282 | hijri 1447/08/05 | درس 1 | file AUDIO-2026-01-25-18-56-10.mp3 | greg 27.01.2026 [جامع الورود]
+
+Series: الملخص الفقهي
+  DB: 35 lessons, first DB date: 1447/04/18
+  Pre-DB in HTML: 10 message(s)
+    - msg   5523 | hijri 1447/01/06 | درس 1 | file AUD-20250702-WA0001.m4a | greg 02.07.2025
+    - msg   5710 | hijri 1447/03/16 | درس 1 | file 4_5999163297750849130.mp3 | greg 09.10.2025 [جامع الورود]
+    - msg   5714 | hijri 1447/03/18 | درس 2 | file Mp3 Editor_251010051137.mp3 | greg 10.10.2025 [جامع الورود]
+    - msg   5715 | hijri 1447/03/23 | درس 3 | file 4_5999204516551989829.mp3 | greg 10.10.2025 [جامع الورود]
+    - msg   5717 | hijri 1447/03/25 | درس 4 | file Mp3 Editor_251010204311.mp3 | greg 10.10.2025 [جامع الورود]
+    - msg   5732 | hijri 1447/03/30 | درس 5 | file Mp3 Editor_251013233847.mp3 | greg 14.10.2025 [جامع الورود]
+    - msg   5741 | hijri 1447/04/07 | درس 6 | file Mp3 Editor_251015105923.mp3 | greg 15.10.2025 [جامع الورود]
+    - msg   5744 | hijri 1447/04/09 | درس 7 | file Mp3 Editor_251015222016.mp3 | greg 16.10.2025 [جامع الورود]
+    - msg   5750 | hijri 1447/04/14 | درس 8 | file Mp3 Editor_251015225547.mp3 | greg 16.10.2025 [جامع الورود]
+    - msg   5754 | hijri 1447/04/16 | درس 9 | file Mp3 Editor_251017121802.mp3 | greg 17.10.2025 [جامع الورود]
+
+Series: الملخص شرح كتاب التوحيد
+  DB: 36 lessons, first DB date: 1447/04/17
+  Pre-DB in HTML: 9 message(s)
+    - msg   5704 | hijri 1447/03/15 | درس 1 | file 4_5996911497937164203.mp3 | greg 08.10.2025
+    - msg   5708 | hijri 1447/03/17 | درس 2 | file 4_5996911497937164379.mp3 | greg 09.10.2025 [جامع الورود]
+    - msg   5712 | hijri 1447/03/22 | درس 3 | file Mp3 Editor_251009191509.mp3 | greg 09.10.2025 [جامع الورود]
+    - msg   5716 | hijri 1447/03/24 | درس 4 | file Mp3 Editor_251010203747.mp3 | greg 10.10.2025 [جامع الورود]
+    - msg   5731 | hijri 1447/03/29 | درس 5 | file Mp3 Editor_251013233321.mp3 | greg 14.10.2025 [جامع الورود]
+    - msg   5738 | hijri 1447/04/06 | درس 6 | file Mp3 Editor_251015104410.mp3 | greg 15.10.2025 [جامع الورود]
+    - msg   5740 | hijri 1447/04/07 | درس 7 | file Mp3 Editor_251015105458.mp3 | greg 15.10.2025 [جامع الورود]
+    - msg   5748 | hijri 1447/04/13 | درس 8 | file Mp3 Editor_251015223832.mp3 | greg 16.10.2025 [جامع الورود]
+    - msg   5752 | hijri 1447/04/15 | درس 9 | file Mp3 Editor_251017120729.mp3 | greg 17.10.2025 [جامع الورود]
+
+Series: المورد العذب الزلال
+  DB: 10 lessons, first DB date: 1447/06/08
+  Pre-DB in HTML: 15 message(s)
+    - msg   3276 | hijri 1444/10/23 | درس (?) | file AUD-20230514-WA0000.m4a | greg 14.05.2023
+    - msg   3312 | hijri 1444/10/30 | درس (?) | file AUD-20230520-WA0010.m4a | greg 21.05.2023
+    - msg   3354 | hijri 1444/11/14 | درس (?) | file AUD-20230603-WA0018.m4a | greg 04.06.2023
+    - msg   3382 | hijri 1444/11/21 | درس (?) | file AUD-20230611-WA0010.m4a | greg 11.06.2023
+    - msg   3546 | hijri 1445/01/28 | درس (?) | file AUD-20230815-WA0009.m4a | greg 15.08.2023
+    - msg   3576 | hijri 1445/02/06 | درس (?) | file AUD-20230822-WA0005.m4a | greg 23.08.2023
+    - msg   3608 | hijri 1445/02/13 | درس (?) | file AUD-20230830-WA0000.m4a | greg 30.08.2023
+    - msg   3640 | hijri 1445/02/20 | درس (?) | file AUD-20230905-WA0006.m4a | greg 05.09.2023
+    - msg   3698 | hijri 1445/03/04 | درس (?) | file AUD-20230923-WA0000.m4a | greg 23.09.2023
+    - msg   3718 | hijri 1445/03/10 | درس (?) | file AUD-20230927-WA0000.m4a | greg 27.09.2023
+    - msg   3754 | hijri 1445/03/18 | درس (?) | file AUD-20231007-WA0000.m4a | greg 07.10.2023
+    - msg   3772 | hijri 1445/03/25 | درس (?) | file AUD-20231014-WA0003.m4a | greg 14.10.2023
+    - msg   3788 | hijri 1445/04/02 | درس (?) | file AUD-20231019-WA0062.m4a | greg 20.10.2023
+    - msg   5907 | hijri 1447/05/17 | درس 1 | file AUD-20251129-WA0017.m4a | greg 30.11.2025 [جامع الورود]
+    - msg   5920 | hijri 1447/05/24 | درس 2 | file AUD-20251202-WA0001.m4a | greg 02.12.2025 [جامع الورود]
+
+Series: تأسيس الأحكام شرح عمدة الأحكام
+  DB: 17 lessons, first DB date: 1447/06/17
+  Pre-DB in HTML: 30 message(s)
+    - msg   1797 | hijri 1443/03/13 | درس 4 | file AUD-20211024-WA0008.m4a | greg 24.10.2021
+    - msg   1810 | hijri 1443/03/20 | درس 5 | file AUD-20211027-WA0023.m4a | greg 27.10.2021
+    - msg   1837 | hijri 1443/04/06 | درس 6 | file AUD-20211111-WA0001.m4a | greg 11.11.2021
+    - msg   1869 | hijri 1443/04/19 | درس 7 | file AUD-20211124-WA0033.m4a | greg 24.11.2021
+    - msg   1890 | hijri 1443/05/04 | درس 8 | file AUD-20211208-WA0005.m4a | greg 09.12.2021
+    - msg   1911 | hijri 1443/05/11 | درس 9 | file AUD-20211216-WA0001.m4a | greg 16.12.2021
+    - msg   1920 | hijri 1443/05/18 | درس 40 | file AUD-20211225-WA0001.m4a | greg 25.12.2021
+    - msg   1944 | hijri 1443/06/02 | درس (?) | file AUD-20220106-WA0003.m4a | greg 06.01.2022
+    - msg   1955 | hijri 1443/06/09 | درس 2 | file 4_5983457770580479305.m4a | greg 14.01.2022
+    - msg   1977 | hijri 1443/06/23 | درس 3 | file AUD-20220126-WA0001.m4a | greg 27.01.2022
+    - msg   2010 | hijri 1443/07/08 | درس 4 | file AUD-20220210-WA0006.m4a | greg 10.02.2022
+    - msg   2022 | hijri 1443/07/16 | درس 5 | file AUD-20220217-WA0002.m4a | greg 17.02.2022
+    - msg   2082 | hijri 1443/08/13 | درس 6 | file AUD-20220318-WA0003.m4a | greg 19.03.2022
+    - msg   2108 | hijri 1443/08/27 | درس 7 | file AUD-20220331-WA0002.m4a | greg 04.04.2022
+    - msg   2188 | hijri 1443/10/10 | درس 8 | file AUD-20220511-WA0010.m4a | greg 12.05.2022
+    - msg   2200 | hijri 1443/10/17 | درس 9 | file AUD-20220518-WA0008.m4a | greg 19.05.2022
+    - msg   2219 | hijri 1443/10/24 | درس 50 | file AUD-20220525-WA0005.m4a | greg 26.05.2022
+    - msg   2233 | hijri 1443/11/02 | درس (?) | file AUD-20220604-WA0007.m4a | greg 04.06.2022
+    - msg   2237 | hijri 1443/11/09 | درس 2 | file AUD-20220609-WA0000.m4a | greg 09.06.2022
+    - msg   5729 | hijri 1447/03/29 | درس 2 | file Mp3 Editor_251013232021.mp3 | greg 14.10.2025 [جامع الورود]
+    - msg   5735 | hijri 1447/04/06 | درس 3 | file Mp3 Editor_251015085009.mp3 | greg 15.10.2025 [جامع الورود]
+    - msg   5773 | hijri 1447/04/26 | درس 4 | file Mp3 Editor_251022060402.mp3 | greg 22.10.2025 [جامع الورود]
+    - msg   5774 | hijri 1447/04/27 | درس 5 | file Mp3 Editor_251022060954.mp3 | greg 22.10.2025 [جامع الورود]
+    - msg   5893 | hijri 1447/05/11 | درس 6 | file Mp3 Editor_251127124529.mp3 | greg 27.11.2025 [جامع الورود]
+    - msg   5896 | hijri 1447/05/12 | درس 7 | file Mp3 Editor_251127133948.mp3 | greg 27.11.2025 [جامع الورود]
+    - msg   5904 | hijri 1447/05/18 | درس 8 | file Mp3 Editor_251129224717.mp3 | greg 30.11.2025 [جامع الورود]
+    - msg   5919 | hijri 1447/05/25 | درس 9 | file Mp3 Editor_251202153513.mp3 | greg 02.12.2025 [جامع الورود]
+    - msg   5990 | hijri 1447/05/26 | درس 1 | file AUD-20251213-WA0001.m4a | greg 13.12.2025 [جامع الورود]
+    - msg   5961 | hijri 1447/06/09 | درس 2 | file Mp3 Editor_251208205847.mp3 | greg 08.12.2025 [جامع الورود]
+    - msg   5962 | hijri 1447/06/10 | درس 3 | file Mp3 Editor_251208210432.mp3 | greg 08.12.2025 [جامع الورود]
+
+Series: تأسيس الأحكام شرح عمدة الأحكام - الطهارة
+  DB: 9 lessons, first DB date: 1447/04/21
+  Pre-DB in HTML: 16 message(s)
+    - msg   2392 | hijri 1444/02/16 | درس 2 | file AUD-20220912-WA0009.m4a | greg 13.09.2022
+    - msg   2402 | hijri 1444/02/23 | درس 3 | file AUD-20220919-WA0017.m4a | greg 20.09.2022
+    - msg   2421 | hijri 1444/03/07 | درس 4 | file الدرس_الرابع_من_كتاب_الطهارة_باب_بيان_النجاسات_من_الافنان_الندية.m4a | greg 09.10.2022
+    - msg   2464 | hijri 1444/03/18 | درس 5 | file ازالة النجاسات.m4a | greg 18.10.2022
+    - msg   2490 | hijri 1444/03/27 | درس 6 | file حسن (1) (1).mp3 | greg 24.10.2022
+    - msg   2521 | hijri 1444/04/05 | درس 8 | file AUD-20221031-WA0000.m4a | greg 31.10.2022
+    - msg   2526 | hijri 1444/04/06 | درس 9 | file AUD-20221101-WA0000.m4a | greg 01.11.2022
+    - msg   2554 | hijri 1444/04/12 | درس 10 | file AUD-20221107-WA0007.m4a | greg 08.11.2022
+    - msg   2556 | hijri 1444/04/13 | درس 11 | file AUD-20221107-WA0008.m4a | greg 08.11.2022
+    - msg   2582 | hijri 1444/04/19 | درس 12 | file AUD-20221114-WA0002.m4a | greg 14.11.2022
+    - msg   2591 | hijri 1444/04/20 | درس 13 | file AUD-20221115-WA0001.m4a | greg 15.11.2022
+    - msg   2673 | hijri 1444/05/17 | درس 14 | file AUD-20221211-WA0006 (4).m4a | greg 11.12.2022
+    - msg   2681 | hijri 1444/05/18 | درس 15 | file AUD-20221213-WA0002.m4a | greg 13.12.2022
+    - msg   2702 | hijri 1444/05/24 | درس 16 | file AUD-20221218-WA0005.m4a | greg 19.12.2022
+    - msg   2706 | hijri 1444/05/25 | درس 17 | file AUD-20221219-WA0002.m4a | greg 19.12.2022
+    - msg   5725 | hijri 1447/03/28 | درس 1 | file Mp3 Editor_251013152911.mp3 | greg 13.10.2025 [جامع الورود]
+
+Series: تنبيه الانام على ما في كتاب سبل السلام من الفوائد والأحكام
+  DB: 6 lessons, first DB date: 1447/07/02
+  Pre-DB in HTML: 11 message(s)
+    - msg   2027 | hijri 1443/07/17 | درس (?) | file AUD-20220218-WA0007.m4a | greg 19.02.2022
+    - msg   3392 | hijri 1444/11/22 | درس 1 | file AUD-20230611-WA0024.m4a | greg 13.06.2023
+    - msg   3394 | hijri 1444/11/23 | درس 2 | file AUD-20230612-WA0011.m4a | greg 13.06.2023
+    - msg   3403 | hijri 1444/11/24 | درس 3 | file AUD-20230613-WA0027.m4a | greg 16.06.2023
+    - msg   3411 | hijri 1444/11/25 | درس 4 | file AUD-20230615-WA0000.m4a | greg 17.06.2023
+    - msg   3413 | hijri 1444/11/27 | درس 5 | file AUD-20230616-WA0020.m4a | greg 17.06.2023
+    - msg   3421 | hijri 1444/11/28 | درس 6 | file AUD-20230618-WA0004.m4a | greg 19.06.2023
+    - msg   3425 | hijri 1444/12/01 | درس 7 | file AUD-20230620-WA0017.m4a | greg 20.06.2023
+    - msg   3434 | hijri 1444/12/02 | درس 8 | file AUD-20230620-WA0020.m4a | greg 21.06.2023
+    - msg   3436 | hijri 1444/12/03 | درس 9 | file AUD-20230621-WA0012.m4a | greg 22.06.2023
+    - msg   6061 | hijri 1447/06/29 | درس 1 | file AUDIO-2025-12-22-07-20-10.m4a | greg 22.12.2025 [جامع الورود]
+
+Series: تيسير العلي القدير لاختصار تفسير ابن كثير
+  DB: 5 lessons, first DB date: 1447/09/06
+  Pre-DB in HTML: 1 message(s)
+    - msg   6461 | hijri 1447/09/04 | درس 1 | file AUDIO-2026-02-21-22-58-00.m4a | greg 22.02.2026 [جامع الورود]
+
+Series: خطب الجمعة
+  DB: 5 lessons, first DB date: 1447/08/24
+  Pre-DB in HTML: 179 message(s)
+    - msg   2171 | hijri 1438/09/28 | درس (?) | file AUD-20220429-WA0000-[AudioTrimmer.com].m4a | greg 29.04.2022
+    - msg   6532 | hijri 1438/09/28 | درس (?) | file 4_6005569134098648111.m4a | greg 19.03.2026
+    - msg   3817 | hijri 1440/04/28 | درس (?) | file قصة صالح عليه السلام 55.m4a | greg 18.11.2023
+    - msg   1795 | hijri 1443/03/15 | درس (?) | file جماعة_السرورية_الارهابية_١٥_ربيع_الأول_١٤٤٣.m4a | greg 22.10.2021
+    - msg   1812 | hijri 1443/03/22 | درس (?) | file الحذر_من_الكهان_وأمثالهم_٢٢_٣_١٤٤٣.m4a | greg 30.10.2021
+    - msg   1828 | hijri 1443/03/30 | درس (?) | file قصة_يوسف_عليه_السلام_٤_٣٠_٣_١٤٤٣.m4a | greg 05.11.2021
+    - msg   1841 | hijri 1443/04/06 | درس (?) | file قصة_يوسف_عليه_السلام_٥_٦_٤_١٤٤٣.m4a | greg 13.11.2021
+    - msg   1854 | hijri 1443/04/13 | درس (?) | file AUD-20211119-WA0006-[AudioTrimmer.com].m4a | greg 19.11.2021
+    - msg   1871 | hijri 1443/04/20 | درس (?) | file AUD-20211126-WA0006-[AudioTrimmer.com].m4a | greg 26.11.2021
+    - msg   1878 | hijri 1443/04/27 | درس (?) | file يوسف.m4a | greg 03.12.2021
+    - msg   1893 | hijri 1443/05/06 | درس (?) | file جماعة التبليغ.m4a | greg 10.12.2021
+    - msg   1913 | hijri 1443/05/13 | درس (?) | file يييوسسف.m4a | greg 17.12.2021
+    - msg   1917 | hijri 1443/05/20 | درس (?) | file يوسف 8.m4a | greg 24.12.2021
+    - msg   1933 | hijri 1443/05/27 | درس (?) | file كورونا المتحور-[AudioTrimmer.com].m4a | greg 01.01.2022
+    - msg   1948 | hijri 1443/06/04 | درس (?) | file اللحيدان واحد.m4a | greg 07.01.2022
+    - msg   1957 | hijri 1443/06/11 | درس (?) | file AUD-20220114-WA0015-[AudioTrimmer.com].m4a | greg 15.01.2022
+    - msg   1965 | hijri 1443/06/18 | درس (?) | file AUD-20220121-WA0003-[AudioTrimmer.com].m4a | greg 21.01.2022
+    - msg   1979 | hijri 1443/06/25 | درس (?) | file AUD-20220128-WA0002-[AudioTrimmer.com].m4a | greg 28.01.2022
+    - msg   1987 | hijri 1443/07/03 | درس (?) | file AUD-20220204-WA0000-[AudioTrimmer.com].m4a | greg 04.02.2022
+    - msg   2012 | hijri 1443/07/10 | درس (?) | file AUD-20220211-WA0004-[AudioTrimmer.com].m4a | greg 11.02.2022
+    - msg   2024 | hijri 1443/07/17 | درس (?) | file AUD-20220218-WA0004-[AudioTrimmer.com].m4a | greg 18.02.2022
+    - msg   2044 | hijri 1443/07/24 | درس (?) | file AUD-20220225-WA0004-[AudioTrimmer.com].m4a | greg 26.02.2022
+    - msg   2054 | hijri 1443/08/01 | درس (?) | file AUD-20220304-WA0002-[AudioTrimmer.com].m4a | greg 04.03.2022
+    - msg   2069 | hijri 1443/08/08 | درس (?) | file AUD-20220311-WA0002-[AudioTrimmer.com].m4a | greg 11.03.2022
+    - msg   2084 | hijri 1443/08/15 | درس (?) | file AUD-20220318-WA0006-[AudioTrimmer.com].m4a | greg 19.03.2022
+    - msg   2126 | hijri 1443/09/07 | درس (?) | file AUD-20220408-WA0008-[AudioTrimmer.com].m4a | greg 09.04.2022
+    - msg   2145 | hijri 1443/09/14 | درس (?) | file Ringtone_تسجيل جديد ٤٢.m4a | greg 15.04.2022
+    - msg   2166 | hijri 1443/09/21 | درس (?) | file AUD-20220422-WA0002-[AudioTrimmer.com].m4a | greg 22.04.2022
+    - msg   2181 | hijri 1443/10/05 | درس (?) | file AUD-20220507-WA0018-[AudioTrimmer.com].m4a | greg 09.05.2022
+    - msg   2190 | hijri 1443/10/12 | درس (?) | file خطبة_الشيخ_حسن_محمد_الدغريري_قصة_يوسف_عليه_السلام_14.mp3 | greg 13.05.2022
+    - msg   2203 | hijri 1443/10/19 | درس (?) | file AUD-20220520-WA0002-[AudioTrimmer.com].m4a | greg 20.05.2022
+    - msg   2221 | hijri 1443/10/26 | درس (?) | file AUD-20220527-WA0004-[AudioTrimmer.com].m4a | greg 27.05.2022
+    - msg   2231 | hijri 1443/11/04 | درس (?) | file تسجيل_جديد_تتتت_AudioConverter_AudioTrimmer_com.m4a | greg 04.06.2022
+    - msg   2239 | hijri 1443/11/11 | درس (?) | file AUD-20220610-WA0001-[AudioTrimmer.com].m4a | greg 10.06.2022
+    - msg   2270 | hijri 1443/11/25 | درس (?) | file تسيد ١٩٢-AudioConverter-[AudioTrimmer.com].m4a | greg 26.06.2022
+    - msg   2280 | hijri 1443/12/02 | درس (?) | file خطبة الشيخ حسن دغريري ١٤٤٣.mp3 | greg 04.07.2022
+    - msg   2288 | hijri 1443/12/09 | درس (?) | file AUD-20220708-WA0000-[AudioTrimmer.com] (1).m4a | greg 08.07.2022
+    - msg   2322 | hijri 1443/12/16 | درس (?) | file AUD-20220726-WA0003-[AudioTrimmer.com].m4a | greg 29.07.2022
+    - msg   2324 | hijri 1443/12/23 | درس (?) | file AUD-20220731-WA0003-[AudioTrimmer.com].m4a | greg 31.07.2022
+    - msg   2326 | hijri 1443/12/30 | درس (?) | file AUD-20220730-WA0000-[AudioTrimmer.com].m4a | greg 31.07.2022
+    - msg   2329 | hijri 1444/01/07 | درس (?) | file AUD-20220805-WA0001-[AudioTrimmer.com].m4a | greg 05.08.2022
+    - msg   2331 | hijri 1444/01/14 | درس (?) | file AUD-20220812-WA0004-[AudioTrimmer.com].m4a | greg 12.08.2022
+    - msg   2341 | hijri 1444/01/21 | درس (?) | file التعامل_مع_الكفار_المعاهدين_٢١_١_١٤٤٤هـ.m4a | greg 19.08.2022
+    - msg   2348 | hijri 1444/01/28 | درس (?) | file AUD-20220827-WA0003-[AudioTrimmer.com].m4a | greg 27.08.2022
+    - msg   2355 | hijri 1444/02/06 | درس (?) | file AUD-20220902-WA0007-[AudioTrimmer.com].m4a | greg 02.09.2022
+    - msg   2385 | hijri 1444/02/13 | درس (?) | file اسم السميع وصفة السمع لله.m4a | greg 10.09.2022
+    - msg   2396 | hijri 1444/02/20 | درس (?) | file AUD-20220916-WA0011-[AudioTrimmer.com].m4a | greg 17.09.2022
+    - msg   2408 | hijri 1444/02/27 | درس (?) | file AUD-20220923-WA0001-[AudioTrimmer.com] (1).m4a | greg 23.09.2022
+    - msg   2415 | hijri 1444/03/04 | درس (?) | file اسم البصير وصفة البصر لله ( ٦ ).m4a | greg 09.10.2022
+    - msg   2414 | hijri 1444/03/11 | درس (?) | file الايمان_بحوض_النبي_صلى_الله_عليه_وسلم_.m4a | greg 07.10.2022
+    - msg   2517 | hijri 1444/04/03 | درس (?) | file خطبة جمعة.m4a | greg 28.10.2022
+    - msg   2538 | hijri 1444/04/10 | درس (?) | file خطبة 2.m4a | greg 04.11.2022
+    - msg   2574 | hijri 1444/04/17 | درس (?) | file AUD-20221111-WA0018-[AudioTrimmer.com].m4a | greg 11.11.2022
+    - msg   2607 | hijri 1444/04/24 | درس (?) | file AUD-20221118-WA0005-[AudioTrimmer.com].m4a | greg 18.11.2022
+    - msg   2635 | hijri 1444/05/01 | درس (?) | file خطبة جمعة (1).m4a | greg 25.11.2022
+    - msg   2640 | hijri 1444/05/08 | درس (?) | file قصة موسى عليه السلام (1).mp3 | greg 02.12.2022
+    - msg   2659 | hijri 1444/05/15 | درس (?) | file AUD-20221209-WA0004-[AudioTrimmer.com].m4a | greg 09.12.2022
+    - msg   2696 | hijri 1444/05/22 | درس (?) | file خطبة_جمعة_للشيخ_حسن_الدغريري_قصة_موسى_عليه_السلام.mp3 | greg 17.12.2022
+    - msg   2719 | hijri 1444/05/29 | درس (?) | file AUD-20221223-WA0004-[AudioTrimmer.com].m4a | greg 23.12.2022
+    - msg   2756 | hijri 1444/06/07 | درس (?) | file AUD-20221230-WA0006-[AudioTrimmer.com].m4a | greg 30.12.2022
+    - msg   2807 | hijri 1444/06/13 | درس (?) | file AUD-20230106-WA0002-[AudioTrimmer.com].m4a | greg 06.01.2023
+    - msg   2883 | hijri 1444/06/27 | درس (?) | file AUD-20230120-WA0002-[AudioTrimmer.com].m4a | greg 20.01.2023
+    - msg   2917 | hijri 1444/07/05 | درس (?) | file AUD-20230127-WA0025-[AudioTrimmer.com].m4a | greg 27.01.2023
+    - msg   2951 | hijri 1444/07/12 | درس (?) | file AUD-20230203-WA0009-[AudioTrimmer.com].m4a | greg 03.02.2023
+    - msg   2975 | hijri 1444/07/19 | درس (?) | file AUD-20230210-WA0005-[AudioTrimmer.com].m4a | greg 10.02.2023
+    - msg   3003 | hijri 1444/07/26 | درس (?) | file قصة موسى عليه السلام 6.mp3 | greg 17.02.2023
+    - msg   3042 | hijri 1444/08/04 | درس (?) | file AUD-20230225-WA0035-[AudioTrimmer.com].m4a | greg 26.02.2023
+    - msg   3066 | hijri 1444/08/11 | درس (?) | file AUDIO-2023-03-03-17-08-58.m4a | greg 03.03.2023
+    - msg   3106 | hijri 1444/08/25 | درس (?) | file AUD-20230318-WA0012-[AudioTrimmer.com].m4a | greg 18.03.2023
+    - msg   3151 | hijri 1444/09/09 | درس (?) | file AUD-20230331-WA0002-[AudioTrimmer.com].m4a | greg 31.03.2023
+    - msg   3184 | hijri 1444/09/16 | درس (?) | file AUD-20230407-WA0000-[AudioTrimmer.com].m4a | greg 07.04.2023
+    - msg   3214 | hijri 1444/09/23 | درس (?) | file AUD-20230415-WA0002-[AudioTrimmer.com].m4a | greg 15.04.2023
+    - msg   3218 | hijri 1444/10/01 | درس (?) | file AUD-20230421-WA0016-[AudioTrimmer.com].m4a | greg 22.04.2023
+    - msg   3246 | hijri 1444/10/15 | درس (?) | file AUD-20230505-WA0001-[AudioTrimmer.com].m4a | greg 05.05.2023
+    - msg   3328 | hijri 1444/11/06 | درس (?) | file AUD-20230526-WA0009-[AudioTrimmer.com].m4a | greg 26.05.2023
+    - msg   3346 | hijri 1444/11/13 | درس (?) | file one_AUD-20-AudioConverter.m4a | greg 02.06.2023
+    - msg   3377 | hijri 1444/11/20 | درس (?) | file AUD-20230609-WA0004-[AudioTrimmer.com].m4a | greg 10.06.2023
+    - msg   3409 | hijri 1444/11/27 | درس (?) | file AUD-20230616-WA0017-[AudioTrimmer.com].m4a | greg 16.06.2023
+    - msg   3439 | hijri 1444/12/05 | درس (?) | file AUD-20230623-WA0000-[AudioTrimmer.com].m4a | greg 23.06.2023
+    - msg   3448 | hijri 1444/12/19 | درس (?) | file AUD-20230707-WA0000-[AudioTrimmer.com].m4a | greg 07.07.2023
+    - msg   3455 | hijri 1445/01/03 | درس (?) | file Ringtone_AUD-20230721-WA0004.mp3 | greg 21.07.2023
+    - msg   3474 | hijri 1445/01/10 | درس (?) | file AUD-20230728-WA0012-[AudioTrimmer.com].m4a | greg 28.07.2023
+    - msg   3483 | hijri 1445/01/17 | درس (?) | file AUD-20230804-WA0006-[AudioTrimmer.com].m4a | greg 04.08.2023
+    - msg   3518 | hijri 1445/01/24 | درس (?) | file AUD-20230811-WA0000-[AudioTrimmer.com].m4a | greg 11.08.2023
+    - msg   3589 | hijri 1445/02/09 | درس (?) | file AUD-20230825-WA0001-[AudioTrimmer.com].m4a | greg 25.08.2023
+    - msg   3626 | hijri 1445/02/16 | درس (?) | file AUD-20230901-WA0009-[AudioTrimmer.com].m4a | greg 01.09.2023
+    - msg   3647 | hijri 1445/02/23 | درس (?) | file AUD-20230908-WA0009-[AudioTrimmer.com].m4a | greg 08.09.2023
+    - msg   3695 | hijri 1445/03/07 | درس (?) | file AUD-20230922-WA0000-[AudioTrimmer.com].m4a | greg 22.09.2023
+    - msg   3727 | hijri 1445/03/14 | درس (?) | file Ringtone_AUD-20230929-WA0003.mp3 | greg 29.09.2023
+    - msg   3751 | hijri 1445/03/21 | درس (?) | file AUD-20231006-WA0005.mp3 | greg 06.10.2023
+    - msg   3794 | hijri 1445/04/05 | درس (?) | file Ringtone_AUD-20231020-WA0002.m4a | greg 20.10.2023
+    - msg   3802 | hijri 1445/04/12 | درس (?) | file AUD-20231028-WA0006-[AudioTrimmer.com].m4a | greg 30.10.2023
+    - msg   3810 | hijri 1445/04/19 | درس (?) | file قصة_النبي_سليمان_عليه_السلام_خطبة_الجمعة_للشيخ_حسن_محمد_الدغريري.mp3 | greg 08.11.2023
+    - msg   3815 | hijri 1445/05/03 | درس (?) | file رضا_الله_عز_وجل_خطبة_الجمعة_للشيخ_حسن_بن_محمد_الدغريري.mp3 | greg 18.11.2023
+    - msg   3829 | hijri 1445/05/10 | درس (?) | file بناء_الأسرة_المسلمة_ومسؤولية_الأولاد_خطبة_جمعة_للشيخ_حسن_بن_محمد.mp3 | greg 27.11.2023
+    - msg   3843 | hijri 1445/05/17 | درس (?) | file الفردوس_الأعلى_من_الجنة_خطبة_جمعة_للشيخ_حسن_بن_محمد_الدغريري.mp3 | greg 01.12.2023
+    - msg   3867 | hijri 1445/05/24 | درس (?) | file أدنى_أهل_الجنة_منزلة_خطبة_جمعة_للشيخ_حسن_بن_محمد_منصور_الدغريري.mp3 | greg 08.12.2023
+    - msg   3903 | hijri 1445/06/09 | درس (?) | file AUD-20231222-WA0000-[AudioTrimmer.com].m4a | greg 22.12.2023
+    - msg   3927 | hijri 1445/06/16 | درس (?) | file AUD-20231229-WA0004-[AudioTrimmer.com].m4a | greg 29.12.2023
+    - msg   3959 | hijri 1445/06/23 | درس (?) | file AUD-20240105-WA0004-[AudioTrimmer.com].m4a | greg 05.01.2024
+    - msg   4001 | hijri 1445/07/07 | درس (?) | file AUD-20240119-WA0001-[AudioTrimmer.com] (2).m4a | greg 20.01.2024
+    - msg   4053 | hijri 1445/07/14 | درس (?) | file AUD-20240126-WA0001-[AudioTrimmer.com].m4a | greg 26.01.2024
+    - msg   4104 | hijri 1445/07/21 | درس (?) | file AUD-20240202-WA0000-[AudioTrimmer.com].m4a | greg 02.02.2024
+    - msg   4135 | hijri 1445/07/28 | درس (?) | file AUD-20240209-WA0004-[AudioTrimmer.com].m4a | greg 09.02.2024
+    - msg   4162 | hijri 1445/08/06 | درس (?) | file AUD-20240216-WA0000-[AudioTrimmer.com].m4a | greg 16.02.2024
+    - msg   4188 | hijri 1445/08/13 | درس (?) | file AUD-20240223-WA0006-[AudioTrimmer.com].m4a | greg 23.02.2024
+    - msg   4221 | hijri 1445/08/20 | درس (?) | file AUD-20240301-WA0002-[AudioTrimmer.com].m4a | greg 01.03.2024
+    - msg   4240 | hijri 1445/08/27 | درس (?) | file AUD-20240308-WA0004-[AudioTrimmer.com].m4a | greg 08.03.2024
+    - msg   4261 | hijri 1445/09/13 | درس (?) | file AUD-20240323-WA0008-[AudioTrimmer.com].m4a | greg 24.03.2024
+    - msg   4277 | hijri 1445/09/19 | درس (?) | file AUD-20240329-WA0000-[AudioTrimmer.com].m4a | greg 29.03.2024
+    - msg   4286 | hijri 1445/09/26 | درس (?) | file AUD-20240405-WA0004-[AudioTrimmer.com].m4a | greg 05.04.2024
+    - msg   4307 | hijri 1445/10/10 | درس (?) | file AUD-20240419-WA0004-[AudioTrimmer.com].m4a | greg 19.04.2024
+    - msg   4334 | hijri 1445/10/17 | درس (?) | file AUD-20240426-WA0003-[AudioTrimmer.com].m4a | greg 26.04.2024
+    - msg   4360 | hijri 1445/10/24 | درس (?) | file AUD-20240503-WA0001-[AudioTrimmer.com].m4a | greg 03.05.2024
+    - msg   4386 | hijri 1445/11/02 | درس (?) | file AUD-20240510-WA0001-[AudioTrimmer.com].m4a | greg 10.05.2024
+    - msg   4403 | hijri 1445/11/09 | درس (?) | file AUD-20240517-WA0002-[AudioTrimmer.com].m4a | greg 17.05.2024
+    - msg   4444 | hijri 1445/11/16 | درس (?) | file AUD-20240601-WA0010.mp3 | greg 03.06.2024
+    - msg   4449 | hijri 1445/12/01 | درس (?) | file AUD-20240607-WA0001-[AudioTrimmer.com].m4a | greg 07.06.2024
+    - msg   4479 | hijri 1445/12/08 | درس (?) | file AUD-20240616-WA0008.mp3 | greg 18.06.2024
+    - msg   4502 | hijri 1445/12/22 | درس (?) | file AUD-20240628-WA0002-[AudioTrimmer.com].m4a | greg 28.06.2024
+    - msg   4507 | hijri 1445/12/28 | درس (?) | file AUD-20240705-WA0004-[AudioTrimmer.com].m4a | greg 05.07.2024
+    - msg   4511 | hijri 1446/01/06 | درس (?) | file AUD-20240713-WA0001-[AudioTrimmer.com].m4a | greg 13.07.2024
+    - msg   4520 | hijri 1446/01/12 | درس (?) | file AUD-20240719-WA0002-[AudioTrimmer.com].m4a | greg 19.07.2024
+    - msg   4524 | hijri 1446/01/20 | درس (?) | file AUD-20240726-WA0000-[AudioTrimmer.com].m4a | greg 27.07.2024
+    - msg   4533 | hijri 1446/01/27 | درس (?) | file AUD-20240803-WA0000-[AudioTrimmer.com].m4a | greg 03.08.2024
+    - msg   4550 | hijri 1446/02/04 | درس (?) | file AUD-20240810-WA0000-[AudioTrimmer.com].m4a | greg 10.08.2024
+    - msg   4566 | hijri 1446/02/12 | درس (?) | file AUD-20240817-WA0003-[AudioTrimmer.com].m4a | greg 17.08.2024
+    - msg   4591 | hijri 1446/02/19 | درس (?) | file AUD-20240823-WA0007-[AudioTrimmer.com].m4a | greg 23.08.2024
+    - msg   4627 | hijri 1446/03/04 | درس (?) | file AUD-20240906-WA0000-[AudioTrimmer.com].m4a | greg 06.09.2024
+    - msg   4653 | hijri 1446/03/11 | درس (?) | file AUD-20240913-WA0001-[AudioTrimmer.com].m4a | greg 13.09.2024
+    - msg   4671 | hijri 1446/03/18 | درس (?) | file AUD-20240920-WA0003-[AudioTrimmer.com].m4a | greg 20.09.2024
+    - msg   4689 | hijri 1446/03/25 | درس (?) | file AUD-20240927-WA0001-[AudioTrimmer.com].m4a | greg 27.09.2024
+    - msg   4701 | hijri 1446/04/02 | درس (?) | file AUD-20241004-WA0029-[AudioTrimmer.com].m4a | greg 04.10.2024
+    - msg   4733 | hijri 1446/04/09 | درس (?) | file AUD-20241011-WA0012-[AudioTrimmer.com].m4a | greg 11.10.2024
+    - msg   4768 | hijri 1446/04/16 | درس (?) | file أهمية_الصحة_لفضيلة_الشيخ_حسن_بن_محمد_الدغريري.mp3 | greg 18.10.2024
+    - msg   4788 | hijri 1446/04/22 | درس (?) | file AUD-20241030-WA0000-[AudioTrimmer.com].m4a | greg 30.10.2024
+    - msg   4817 | hijri 1446/04/29 | درس (?) | file خطبة_جمعة_للشيخ_حسن_سيرة_محمد_بن_عبدالله_صلوات_الله_وسلامه_عليه.mp3 | greg 09.11.2024
+    - msg   4836 | hijri 1446/05/06 | درس (?) | file AUD-20241109-WA0001-[AudioTrimmer.com].m4a | greg 11.11.2024
+    - msg   4851 | hijri 1446/05/13 | درس (?) | file AUD-20241122-WA0003.m4a | greg 22.11.2024
+    - msg   4853 | hijri 1446/05/20 | درس (?) | file AUD-20241122-WA0005-[AudioTrimmer.com].m4a | greg 22.11.2024
+    - msg   4897 | hijri 1446/05/28 | درس (?) | file AUD-20241130-WA0000-[AudioTrimmer.com].m4a | greg 30.11.2024
+    - msg   4933 | hijri 1446/06/05 | درس (?) | file AUD-20241206-WA0001-[AudioTrimmer.com].m4a | greg 07.12.2024
+    - msg   4965 | hijri 1446/06/12 | درس (?) | file AUD-20241213-WA0007-[AudioTrimmer.com].m4a | greg 13.12.2024
+    - msg   4997 | hijri 1446/06/19 | درس (?) | file AUD-20241223-WA0025.mp3 | greg 23.12.2024
+    - msg   5019 | hijri 1446/06/26 | درس (?) | file AUD-20241227-WA0002-[AudioTrimmer.com].m4a | greg 28.12.2024
+    - msg   5053 | hijri 1446/07/03 | درس (?) | file AUD-20250105-WA0000-[AudioTrimmer.com].m4a | greg 05.01.2025
+    - msg   5072 | hijri 1446/07/10 | درس (?) | file AUD-20250111-WA0000.mp3 | greg 12.01.2025
+    - msg   5085 | hijri 1446/07/17 | درس (?) | file AUD-20250117-WA0002-[AudioTrimmer.com].m4a | greg 19.01.2025
+    - msg   5101 | hijri 1446/07/24 | درس (?) | file AUD-20250126-WA0000.mp3 | greg 26.01.2025
+    - msg   5127 | hijri 1446/08/01 | درس (?) | file AUD-20250201-WA0003-[AudioTrimmer.com].m4a | greg 01.02.2025
+    - msg   5143 | hijri 1446/08/08 | درس (?) | file AUD-20250208-WA0002-[AudioTrimmer.com].m4a | greg 08.02.2025
+    - msg   5170 | hijri 1446/08/15 | درس (?) | file AUD-20250218-WA0004-[AudioTrimmer.com].m4a | greg 18.02.2025
+    - msg   5183 | hijri 1446/08/22 | درس (?) | file AUD-20250221-WA0003-[AudioTrimmer.com].m4a | greg 21.02.2025
+    - msg   5199 | hijri 1446/08/29 | درس (?) | file AUD-20250228-WA0001-[AudioTrimmer.com].m4a | greg 28.02.2025
+    - msg   5208 | hijri 1446/09/07 | درس (?) | file AUD-20250308-WA0001-[AudioTrimmer.com].m4a | greg 08.03.2025
+    - msg   5266 | hijri 1446/09/21 | درس (?) | file AUD-20250322-WA0001-[AudioTrimmer.com].m4a | greg 25.03.2025
+    - msg   5275 | hijri 1446/09/28 | درس (?) | file AUD-20250329-WA0001-[AudioTrimmer.com].m4a | greg 29.03.2025
+    - msg   6537 | hijri 1446/09/28 | درس (?) | file AUD-20250329-WA0001-[AudioTrimmer.com].m4a | greg 19.03.2026
+    - msg   5319 | hijri 1446/10/06 | درس (?) | file AUD-20250406-WA0000-[AudioTrimmer.com].m4a | greg 06.04.2025
+    - msg   5326 | hijri 1446/10/13 | درس (?) | file AUD-20250411-WA0026-[AudioTrimmer.com].m4a | greg 12.04.2025
+    - msg   5341 | hijri 1446/10/20 | درس (?) | file AUD-20250418-WA0001-[AudioTrimmer.com].m4a | greg 20.04.2025
+    - msg   5354 | hijri 1446/10/27 | درس (?) | file AUD-20250425-WA0001-[AudioTrimmer.com].m4a | greg 26.04.2025
+    - msg   5371 | hijri 1446/11/04 | درس (?) | file AUD-20250502-WA0001-[AudioTrimmer.com].m4a | greg 02.05.2025
+    - msg   5386 | hijri 1446/11/11 | درس (?) | file AUD-20250509-WA0004-[AudioTrimmer.com].m4a | greg 09.05.2025
+    - msg   5406 | hijri 1446/11/18 | درس (?) | file AUD-20250516-WA0002-[AudioTrimmer.com].m4a | greg 16.05.2025
+    - msg   5439 | hijri 1446/12/03 | درس (?) | file وصايا لحجاج بيت الله.m4a | greg 30.05.2025
+    - msg   5455 | hijri 1446/12/10 | درس (?) | file AUD-20250606-WA0006-[AudioTrimmer.com].m4a | greg 07.06.2025
+    - msg   5471 | hijri 1446/12/17 | درس (?) | file AUD-20250614-WA0001-[AudioTrimmer.com].m4a | greg 14.06.2025
+    - msg   5492 | hijri 1446/12/24 | درس (?) | file خطبة_الجمعة_للشيخ_حسن_بن_محمد_منصور_الدغريري.mp3 | greg 22.06.2025
+    - msg   5507 | hijri 1447/01/02 | درس (?) | file AUD-20250627-WA0002-[AudioTrimmer.com].m4a | greg 27.06.2025
+    - msg   5528 | hijri 1447/01/09 | درس (?) | file AUD-20250704-WA0003-[AudioTrimmer.com].m4a | greg 04.07.2025
+    - msg   5569 | hijri 1447/01/16 | درس (?) | file AUD-20250711-WA0001-[AudioTrimmer.com].m4a | greg 11.07.2025
+    - msg   5610 | hijri 1447/01/23 | درس (?) | file AUD-20250719-WA0004-[AudioTrimmer.com].m4a | greg 19.07.2025
+    - msg   5619 | hijri 1447/02/07 | درس (?) | file AUD-20250801-WA0000-[AudioTrimmer.com].m4a | greg 01.08.2025
+    - msg   5635 | hijri 1447/02/14 | درس (?) | file AUD-20250808-WA0001-[AudioTrimmer.com].m4a | greg 09.08.2025
+    - msg   5649 | hijri 1447/02/28 | درس (?) | file AUD-20250823-WA0002-[AudioTrimmer.com].m4a | greg 30.08.2025
+    - msg   5655 | hijri 1447/03/06 | درس (?) | file AUD-20250830-WA0006-[AudioTrimmer.com].m4a | greg 30.08.2025
+    - msg   5899 | hijri 1447/06/07 | درس (?) | file AUDIO-2025-11-28-23-15-18.m4a | greg 28.11.2025
+    - msg   5945 | hijri 1447/06/14 | درس (?) | file Ringtone_AUD-20251207-WA0004.mp3 | greg 08.12.2025
+
+================================================================================
+=== WITHIN-DB MATCHES (HTML messages in same date range as DB — already imported) ===
+================================================================================
+
+  إتمام المنة بشرح أصول السنة: DB=3, HTML total=10 (within=3, new=1, pre=6)
+  إرشاد الساري شرح السنة للبربهاري: DB=14, HTML total=14 (within=10, new=0, pre=4)
+  الأفنان الندية - عن بعد: DB=33, HTML total=145 (within=9, new=96, pre=40)
+  التحفة النجمية بشرح الأربعين النووية: DB=7, HTML total=7 (within=6, new=0, pre=1)
+  التعليقات البهية على الرسائل العقدية: DB=9, HTML total=9 (within=7, new=0, pre=2)
+  التفسير الميسر: DB=15, HTML total=44 (within=7, new=31, pre=6)
+  الشرح الموجز الممهد لتوحيد الخالق الممجد الذي ألفه شيخ الإسلام محمد: DB=3, HTML total=9 (within=2, new=6, pre=1)
+  الملخص الفقهي: DB=35, HTML total=50 (within=27, new=13, pre=10)
+  الملخص شرح كتاب التوحيد: DB=36, HTML total=79 (within=22, new=48, pre=9)
+  المورد العذب الزلال: DB=10, HTML total=35 (within=8, new=12, pre=15)
+  تأسيس الأحكام شرح عمدة الأحكام: DB=17, HTML total=153 (within=14, new=109, pre=30)
+  تأسيس الأحكام شرح عمدة الأحكام - الطهارة: DB=9, HTML total=16 (within=0, new=0, pre=16)
+  تأسيس الأحكام شرح عمدة الأحكام - عن بعد: DB=15, HTML total=10 (within=7, new=3, pre=0)
+  تنبيه الانام على ما في كتاب سبل السلام من الفوائد والأحكام: DB=6, HTML total=27 (within=6, new=10, pre=11)
+  تيسير العلي القدير لاختصار تفسير ابن كثير: DB=5, HTML total=13 (within=4, new=8, pre=1)
+  خطب الجمعة: DB=5, HTML total=298 (within=0, new=119, pre=179)
+  خطبة الجمعة - مختصر السيرة النبوية: DB=9, HTML total=14 (within=3, new=11, pre=0)
+  دروس رمضان - وزارة الشؤون الإسلامية: DB=22, HTML total=39 (within=22, new=17, pre=0)
+  شرح كتاب الفقه الميسر - أرشيف رمضان: DB=6, HTML total=30 (within=29, new=1, pre=0)
+  صحيح البخاري: DB=4, HTML total=9 (within=4, new=5, pre=0)
+  كتاب آداب المشي إلى الصلاة- كتاب_الصيام - أرشيف رمضان: DB=6, HTML total=3 (within=0, new=3, pre=0)
+  معارج القبول شرح منظومة سلم الوصول - عن بعد: DB=15, HTML total=18 (within=4, new=14, pre=0)
+
+================================================================================
+=== DB SERIES WITH NO HTML MESSAGES FOUND ===
+================================================================================
+
+  الأفنان الندية - أرشيف رمضان (DB: 10 lessons, last: -)
+  الملخص الفقهي - أرشيف رمضان (DB: 5 lessons, last: -)
+  الممتع شرح زاد المستقنع - أرشيف رمضان (DB: 15 lessons, last: 1444/09/20)
+  تأسيس الأحكام شرح عمدة الأحكام - أرشيف رمضان (DB: 12 lessons, last: 1443/09/17)
+  تنبيه الأنام على ما في كتاب سبل السلام من الفوائد والأحكام - أرشيف رمضان (DB: 12 lessons, last: 1443/09/12)
+  محاضرات متفرقة (DB: 4 lessons, last: 1447/09/20)
+  مختصر السيرة النبوية (DB: 7 lessons, last: 1447/08/26)
+
+================================================================================
+=== SPECIAL NOTES ===
+================================================================================
+
+NOTE: 'التفسير الميسر' (DB) is a different book from 'تيسير العلي القدير لاختصار تفسير ابن كثير' (also in DB). The DB contains both as separate series. In HTML, التفسير_الميسر hashtag corresponds to the DB series 'التفسير الميسر', while تيسير العلي القدير corresponds to the Ramadan series. These are NOT the same book.

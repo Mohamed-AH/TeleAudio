@@ -27,6 +27,7 @@ HTML_FILES = [
     ROOT / "messages2.html",
     ROOT / "messages3.html",
     ROOT / "messages4.html",
+    ROOT / "messages_new.html",
     ROOT / "messages_june1.html",
 ]
 
@@ -784,6 +785,35 @@ SERIES: dict[str, SeriesConfig] = {
         extract_lesson=extract_ordinal_lesson,
         output_file="tahqeeq_idah_index.txt",
     ),
+
+    # صحيح مسلم — شرح ودراسة (8+ lessons, 1447/10–12)
+    "sahih_muslim": SeriesConfig(
+        key="sahih_muslim",
+        title="صحيح مسلم",
+        match_re=re.compile(r"صحيح[\s_]مسلم"),
+        exclude_re=re.compile(r"الإبهاج[\s_]بشرح[\s_]صحيح[\s_]مسلم"),
+        extract_lesson=extract_ordinal_lesson,
+        output_file="sahih_muslim_index.txt",
+    ),
+
+    # الإبهاج بشرح صحيح مسلم بن الحجاج — النجمي
+    "ibhaj": SeriesConfig(
+        key="ibhaj",
+        title="الإبهاج بشرح صحيح مسلم بن الحجاج",
+        match_re=re.compile(r"الإبهاج[\s_]بشرح[\s_]صحيح[\s_]مسلم"),
+        extract_lesson=extract_ordinal_lesson,
+        output_file="ibhaj_index.txt",
+    ),
+
+    # فتح الرب الغفور في شرح الواجبات المتحتمات المعرفة (3+ lessons, 1447/11–12)
+    "fath_rabb": SeriesConfig(
+        key="fath_rabb",
+        title="فتح الرب الغفور ذي الرحمة في شرح الواجبات المتحتمات المعرفة على كل مسلم ومسلمة",
+        match_re=re.compile(r"فتح[\s_]الرب[\s_]الغفور|فتح_الرب_الغفور"),
+        extract_lesson=extract_ordinal_lesson,
+        output_file="fath_rabb_index.txt",
+    ),
+
 }
 
 # ---------------------------------------------------------------------------
