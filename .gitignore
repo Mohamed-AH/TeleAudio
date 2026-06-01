@@ -8,3 +8,4 @@ __pycache__/
 .DS_Store
 downloads/download_report.json
 downloads/*.part
+files/
