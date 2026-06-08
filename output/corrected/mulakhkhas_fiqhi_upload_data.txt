@@ -1,0 +1,195 @@
+الملخص الفقهي — Upload Data (DB Lessons 34–48)
+بجامع الورود، حي الورود، جدة
+كتاب: الملخص الفقهي — للعلامة صالح بن فوزان الفوزان
+
+DB Status  : 33 lessons already in MongoDB (Sort Orders 0–32)
+To Upload  : 14 lessons available (DB #34–46 + DB #48)
+Missing    : Lesson 47 has NOT been posted to the channel as of the last HTML export
+             (channel jumped from "46th" directly to "48th")
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHANNEL NUMBERING ANOMALIES — READ BEFORE UPLOADING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. OUT-OF-ORDER (lessons 42 & 43):
+   - Channel posted lesson 43 (msg 6883, Hijri 1447/11/05) BEFORE lesson 42 (msg 6884,
+     Hijri 1447/11/03) — both posted on the same Gregorian day 24/04/2026.
+   - Correct order by Hijri date: lesson 42 first, then lesson 43.
+   - Upload DB lesson 42 (msg 6884) BEFORE DB lesson 43 (msg 6883).
+
+2. DUPLICATE LABEL (lesson 43 used twice):
+   - Msg 6883 (24/04/2026): channel says "الثالث والأربعون", كتاب الصلاة (٢٢)
+   - Msg 6949 (29/04/2026): channel ALSO says "الثالث والأربعون", كتاب الصلاة (٢٣)
+   - The second entry (msg 6949) should logically be lesson 44 based on its Hijri date
+     (1447/11/10) and its sequential كتاب الصلاة number (23 follows 22).
+   - In the table below: msg 6949 is assigned DB lesson 44 (corrected label).
+   - CONSEQUENCE: channel labels from this point are 1 behind the suggested DB numbers
+     (channel "44th" = DB lesson 45, channel "45th" = DB 46, channel "46th" = DB 47).
+
+3. MISSING LESSON 47:
+   - No record with channel ordinal 47 or كتاب الصلاة (27) exists in any HTML export.
+   - The channel jumped from its "46th" entry (msg 7138, sub-26) to "48th" (msg 7429, sub-28).
+   - DB lesson 47 cannot be uploaded until the channel posts it.
+   - DB lesson 48 IS available (msg 7429, channel "48th", Hijri 1447/12/01).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE  (sorted by lesson number / upload order)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Ch#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ---  ------  -----------  ------------  ----------------------------------------
+34   34   6376    06/02/2026   1447/08/16    AUDIO-2026-02-04-21-23-40.m4a
+35   35   6404    10/02/2026   1447/08/21    AUDIO-2026-02-09-17-38-56.m4a
+36   36   6579    31/03/2026   1447/10/11    AUDIO-2026-03-30-21-01-25.m4a
+37   37   6595    02/04/2026   1447/10/13    AUDIO-2026-04-01-17-00-50.m4a
+38   38   6685    08/04/2026   1447/10/18    AUDIO-2026-04-06-19-19-46.m4a
+39   39   6705    09/04/2026   1447/10/20    AUDIO-2026-04-08-18-26-52.m4a
+40   40   6806    16/04/2026   1447/10/25    AUDIO-2026-04-13-17-36-14.m4a
+41   41   6811    16/04/2026   1447/10/27    AUDIO-2026-04-15-20-46-56.m4a
+42   42   6884    24/04/2026   1447/11/03    AUDIO-2026-04-22-18-34-52.m4a   ← UPLOAD FIRST
+43   43   6883    24/04/2026   1447/11/05    AUDIO-2026-04-22-18-26-40.m4a   ← UPLOAD SECOND
+44   43*  6949    29/04/2026   1447/11/10    AUDIO-2026-04-27-19-08-14.m4a   ← ch label WRONG (see note 2)
+45   44   6979    30/04/2026   1447/11/12    Fiqh44.m4a
+46   45   7133    08/05/2026   1447/11/17    AUDIO-2026-05-04-19-31-46.m4a
+47   46   7138    08/05/2026   1447/11/19    AUDIO-2026-05-06-19-17-06 (1).m4a
+--   --   ----    ----------   ----------    [DB lesson 47 NOT YET POSTED]
+48   48   7429    21/05/2026   1447/12/01    AUDIO-2026-05-18-20-33-02.m4a
+
+*Ch# 43 used twice by channel; see anomaly note 2 above.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 34 | Msg 6376 | Greg 06/02/2026 | Hijri 1447/08/16 ---
+Audio   : AUDIO-2026-02-04-21-23-40.m4a
+Link    : https://t.me/daririhasan/6376
+Title   : الدرس الرابع والثلاثون
+Chapter : من كتاب الصلاة (١٣) — باب الذكر عقب الصلاة
+Duration: 18:01
+
+--- DB Lesson 35 | Msg 6404 | Greg 10/02/2026 | Hijri 1447/08/21 ---
+Audio   : AUDIO-2026-02-09-17-38-56.m4a
+Link    : https://t.me/daririhasan/6404
+Title   : الدرس الخامس والثلاثون
+Chapter : من كتاب الصلاة (١٤) — باب الذكر عقب الصلاة
+Duration: 15:09
+
+--- DB Lesson 36 | Msg 6579 | Greg 31/03/2026 | Hijri 1447/10/11 ---
+Audio   : AUDIO-2026-03-30-21-01-25.m4a
+Link    : https://t.me/daririhasan/6579
+Title   : الدرس السادس والثلاثون
+Chapter : من كتاب الصلاة (١٥) — باب في صلاة التراويح وأحكامها
+Duration: 10:23
+
+--- DB Lesson 37 | Msg 6595 | Greg 02/04/2026 | Hijri 1447/10/13 ---
+Audio   : AUDIO-2026-04-01-17-00-50.m4a
+Link    : https://t.me/daririhasan/6595
+Title   : الدرس السابع والثلاثون
+Chapter : من كتاب الصلاة (١٦) — باب في السنن الرواتب مع الفرائض
+Duration: 10:35
+
+--- DB Lesson 38 | Msg 6685 | Greg 08/04/2026 | Hijri 1447/10/18 ---
+Audio   : AUDIO-2026-04-06-19-19-46.m4a
+Link    : https://t.me/daririhasan/6685
+Title   : الدرس الثامن والثلاثون
+Chapter : من كتاب الصلاة (١٧) — باب في الضحى
+Duration: 6:43
+
+--- DB Lesson 39 | Msg 6705 | Greg 09/04/2026 | Hijri 1447/10/20 ---
+Audio   : AUDIO-2026-04-08-18-26-52.m4a
+Link    : https://t.me/daririhasan/6705
+Title   : الدرس التاسع والثلاثون
+Chapter : من كتاب الصلاة (١٨) — باب في سجود التلاوة
+Duration: 6:20
+
+--- DB Lesson 40 | Msg 6806 | Greg 16/04/2026 | Hijri 1447/10/25 ---
+Audio   : AUDIO-2026-04-13-17-36-14.m4a
+Link    : https://t.me/daririhasan/6806
+Title   : الدرس الأربعون
+Chapter : من كتاب الصلاة (١٩) — باب في التطوع المطلق
+Duration: 10:11
+
+--- DB Lesson 41 | Msg 6811 | Greg 16/04/2026 | Hijri 1447/10/27 ---
+Audio   : AUDIO-2026-04-15-20-46-56.m4a
+Link    : https://t.me/daririhasan/6811
+Title   : الدرس الحادي والأربعون
+Chapter : من كتاب الصلاة (٢٠) — باب أوقات النهي عن الصلاة فيها
+Duration: 8:01
+
+--- DB Lesson 42 | Msg 6884 | Greg 24/04/2026 | Hijri 1447/11/03 ---
+Audio   : AUDIO-2026-04-22-18-34-52.m4a
+Link    : https://t.me/daririhasan/6884
+Title   : الدرس الثاني والأربعون
+Chapter : من كتاب الصلاة (٢١) — باب صلاة الجماعة
+Duration: 11:07
+⚠ UPLOAD BEFORE lesson 43 (msg 6883 was posted first by ID but has later Hijri date)
+
+--- DB Lesson 43 | Msg 6883 | Greg 24/04/2026 | Hijri 1447/11/05 ---
+Audio   : AUDIO-2026-04-22-18-26-40.m4a
+Link    : https://t.me/daririhasan/6883
+Title   : الدرس الثالث والأربعون
+Chapter : من كتاب الصلاة (٢٢) — باب صلاة الجماعة
+Duration: 11:42
+⚠ UPLOAD AFTER lesson 42 (see above)
+
+--- DB Lesson 44 | Msg 6949 | Greg 29/04/2026 | Hijri 1447/11/10 ---
+Audio   : AUDIO-2026-04-27-19-08-14.m4a
+Link    : https://t.me/daririhasan/6949
+Title   : الدرس الرابع والأربعون  (CORRECTED — channel mislabeled as "الثالث والأربعون")
+Chapter : من كتاب الصلاة (٢٣) — باب صلاة المسبوق
+Duration: 14:27
+⚠ Channel label is "43rd" but this is the 2nd occurrence; correct ordinal is 44th.
+  All subsequent DB numbers in this file are corrected (+1 from channel label).
+
+--- DB Lesson 45 | Msg 6979 | Greg 30/04/2026 | Hijri 1447/11/12 ---
+Audio   : Fiqh44.m4a
+Link    : https://t.me/daririhasan/6979
+Title   : الدرس الخامس والأربعون  (channel label: "الرابع والأربعون")
+Chapter : من كتاب الصلاة (٢٤) — باب صلاة المسبوق (تابع)
+Duration: 7:37
+
+--- DB Lesson 46 | Msg 7133 | Greg 08/05/2026 | Hijri 1447/11/17 ---
+Audio   : AUDIO-2026-05-04-19-31-46.m4a
+Link    : https://t.me/daririhasan/7133
+Title   : الدرس السادس والأربعون  (channel label: "الخامس والأربعون")
+Chapter : من كتاب الصلاة (٢٥) — باب صلاة المسبوق (تابع)
+Duration: 8:12
+
+--- DB Lesson 47 | Msg 7138 | Greg 08/05/2026 | Hijri 1447/11/19 ---
+Audio   : AUDIO-2026-05-06-19-17-06 (1).m4a
+Link    : https://t.me/daririhasan/7138
+Title   : الدرس السابع والأربعون  (channel label: "السادس والأربعون")
+Chapter : من كتاب الصلاة (٢٦) — باب في من لا تصح إمامته في الصلاة
+Duration: 12:46
+
+[DB Lesson 48 — كتاب الصلاة (٢٧) — NOT YET POSTED TO CHANNEL]
+
+--- DB Lesson 49 | Msg 7429 | Greg 21/05/2026 | Hijri 1447/12/01 ---
+Audio   : AUDIO-2026-05-18-20-33-02.m4a
+Link    : https://t.me/daririhasan/7429
+Title   : الدرس التاسع والأربعون  (channel label: "الثامن والأربعون")
+Chapter : من كتاب الصلاة (٢٨) — باب في صلاة أهل الأعذار
+Duration: 8:12
+Note    : Channel skipped from "46th" to "48th"; DB lesson 48 (sub-27) not yet posted.
+          This record is included here as it falls within the requested range once
+          the duplicate-43 correction shifts numbering by +1.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NUMBERING DECISION SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+If you prefer to follow the channel labels strictly (not correct the duplicate 43):
+  DB 44 = msg 6883 (ch "43rd", sub-22)
+  DB 45 = msg 6949 (ch "43rd", sub-23) — duplicate, use sub-lesson number to distinguish
+  DB 46 = msg 6979 (ch "44th", sub-24)
+  ...
+  DB 49 = msg 7429 (ch "48th", sub-28)
+  DB 50 = pending (sub-27 / ch "47th" not yet posted)
+
+This file uses the CORRECTED numbering (treating the 2nd "43rd" as 44th, then +1 all the way).
+Either approach leaves one lesson (sub-27 / ch-47) still missing from the channel.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
