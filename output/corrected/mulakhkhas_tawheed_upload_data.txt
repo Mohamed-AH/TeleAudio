@@ -1,0 +1,148 @@
+الملخص في شرح كتاب التوحيد — Upload Data (Mosque Format Series)
+بجامع الورود، حي الورود، جدة
+
+DB Status : 36 lessons already in MongoDB (Sort Orders 0–35)
+To Upload : 13 lessons (DB #37–49)
+Availability: Lessons 50–51 have NOT been posted to the channel as of the last HTML export (messages_june1.html, through msg ~7509)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IMPORTANT NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Channel re-numbering: The channel labeled msgs 6394 & 6406 (Feb 2026, DB lessons 35-36)
+   as "الدرس السابع والثلاثون" and "الدرس الثامن والثلاثون". After a break, they RESTARTED
+   numbering from 37 (msg 6576, Mar 2026). DB lessons 37-49 below are the SECOND run of 37+.
+
+2. OUT-OF-ORDER: Upload DB lesson 47 BEFORE DB lesson 48.
+   - DB lesson 47 = msg 7227 (Hijri 1447/11/17 — earlier date)
+   - DB lesson 48 = msg 7213 (Hijri 1447/11/23 — later date, but LOWER msg ID because posted first)
+   The channel mistakenly posted lesson 48 before lesson 47 by message ID.
+
+3. DB lesson 46 (msg 7080): The lesson title in the channel has a typo
+   ("الدرس الساس الاربعون" instead of "السادس والأربعون"). Use the corrected title below.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ------  -----------  ------------  ----------------------------------------
+37   6576    31/03/2026   1447/10/10    AUDIO-2026-03-29-23-55-49.m4a
+38   6585    01/04/2026   1447/10/12    AUDIO-2026-03-31-21-51-26.m4a
+39   6666    06/04/2026   1447/10/17    AUDIO-2026-04-05-19-32-54.m4a
+40   6687    08/04/2026   1447/10/19    AUDIO-2026-04-07-19-40-30.m4a
+41   6804    16/04/2026   1447/10/24    AUDIO-2026-04-13-02-58-34.m4a
+42   6858    20/04/2026   1447/11/02    AUDIO-2026-04-20-09-41-03.m4a
+43   6880    24/04/2026   1447/11/04    AUDIO-2026-04-21-16-43-01.m4a
+44   6948    29/04/2026   1447/11/09    AUDIO-2026-04-27-15-52-42.m4a
+45   7078    04/05/2026   1447/11/12    AUDIO-2026-05-03-15-42-02.m4a
+46   7080    04/05/2026   1447/11/16    AUDIO-2026-05-03-17-35-31.m4a
+47   7227    12/05/2026   1447/11/17    AUDIO-2026-05-12-14-17-26.m4a   ← UPLOAD FIRST
+48   7213    12/05/2026   1447/11/23    التوحيد٢٢.m4a                   ← UPLOAD SECOND
+49   7260    14/05/2026   1447/11/24    AUDIO-2026-05-12-17-05-28.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS (Title + Full Context)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 37 | Msg 6576 | 31/03/2026 | Hijri 1447/10/10 ---
+Audio   : AUDIO-2026-03-29-23-55-49.m4a
+Link    : https://t.me/daririhasan/6576
+Title   : الدرس السابع والثلاثون
+Chapter : باب ما جاء أن سبب كفر بني آدم وتركهم دينهم هو الغلو في الصالحين
+Duration: 10:53
+
+--- DB Lesson 38 | Msg 6585 | 01/04/2026 | Hijri 1447/10/12 ---
+Audio   : AUDIO-2026-03-31-21-51-26.m4a
+Link    : https://t.me/daririhasan/6585
+Title   : الدرس الثامن والثلاثون
+Chapter : باب ما جاء في التغليظ على من عبد الله عند قبر صالح فكيف لو عبده
+Duration: 14:51
+
+--- DB Lesson 39 | Msg 6666 | 06/04/2026 | Hijri 1447/10/17 ---
+Audio   : AUDIO-2026-04-05-19-32-54.m4a
+Link    : https://t.me/daririhasan/6666
+Title   : الدرس التاسع والثلاثون
+Chapter : باب ما جاء من التغليظ فيمن عبد الله عند قبر رجل صالح فكيف إذا عبده
+Duration: 10:58
+
+--- DB Lesson 40 | Msg 6687 | 08/04/2026 | Hijri 1447/10/19 ---
+Audio   : AUDIO-2026-04-07-19-40-30.m4a
+Link    : https://t.me/daririhasan/6687
+Title   : الدرس الأربعون
+Chapter : باب ما جاء أن الغلو في قبور الصالحين يجعلها أوثاناً تُعبد من دون الله
+Duration: 6:50
+Note    : Channel text has "الاربعون" (missing hamza); corrected to "الأربعون"
+
+--- DB Lesson 41 | Msg 6804 | 16/04/2026 | Hijri 1447/10/24 ---
+Audio   : AUDIO-2026-04-13-02-58-34.m4a
+Link    : https://t.me/daririhasan/6804
+Title   : الدرس الحادي والأربعون
+Chapter : باب ما جاء في حماية المصطفى ﷺ جناب التوحيد وسده كل طريق يوصل إلى الشرك
+Duration: 11:42
+
+--- DB Lesson 42 | Msg 6858 | 20/04/2026 | Hijri 1447/11/02 ---
+Audio   : AUDIO-2026-04-20-09-41-03.m4a
+Link    : https://t.me/daririhasan/6858
+Title   : الدرس الثاني والأربعون
+Chapter : باب ما جاء في أن بعض هذه الأمة يعبد الأوثان
+Duration: 7:58
+
+--- DB Lesson 43 | Msg 6880 | 24/04/2026 | Hijri 1447/11/04 ---
+Audio   : AUDIO-2026-04-21-16-43-01.m4a
+Link    : https://t.me/daririhasan/6880
+Title   : الدرس الثالث والأربعون
+Chapter : باب ما جاء في أن بعض هذه الأمة يعبد الأوثان (تابع)
+Duration: 10:15
+
+--- DB Lesson 44 | Msg 6948 | 29/04/2026 | Hijri 1447/11/09 ---
+Audio   : AUDIO-2026-04-27-15-52-42.m4a
+Link    : https://t.me/daririhasan/6948
+Title   : الدرس الرابع والأربعون
+Chapter : باب ما جاء في السحر
+Duration: 7:56
+
+--- DB Lesson 45 | Msg 7078 | 04/05/2026 | Hijri 1447/11/12 ---
+Audio   : AUDIO-2026-05-03-15-42-02.m4a
+Link    : https://t.me/daririhasan/7078
+Title   : الدرس الخامس والأربعون
+Chapter : (not mentioned in message text — lesson continues the السحر chapter or starts new)
+Duration: 8:08
+
+--- DB Lesson 46 | Msg 7080 | 04/05/2026 | Hijri 1447/11/16 ---
+Audio   : AUDIO-2026-05-03-17-35-31.m4a
+Link    : https://t.me/daririhasan/7080
+Title   : الدرس السادس والأربعون
+Chapter : (channel text has typo "الساس الاربعون"; no chapter title given in message)
+Duration: 6:47
+Note    : Corrected title = "السادس والأربعون"
+
+--- DB Lesson 47 | Msg 7227 | 12/05/2026 | Hijri 1447/11/17 ---
+Audio   : AUDIO-2026-05-12-14-17-26.m4a
+Link    : https://t.me/daririhasan/7227
+Title   : الدرس السابع والأربعون
+Chapter : باب ما جاء في الكهانة ونحوهم
+Duration: 4:29
+⚠ UPLOAD ORDER: Upload this (lesson 47) BEFORE lesson 48.
+  Reason: msg 7213 (lesson 48) has a LOWER message ID and will appear earlier in Telegram,
+  but its Hijri date (1447/11/23) is later than this lesson (1447/11/17).
+  The correct chronological order is 47 then 48.
+
+--- DB Lesson 48 | Msg 7213 | 12/05/2026 | Hijri 1447/11/23 ---
+Audio   : التوحيد٢٢.m4a
+Link    : https://t.me/daririhasan/7213
+Title   : الدرس الثامن والأربعون
+Chapter : تابع باب ما جاء في الكهان ونحوهم
+Duration: 6:02
+⚠ UPLOAD ORDER: Upload AFTER lesson 47 (see note above).
+
+--- DB Lesson 49 | Msg 7260 | 14/05/2026 | Hijri 1447/11/24 ---
+Audio   : AUDIO-2026-05-12-17-05-28.m4a
+Link    : https://t.me/daririhasan/7260
+Title   : الدرس التاسع والأربعون
+Chapter : باب ما جاء في النشرة
+Duration: 6:23
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
