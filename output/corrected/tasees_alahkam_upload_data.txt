@@ -1,0 +1,221 @@
+تأسيس الأحكام شرح عمدة الأحكام — Upload Data (Mosque Series, after DB Lesson 24)
+بجامع الورود، حي الورود، جدة
+كتاب: شرح عمدة الأحكام — للعلامة أحمد بن يحيى النجمي رحمه الله
+
+DB Status  : 24 lessons in MongoDB (Sort Orders 0–23)
+             [9 Taharah lessons + 15 Salah lessons (1st–15th of كتاب الصلاة)]
+             Last uploaded: "الخامس عشر من كتاب الصلاة" | Audio: AUDIO-2026-02-02-17-40-44.m4a
+To Upload  : 18 lessons available (see gap note below)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IMPORTANT NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. EXCLUDED — كتاب القصاص / كتاب الحدود (عن بُعد) sub-series:
+   During the same period, the channel also posted lessons from كتاب القصاص
+   and كتاب الحدود under the same series title but conducted "عن بُعد" (online).
+   These appear as msgs 6375, 6423, 6707, 7139, 7268 and are NOT included here.
+   Handle them as a separate series entry.
+
+2. GAP — كتاب الصلاة lessons 18–26 (9 lessons) are MISSING:
+   The channel posted Salah lessons 1–17 (now DB lessons 10–26), then jumped
+   directly to lesson 27. Sub-lessons 18–26 were never posted to the channel.
+   DB lesson numbers below assume these 9 missing lessons will be back-filled
+   later; if you prefer to skip them, renumber DB 27 = next sequential slot.
+
+3. DUPLICATE LABEL — "الثامن والعشرون" used twice:
+   - Msg 6580 (Hijri 1447/10/11): first session on باب الذكر عقب الصلاة
+   - Msg 6664 (Hijri 1447/10/17): second session, same title
+   These are two separate recordings on the same chapter.
+   Suggested fix: add "(تابع)" to the second one's title.
+
+4. DB lesson numbering in this file:
+   DB 25 = Salah 16th     (available)
+   DB 26 = Salah 17th     (available)
+   DB 27–35 = Salah 18–26 (MISSING — not in channel)
+   DB 36 = Salah 27th     (available)
+   … etc.
+   Adjust DB numbers if you decide not to reserve slots for the missing 9 lessons.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#   Ch#  Msg ID  Greg Date    Hijri Date    Audio Filename
+----  ---  ------  -----------  ------------  ----------------------------------------
+25    16   6393    09/02/2026   1447/08/20    AUDIO-2026-02-08-17-34-17.m4a
+26    17   6403    10/02/2026   1447/08/21    AUDIO-2026-02-09-17-38-22.m4a
+[27–35: كتاب الصلاة (18–26) — NOT POSTED TO CHANNEL]
+36    27   6577    31/03/2026   1447/10/10    AUDIO-2026-03-29-23-52-32.m4a
+37    28   6580    31/03/2026   1447/10/11    AUDIO-2026-03-30-20-59-55.m4a
+38    28*  6664    06/04/2026   1447/10/17    AUDIO-2026-04-05-19-27-40.m4a   ← duplicate label
+39    29   6684    08/04/2026   1447/10/18    AUDIO-2026-04-06-19-17-42.m4a
+40    30   6803    16/04/2026   1447/10/24    AUDIO-2026-04-13-02-55-07.m4a
+41    31   6805    16/04/2026   1447/10/25    AUDIO-2026-04-13-17-35-29.m4a
+42    32   6857    20/04/2026   1447/11/02    AUDIO-2026-04-20-09-39-58.m4a
+43    33   6878    24/04/2026   1447/11/03    AUDIO-2026-04-20-18-06-20.m4a
+44    34   6945    29/04/2026   1447/11/09    AUDIO-2026-04-26-18-20-52.m4a
+45    35   6951    29/04/2026   1447/11/10    combined_audio.m4a
+46    36   7079    04/05/2026   1447/11/16    AUDIO-2026-05-03-17-33-54.m4a
+47    37   7134    08/05/2026   1447/11/17    Tasees37.m4a
+48    38   7214    12/05/2026   1447/11/23    AUDIO-2026-05-10-23-26-47.m4a
+49    39   7224    12/05/2026   1447/11/24    AUDIO-2026-05-11-17-57-14.m4a
+50    40   7346    18/05/2026   1447/11/30    AUDIO-2026-05-17-20-18-16.m4a
+51    41   7428    21/05/2026   1447/12/01    AUDIO-2026-05-18-18-08-46.m4a
+
+*Ch# 28 used twice; see note 3 above.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 25 | Msg 6393 | Greg 09/02/2026 | Hijri 1447/08/20 ---
+Audio   : AUDIO-2026-02-08-17-34-17.m4a
+Link    : https://t.me/daririhasan/6393
+Title   : الدرس السادس عشر من كتاب الصلاة
+Duration: (not stated in message)
+
+--- DB Lesson 26 | Msg 6403 | Greg 10/02/2026 | Hijri 1447/08/21 ---
+Audio   : AUDIO-2026-02-09-17-38-22.m4a
+Link    : https://t.me/daririhasan/6403
+Title   : الدرس السابع عشر من كتاب الصلاة
+Duration: (not stated in message)
+
+[══ GAP: كتاب الصلاة lessons 18–26 (DB 27–35) — never posted to channel ══]
+
+--- DB Lesson 36 | Msg 6577 | Greg 31/03/2026 | Hijri 1447/10/10 ---
+Audio   : AUDIO-2026-03-29-23-52-32.m4a
+Link    : https://t.me/daririhasan/6577
+Title   : الدرس السابع والعشرون من كتاب الصلاة
+Chapter : باب الوتر
+Duration: (not stated in message)
+
+--- DB Lesson 37 | Msg 6580 | Greg 31/03/2026 | Hijri 1447/10/11 ---
+Audio   : AUDIO-2026-03-30-20-59-55.m4a
+Link    : https://t.me/daririhasan/6580
+Title   : الدرس الثامن والعشرون من كتاب الصلاة
+Chapter : باب الذكر عقب الصلاة (الجلسة الأولى)
+Duration: (not stated in message)
+
+--- DB Lesson 38 | Msg 6664 | Greg 06/04/2026 | Hijri 1447/10/17 ---
+Audio   : AUDIO-2026-04-05-19-27-40.m4a
+Link    : https://t.me/daririhasan/6664
+Title   : الدرس التاسع والعشرون من كتاب الصلاة  (CORRECTED — channel used "28th" again)
+Chapter : باب الذكر عقب الصلاة (تابع)
+Duration: (not stated in message)
+⚠ Channel labeled this "الثامن والعشرون" (28th) a second time. Corrected to 29th here.
+  All subsequent DB lesson numbers in this section are +1 vs channel labels.
+
+--- DB Lesson 39 | Msg 6684 | Greg 08/04/2026 | Hijri 1447/10/18 ---
+Audio   : AUDIO-2026-04-06-19-17-42.m4a
+Link    : https://t.me/daririhasan/6684
+Title   : الدرس الثلاثون من كتاب الصلاة  (channel: "التاسع والعشرون")
+Chapter : باب قصر الصلاة في السفر
+Duration: (not stated in message)
+
+--- DB Lesson 40 | Msg 6803 | Greg 16/04/2026 | Hijri 1447/10/24 ---
+Audio   : AUDIO-2026-04-13-02-55-07.m4a
+Link    : https://t.me/daririhasan/6803
+Title   : الدرس الحادي والثلاثون من كتاب الصلاة  (channel: "الثلاثون")
+Chapter : باب الجمعة
+Duration: (not stated in message)
+
+--- DB Lesson 41 | Msg 6805 | Greg 16/04/2026 | Hijri 1447/10/25 ---
+Audio   : AUDIO-2026-04-13-17-35-29.m4a
+Link    : https://t.me/daririhasan/6805
+Title   : الدرس الثاني والثلاثون من كتاب الصلاة  (channel: "الحادي والثلاثون")
+Chapter : باب الجمعة (تابع)
+Duration: (not stated in message)
+
+--- DB Lesson 42 | Msg 6857 | Greg 20/04/2026 | Hijri 1447/11/02 ---
+Audio   : AUDIO-2026-04-20-09-39-58.m4a
+Link    : https://t.me/daririhasan/6857
+Title   : الدرس الثالث والثلاثون من كتاب الصلاة  (channel: "الثاني والثلاثون")
+Chapter : باب صلاة العيدين
+Duration: (not stated in message)
+
+--- DB Lesson 43 | Msg 6878 | Greg 24/04/2026 | Hijri 1447/11/03 ---
+Audio   : AUDIO-2026-04-20-18-06-20.m4a
+Link    : https://t.me/daririhasan/6878
+Title   : الدرس الرابع والثلاثون من كتاب الصلاة  (channel: "الثالث والثلاثون")
+Chapter : باب صلاة الكسوف
+Duration: (not stated in message)
+
+--- DB Lesson 44 | Msg 6945 | Greg 29/04/2026 | Hijri 1447/11/09 ---
+Audio   : AUDIO-2026-04-26-18-20-52.m4a
+Link    : https://t.me/daririhasan/6945
+Title   : الدرس الخامس والثلاثون من كتاب الصلاة  (channel: "الرابع والثلاثون")
+Chapter : باب صلاة الاستسقاء
+Duration: (not stated in message)
+
+--- DB Lesson 45 | Msg 6951 | Greg 29/04/2026 | Hijri 1447/11/10 ---
+Audio   : combined_audio.m4a
+Link    : https://t.me/daririhasan/6951
+Title   : الدرس السادس والثلاثون من كتاب الصلاة  (channel: "الخامس والثلاثون")
+Chapter : باب صلاة الخوف
+Duration: (not stated in message)
+Note    : Audio filename is "combined_audio.m4a" — hand-merged file
+
+--- DB Lesson 46 | Msg 7079 | Greg 04/05/2026 | Hijri 1447/11/16 ---
+Audio   : AUDIO-2026-05-03-17-33-54.m4a
+Link    : https://t.me/daririhasan/7079
+Title   : الدرس السابع والثلاثون — كتاب الجنائز  (channel: "السادس والثلاثون")
+Chapter : كتاب الجنائز
+Duration: (not stated in message)
+
+--- DB Lesson 47 | Msg 7134 | Greg 08/05/2026 | Hijri 1447/11/17 ---
+Audio   : Tasees37.m4a
+Link    : https://t.me/daririhasan/7134
+Title   : الدرس الثامن والثلاثون — كتاب الجنائز  (channel: "السابع والثلاثون")
+Chapter : كتاب الجنائز (تابع)
+Duration: (not stated in message)
+
+--- DB Lesson 48 | Msg 7214 | Greg 12/05/2026 | Hijri 1447/11/23 ---
+Audio   : AUDIO-2026-05-10-23-26-47.m4a
+Link    : https://t.me/daririhasan/7214
+Title   : الدرس التاسع والثلاثون — كتاب الجنائز  (channel: "الثامن والثلاثون")
+Chapter : كتاب الجنائز (تابع)
+Duration: (not stated in message)
+
+--- DB Lesson 49 | Msg 7224 | Greg 12/05/2026 | Hijri 1447/11/24 ---
+Audio   : AUDIO-2026-05-11-17-57-14.m4a
+Link    : https://t.me/daririhasan/7224
+Title   : الدرس الأربعون — كتاب الجنائز  (channel: "التاسع والثلاثون")
+Chapter : كتاب الجنائز (تابع)
+Duration: (not stated in message)
+
+--- DB Lesson 50 | Msg 7346 | Greg 18/05/2026 | Hijri 1447/11/30 ---
+Audio   : AUDIO-2026-05-17-20-18-16.m4a
+Link    : https://t.me/daririhasan/7346
+Title   : الدرس الحادي والأربعون — كتاب الزكاة  (channel: "الأربعون")
+Chapter : كتاب الزكاة
+Duration: (not stated in message)
+
+--- DB Lesson 51 | Msg 7428 | Greg 21/05/2026 | Hijri 1447/12/01 ---
+Audio   : AUDIO-2026-05-18-18-08-46.m4a
+Link    : https://t.me/daririhasan/7428
+Title   : الدرس الثاني والأربعون — كتاب الزكاة  (channel: "الحادي والأربعون")
+Chapter : كتاب الزكاة (تابع)
+Duration: (not stated in message)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EXCLUDED — عن بُعد sub-sessions (separate series)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+These 5 records appear under the same series title but cover different books (كتاب القصاص,
+كتاب الحدود) and are conducted online. Handle as a separate DB series entry.
+
+Msg 6375  | Greg 06/02/2026 | Hijri 1447/08/16 | AUDIO-2026-02-11-22-20-02.m4a
+           كتاب القصاص — الدرس الأول عن بُعد
+Msg 6423  | Greg 12/02/2026 | Hijri 1447/08/23 | AUDIO-2026-02-11-22-20-02.m4a
+           كتاب القصاص — الدرس الثاني عن بُعد
+Msg 6707  | Greg 09/04/2026 | Hijri 1447/10/20 | AUDIO-2026-04-08-21-53-49.m4a
+           كتاب القصاص — الدرس الثالث عن بُعد
+Msg 7139  | Greg 08/05/2026 | Hijri 1447/11/19 | AUDIO-2026-05-06-21-54-39.m4a
+           كتاب القصاص — الدرس الرابع عن بُعد
+Msg 7268  | Greg 15/05/2026 | Hijri 1447/11/26 | AUDIO-2026-05-14-10-23-34.m4a
+           كتاب الحدود — الدرس الأول عن بُعد
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
