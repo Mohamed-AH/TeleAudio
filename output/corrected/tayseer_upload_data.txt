@@ -1,0 +1,140 @@
+تيسير العلي القدير لاختصار تفسير ابن كثير رحمه الله — Upload Data
+بجامع الورود، حي الورود، جدة
+كتاب: تيسير العلي القدير لاختصار تفسير ابن كثير رحمه الله
+
+DB Status  : 0 lessons in MongoDB
+To Upload  : 13 lessons (DB #1–13)
+Availability: Series ongoing — 13 lessons posted as of messages_june1.html
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- Lessons 1–5 (msgs 6461–6494) were posted during Ramadan 1447 (Feb–Mar 2026);
+  their channel text labels them as "دروس رمضان - تيسير العلي القدير".
+- Lessons 6–13 (msgs 6596–7437) continue after Ramadan, labeled simply
+  "تيسير العلي القدير لاختصار تفسير ابن كثير" (without رمضان prefix).
+- All 13 lessons are part of the same DB series.
+- Every lesson has an explicit chapter (Surah or Ayah range) in the message text.
+- Arabic filenames: Tafseer10.m4a (DB 10), Tafseer.m4a (DB 11),
+  ابن كثير.m4a (DB 13).
+- Note: DB 7 chapter text shows ٣٧-٤٨ (no ٣٦); ayah 36 appears to be skipped.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ------  -----------  ------------  ----------------------------------------
+1    6461    22/02/2026   1447/09/04    AUDIO-2026-02-21-22-58-00.m4a
+2    6473    24/02/2026   1447/09/06    AUDIO-2026-02-23-23-04-08.m4a
+3    6479    26/02/2026   1447/09/08    AUDIO-2026-02-25-22-45-23.m4a
+4    6487    02/03/2026   1447/09/11    AUDIO-2026-02-28-22-55-14.m4a
+5    6494    05/03/2026   1447/09/15    AUDIO-2026-03-05-00-38-22.m4a
+6    6596    02/04/2026   1447/10/13    AUDIO-2026-04-01-22-41-55.m4a
+7    6706    09/04/2026   1447/10/20    AUDIO-2026-04-08-18-29-28.m4a
+8    6812    16/04/2026   1447/10/27    AUDIO-2026-04-15-21-12-31.m4a
+9    6882    24/04/2026   1447/11/05    AUDIO-2026-04-22-18-21-11.m4a
+10   6978    30/04/2026   1447/11/12    Tafseer10.m4a
+11   7140    08/05/2026   1447/11/19    Tafseer.m4a
+12   7261    14/05/2026   1447/11/26    AUDIO-2026-05-13-20-23-55.m4a
+13   7437    21/05/2026   1447/12/03    ابن كثير.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 1 | Msg 6461 | Greg 22/02/2026 | Hijri 1447/09/04 ---
+Audio   : AUDIO-2026-02-21-22-58-00.m4a
+Link    : https://t.me/daririhasan/6461
+Title   : الدرس الأول
+Chapter : سورة الفاتحة
+Duration: 41:34
+
+--- DB Lesson 2 | Msg 6473 | Greg 24/02/2026 | Hijri 1447/09/06 ---
+Audio   : AUDIO-2026-02-23-23-04-08.m4a
+Link    : https://t.me/daririhasan/6473
+Title   : الدرس الثاني
+Chapter : تابع سورة الفاتحة
+Duration: 44:54
+
+--- DB Lesson 3 | Msg 6479 | Greg 26/02/2026 | Hijri 1447/09/08 ---
+Audio   : AUDIO-2026-02-25-22-45-23.m4a
+Link    : https://t.me/daririhasan/6479
+Title   : الدرس الثالث
+Chapter : سورة البقرة ١-٧
+Duration: 42:35
+
+--- DB Lesson 4 | Msg 6487 | Greg 02/03/2026 | Hijri 1447/09/11 ---
+Audio   : AUDIO-2026-02-28-22-55-14.m4a
+Link    : https://t.me/daririhasan/6487
+Title   : الدرس الرابع
+Chapter : سورة البقرة ٨-٢٠
+Duration: 36:45
+
+--- DB Lesson 5 | Msg 6494 | Greg 05/03/2026 | Hijri 1447/09/15 ---
+Audio   : AUDIO-2026-03-05-00-38-22.m4a
+Link    : https://t.me/daririhasan/6494
+Title   : الدرس الخامس
+Chapter : سورة البقرة ٢١-٢٥
+Duration: 27:17
+
+--- DB Lesson 6 | Msg 6596 | Greg 02/04/2026 | Hijri 1447/10/13 ---
+Audio   : AUDIO-2026-04-01-22-41-55.m4a
+Link    : https://t.me/daririhasan/6596
+Title   : الدرس السادس
+Chapter : سورة البقرة ٢٦-٣٥
+Duration: 49:06
+
+--- DB Lesson 7 | Msg 6706 | Greg 09/04/2026 | Hijri 1447/10/20 ---
+Audio   : AUDIO-2026-04-08-18-29-28.m4a
+Link    : https://t.me/daririhasan/6706
+Title   : الدرس السابع
+Chapter : سورة البقرة ٣٧-٤٨
+Duration: 39:47
+
+--- DB Lesson 8 | Msg 6812 | Greg 16/04/2026 | Hijri 1447/10/27 ---
+Audio   : AUDIO-2026-04-15-21-12-31.m4a
+Link    : https://t.me/daririhasan/6812
+Title   : الدرس الثامن
+Chapter : سورة البقرة ٤٩-٥٧
+Duration: 34:01
+
+--- DB Lesson 9 | Msg 6882 | Greg 24/04/2026 | Hijri 1447/11/05 ---
+Audio   : AUDIO-2026-04-22-18-21-11.m4a
+Link    : https://t.me/daririhasan/6882
+Title   : الدرس التاسع
+Chapter : سورة البقرة ٥٨-٦٦
+Duration: 46:46
+
+--- DB Lesson 10 | Msg 6978 | Greg 30/04/2026 | Hijri 1447/11/12 ---
+Audio   : Tafseer10.m4a
+Link    : https://t.me/daririhasan/6978
+Title   : الدرس العاشر
+Chapter : سورة البقرة ٦٧-٨٢
+Duration: 29:06
+
+--- DB Lesson 11 | Msg 7140 | Greg 08/05/2026 | Hijri 1447/11/19 ---
+Audio   : Tafseer.m4a
+Link    : https://t.me/daririhasan/7140
+Title   : الدرس الحادي عشر
+Chapter : سورة البقرة ٨٣-٨٦
+Duration: 10:52
+
+--- DB Lesson 12 | Msg 7261 | Greg 14/05/2026 | Hijri 1447/11/26 ---
+Audio   : AUDIO-2026-05-13-20-23-55.m4a
+Link    : https://t.me/daririhasan/7261
+Title   : الدرس الثاني عشر
+Chapter : سورة البقرة ٨٧-٩٨
+Duration: 29:36
+
+--- DB Lesson 13 | Msg 7437 | Greg 21/05/2026 | Hijri 1447/12/03 ---
+Audio   : ابن كثير.m4a
+Link    : https://t.me/daririhasan/7437
+Title   : الدرس الثالث عشر
+Chapter : سورة البقرة ٩٩-١٠٥
+Duration: 37:30
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

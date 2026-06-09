@@ -1,0 +1,172 @@
+التعليقات الأثرية على العقيدة الواسطية — Upload Data (2022 Series)
+بجامع الورود / عن بُعد (WhatsApp format)
+كتاب: التعليقات الأثرية على العقيدة الواسطية — للعلامة أحمد بن يحيى النجمي رحمه الله
+
+DB Status  : 0 lessons in MongoDB
+To Upload  : 19 lessons (DB #1–19)
+Series     : COMPLETED — lesson 19 labeled "الدرس التاسع عشر والأخير"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- This is the 2022 WhatsApp series (AUD-* filenames, no durations in message text).
+- A separate 2026 mosque series (5 lessons) exists — see wasatiyya_new_2026_upload_data.txt.
+- Hijri dates: DB 1 and DB 19 are from the message text; DB 2–18 are approximate
+  conversions from AUD filename dates (accurate to ±1 day due to Hijri day-start).
+- DB 10 and DB 11 were both posted on 06/09/2022 (same Telegram date) — separate lessons.
+- DB 15 has an Arabic filename (الشيخ حسن.m4a) with no embedded date.
+- DB 16 includes a chapter label: الإيمان بالقدر.
+- No durations available — WhatsApp format does not include duration in message text.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ------  -----------  ------------  ----------------------------------------
+1    2019    16/02/2022   1443/07/15    AUD-20220215-WA0007.m4a
+2    2050    02/03/2022   1443/07/29    AUD-20220302-WA0000.m4a
+3    2079    16/03/2022   1443/08/12    AUD-20220315-WA0014.m4a
+4    2092    23/03/2022   1443/08/19    AUD-20220322-WA0026.m4a
+5    2110    04/04/2022   1443/08/27    AUD-20220330-WA0000.m4a
+6    2184    11/05/2022   1443/10/10    AUD-20220511-WA0003.m4a
+7    2198    18/05/2022   1443/10/17    AUD-20220518-WA0003.m4a
+8    2217    25/05/2022   1443/10/24    AUD-20220525-WA0000.m4a
+9    2226    02/06/2022   1443/11/02    AUD-20220601-WA0002.m4a
+10   2373    06/09/2022   1444/02/10    AUD-20220906-WA0004.m4a
+11   2375    06/09/2022   1444/02/10    AUD-20220906-WA0006.m4a
+12   2394    14/09/2022   1444/02/17    AUD-20220913-WA0008 (1).m4a
+13   2404    21/09/2022   1444/02/24    AUD-20220920-WA0007.m4a
+14   2412    27/09/2022   1444/03/01    AUD-20220927-WA0001.m4a
+15   2442    12/10/2022   1444/03/16    الشيخ حسن.m4a
+16   2472    18/10/2022   1444/03/22    AUD-20221018-WA0021.m4a
+17   2507    25/10/2022   1444/03/29    AUD-20221025-WA0011.m4a
+18   2569    10/11/2022   1444/04/15    AUD-20221109-WA0016.m4a
+19   2601    16/11/2022   1444/04/21    AUD-20221116-WA0000.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 1 | Msg 2019 | Greg 16/02/2022 | Hijri 1443/07/15 ---
+Audio   : AUD-20220215-WA0007.m4a
+Link    : https://t.me/daririhasan/2019
+Title   : الدرس الأول
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 2 | Msg 2050 | Greg 02/03/2022 | Hijri 1443/07/29 ---
+Audio   : AUD-20220302-WA0000.m4a
+Link    : https://t.me/daririhasan/2050
+Title   : الدرس الثاني
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 3 | Msg 2079 | Greg 16/03/2022 | Hijri 1443/08/12 ---
+Audio   : AUD-20220315-WA0014.m4a
+Link    : https://t.me/daririhasan/2079
+Title   : الدرس الثالث
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 4 | Msg 2092 | Greg 23/03/2022 | Hijri 1443/08/19 ---
+Audio   : AUD-20220322-WA0026.m4a
+Link    : https://t.me/daririhasan/2092
+Title   : الدرس الرابع
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 5 | Msg 2110 | Greg 04/04/2022 | Hijri 1443/08/27 ---
+Audio   : AUD-20220330-WA0000.m4a
+Link    : https://t.me/daririhasan/2110
+Title   : الدرس الخامس
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 6 | Msg 2184 | Greg 11/05/2022 | Hijri 1443/10/10 ---
+Audio   : AUD-20220511-WA0003.m4a
+Link    : https://t.me/daririhasan/2184
+Title   : الدرس السادس
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 7 | Msg 2198 | Greg 18/05/2022 | Hijri 1443/10/17 ---
+Audio   : AUD-20220518-WA0003.m4a
+Link    : https://t.me/daririhasan/2198
+Title   : الدرس السابع
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 8 | Msg 2217 | Greg 25/05/2022 | Hijri 1443/10/24 ---
+Audio   : AUD-20220525-WA0000.m4a
+Link    : https://t.me/daririhasan/2217
+Title   : الدرس الثامن
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 9 | Msg 2226 | Greg 02/06/2022 | Hijri 1443/11/02 ---
+Audio   : AUD-20220601-WA0002.m4a
+Link    : https://t.me/daririhasan/2226
+Title   : الدرس التاسع
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 10 | Msg 2373 | Greg 06/09/2022 | Hijri 1444/02/10 ---
+Audio   : AUD-20220906-WA0004.m4a
+Link    : https://t.me/daririhasan/2373
+Title   : الدرس العاشر
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 11 | Msg 2375 | Greg 06/09/2022 | Hijri 1444/02/10 ---
+Audio   : AUD-20220906-WA0006.m4a
+Link    : https://t.me/daririhasan/2375
+Title   : الدرس الحادي عشر
+Note    : No duration (WhatsApp format — duration not in message text)
+Note    : DB 10 and DB 11 both posted same day (06/09/2022) — two separate lessons.
+
+--- DB Lesson 12 | Msg 2394 | Greg 14/09/2022 | Hijri 1444/02/17 ---
+Audio   : AUD-20220913-WA0008 (1).m4a
+Link    : https://t.me/daririhasan/2394
+Title   : الدرس الثاني عشر
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 13 | Msg 2404 | Greg 21/09/2022 | Hijri 1444/02/24 ---
+Audio   : AUD-20220920-WA0007.m4a
+Link    : https://t.me/daririhasan/2404
+Title   : الدرس الثالث عشر
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 14 | Msg 2412 | Greg 27/09/2022 | Hijri 1444/03/01 ---
+Audio   : AUD-20220927-WA0001.m4a
+Link    : https://t.me/daririhasan/2412
+Title   : الدرس الرابع عشر
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 15 | Msg 2442 | Greg 12/10/2022 | Hijri 1444/03/16 ---
+Audio   : الشيخ حسن.m4a
+Link    : https://t.me/daririhasan/2442
+Title   : الدرس الخامس عشر
+Note    : No duration (WhatsApp format — duration not in message text)
+Note    : Audio filename is Arabic (الشيخ حسن.m4a) — no AUD date in filename.
+
+--- DB Lesson 16 | Msg 2472 | Greg 18/10/2022 | Hijri 1444/03/22 ---
+Audio   : AUD-20221018-WA0021.m4a
+Link    : https://t.me/daririhasan/2472
+Title   : الدرس السادس عشر
+Chapter : الإيمان بالقدر
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 17 | Msg 2507 | Greg 25/10/2022 | Hijri 1444/03/29 ---
+Audio   : AUD-20221025-WA0011.m4a
+Link    : https://t.me/daririhasan/2507
+Title   : الدرس السابع عشر
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 18 | Msg 2569 | Greg 10/11/2022 | Hijri 1444/04/15 ---
+Audio   : AUD-20221109-WA0016.m4a
+Link    : https://t.me/daririhasan/2569
+Title   : الدرس الثامن عشر
+Note    : No duration (WhatsApp format — duration not in message text)
+
+--- DB Lesson 19 | Msg 2601 | Greg 16/11/2022 | Hijri 1444/04/21 ---
+Audio   : AUD-20221116-WA0000.m4a
+Link    : https://t.me/daririhasan/2601
+Title   : الدرس التاسع عشر والأخير
+Note    : No duration (WhatsApp format — duration not in message text)
+Note    : Series COMPLETE — channel text: "الدرس التاسع عشر والأخير".
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

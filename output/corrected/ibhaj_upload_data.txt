@@ -1,0 +1,94 @@
+الإبهاج بشرح صحيح مسلم بن الحجاج — Upload Data
+بجامع الورود، حي الورود، جدة
+كتاب: الإبهاج بشرح صحيح مسلم بن الحجاج — للعلامة أحمد بن يحيى النجمي رحمه الله
+
+DB Status  : 0 lessons in MongoDB
+To Upload  : 8 lessons (DB #1–8)
+Availability: Series ongoing — 8 lessons posted as of messages_june1.html
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- Lessons 1–3 are titled "صحيح مسلم - مقدمة الإمام مسلم" in the channel.
+- Lesson 4 is titled "صحيح مسلم - أول كتاب الايمان".
+- Lessons 5–7 are titled "صحيح مسلم -" (chapter label omitted in message text).
+- Lesson 8 (msg 7432) is the first to use the full series title: الإبهاج بشرح صحيح مسلم بن الحجاج.
+- All 8 lessons belong to the same DB series.
+- Arabic filenames: SahihMuslim1.m4a (DB 1), الابهاج بشرح صحيح مسلم.m4a (DB 4),
+  مسلم٢.m4a (DB 6), شرح مسلم.m4a (DB 8).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ------  -----------  ------------  ----------------------------------------
+1    6647    05/04/2026   1447/10/16    SahihMuslim1.m4a
+2    6749    12/04/2026   1447/10/23    AUDIO-2026-04-11-08-30-01.m4a
+3    6851    20/04/2026   1447/11/01    AUDIO-2026-04-18-12-14-03.m4a
+4    6944    29/04/2026   1447/11/08    الابهاج بشرح صحيح مسلم.m4a
+5    7076    04/05/2026   1447/11/15    AUDIO-2026-05-03-15-22-06.m4a
+6    7223    12/05/2026   1447/11/22    مسلم٢.m4a
+7    7342    18/05/2026   1447/11/29    AUDIO-2026-05-16-15-10-18.m4a
+8    7432    21/05/2026   1447/12/02    شرح مسلم.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 1 | Msg 6647 | Greg 05/04/2026 | Hijri 1447/10/16 ---
+Audio   : SahihMuslim1.m4a
+Link    : https://t.me/daririhasan/6647
+Title   : الدرس الأول
+Chapter : مقدمة الإمام مسلم
+Duration: 36:05
+
+--- DB Lesson 2 | Msg 6749 | Greg 12/04/2026 | Hijri 1447/10/23 ---
+Audio   : AUDIO-2026-04-11-08-30-01.m4a
+Link    : https://t.me/daririhasan/6749
+Title   : الدرس الثاني
+Chapter : مقدمة الإمام مسلم
+Duration: 1:00:46
+
+--- DB Lesson 3 | Msg 6851 | Greg 20/04/2026 | Hijri 1447/11/01 ---
+Audio   : AUDIO-2026-04-18-12-14-03.m4a
+Link    : https://t.me/daririhasan/6851
+Title   : الدرس الثالث
+Chapter : مقدمة الإمام مسلم
+Duration: 25:39
+
+--- DB Lesson 4 | Msg 6944 | Greg 29/04/2026 | Hijri 1447/11/08 ---
+Audio   : الابهاج بشرح صحيح مسلم.m4a
+Link    : https://t.me/daririhasan/6944
+Title   : الدرس الرابع
+Chapter : أول كتاب الإيمان
+Duration: 38:00
+
+--- DB Lesson 5 | Msg 7076 | Greg 04/05/2026 | Hijri 1447/11/15 ---
+Audio   : AUDIO-2026-05-03-15-22-06.m4a
+Link    : https://t.me/daririhasan/7076
+Title   : الدرس الخامس
+Duration: 51:18
+
+--- DB Lesson 6 | Msg 7223 | Greg 12/05/2026 | Hijri 1447/11/22 ---
+Audio   : مسلم٢.m4a
+Link    : https://t.me/daririhasan/7223
+Title   : الدرس السادس
+Duration: 19:52
+
+--- DB Lesson 7 | Msg 7342 | Greg 18/05/2026 | Hijri 1447/11/29 ---
+Audio   : AUDIO-2026-05-16-15-10-18.m4a
+Link    : https://t.me/daririhasan/7342
+Title   : الدرس السابع
+Duration: 42:43
+
+--- DB Lesson 8 | Msg 7432 | Greg 21/05/2026 | Hijri 1447/12/02 ---
+Audio   : شرح مسلم.m4a
+Link    : https://t.me/daririhasan/7432
+Title   : الدرس الثامن
+Duration: 35:25
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
