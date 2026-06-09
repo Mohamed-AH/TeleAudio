@@ -1,0 +1,63 @@
+إتمام المنة بشرح أصول السنة — Upload Data
+بجامع الورود، حي الورود، جدة
+كتاب: إتمام المنة بشرح أصول السنة — للعلامة أحمد بن يحيى النجمي رحمه الله
+
+DB Status  : 1 lesson already in MongoDB (Sort Order 0)
+To Upload  : 2 lessons available (DB #3–4 by channel labels; see note below)
+Series     : COMPLETED — msg 6651 is labeled "الرابع و الاخير" (4th and last)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IMPORTANT NOTE — MISSING LESSON 2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Lesson 2 (الثاني) has NOT been found in ANY of the HTML channel exports
+(messages.html through messages_june1.html). The channel's next audio after
+whatever was lesson 1 is labeled "الثالث" (3rd, msg 6380, Hijri 1447/08/19).
+
+The full series appears to be: Lesson 1 → [Lesson 2 missing] → Lesson 3 → Lesson 4 (last).
+
+⚠ DB NUMBERING DECISION REQUIRED:
+  Option A (recommended — corrected sequential DB numbers):
+    DB 1 = Lesson 1 (already in DB)
+    DB 2 = Lesson 2 (missing from channel — cannot upload yet)
+    DB 3 = Lesson 3, msg 6380
+    DB 4 = Lesson 4, msg 6651
+  Option B (follow channel labels directly, skip gap):
+    DB 2 = Lesson 3, msg 6380
+    DB 3 = Lesson 4, msg 6651
+
+The table below uses Option A (DB 3 and DB 4 are the two available lessons).
+If Option B is preferred, shift DB numbers down by 1.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Ch#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ---  ------  -----------  ------------  ----------------------------------------
+--   --   ----    ----------   ----------    [DB lesson 2 — Lesson 2 NOT IN CHANNEL]
+3    3    6380    08/02/2026   1447/08/19    AUDIO-2026-02-08-07-40-16.m4a
+4    4    6651    05/04/2026   1447/10/16    AUDIO-2026-04-04-22-00-41.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[DB Lesson 2 — Lesson 2 NOT YET POSTED TO CHANNEL]
+
+--- DB Lesson 3 | Msg 6380 | Greg 08/02/2026 | Hijri 1447/08/19 ---
+Audio   : AUDIO-2026-02-08-07-40-16.m4a
+Link    : https://t.me/daririhasan/6380
+Title   : الدرس الثالث
+Duration: 29:17
+
+--- DB Lesson 4 | Msg 6651 | Greg 05/04/2026 | Hijri 1447/10/16 ---
+Audio   : AUDIO-2026-04-04-22-00-41.m4a
+Link    : https://t.me/daririhasan/6651
+Title   : الدرس الرابع والأخير
+Duration: 1:06:02
+Note    : Channel labels this "الرابع و الاخير" — this is the final lesson of the series.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

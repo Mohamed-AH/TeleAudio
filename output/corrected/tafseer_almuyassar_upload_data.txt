@@ -1,0 +1,93 @@
+التفسير الميسر — Upload Data
+بجامع الورود، حي الورود، جدة
+كتاب: التفسير الميسر — قام بإعداده نخبة من أهل العلم
+
+DB Status  : 13 lessons already in MongoDB (Sort Orders 0–12)
+To Upload  : 5 lessons (DB #14–18)
+Availability: No further lessons posted beyond the 18th (msg 6379) as of messages_june1.html
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHANNEL ANOMALY — OUT-OF-ORDER POSTING: READ BEFORE UPLOADING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB lessons 16, 17, and 18 were NOT posted to the channel in Surah order:
+
+  DB 18 (msg 6379, سورة الفجر):
+    - Posted to channel: 08/02/2026 (lower message ID = 6379)
+    - Lecture Hijri date: 1447/07/19
+    - This is Surah 89 — it belongs AFTER الأعلى (87) and الغاشية (88)
+    - The channel labeled it "18th" (correct by Surah sequence) but posted it first.
+
+  DB 16 (msg 6808, سورة الأعلى):
+    - Posted to channel: 16/04/2026 (batch post, Hijri lecture date: 1447/07/28)
+    - Surah 87 — belongs before الغاشية and الفجر
+
+  DB 17 (msg 6809, سورة الغاشية):
+    - Posted to channel: 16/04/2026 (batch post same day as msg 6808, Hijri lecture date: 1447/08/12)
+    - Surah 88 — belongs before الفجر
+
+⚠ UPLOAD ORDER: Follow Surah sequence (= channel labels), NOT message ID:
+  Upload DB 16 (msg 6808) first, then DB 17 (msg 6809), then DB 18 (msg 6379).
+  Although msg 6379 has a LOWER message ID, it is the 18th lesson by Surah order.
+
+NOTE on Hijri dates: DB 18 (الفجر, Hijri 07/19) was recorded BEFORE DB 16 (الأعلى, 07/28)
+and DB 17 (الغاشية, 08/12) by lecture date. The channel correctly assigned Surah-sequence
+numbers regardless of lecture/posting order. Use the channel labels for DB numbering.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE  (sorted by DB lesson number / correct upload order)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Ch#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ---  ------  -----------  ------------  ----------------------------------------
+14   14   6064    22/12/2025   1447/06/29    AUDIO-2025-12-22-14-05-28.m4a
+15   15   6105    28/12/2025   1447/07/07    AUDIO-2025-12-27-19-31-11.m4a
+16   16   6808    16/04/2026   1447/07/28    AUDIO-2026-04-14-14-13-51.m4a   ← UPLOAD BEFORE DB 18
+17   17   6809    16/04/2026   1447/08/12    AUDIO-2026-04-14-14-06-42.m4a   ← UPLOAD BEFORE DB 18
+18   18   6379    08/02/2026   1447/07/19    AUDIO-2026-02-08-07-36-29.m4a   ← UPLOAD LAST (see anomaly)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 14 | Msg 6064 | Greg 22/12/2025 | Hijri 1447/06/29 ---
+Audio   : AUDIO-2025-12-22-14-05-28.m4a
+Link    : https://t.me/daririhasan/6064
+Title   : الدرس الرابع عشر
+Chapter : سورة البروج
+Duration: 22:17
+
+--- DB Lesson 15 | Msg 6105 | Greg 28/12/2025 | Hijri 1447/07/07 ---
+Audio   : AUDIO-2025-12-27-19-31-11.m4a
+Link    : https://t.me/daririhasan/6105
+Title   : الدرس الخامس عشر
+Chapter : سورة الطارق
+Duration: 6:31
+
+--- DB Lesson 16 | Msg 6808 | Greg 16/04/2026 | Hijri 1447/07/28 ---
+Audio   : AUDIO-2026-04-14-14-13-51.m4a
+Link    : https://t.me/daririhasan/6808
+Title   : الدرس السادس عشر
+Chapter : سورة الأعلى
+Duration: 7:33
+⚠ Batch-posted April 2026 for a lecture held Hijri 1447/07/28. Upload BEFORE DB 18.
+
+--- DB Lesson 17 | Msg 6809 | Greg 16/04/2026 | Hijri 1447/08/12 ---
+Audio   : AUDIO-2026-04-14-14-06-42.m4a
+Link    : https://t.me/daririhasan/6809
+Title   : الدرس السابع عشر
+Chapter : سورة الغاشية
+Duration: 10:35
+⚠ Batch-posted same day as DB 16. Upload BEFORE DB 18.
+
+--- DB Lesson 18 | Msg 6379 | Greg 08/02/2026 | Hijri 1447/07/19 ---
+Audio   : AUDIO-2026-02-08-07-36-29.m4a
+Link    : https://t.me/daririhasan/6379
+Title   : الدرس الثامن عشر
+Chapter : سورة الفجر (١)
+Duration: 7:00
+⚠ Lower message ID than DB 16 & 17 but Surah 89 (after الأعلى and الغاشية). Upload LAST.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
