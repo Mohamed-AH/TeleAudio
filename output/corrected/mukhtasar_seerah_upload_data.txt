@@ -1,0 +1,119 @@
+مختصر السيرة النبوية — Upload Data
+بجامع الورود، حي الورود، جدة
+كتاب: مختصر السيرة النبوية — للإمام محمد بن عبدالوهاب رحمه الله
+
+DB Status  : 5 lessons already in MongoDB (Sort Orders 0–4)
+To Upload  : 8 lessons (DB #6–13)
+Availability: No further lessons posted beyond the 12th (msg 7343) as of messages_june1.html
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHANNEL NUMBERING ANOMALIES — READ BEFORE UPLOADING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. DUPLICATE LABEL AT SERIES START (lesson "2nd" used twice — already in DB):
+   - Msg 6103 (Hijri 1447/07/07): channel says "الثاني" (2nd)
+   - Msg 6163 (Hijri 1447/07/14): channel ALSO says "الثاني" (2nd) — duplicate
+   - Both are assumed to be in the 5 DB lessons already uploaded (DB lessons 1–5).
+   - DB lesson 5 = channel "5th" (الخامس, msg 6326, Hijri 1447/08/12).
+   ⚠ VERIFY: If DB lesson 5 was uploaded without the duplicate "2nd" being counted,
+     then DB 5 may equal channel "4th" and msg 6326 (channel "5th") was NOT yet uploaded.
+     In that case, upload msg 6326 FIRST as DB lesson 5 before proceeding with the table below.
+
+2. DUPLICATE LABEL (lesson "10th" used twice):
+   - Msg 6942 (Hijri 1447/11/08): channel says "العاشر" (10th), chapter: الهجرة
+   - Msg 7073 (Hijri 1447/11/15): channel ALSO says "العاشر" (10th), no chapter title
+   - Correct assignment by Hijri date: msg 6942 = DB lesson 10, msg 7073 = DB lesson 11.
+   - CONSEQUENCE: channel "11th" (msg 7220) = DB lesson 12, channel "12th" (msg 7343) = DB lesson 13.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VERIFY MSG 6326 — CHANNEL "5th" (DB lesson 5 candidate)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Audio   : AUDIO-2026-01-31-09-20-02.m4a
+Link    : https://t.me/daririhasan/6326
+Title   : الدرس الخامس
+Duration: 32:52
+Greg Date (posted): 01/02/2026
+Hijri Date        : 1447/08/12
+
+If this is NOT yet in the DB, upload it as DB lesson 5 before the table below.
+If it IS already in the DB as DB lesson 5, proceed directly to DB lesson 6.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE  (sorted by DB lesson number / upload order)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Ch#   Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ----  ------  -----------  ------------  ----------------------------------------
+6    6     6437    15/02/2026   1447/08/26    AUDIO-2026-02-14-11-04-13.m4a
+7    7     6648    05/04/2026   1447/10/16    AUDIO-2026-04-04-08-26-22.m4a
+8    8     6751    12/04/2026   1447/10/23    AUDIO-2026-04-11-08-34-04.m4a
+9    9     6852    20/04/2026   1447/11/01    AUDIO-2026-04-18-12-20-30.m4a
+10   10    6942    29/04/2026   1447/11/08    درس_السيره_النبويه_٨_ذو_القعده١٤٤٧.m4a
+11   10*   7073    04/05/2026   1447/11/15    MukhtasarSeerah.m4a
+12   11    7220    12/05/2026   1447/11/22    AUDIO-2026-05-11-08-21-22.m4a
+13   12    7343    18/05/2026   1447/11/29    السيره٢٩.m4a
+
+*Ch# 10 used twice by channel; see anomaly note 2 above.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 6 | Msg 6437 | Greg 15/02/2026 | Hijri 1447/08/26 ---
+Audio   : AUDIO-2026-02-14-11-04-13.m4a
+Link    : https://t.me/daririhasan/6437
+Title   : الدرس السادس
+Duration: 40:24
+
+--- DB Lesson 7 | Msg 6648 | Greg 05/04/2026 | Hijri 1447/10/16 ---
+Audio   : AUDIO-2026-04-04-08-26-22.m4a
+Link    : https://t.me/daririhasan/6648
+Title   : الدرس السابع
+Chapter : إسلام حمزة بن عبد المطلب
+Duration: 36:20
+
+--- DB Lesson 8 | Msg 6751 | Greg 12/04/2026 | Hijri 1447/10/23 ---
+Audio   : AUDIO-2026-04-11-08-34-04.m4a
+Link    : https://t.me/daririhasan/6751
+Title   : الدرس الثامن
+Chapter : سؤالهم عن الروح وأهل الكتاب
+Duration: 29:32
+
+--- DB Lesson 9 | Msg 6852 | Greg 20/04/2026 | Hijri 1447/11/01 ---
+Audio   : AUDIO-2026-04-18-12-20-30.m4a
+Link    : https://t.me/daririhasan/6852
+Title   : الدرس التاسع
+Chapter : الهجرة (بيعة العقبة)
+Duration: 38:01
+
+--- DB Lesson 10 | Msg 6942 | Greg 29/04/2026 | Hijri 1447/11/08 ---
+Audio   : درس_السيره_النبويه_٨_ذو_القعده١٤٤٧.m4a
+Link    : https://t.me/daririhasan/6942
+Title   : الدرس العاشر
+Chapter : الهجرة (دخول رسول الله صلى الله عليه وسلم المدينة)
+Duration: 27:03
+
+--- DB Lesson 11 | Msg 7073 | Greg 04/05/2026 | Hijri 1447/11/15 ---
+Audio   : MukhtasarSeerah.m4a
+Link    : https://t.me/daririhasan/7073
+Title   : الدرس الحادي عشر  (CORRECTED — channel mislabeled as "العاشر")
+Duration: 31:00
+⚠ Channel label is "10th" but this is the 2nd occurrence; correct ordinal is 11th.
+  All subsequent DB numbers are corrected (+1 from channel label).
+
+--- DB Lesson 12 | Msg 7220 | Greg 12/05/2026 | Hijri 1447/11/22 ---
+Audio   : AUDIO-2026-05-11-08-21-22.m4a
+Link    : https://t.me/daririhasan/7220
+Title   : الدرس الثاني عشر  (channel label: "الحادي عشر")
+Duration: 25:56
+
+--- DB Lesson 13 | Msg 7343 | Greg 18/05/2026 | Hijri 1447/11/29 ---
+Audio   : السيره٢٩.m4a
+Link    : https://t.me/daririhasan/7343
+Title   : الدرس الثالث عشر  (channel label: "الثاني عشر")
+Duration: 27:32
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
