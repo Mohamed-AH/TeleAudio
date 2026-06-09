@@ -1,0 +1,110 @@
+تنبيه الانام على ما في كتاب سبل السلام من الفوائد والأحكام — Upload Data
+بجامع الورود، حي الورود، جدة
+كتاب: تنبيه الانام — للعلامة أحمد بن يحيى النجمي رحمه الله
+
+DB Status  : 5 lessons already in MongoDB (Sort Orders 0–4)
+To Upload  : 9 lessons available (DB #6–9 and DB #11–15)
+Missing    : Lesson 10 (العاشر) has NOT been posted to the channel as of messages_june1.html
+             (channel jumped from "9th" (msg 6750, Hijri 1447/10/23) directly to "11th" (msg 6943, Hijri 1447/11/08))
+             DB lesson 10 cannot be uploaded until the channel posts it.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- No out-of-order issues — upload DB lessons 6–9, skip 10 (missing), then 11–15.
+- Channel numbering matches DB numbering directly (no duplicate labels, no corrections needed).
+- DB lesson 10 is a genuine gap (channel never posted the "10th" lesson).
+- Msgs 7340 & 7341 were posted on the same Gregorian day (18/05/2026) as a batch,
+  but have consecutive Hijri dates (28/11 and 29/11/1447). Upload 7340 before 7341.
+- Audio filename of msg 6327 has a trailing space: "تنبيه الأنام .m4a" — include as-is.
+- Audio filename of msg 7341 has a typo: "تنبيه اانام.m4a" (missing ل in الأنام) — upload as-is.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE  (sorted by DB lesson number / upload order)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Ch#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ---  ------  -----------  ------------  ----------------------------------------
+6    6    6327    01/02/2026   1447/08/12    تنبيه الأنام .m4a
+7    7    6436    15/02/2026   1447/08/26    AUDIO-2026-02-14-11-01-26.m4a
+8    8    6649    05/04/2026   1447/10/16    AUDIO-2026-04-04-08-30-42.m4a
+9    9    6750    12/04/2026   1447/10/23    AUDIO-2026-04-11-08-31-40.m4a
+--   --   ----    ----------   ----------    [DB lesson 10 NOT YET POSTED]
+11   11   6943    29/04/2026   1447/11/08    تنبيه_الانام_على_ما_في_كتاب_سبل_السلام٨١١_١٤٤٧.m4a
+12   12   7077    04/05/2026   1447/11/15    AUDIO-2026-05-03-15-22-36.m4a
+13   13   7222    12/05/2026   1447/11/22    AUDIO-2026-05-11-08-23-48.m4a
+14   14   7340    18/05/2026   1447/11/28    AUDIO-2026-05-15-21-57-08.m4a
+15   15   7341    18/05/2026   1447/11/29    تنبيه اانام.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 6 | Msg 6327 | Greg 01/02/2026 | Hijri 1447/08/12 ---
+Audio   : تنبيه الأنام .m4a
+Link    : https://t.me/daririhasan/6327
+Title   : الدرس السادس
+Chapter : كتاب الطهارة
+Duration: 53:27
+
+--- DB Lesson 7 | Msg 6436 | Greg 15/02/2026 | Hijri 1447/08/26 ---
+Audio   : AUDIO-2026-02-14-11-01-26.m4a
+Link    : https://t.me/daririhasan/6436
+Title   : الدرس السابع
+Chapter : كتاب الطهارة
+Duration: 25:25
+
+--- DB Lesson 8 | Msg 6649 | Greg 05/04/2026 | Hijri 1447/10/16 ---
+Audio   : AUDIO-2026-04-04-08-30-42.m4a
+Link    : https://t.me/daririhasan/6649
+Title   : الدرس الثامن
+Chapter : باب المسح علي الخفين
+Duration: 56:37
+
+--- DB Lesson 9 | Msg 6750 | Greg 12/04/2026 | Hijri 1447/10/23 ---
+Audio   : AUDIO-2026-04-11-08-31-40.m4a
+Link    : https://t.me/daririhasan/6750
+Title   : الدرس التاسع
+Chapter : باب نواقض الوضوء
+Duration: 52:31
+
+[DB Lesson 10 — NOT YET POSTED TO CHANNEL]
+
+--- DB Lesson 11 | Msg 6943 | Greg 29/04/2026 | Hijri 1447/11/08 ---
+Audio   : تنبيه_الانام_على_ما_في_كتاب_سبل_السلام٨١١_١٤٤٧.m4a
+Link    : https://t.me/daririhasan/6943
+Title   : الدرس الحادي عشر
+Chapter : باب قضاء الحاجة
+Duration: 36:08
+
+--- DB Lesson 12 | Msg 7077 | Greg 04/05/2026 | Hijri 1447/11/15 ---
+Audio   : AUDIO-2026-05-03-15-22-36.m4a
+Link    : https://t.me/daririhasan/7077
+Title   : الدرس الثاني عشر
+Duration: 43:42
+
+--- DB Lesson 13 | Msg 7222 | Greg 12/05/2026 | Hijri 1447/11/22 ---
+Audio   : AUDIO-2026-05-11-08-23-48.m4a
+Link    : https://t.me/daririhasan/7222
+Title   : الدرس الثالث عشر
+Duration: 36:37
+
+--- DB Lesson 14 | Msg 7340 | Greg 18/05/2026 | Hijri 1447/11/28 ---
+Audio   : AUDIO-2026-05-15-21-57-08.m4a
+Link    : https://t.me/daririhasan/7340
+Title   : الدرس الرابع عشر
+Duration: 46:45
+Note    : Batch-posted same day as DB lesson 15 (msg 7341); upload this first.
+
+--- DB Lesson 15 | Msg 7341 | Greg 18/05/2026 | Hijri 1447/11/29 ---
+Audio   : تنبيه اانام.m4a
+Link    : https://t.me/daririhasan/7341
+Title   : الدرس الخامس عشر
+Duration: 35:19
+Note    : Batch-posted same day as DB lesson 14 (msg 7340); upload after 7340.
+          Audio filename has typo ("اانام" instead of "الأنام") — use as-is.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
