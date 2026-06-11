@@ -1,6 +1,5 @@
 # خطب الجمعة — Upload Data
 # Total: 327 records
-# Generated from: messages.html, messages2.html, messages3.html, messages4.html, messages_new.html, messages_june1.html
 
 ---
 DB: 1
@@ -293,7 +292,7 @@ MsgID: 550
 ---
 DB: 25
 Series: خطب الجمعة
-Title: c.top4top.io
+Title: فصل الشتاء
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: فصل الشتاء ٢٣-٤-١٤٤١.m4a
 Duration: 15:05
@@ -617,7 +616,7 @@ MsgID: 1189
 ---
 DB: 52
 Series: خطب الجمعة
-Title: f.top4top.io
+Title: المملكة العربية السعودية
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: المملكة_العربية_السعودية_١_٢_١٤٤٢.m4a
 Duration: 09:46
@@ -1145,7 +1144,7 @@ MsgID: 1572
 ---
 DB: 96
 Series: خطب الجمعة
-Title: l.top4top.io
+Title: مِنْ أَسْبَابِ صَلاَحِ الأَوْلاَدِ
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: من أسباب صلاح الأولاد ١ - ١١ - ١٤٤٢.m4a
 Duration: 12:28
@@ -1157,7 +1156,7 @@ MsgID: 1589
 ---
 DB: 97
 Series: خطب الجمعة
-Title: i.top4top.io
+Title: دنو الشمس من الرؤوس يوم القيامة
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: دنو_الشمس_من_الرؤوس_يوم_القيامة_٨_١١_١٤٤٢.m4a
 Duration: 09:48
@@ -1169,7 +1168,7 @@ MsgID: 1594
 ---
 DB: 98
 Series: خطب الجمعة
-Title: b.top4top.io
+Title: الخسوفات الثلاث
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: الخسوفات الثلاث ١١ - ٣ - ١٤٤١.m4a
 Duration: 11:57
@@ -1181,7 +1180,7 @@ MsgID: 1610
 ---
 DB: 99
 Series: خطب الجمعة
-Title: i.top4top.io
+Title: نزول عيسى عليه السلام
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: نزول عيسى عليه السلام.m4a
 Duration: 14:55
@@ -1193,7 +1192,7 @@ MsgID: 1613
 ---
 DB: 100
 Series: خطب الجمعة
-Title: f.top4top.io
+Title: يأجوج ومأجوج
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: يأجوج ومأجوج.m4a
 Duration: 14:57
@@ -1205,7 +1204,7 @@ MsgID: 1615
 ---
 DB: 101
 Series: خطب الجمعة
-Title: d.top4top.io
+Title: نار تخرج من عدن تسوق الناس الى المحشر
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: نار_تخرج_من_عدن_تسوق_الناس_١٥_١١_١٤٤٢.m4a
 Duration: 12:19
@@ -1217,7 +1216,7 @@ MsgID: 1623
 ---
 DB: 102
 Series: خطب الجمعة
-Title: j.top4top.io
+Title: حق الله تعالى
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: الحقوق الشرعية 1- حق الله تعالى.mp3
 Duration: 21:05
@@ -1229,7 +1228,7 @@ MsgID: 1629
 ---
 DB: 103
 Series: خطب الجمعة
-Title: f.top4top.io
+Title: علامات الساعة الصغرى (٢)
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20210629-WA0005.mp3
 Duration: 16:08
@@ -1241,7 +1240,7 @@ MsgID: 1636
 ---
 DB: 104
 Series: خطب الجمعة
-Title: g.top4top.io
+Title: الشفاعة الكبرى
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: الشفاعة الكبرى 22 - 11 - 1442.mp3
 Duration: 13:50
@@ -1253,7 +1252,7 @@ MsgID: 1650
 ---
 DB: 105
 Series: خطب الجمعة
-Title: g.top4top.io
+Title: الأعمال الصالحة في أيام العشر
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: الأعمال_الصالحة_في_أيام_العشر_٢٩_١١_١٤٤٢.m4a
 Duration: 10:11
@@ -1265,7 +1264,7 @@ MsgID: 1665
 ---
 DB: 106
 Series: خطب الجمعة
-Title: a.top4top.io
+Title: وصايا لمن عزم الحج
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: وصايا لمن عزم الحج ٦ - ١٢ - ١٤٤٢.m4a
 Duration: 13:13
@@ -1277,7 +1276,7 @@ MsgID: 1678
 ---
 DB: 107
 Series: خطب الجمعة
-Title: d.top4top.io
+Title: في ظلال آية قرآنية كريمة (٥)
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: في_ظلال_آية_قرآنية_كريمة_٥_١٣_١٢_١٤٤٢.m4a
 Duration: 12:42
@@ -1289,7 +1288,7 @@ MsgID: 1685
 ---
 DB: 108
 Series: خطب الجمعة
-Title: j.top4top.io
+Title: عبد الرحمن بن عوف رضي الله عنه
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: عبد_الرحمن_بن_عوف_رضي_الله_عنه_٢٠_١٢_١٤٤٢.m4a
 Duration: 12:08
@@ -1301,7 +1300,7 @@ MsgID: 1690
 ---
 DB: 109
 Series: خطب الجمعة
-Title: g.top4top.io
+Title: نهاية العام والأخذ بالاحترازات ضد كورونا
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: نهاية_العام_والأخذ_بالاحترازات_٢٧_١٢_١٤٤٢.m4a
 Duration: 10:05
@@ -1313,7 +1312,7 @@ MsgID: 1693
 ---
 DB: 110
 Series: خطب الجمعة
-Title: l.top4top.io
+Title: وقفات مع شهر الله المحرم
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: وقفات_مع_شهر_الله_المحرم_٥_١_١٤٤٣.m4a
 Duration: 10:10
@@ -1325,7 +1324,7 @@ MsgID: 1695
 ---
 DB: 111
 Series: خطب الجمعة
-Title: j.top4top.io
+Title: المعلمون وبعض الآداب الواجبة عليهم
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: المعلمون_وبعض_الآداب_الواجبة_عليهم_١١_١_١٤٤٣.m4a
 Duration: 9:33
@@ -1337,7 +1336,7 @@ MsgID: 1702
 ---
 DB: 112
 Series: خطب الجمعة
-Title: k.top4top.io
+Title: الطلاب وبعض الواجبات المهمة عليهم
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: بعض_الواجبات_المهمة_على_طلاب_العلم_١٨_١_١٤٤٣.m4a
 Duration: 9:29
@@ -1349,7 +1348,7 @@ MsgID: 1712
 ---
 DB: 113
 Series: خطب الجمعة
-Title: k.top4top.io
+Title: التمائم الشِّركية
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: التمائم الشركية ٢٥ - ١ - ١٤٤٣.m4a
 Duration: 10:28
@@ -1361,7 +1360,7 @@ MsgID: 1727
 ---
 DB: 114
 Series: خطب الجمعة
-Title: a.top4top.io
+Title: قصة يوسف عليه السلام (١)
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: قصة يوسف عليه السلام (١).m4a
 Duration: 10:54
@@ -1373,7 +1372,7 @@ MsgID: 1740
 ---
 DB: 115
 Series: خطب الجمعة
-Title: c.top4top.io
+Title: قالوا عن السعودية
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: قالوا عن السعودية.m4a
 Duration: 13:59
@@ -1517,7 +1516,7 @@ MsgID: 1933
 ---
 DB: 127
 Series: خطب الجمعة
-Title: ٤هـ❳🎙للإستماع إلى الصوتية : https:
+Title: سيرة العلامة صالح اللحيدان رحمه الله
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: اللحيدان واحد.m4a
 Duration: 15:38
@@ -1529,7 +1528,7 @@ MsgID: 1948
 ---
 DB: 128
 Series: خطب الجمعة
-Title: ١١هـ❳🎙للإستماع إلى الصوتية : https:
+Title: حقوق كبير السن في الإسلام
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220114-WA0015-[AudioTrimmer.com].m4a
 Duration: 12:16
@@ -1541,7 +1540,7 @@ MsgID: 1957
 ---
 DB: 129
 Series: خطب الجمعة
-Title: ١٨هـ❳🎙للإستماع إلى الصوتية : https:
+Title: قصة يوسف عليه السلام (٩)
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220121-WA0003-[AudioTrimmer.com].m4a
 Duration: 16:35
@@ -1553,7 +1552,7 @@ MsgID: 1965
 ---
 DB: 130
 Series: خطب الجمعة
-Title: ٢٥هـ❳🎙للإستماع إلى الصوتية : https:
+Title: قصة يوسف عليه السلام (١٠)
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220128-WA0002-[AudioTrimmer.com].m4a
 Duration: 16:06
@@ -1565,7 +1564,7 @@ MsgID: 1979
 ---
 DB: 131
 Series: خطب الجمعة
-Title: ٣هـ❳🎙للإستماع إلى الصوتية : https:
+Title: فضل الصحابة وبعض حقوقهم
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220204-WA0000-[AudioTrimmer.com].m4a
 Duration: 12:38
@@ -1577,7 +1576,7 @@ MsgID: 1987
 ---
 DB: 132
 Series: خطب الجمعة
-Title: ١٠هـ❳🎙للإستماع إلى الصوتية : https:
+Title: الضرورات الخمس الكلِّية
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220211-WA0004-[AudioTrimmer.com].m4a
 Duration: 11:56
@@ -1589,7 +1588,7 @@ MsgID: 2012
 ---
 DB: 133
 Series: خطب الجمعة
-Title: ١٧هـ❳🎙للإستماع إلى الصوتية : https:
+Title: نعمة المياه، والحذر من الآبار المكشوفة
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220218-WA0004-[AudioTrimmer.com].m4a
 Duration: 11:21
@@ -1601,7 +1600,7 @@ MsgID: 2024
 ---
 DB: 134
 Series: خطب الجمعة
-Title: ٢٤هـ❳🎙للإستماع إلى الصوتية : https:
+Title: قصة يوسف عليه السلام (١١)
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220225-WA0004-[AudioTrimmer.com].m4a
 Duration: 15:20
@@ -1613,7 +1612,7 @@ MsgID: 2044
 ---
 DB: 135
 Series: خطب الجمعة
-Title: ١هـ❳🎙للإستماع إلى الصوتية : https:
+Title: قصة يوسف عليه السلام (١٢)
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220304-WA0002-[AudioTrimmer.com].m4a
 Duration: 14:21
@@ -1625,7 +1624,7 @@ MsgID: 2054
 ---
 DB: 136
 Series: خطب الجمعة
-Title: ٨هـ❳🎙للإستماع إلى الصوتية : https:
+Title: فضل شهر شعبان
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220311-WA0002-[AudioTrimmer.com].m4a
 Duration: 11:30
@@ -1637,7 +1636,7 @@ MsgID: 2069
 ---
 DB: 137
 Series: خطب الجمعة
-Title: ١٥هـ❳🎙للإستماع إلى الصوتية : https:
+Title: بيان وزارة الداخلية عن الارهابيين المجرمين
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220318-WA0006-[AudioTrimmer.com].m4a
 Duration: 14:11
@@ -1649,7 +1648,7 @@ MsgID: 2084
 ---
 DB: 138
 Series: خطب الجمعة
-Title: ٧هـ❳🎙للإستماع إلى الصوتية : https:
+Title: في ظلال آيات الصيام (١)
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220408-WA0008-[AudioTrimmer.com].m4a
 Duration: 11:55
@@ -1661,7 +1660,7 @@ MsgID: 2126
 ---
 DB: 139
 Series: خطب الجمعة
-Title: ١٤هـ❳🎙للإستماع إلى الصوتية : https:
+Title: في ظلال آيات الصيام (٢)
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: Ringtone_تسجيل جديد ٤٢.m4a
 Duration: 10:48
@@ -1673,7 +1672,7 @@ MsgID: 2145
 ---
 DB: 140
 Series: خطب الجمعة
-Title: ٢١هـ❳🎙للإستماع إلى الصوتية : https:
+Title: في ظلال سورة القدر
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220422-WA0002-[AudioTrimmer.com].m4a
 Duration: 11:25
@@ -1685,7 +1684,7 @@ MsgID: 2166
 ---
 DB: 141
 Series: خطب الجمعة
-Title: ٢٨هـ❳🎙للإستماع إلى الصوتية : https:
+Title: زكاة الفطر
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220429-WA0000-[AudioTrimmer.com].m4a
 Duration: 14:29
@@ -1697,7 +1696,7 @@ MsgID: 2171
 ---
 DB: 142
 Series: خطب الجمعة
-Title: ٥هـ❳🎙للإستماع إلى الصوتية : https:
+Title: قصة يوسف عليه السلام (١٣)
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220507-WA0018-[AudioTrimmer.com].m4a
 Duration: 10:35
@@ -1709,7 +1708,7 @@ MsgID: 2181
 ---
 DB: 143
 Series: خطب الجمعة
-Title: ١٢هـ❳🎙للإستماع إلى الصوتية : https:
+Title: قصة يوسف عليه السلام (١٤)
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: خطبة_الشيخ_حسن_محمد_الدغريري_قصة_يوسف_عليه_السلام_14.mp3
 Duration: 11:32
@@ -1721,7 +1720,7 @@ MsgID: 2190
 ---
 DB: 144
 Series: خطب الجمعة
-Title: ١٩هـ❳🎙للإستماع إلى الصوتية : https:
+Title: تطاير الصحف يوم القيامة
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220520-WA0002-[AudioTrimmer.com].m4a
 Duration: 11:58
@@ -1733,7 +1732,7 @@ MsgID: 2203
 ---
 DB: 145
 Series: خطب الجمعة
-Title: ٢٦هـ❳🎙للإستماع إلى الصوتية : https:
+Title: الحساب يوم القيامة
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220527-WA0004-[AudioTrimmer.com].m4a
 Duration: 10:40
@@ -1745,7 +1744,7 @@ MsgID: 2221
 ---
 DB: 146
 Series: خطب الجمعة
-Title: ٤هـ❳🎙للإستماع إلى الصوتية : https:
+Title: الميزان يوم القيامة
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: تسجيل_جديد_تتتت_AudioConverter_AudioTrimmer_com.m4a
 Duration: 13:37
@@ -1757,7 +1756,7 @@ MsgID: 2231
 ---
 DB: 147
 Series: خطب الجمعة
-Title: ١١هـ❳🎙للإستماع إلى الصوتية : https:
+Title: واجبنا تجاه من يسيء للنبي ﷺ وأصحابه
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: AUD-20220610-WA0001-[AudioTrimmer.com].m4a
 Duration: 13:13
@@ -1769,7 +1768,7 @@ MsgID: 2239
 ---
 DB: 148
 Series: خطب الجمعة
-Title: ٢٥هـ❳🎙للإستماع إلى الصوتية : https:
+Title: العشر الأولى من ذي الحجة
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: تسيد ١٩٢-AudioConverter-[AudioTrimmer.com].m4a
 Duration: 10:32
@@ -1781,7 +1780,7 @@ MsgID: 2270
 ---
 DB: 149
 Series: خطب الجمعة
-Title: ٢هـ❳🎙للإستماع إلى الصوتية : https:
+Title: من أحكام الأضحية
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: خطبة الشيخ حسن دغريري ١٤٤٣.mp3
 Duration: 9:29
@@ -2033,7 +2032,7 @@ MsgID: 2607
 ---
 DB: 170
 Series: خطب الجمعة
-Title: ٠١هـ🔗 رابط الصوتية:🔗https:
+Title: في ظلال سورة قريش
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: خطبة جمعة (1).m4a
 Duration: 09:46
@@ -3797,7 +3796,7 @@ MsgID: 6515
 ---
 DB: 317
 Series: خطب الجمعة
-Title: ٢٨هـ❳🎙للإستماع إلى الصوتية : https:
+Title: زكاة الفطر
 Sheikh: حسن بن محمد منصور الدغريري
 Audio: 4_6005569134098648111.m4a
 Duration: 14:29
