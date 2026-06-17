@@ -1,0 +1,757 @@
+# الأفنان الندية - عن بعد — Upload Data
+# Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+# Author: للعلامة زيد بن هادي المدخلي رحمه الله
+# Total: 50 lessons
+# Source: messages4.html, messages_june1.html, messages_new.html
+# NOTE: LessonNum is per-chapter (resets with each new book/chapter).
+#       DB is sequential by date order (1-50). Use LessonNum + Chapter together.
+
+---
+DB: 1
+LessonNum: 10
+LessonLine: الدرس العاشر عن بُعد.
+Chapter: تابع باب الربا
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: 4_5996911497937164265.mp3
+Duration: 18:36
+GregDate: 08/10/2025
+HijriDate: 1447/04/16
+HijriSource: computed
+Location: Online
+MsgID: 5705
+
+---
+DB: 2
+LessonNum: 11
+LessonLine: الدرس الحادي عشر عن بُعد.
+Chapter: تابع باب الربا
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Mp3 Editor_251010204807.mp3
+Duration: 23:24
+GregDate: 10/10/2025
+HijriDate: 1447/04/18
+HijriSource: computed
+Location: Online
+MsgID: 5718
+
+---
+DB: 3
+LessonNum: 12
+LessonLine: الدرس الثاني عشر عن بُعد.
+Chapter: تابع باب الربا والقرض
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Mp3 Editor_251010205658.mp3
+Duration: 10:37
+GregDate: 10/10/2025
+HijriDate: 1447/04/18
+HijriSource: computed
+Location: Online
+MsgID: 5719
+
+---
+DB: 4
+LessonNum: 13
+LessonLine: الدرس الثالث عشر عن بُعد.
+Chapter: تابع باب السلم والقرض
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Mp3 Editor_251013232558.mp3
+Duration: 13:02
+GregDate: 14/10/2025
+HijriDate: 1447/04/22
+HijriSource: computed
+Location: Online
+MsgID: 5730
+
+---
+DB: 5
+LessonNum: 14
+LessonLine: الدرس الرابع عشر عن بُعد.
+Chapter: تابع باب السلم والقرض
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251012-WA0011.m4a
+Duration: 23:00
+GregDate: 15/10/2025
+HijriDate: 1447/04/23
+HijriSource: computed
+Location: Online
+MsgID: 5734
+
+---
+DB: 6
+LessonNum: 15
+LessonLine: الدرس الخامس عشر عن بُعد.
+Chapter: باب الكتابة والإشهاد والرهن في المعاملة
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Mp3 Editor_251015224410.mp3
+Duration: 14:15
+GregDate: 16/10/2025
+HijriDate: 1447/04/24
+HijriSource: computed
+Location: Online
+MsgID: 5749
+
+---
+DB: 7
+LessonNum: 16
+LessonLine: الدرس السادس عشر عن بُعد.
+Chapter: باب الرهن
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Mp3 Editor_251015230010.mp3
+Duration: 13:16
+GregDate: 16/10/2025
+HijriDate: 1447/04/24
+HijriSource: computed
+Location: Online
+MsgID: 5751
+
+---
+DB: 8
+LessonNum: 17
+LessonLine: الدرس السابع عشر عن بُعد.
+Chapter: باب الحوالة والضمان
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251012-WA0037.m4a
+Duration: 16:31
+GregDate: 17/10/2025
+HijriDate: 1447/04/25
+HijriSource: computed
+Location: Online
+MsgID: 5757
+
+---
+DB: 9
+LessonNum: 18
+LessonLine: الدرس الثامن عشر عن بُعد.
+Chapter: كتاب البيوع باب التفليس والحجر
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251026-WA0007.m4a
+Duration: 09:33
+GregDate: 26/10/2025
+HijriDate: 1447/05/04
+HijriSource: computed
+Location: Online
+MsgID: 5813
+
+---
+DB: 10
+LessonNum: 19
+LessonLine: الدرس التاسع عشر عن بُعد.
+Chapter: كتاب البيوع باب ولاية اليتيم
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251021-WA0026.m4a
+Duration: 17:12
+GregDate: 26/10/2025
+HijriDate: 1447/05/04
+HijriSource: computed
+Location: Online
+MsgID: 5818
+
+---
+DB: 11
+LessonNum: 20
+LessonLine: الدرس العشرون عن بُعد.
+Chapter: كتاب البيوع باب الصلح وأحكام الجوار
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251021-WA0036.m4a
+Duration: 18:56
+GregDate: 26/10/2025
+HijriDate: 1447/05/04
+HijriSource: computed
+Location: Online
+MsgID: 5819
+
+---
+DB: 12
+LessonNum: 21
+LessonLine: الدرس الواحد والعشرون عن بُعد.
+Chapter: كتاب البيوع باب الشركة والمضاربة
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251029-WA0000.m4a
+Duration: 25:02
+GregDate: 29/10/2025
+HijriDate: 1447/05/07
+HijriSource: computed
+Location: Online
+MsgID: 5830
+
+---
+DB: 13
+LessonNum: 22
+LessonLine: الدرس الثاني والعشرون عن بُعد.
+Chapter: كتاب البيوع باب المساقاة والمزارعة
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251127-WA0003.m4a
+Duration: 12:14
+GregDate: 27/11/2025
+HijriDate: 1447/06/06
+HijriSource: computed
+Location: Online
+MsgID: 5894
+
+---
+DB: 14
+LessonNum: 23
+LessonLine: الدرس الثالث والعشرون عن بُعد.
+Chapter: كتاب البيوع باب الإجارة
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251129-WA0010.m4a
+Duration: 26:07
+GregDate: 30/11/2025
+HijriDate: 1447/06/09
+HijriSource: computed
+Location: Online
+MsgID: 5903
+
+---
+DB: 15
+LessonNum: 26
+LessonLine: الدرس السادس والعشرون عن بُعد.
+Chapter: كتاب البيوع باب الغصب والعارية
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251202-WA0007.m4a
+Duration: 24:15
+GregDate: 02/12/2025
+HijriDate: 1447/06/11
+HijriSource: computed
+Location: Online
+MsgID: 5925
+
+---
+DB: 16
+LessonNum: 27
+LessonLine: الدرس السابع والعشرون عن بُعد.
+Chapter: كتاب البيوع باب الهدية
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251204-WA0005.m4a
+Duration: 16:12
+GregDate: 08/12/2025
+HijriDate: 1447/06/17
+HijriSource: computed
+Location: Online
+MsgID: 5960
+
+---
+DB: 17
+LessonNum: 8
+LessonLine: الدرس الثامن عن بُعد.
+Chapter: تابع باب الربا
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250901-WA0001.m4a
+Duration: 27:52
+GregDate: 13/12/2025
+HijriDate: 1447/06/22
+HijriSource: computed
+Location: Online
+MsgID: 5991
+
+---
+DB: 18
+LessonNum: 9
+LessonLine: الدرس التاسع عن بُعد.
+Chapter: تابع باب الربا
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251213-WA0002.m4a
+Duration: 31:29
+GregDate: 13/12/2025
+HijriDate: 1447/06/22
+HijriSource: computed
+Location: Online
+MsgID: 5992
+
+---
+DB: 19
+LessonNum: 24
+LessonLine: الدرس الرابع والعشرون عن بُعد.
+Chapter: تابع باب الربا
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251213-WA0003.m4a
+Duration: 14:21
+GregDate: 13/12/2025
+HijriDate: 1447/06/22
+HijriSource: computed
+Location: Online
+MsgID: 5993
+
+---
+DB: 20
+LessonNum: 25
+LessonLine: الدرس الخامس والعشرون عن بُعد.
+Chapter: تابع باب الربا
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251213-WA0005.m4a
+Duration: 10:30
+GregDate: 13/12/2025
+HijriDate: 1447/06/22
+HijriSource: computed
+Location: Online
+MsgID: 5995
+
+---
+DB: 21
+LessonNum: 28
+LessonLine: الدرس الثامن والعشرون عن بُعد.
+Chapter: تابع باب الربا
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251213-WA0006.m4a
+Duration: 16:12
+GregDate: 13/12/2025
+HijriDate: 1447/06/22
+HijriSource: computed
+Location: Online
+MsgID: 5996
+
+---
+DB: 22
+LessonNum: 29
+LessonLine: الدرس التاسع والعشرون عن بُعد.
+Chapter: باب الهبة والعمرى والركبة
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251213-WA0004.m4a
+Duration: 41:02
+GregDate: 13/12/2025
+HijriDate: 1447/06/22
+HijriSource: computed
+Location: Online
+MsgID: 5997
+
+---
+DB: 23
+LessonNum: 30
+LessonLine: الدرس الثلاثون عن بُعد.
+Chapter: باب الأرض الموات
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251217-WA0005.m4a
+Duration: 11:39
+GregDate: 18/12/2025
+HijriDate: 1447/06/27
+HijriSource: computed
+Location: Online
+MsgID: 6035
+
+---
+DB: 24
+LessonNum: 31
+LessonLine: الدرس الواحد والثلاثون عن بُعد.
+Chapter: باب الأرض الموات
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251217-WA0004.m4a
+Duration: 19:41
+GregDate: 18/12/2025
+HijriDate: 1447/06/27
+HijriSource: computed
+Location: Online
+MsgID: 6036
+
+---
+DB: 25
+LessonNum: 31
+LessonLine: الدرس الواحد والثلاثون عن بُعد. ٢٤ / ٦ / ١٤٤٧
+Chapter: كتاب البيوع باب الوقف
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2025-12-22-14-05-29 (3).m4a
+Duration: 19:42
+GregDate: 22/12/2025
+HijriDate: 1447/06/24
+HijriSource: text
+Location: Online
+MsgID: 6070
+
+---
+DB: 26
+LessonNum: 1
+LessonLine: الدرس الاول في كتاب الفرائض عن بُعد. ١ /٧ /١٤٤٧
+Chapter: كتاب الفرائض
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2025-12-22-14-05-30.m4a
+Duration: 21:26
+GregDate: 22/12/2025
+HijriDate: 1447/07/01
+HijriSource: text
+Location: Online
+MsgID: 6072
+
+---
+DB: 27
+LessonNum: 2
+LessonLine: الدرس الثاني في كتاب الفرائض باب الوصية عن بُعد. ١٤٤٧/٧/٢
+Chapter: كتاب الفرائض باب الوصية
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2025-12-22-21-23-10.m4a
+Duration: 20:31
+GregDate: 22/12/2025
+HijriDate: 1447/07/02
+HijriSource: text
+Location: Online
+MsgID: 6080
+
+---
+DB: 28
+LessonNum: 3
+LessonLine: الدرس الثالث في كتاب الفرائض باب أنواع الإرث عن بُعد - ١٤٤٧/٧/٩ .
+Chapter: كتاب الفرائض باب أنواع الإرث
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2025-12-29-22-32-50.m4a
+Duration: 46:49
+GregDate: 30/12/2025
+HijriDate: 1447/07/09
+HijriSource: text
+Location: Online
+MsgID: 6119
+
+---
+DB: 29
+LessonNum: 4
+LessonLine: الدرس الرابع في كتاب الفرائض باب من يرث بالنسب عن بُعد - ١٤٤٧/٧/٢٩ .
+Chapter: كتاب الفرائض باب من يرث بالنسب
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-01-18-21-18-16.m4a
+Duration: 17:21
+GregDate: 19/01/2026
+HijriDate: 1447/07/29
+HijriSource: text
+Location: Online
+MsgID: 6222
+
+---
+DB: 30
+LessonNum: 5
+LessonLine: الدرس الخامس في كتاب الفرائض عن بُعد - ١٤٤٧/٨/٧.
+Chapter: كتاب الفرائض
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-01-26-21-28-55.m4a
+Duration: 23:53
+GregDate: 27/01/2026
+HijriDate: 1447/08/07
+HijriSource: text
+Location: Online
+MsgID: 6283
+
+---
+DB: 31
+LessonNum: 6
+LessonLine: الدرس السادس في كتاب الفرائض عن بُعد - ١٤٤٧/٨/١٣.
+Chapter: كتاب الفرائض
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-02-01-22-04-15.m4a
+Duration: 31:59
+GregDate: 02/02/2026
+HijriDate: 1447/08/13
+HijriSource: text
+Location: Online
+MsgID: 6340
+
+---
+DB: 32
+LessonNum: 7
+LessonLine: الدرس السابع في كتاب الفرائض - باب من يرث بالنكاحعن بُعد - ٢٠ / ٨/ ١٤٤٧.
+Chapter: كتاب الفرائض
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-02-08-21-21-26.m4a
+Duration: 15:21
+GregDate: 09/02/2026
+HijriDate: 1447/08/20
+HijriSource: text
+Location: Online
+MsgID: 6395
+
+---
+DB: 33
+LessonNum: 8
+LessonLine: الدرس الثامن في كتاب الفرائض - باب موانع الإرثعن بُعد - ٢١ / ٨/ ١٤٤٧.
+Chapter: كتاب الفرائض
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-02-09-21-59-45.m4a
+Duration: 28:56
+GregDate: 10/02/2026
+HijriDate: 1447/08/21
+HijriSource: text
+Location: Online
+MsgID: 6405
+
+---
+DB: 34
+LessonNum: 9
+LessonLine: الدرس التاسع في كتاب الفرائض - باب العول و الردعن بُعد - ١٠/١٠ / ١٤٤٧.
+Chapter: كتاب الفرائض
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-03-29-23-35-39.m4a
+Duration: 31:05
+GregDate: 31/03/2026
+HijriDate: 1447/10/10
+HijriSource: text
+Location: Online
+MsgID: 6578
+
+---
+DB: 35
+LessonNum: 1
+LessonLine: الدرس الأول في كتاب النكاح - باب الحث عليهعن بُعد - ١٠/١١ / ١٤٤٧.
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-03-30-21-50-32.m4a
+Duration: 10:40
+GregDate: 31/03/2026
+HijriDate: 1447/10/11
+HijriSource: text
+Location: Online
+MsgID: 6581
+
+---
+DB: 36
+LessonNum: 10
+LessonLine: الدرس العاشر - كتاب النكاح - باب الحث عليهعن بُعد - ١٠/١٧ / ١٤٤٧.
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-05-23-17-44.m4a
+Duration: 21:31
+GregDate: 06/04/2026
+HijriDate: 1447/10/17
+HijriSource: text
+Location: Online
+MsgID: 6667
+
+---
+DB: 37
+LessonNum: 11
+LessonLine: الدرس الحادي عشر - كتاب النكاح(٢) - باب الحث عليهعن بُعد - ١٠/١٨ / ١٤٤٧.
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-06-21-46-52.m4a
+Duration: 25:06
+GregDate: 08/04/2026
+HijriDate: 1447/10/18
+HijriSource: text
+Location: Online
+MsgID: 6686
+
+---
+DB: 38
+LessonNum: 11
+LessonLine: الدرس الحادي عشر - كتاب النكاح(٣) - باب شروط عقد النكاح وكيفيتهعن بُعد - ٢٤ / ١٠ / ١٤٤٧
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-13-02-48-27.m4a
+Duration: 19:42
+GregDate: 16/04/2026
+HijriDate: 1447/10/24
+HijriSource: text
+Location: Online
+MsgID: 6802
+
+---
+DB: 39
+LessonNum: 11
+LessonLine: الدرس الحادي عشر - كتاب النكاح(٤) - تابع باب شروط عقد النكاح وكيفيتهعن بُعد - ٢٥/ ١٠ / ١٤٤٧
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AfnanNadiyyah.m4a
+Duration: 22:58
+GregDate: 16/04/2026
+HijriDate: 1447/10/25
+HijriSource: text
+Location: Online
+MsgID: 6807
+
+---
+DB: 40
+LessonNum: 11
+LessonLine: الدرس الحادي عشر - كتاب النكاح(٥) - تابع باب شروط عقد النكاح وكيفيتهعن بُعد - ١٤٤٧/١١/٢
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-19-21-56-10.m4a
+Duration: 21:35
+GregDate: 20/04/2026
+HijriDate: 1447/11/02
+HijriSource: text
+Location: Online
+MsgID: 6856
+
+---
+DB: 41
+LessonNum: 6
+LessonLine: الدرس السادس - كتاب النكاح(٦) - باب شروط عقد النكاح وكيفيتهعن بُعد - ٣ / ١١ / ١٤٤٧
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-20-22-44-13.m4a
+Duration: 10:45
+GregDate: 24/04/2026
+HijriDate: 1447/11/03
+HijriSource: text
+Location: Online
+MsgID: 6879
+
+---
+DB: 42
+LessonNum: 7
+LessonLine: الدرس السابع - كتاب النكاح(٧) - كتاب النكاح باب أنكحة الكفار وما يقر منها إذا أسلمواعن بُعد - ٩ / ١١ / ١٤٤٧
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-26-22-47-52.m4a
+Duration: 15:29
+GregDate: 29/04/2026
+HijriDate: 1447/11/09
+HijriSource: text
+Location: Online
+MsgID: 6947
+
+---
+DB: 43
+LessonNum: 8
+LessonLine: الدرس الثامن - كتاب النكاح(٨) كتاب النكاح باب الكفاءة والخيار عن بُعد - ١٠ / ١١ / ١٤٤٧
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-27-21-42-44.m4a
+Duration: 11:42
+GregDate: 29/04/2026
+HijriDate: 1447/11/10
+HijriSource: text
+Location: Online
+MsgID: 6950
+
+---
+DB: 44
+LessonNum: 9
+LessonLine: الدرس التاسع - كتاب النكاح(٩) - باب الصداق عن بُعد - ١٦/ ١١ / ١٤٤٧
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: تسجيل جديد ٦٤٥.m4a
+Duration: 19:19
+GregDate: 03/05/2026
+HijriDate: 1447/11/16
+HijriSource: text
+Location: Online
+MsgID: 7062
+
+---
+DB: 45
+LessonNum: 13
+LessonLine: الدرس الثالث عشر - كتاب النكاح(٩) كتاب النكاح باب الصداق عن بُعد - ١٦ / ١١ / ١٤٤٧
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-05-03-21-54-27.m4a
+Duration: 19:18
+GregDate: 04/05/2026
+HijriDate: 1447/11/16
+HijriSource: text
+Location: Online
+MsgID: 7081
+
+---
+DB: 46
+LessonNum: 14
+LessonLine: الدرس الرابع عشر - كتاب النكاح(١٠) كتاب النكاح باب الوليمة و إعلان النكاحعن بُعد - ١٤٤٧/١١/١٧
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-05-04-21-48-28.m4a
+Duration: 15:59
+GregDate: 08/05/2026
+HijriDate: 1447/11/17
+HijriSource: text
+Location: Online
+MsgID: 7135
+
+---
+DB: 47
+LessonNum: 15
+LessonLine: الدرس الخامس عشر - كتاب النكاح(١١) آخر كتاب النكاح - باب الزينة و ما نهي منهاعن بُعد - ١٤٤٧/١١/٢٣
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-05-10-21-50-47.m4a
+Duration: 13:44
+GregDate: 12/05/2026
+HijriDate: 1447/11/23
+HijriSource: text
+Location: Online
+MsgID: 7212
+
+---
+DB: 48
+LessonNum: 16
+LessonLine: الدرس السادس عشر - كتاب النكاح(١٢) كتاب النكاح - عن بُعد - ١٤٤٧/١١/٢٤
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-05-11-21-53-36.m4a
+Duration: 17:52
+GregDate: 12/05/2026
+HijriDate: 1447/11/24
+HijriSource: text
+Location: Online
+MsgID: 7225
+
+---
+DB: 49
+LessonNum: 17
+LessonLine: الدرس السابع عشر - كتاب النكاح(١٣) كتاب النكاح - عن بُعد - ١٤٤٧/١١/٣٠
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-05-17-22-26-07.m4a
+Duration: 19:32
+GregDate: 18/05/2026
+HijriDate: 1447/11/30
+HijriSource: text
+Location: Online
+MsgID: 7349
+
+---
+DB: 50
+LessonNum: 18
+LessonLine: الدرس الثامن عشر - كتاب النكاح(١٤) كتاب النكاح - باب القسم بين الزوجات ووجوب العدل فيما يملكعن بُعد - ١٤٤٧/١١/٣٠
+Chapter: كتاب النكاح
+Series: الأفنان الندية شرح السبل السوية في فقه السنن المروية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-05-18-21-43-24.m4a
+Duration: 10:32
+GregDate: 21/05/2026
+HijriDate: 1447/11/30
+HijriSource: text
+Location: Online
+MsgID: 7430

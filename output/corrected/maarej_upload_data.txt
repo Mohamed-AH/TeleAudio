@@ -1,0 +1,370 @@
+# معارج القبول شرح منظومة سلم الوصول — Upload Data
+# Author: للعلامة حافظ بن أحمد الحكمي رحمه الله
+# Total: 28 lessons (1 without audio)
+# Source: messages4.html, messages_june1.html, messages_new.html
+# Index from: mid=6971
+
+---
+DB: 1
+LessonNum: 1
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250708-WA0004.m4a
+Duration: 22:11
+GregDate: 08/07/2025
+HijriDate: 1447/01/13
+HijriSource: text
+Location: Online
+MsgID: 5550
+
+---
+DB: 2
+LessonNum: 2
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251213-WA0007.m4a
+Duration: 12:50
+GregDate: 13/12/2025
+HijriDate: 1447/06/22
+HijriSource: computed
+Location: Online
+MsgID: 5998
+
+---
+DB: 3
+LessonNum: 3
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250903-WA0000.m4a
+Duration: 11:08
+GregDate: 13/12/2025
+HijriDate: 1447/06/22
+HijriSource: computed
+Location: Online
+MsgID: 5999
+
+---
+DB: 4
+LessonNum: 4
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-30-04-27-19.m4a
+Duration: 26:57
+GregDate: 30/04/2026
+HijriDate: 1447/11/13
+HijriSource: computed
+Location: Online
+MsgID: 6966
+
+---
+DB: 5
+LessonNum: 5
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251213-WA0008.m4a
+Duration: 16:16
+GregDate: 13/12/2025
+HijriDate: 1447/06/22
+HijriSource: computed
+Location: Online
+MsgID: 6000
+
+---
+DB: 6
+LessonNum: 6
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Mp3 Editor_251015104815.mp3
+Duration: 28:58
+GregDate: 15/10/2025
+HijriDate: 1447/04/23
+HijriSource: computed
+Location: Online
+MsgID: 5739
+
+---
+DB: 7
+LessonNum: 7
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Mp3 Editor_251017165500.mp3
+Duration: 24:03
+GregDate: 17/10/2025
+HijriDate: 1447/04/25
+HijriSource: computed
+Location: Online
+MsgID: 5761
+
+---
+DB: 8
+LessonNum: 8
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251021-WA0054.m4a
+Duration: 38:24
+GregDate: 26/10/2025
+HijriDate: 1447/05/04
+HijriSource: computed
+Location: Online
+MsgID: 5814
+
+---
+DB: 9
+LessonNum: 9
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251028-WA0003.m4a
+Duration: 20:27
+GregDate: 29/10/2025
+HijriDate: 1447/05/07
+HijriSource: computed
+Location: Online
+MsgID: 5829
+
+---
+DB: 10
+LessonNum: 10
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251213-WA0009.m4a
+Duration: 18:14
+GregDate: 13/12/2025
+HijriDate: 1447/06/22
+HijriSource: computed
+Location: Online
+MsgID: 6001
+
+---
+DB: 11
+LessonNum: 11
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-30-04-53-45.m4a
+Duration: 23:25
+GregDate: 30/04/2026
+HijriDate: 1447/11/13
+HijriSource: computed
+Location: Online
+MsgID: 6968
+
+---
+DB: 12
+LessonNum: 12
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-30-04-46-05.m4a
+Duration: 22:39
+GregDate: 30/04/2026
+HijriDate: 1447/11/13
+HijriSource: computed
+Location: Online
+MsgID: 6969
+
+---
+DB: 13
+LessonNum: 13
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251208-WA0008.m4a
+Duration: 28:36
+GregDate: 09/12/2025
+HijriDate: 1447/06/18
+HijriSource: computed
+Location: Online
+MsgID: 5970
+
+---
+DB: 14
+LessonNum: 14
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251213-WA0010.m4a
+Duration: 26:10
+GregDate: 13/12/2025
+HijriDate: 1447/06/22
+HijriSource: computed
+Location: Online
+MsgID: 6002
+
+---
+DB: 15
+LessonNum: 15
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: (لا توجد تسجيل)
+Note: No audio attachment in Telegram message
+Duration: 
+GregDate: 22/12/2025
+HijriDate: 1447/06/26
+HijriSource: text
+Location: Online
+MsgID: 6058
+
+---
+DB: 16
+LessonNum: 16
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2025-12-30-21-23-04.m4a
+Duration: 18:49
+GregDate: 31/12/2025
+HijriDate: 1447/07/10
+HijriSource: text
+Location: Online
+MsgID: 6126
+
+---
+DB: 17
+LessonNum: 17
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-01-20-21-21-11.m4a
+Duration: 19:51
+GregDate: 21/01/2026
+HijriDate: 1447/08/01
+HijriSource: text
+Location: Online
+MsgID: 6243
+
+---
+DB: 18
+LessonNum: 18
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-01-27-22-09-23.m4a
+Duration: 34:10
+GregDate: 28/01/2026
+HijriDate: 1447/08/08
+HijriSource: text
+Location: Online
+MsgID: 6292
+
+---
+DB: 19
+LessonNum: 19
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-02-03-21-22-47.m4a
+Duration: 20:52
+GregDate: 04/02/2026
+HijriDate: 1447/08/15
+HijriSource: text
+Location: Online
+MsgID: 6366
+
+---
+DB: 20
+LessonNum: 20
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-03-31-23-28-35.m4a
+Duration: 25:44
+GregDate: 01/04/2026
+HijriDate: 1447/10/12
+HijriSource: text
+Location: Online
+MsgID: 6586
+
+---
+DB: 21
+LessonNum: 21
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-07-21-37-07.m4a
+Duration: 28:19
+GregDate: 08/04/2026
+HijriDate: 1447/10/19
+HijriSource: text
+Location: Online
+MsgID: 6688
+
+---
+DB: 22
+LessonNum: 22
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-14-21-47-53.m4a
+Duration: 14:28
+GregDate: 16/04/2026
+HijriDate: 1447/10/26
+HijriSource: text
+Location: Online
+MsgID: 6810
+
+---
+DB: 23
+LessonNum: 23
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-21-21-54-36.m4a
+Duration: 23:18
+GregDate: 24/04/2026
+HijriDate: 1447/11/04
+HijriSource: text
+Location: Online
+MsgID: 6881
+
+---
+DB: 24
+LessonNum: 24
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-28-20-23-11.m4a
+Duration: 08:49
+GregDate: 28/04/2026
+HijriDate: 1447/11/11
+HijriSource: computed
+Location: Online
+MsgID: 6932
+
+---
+DB: 25
+LessonNum: 25
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-28-19-51-14.m4a
+Duration: 14:07
+GregDate: 29/04/2026
+HijriDate: 1447/11/11
+HijriSource: text
+Location: Online
+MsgID: 6935
+
+---
+DB: 26
+LessonNum: 26
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-05-05-22-05-19.m4a
+Duration: 33:52
+GregDate: 08/05/2026
+HijriDate: 1447/11/18
+HijriSource: text
+Location: Online
+MsgID: 7136
+
+---
+DB: 27
+LessonNum: 27
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-05-20-09-08-42.m4a
+Duration: 23:43
+GregDate: 21/05/2026
+HijriDate: 1447/12/02
+HijriSource: text
+Location: Online
+MsgID: 7434
+
+---
+DB: 28
+LessonNum: 28
+Series: معارج القبول شرح منظومة سلم الوصول
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-05-20-09-09-34.m4a
+Duration: 21:34
+GregDate: 21/05/2026
+HijriDate: 1447/12/02
+HijriSource: text
+Location: Online
+MsgID: 7435
