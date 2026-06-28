@@ -19,6 +19,7 @@ Outputs:
 
 import argparse
 import json
+import random
 import re
 import sys
 import time
@@ -56,8 +57,11 @@ CACHE_FILE = OUT_DIR / "fetch_cache.json"
 # ── Config ─────────────────────────────────────────────────────────────────────
 ASDAA  = "asdaa-alsaa.com"
 JCLUB  = "jeddah-club.com"
-REQUEST_DELAY = 1.5   # seconds between requests
-MAX_RETRIES   = 3
+REQUEST_DELAY    = 4.0   # base seconds between requests
+REQUEST_JITTER   = 2.0   # random 0–2s added per request
+RATE_LIMIT_WAIT  = 90    # seconds to wait after a 429 response
+MAX_RETRIES      = 3
+MAX_429_RETRIES  = 5     # extra retries specifically for rate-limit responses
 TG_MIN_CHARS  = 400   # minimum chars for a Telegram post to be considered an article
 
 # Patterns that indicate an audio announcement rather than a written article
@@ -238,11 +242,30 @@ def _parse_article_html(html: str) -> dict:
     return {"title": title, "summary": summary, "full_text": full_text}
 
 
+CA_BUNDLE = "/root/.ccr/ca-bundle.crt" if Path("/root/.ccr/ca-bundle.crt").exists() else True
+
+
 def fetch_article_requests(url: str, session: requests.Session) -> dict:
-    """Fetch URL via requests. Returns None on 403/connection-error (try Playwright)."""
+    """Fetch URL via requests.  Returns None on SSL/connection error (signal Playwright)."""
+    rate_limit_hits = 0
+
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            resp = session.get(url, headers=HEADERS, timeout=25, allow_redirects=True)
+            resp = session.get(url, headers=HEADERS, timeout=25,
+                               allow_redirects=True, verify=CA_BUNDLE)
+
+            # ── 429 Rate Limit: wait and retry indefinitely up to MAX_429_RETRIES ──
+            if resp.status_code == 429:
+                rate_limit_hits += 1
+                if rate_limit_hits > MAX_429_RETRIES:
+                    return {"title": "", "summary": "", "full_text": "",
+                            "fetch_status": "HTTP 429 (rate-limited, gave up)"}
+                retry_after = int(resp.headers.get("Retry-After", RATE_LIMIT_WAIT))
+                wait = max(retry_after, RATE_LIMIT_WAIT)
+                print(f"    [429] Waiting {wait}s before retry {rate_limit_hits}/{MAX_429_RETRIES} …")
+                time.sleep(wait)
+                continue  # don't count against normal retries
+
             resp.raise_for_status()
             result = _parse_article_html(resp.text)
             result["fetch_status"] = f"ok ({resp.status_code})"
@@ -250,17 +273,20 @@ def fetch_article_requests(url: str, session: requests.Session) -> dict:
 
         except requests.exceptions.HTTPError as e:
             code = e.response.status_code if e.response is not None else 0
-            if code in (403, 404, 410):
-                return None if code == 403 else {
-                    "title": "", "summary": "", "full_text": "",
-                    "fetch_status": f"HTTP {code}",
-                }
+            if code == 403:
+                return None   # signal to try Playwright
+            if code in (404, 410):
+                return {"title": "", "summary": "", "full_text": "",
+                        "fetch_status": f"HTTP {code}"}
             if attempt == MAX_RETRIES:
                 return {"title": "", "summary": "", "full_text": "",
                         "fetch_status": f"HTTP {code} (retries exhausted)"}
-        except (requests.exceptions.ConnectionError, requests.exceptions.Timeout):
+
+        except (requests.exceptions.ConnectionError, requests.exceptions.Timeout,
+                requests.exceptions.SSLError):
             if attempt == MAX_RETRIES:
                 return None  # signal to try Playwright
+
         except Exception as exc:
             if attempt == MAX_RETRIES:
                 return {"title": "", "summary": "", "full_text": "",
@@ -320,8 +346,12 @@ def fetch_article(url: str, session: requests.Session) -> dict:
     """Fetch URL, trying requests first then Playwright as fallback."""
     result = fetch_article_requests(url, session)
     if result is None:
-        # requests got blocked — try headless browser
-        result = fetch_article_playwright(url)
+        # Playwright fallback — skip for known SSL-incompatible domains
+        if JCLUB in url:
+            result = {"title": "", "summary": "", "full_text": "",
+                      "fetch_status": "ssl_error (proxy TLS incompatibility)"}
+        else:
+            result = fetch_article_playwright(url)
     return result
 
 
@@ -346,7 +376,7 @@ def fetch_all(entries: list, label: str) -> list:
             entry.update(result)
             cache[url] = result
             save_cache(cache)
-            time.sleep(REQUEST_DELAY)
+            time.sleep(REQUEST_DELAY + random.uniform(0, REQUEST_JITTER))
 
         enriched.append(entry)
 
@@ -384,23 +414,96 @@ def process_tg_articles(articles: list) -> list:
     return processed
 
 
-# ── Phase 4: Save outputs ──────────────────────────────────────────────────────
+# ── Phase 4: Deduplicate ──────────────────────────────────────────────────────
 
-def save_outputs(all_entries: list):
-    # ── JSON (full data, no raw_html) ──
-    json_entries = [{k: v for k, v in e.items() if k != "raw_text"} for e in all_entries]
-    # For TelegramArticles raw_text IS the full_text — already copied above in process_tg_articles
+import hashlib
+
+def _text_fingerprint(text: str) -> str:
+    """Stable hash of normalised text for duplicate detection."""
+    # Strip whitespace and punctuation normalisation for robustness
+    normalised = re.sub(r'\s+', ' ', text or "").strip().lower()
+    return hashlib.md5(normalised.encode("utf-8")).hexdigest()
+
+
+def deduplicate(all_entries: list) -> tuple:
+    """
+    Remove duplicate entries and return (unique_entries, duplicate_entries).
+
+    Duplicate rules:
+      - External links (Asdaa/JeddahClub): same URL → keep earliest (first-seen, already
+        handled upstream; this catches any that slipped through)
+      - Telegram articles: same msg_id OR same text fingerprint → keep first occurrence
+      - Cross-source: if a Telegram post is just a link to an Asdaa/JeddahClub URL
+        that we already have as an external entry, mark it as duplicate
+    """
+    unique, duplicates = [], []
+    seen_urls:         set = set()
+    seen_msg_ids:      set = set()
+    seen_fingerprints: set = set()
+
+    for e in all_entries:
+        etype  = e.get("type", "")
+        url    = e.get("url") or ""
+        msg_id = e.get("msg_id", "")
+        text   = e.get("full_text") or e.get("raw_text") or ""
+        fp     = _text_fingerprint(text) if text else None
+
+        # ── URL dedup (for external link entries) ──
+        if url and etype in ("Asdaa", "JeddahClub"):
+            if url in seen_urls:
+                e["_dup_reason"] = f"duplicate URL: {url}"
+                duplicates.append(e)
+                continue
+            seen_urls.add(url)
+
+        # ── msg_id dedup (Telegram articles) ──
+        if msg_id and etype == "TelegramArticle":
+            if msg_id in seen_msg_ids:
+                e["_dup_reason"] = f"duplicate msg_id: {msg_id}"
+                duplicates.append(e)
+                continue
+            seen_msg_ids.add(msg_id)
+
+            # ── text fingerprint dedup ──
+            if fp and fp in seen_fingerprints:
+                e["_dup_reason"] = "duplicate content (same text)"
+                duplicates.append(e)
+                continue
+            if fp:
+                seen_fingerprints.add(fp)
+
+        unique.append(e)
+
+    return unique, duplicates
+
+
+# ── Phase 5: Save outputs ──────────────────────────────────────────────────────
+
+def save_outputs(unique_entries: list, dup_entries: list):
+    STRIP = {"raw_text", "raw_html"}
+
+    # ── JSON (unique records only) ──
     json_path = OUT_DIR / "articles_full.json"
     json_path.write_text(
-        json.dumps(json_entries, ensure_ascii=False, indent=2),
+        json.dumps([{k: v for k, v in e.items() if k not in STRIP}
+                    for e in unique_entries],
+                   ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    print(f"  Saved JSON: {json_path}  ({len(json_entries)} entries)")
+    print(f"  Saved JSON: {json_path}  ({len(unique_entries)} unique entries)")
 
-    # ── Excel summary ──
-    rows = []
-    for db, e in enumerate(all_entries, 1):
-        rows.append({
+    # ── JSON (duplicates log) ──
+    dup_path = OUT_DIR / "articles_duplicates.json"
+    dup_path.write_text(
+        json.dumps([{k: v for k, v in e.items() if k not in STRIP}
+                    for e in dup_entries],
+                   ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    print(f"  Saved duplicates log: {dup_path}  ({len(dup_entries)} duplicates)")
+
+    def _row(db, e, is_dup=False):
+        return {
             "DB#":         db,
             "Type":        e.get("type", ""),
             "Date":        e.get("date", ""),
@@ -410,20 +513,24 @@ def save_outputs(all_entries: list):
             "FetchStatus": e.get("fetch_status", ""),
             "MessageID":   e.get("msg_id", ""),
             "SourceFile":  e.get("source_file", ""),
-        })
+            **({"DupReason": e.get("_dup_reason", "")} if is_dup else {}),
+        }
 
-    df = pd.DataFrame(rows)
+    df_unique = pd.DataFrame([_row(i+1, e) for i, e in enumerate(unique_entries)])
+    df_dups   = pd.DataFrame([_row(i+1, e, True) for i, e in enumerate(dup_entries)])
+
     xlsx_path = OUT_DIR / "articles_summary.xlsx"
-
     with pd.ExcelWriter(xlsx_path, engine="openpyxl") as writer:
-        df.to_excel(writer, sheet_name="All", index=False)
+        df_unique.to_excel(writer, sheet_name="All (unique)", index=False)
         for sheet, label in [("Asdaa", "Asdaa"), ("JeddahClub", "JeddahClub"),
                               ("TGArticles", "TelegramArticle")]:
-            sub = df[df["Type"] == label].reset_index(drop=True)
+            sub = df_unique[df_unique["Type"] == label].reset_index(drop=True)
             if not sub.empty:
                 sub.to_excel(writer, sheet_name=sheet, index=False)
+        if not df_dups.empty:
+            df_dups.to_excel(writer, sheet_name="Duplicates", index=False)
 
-    print(f"  Saved Excel: {xlsx_path}")
+    print(f"  Saved Excel: {xlsx_path}  ({len(df_unique)} unique, {len(df_dups)} dupes)")
     return json_path, xlsx_path
 
 
@@ -455,7 +562,9 @@ def main():
                       "fetch_status": "not fetched"})
         tg_processed = process_tg_articles(tg_articles)
         all_entries  = asdaa_list + jclub_list + tg_processed
-        save_outputs(all_entries)
+        unique, dups = deduplicate(all_entries)
+        print(f"\n  Unique: {len(unique)}, Duplicates: {len(dups)}")
+        save_outputs(unique, dups)
         return
 
     # Phase 2 — Asdaa
@@ -477,12 +586,24 @@ def main():
     tg_processed = process_tg_articles(tg_articles)
     print(f"  Processed {len(tg_processed)} articles")
 
-    # Phase 5 — Save
+    # Phase 5 — Deduplicate
     print("\n" + "=" * 60)
-    print("Phase 5 — Saving outputs")
+    print("Phase 5 — Deduplicating")
     print("=" * 60)
     all_entries = asdaa_enriched + jclub_enriched + tg_processed
-    save_outputs(all_entries)
+    unique, dups = deduplicate(all_entries)
+    print(f"  Before dedup: {len(all_entries)}")
+    print(f"  Unique:       {len(unique)}")
+    print(f"  Duplicates:   {len(dups)}")
+    if dups:
+        for d in dups[:10]:
+            print(f"    → {d.get('msg_id','?'):15s}  {d.get('_dup_reason','')[:60]}")
+
+    # Phase 6 — Save
+    print("\n" + "=" * 60)
+    print("Phase 6 — Saving outputs")
+    print("=" * 60)
+    save_outputs(unique, dups)
 
     # Summary
     ok_a = sum(1 for e in asdaa_enriched  if "ok" in e.get("fetch_status", ""))
@@ -490,12 +611,11 @@ def main():
     print("\n" + "=" * 60)
     print("Summary")
     print("=" * 60)
-    print(f"  Asdaa:          {len(asdaa_enriched):4d} URLs   "
-          f"({ok_a} fetched OK, {len(asdaa_enriched)-ok_a} failed/cached)")
-    print(f"  Jeddah Club:    {len(jclub_enriched):4d} URLs   "
-          f"({ok_j} fetched OK, {len(jclub_enriched)-ok_j} failed/cached)")
+    print(f"  Asdaa:          {len(asdaa_enriched):4d} URLs   ({ok_a} fetched OK)")
+    print(f"  Jeddah Club:    {len(jclub_enriched):4d} URLs   ({ok_j} fetched OK)")
     print(f"  TG Articles:    {len(tg_processed):4d} posts")
-    print(f"  Total entries:  {len(all_entries):4d}")
+    print(f"  Duplicates:     {len(dups):4d}")
+    print(f"  Unique total:   {len(unique):4d}")
     print(f"\n  Output directory: {OUT_DIR}")
 
 
