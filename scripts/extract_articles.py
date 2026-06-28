@@ -68,6 +68,9 @@ AUDIO_ANN_RE = re.compile(
     r'|صوتيات'
     r'|(?:top4top\.io|archive\.org|goo\.gl)'
 )
+
+# Pattern for lesson-index posts (فهرس / فهرسة) — not articles
+FIHRIS_RE = re.compile(r'^[^؀-ۿ]*(?:فهرس|فهرسة)|(?:فهرس|فهرسة)\s+(?:دروس|خطبة|الدروس)')
 TG_MIN_CHARS = 400
 
 
@@ -199,6 +202,9 @@ def parse_html_files() -> tuple:
 
             raw_text = text_div.get_text(separator="\n").strip()
             if len(raw_text) < TG_MIN_CHARS or AUDIO_ANN_RE.search(raw_text):
+                continue
+            # Skip lesson-index posts (فهرس / فهرسة) — not articles
+            if FIHRIS_RE.search(raw_text[:300]):
                 continue
 
             lines = [l.strip() for l in raw_text.splitlines() if l.strip()]
