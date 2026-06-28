@@ -2,11 +2,10 @@
 """
 extract_articles.py — Collect and archive articles from Telegram channel HTML exports.
 
-Three source types:
+Two source types:
   1. Asdaa (asdaa-alsaa.com)  — fetched via WordPress REST API (reliable, no rate-limit)
-  2. Jeddah Club (jeddah-club.com) — links collected from HTML; text inaccessible via
-     this environment (TLS incompatibility with the proxy)
-  3. Long-form articles written directly as Telegram posts
+  2. Long-form articles written directly as Telegram posts
+     (Jeddah Club links are discarded — site defunct; article text rescued where present)
 
 Usage:
   python scripts/extract_articles.py
@@ -154,14 +153,16 @@ def fetch_asdaa_articles() -> list:
 
 # ── Phase 2: Parse Telegram HTML for Jeddah Club links and TG articles ────────
 
-def parse_html_files() -> tuple:
+def parse_html_files() -> list:
     """
-    Returns:
-      jclub_map   — {url: entry_dict}  (deduped, first-seen wins)
-      tg_articles — [entry_dict, ...]
+    Parse all HTML files and return Telegram article entries.
+
+    Jeddah Club (jeddah-club.com): site is defunct — links are discarded.
+    If a message containing a jclub link also has substantial article text,
+    that text is rescued (with the link stripped) and kept as a TelegramArticle.
     """
-    jclub_map  = {}
     tg_articles = []
+    seen_mids   = set()
 
     for html_file in HTML_FILES:
         print(f"  Parsing {html_file.name} …")
@@ -175,37 +176,40 @@ def parse_html_files() -> tuple:
             if not text_div:
                 continue
 
-            # ── Jeddah Club links ──
-            jclub_links, asdaa_links = [], []
-            for a in text_div.find_all("a", href=True):
-                href = a["href"].strip()
-                if JCLUB in href and href not in jclub_map:
-                    jclub_map[href] = {
-                        "type": "JeddahClub", "msg_id": msg_id, "date": date,
-                        "url": href, "title": "", "summary": "", "full_text": "",
-                        "fetch_status": "ssl_error (proxy TLS incompatible)",
-                        "source_file": html_file.name,
-                    }
-                    jclub_links.append(href)
-                elif JCLUB in href:
-                    jclub_links.append(href)
-                if ASDAA in href:
-                    asdaa_links.append(href)
+            has_jclub = any(JCLUB in a.get("href","") for a in text_div.find_all("a", href=True))
+            has_asdaa = any(ASDAA in a.get("href","") for a in text_div.find_all("a", href=True))
 
-            # ── Telegram Articles ──
-            if asdaa_links or jclub_links:
-                continue
-            if msg.find("a", class_="media_audio_file") or msg.find("audio"):
-                continue
-            if msg.find(class_="forwarded"):
+            # Skip Asdaa-link posts (handled via REST API)
+            if has_asdaa:
                 continue
 
-            raw_text = text_div.get_text(separator="\n").strip()
-            if len(raw_text) < TG_MIN_CHARS or AUDIO_ANN_RE.search(raw_text):
+            # For jclub messages: strip the link and check if article text remains
+            if has_jclub:
+                clone = BeautifulSoup(str(text_div), "lxml").find("div", class_="text")
+                for a in clone.find_all("a", href=True):
+                    if JCLUB in a.get("href", ""):
+                        a.decompose()
+                raw_text = clone.get_text(separator="\n").strip()
+                # Only keep if there is substantial non-link content
+                if len(raw_text) < TG_MIN_CHARS:
+                    continue
+            else:
+                # Normal Telegram article
+                if msg.find("a", class_="media_audio_file") or msg.find("audio"):
+                    continue
+                if msg.find(class_="forwarded"):
+                    continue
+                raw_text = text_div.get_text(separator="\n").strip()
+
+            if len(raw_text) < TG_MIN_CHARS:
                 continue
-            # Skip lesson-index posts (فهرس / فهرسة) — not articles
+            if AUDIO_ANN_RE.search(raw_text):
+                continue
             if FIHRIS_RE.search(raw_text[:300]):
                 continue
+            if msg_id in seen_mids:
+                continue
+            seen_mids.add(msg_id)
 
             lines = [l.strip() for l in raw_text.splitlines() if l.strip()]
             title = ""
@@ -225,7 +229,7 @@ def parse_html_files() -> tuple:
                 "source_file": html_file.name,
             })
 
-    return jclub_map, tg_articles
+    return tg_articles
 
 
 # ── Phase 3: Deduplicate ──────────────────────────────────────────────────────
@@ -339,16 +343,16 @@ def main():
     asdaa_entries = fetch_asdaa_articles()
 
     print("\n" + "=" * 60)
-    print("Phase 2 — Parsing HTML for Jeddah Club links & Telegram articles")
+    print("Phase 2 — Parsing HTML for Telegram articles")
+    print("  (Jeddah Club links discarded; text rescued where available)")
     print("=" * 60)
-    jclub_map, tg_articles = parse_html_files()
-    print(f"  Jeddah Club URLs:  {len(jclub_map)}")
+    tg_articles = parse_html_files()
     print(f"  Telegram articles: {len(tg_articles)}")
 
     print("\n" + "=" * 60)
     print("Phase 3 — Deduplicating")
     print("=" * 60)
-    all_entries = asdaa_entries + list(jclub_map.values()) + tg_articles
+    all_entries = asdaa_entries + tg_articles
     unique, dups = deduplicate(all_entries)
     print(f"  Before: {len(all_entries)}  |  Unique: {len(unique)}  |  Duplicates: {len(dups)}")
     for d in dups:
@@ -373,8 +377,8 @@ def main():
     print("Summary")
     print("=" * 60)
     print(f"  Asdaa articles (REST API): {len(asdaa_entries):4d}")
-    print(f"  Jeddah Club (HTML links):  {len(jclub_map):4d}  (text unavailable — TLS issue)")
     print(f"  Telegram articles:         {len(tg_articles):4d}")
+    print(f"  (Jeddah Club links dropped — site defunct; 1 article text rescued)")
     print(f"  Total unique:              {len(unique):4d}")
     print(f"  Duplicates removed:        {len(dups):4d}")
     if missing:
