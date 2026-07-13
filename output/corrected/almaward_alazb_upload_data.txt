@@ -1,0 +1,82 @@
+المورد العذب الزلال — Upload Data
+بجامع الورود، حي الورود، جدة
+كتاب: المورد العذب الزلال — للعلامة أحمد بن يحيى النجمي
+
+DB Status  : 10 lessons already in MongoDB (Sort Orders 0–9)
+To Upload  : 6 lessons (DB #11–16)
+Availability: Lesson 17 has NOT been posted to the channel as of the last HTML export
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- No chapter titles in the channel messages for this series — title = ordinal only.
+- Lessons 11 & 12 (msgs 6754/6755) were posted on the same Gregorian day (12/04/2026)
+  but have different lecture (Hijri) dates: lesson 11 = 1447/08/19, lesson 12 = 1447/10/23.
+  Lesson 11 was recorded in mid-February 2026 but posted to the channel in April as a batch.
+- Two columns of dates are provided:
+    Greg Date (posted) = date the message appeared on the Telegram channel (from HTML)
+    Hijri Date (recorded) = actual lecture date as stated in the message text
+- Lessons 14–16 have short Arabic audio filenames (hand-renamed files):
+    Lesson 14: مورد العذب.m4a
+    Lesson 15: المورد العذب٢.m4a
+    Lesson 16: المورد.m4a
+- No out-of-order issues — upload DB lessons 11–16 in sequence.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ------  -----------  ------------  ----------------------------------------
+11   6754    12/04/2026   1447/08/19    AUDIO-2026-04-11-22-49-59.m4a
+12   6755    12/04/2026   1447/10/23    AUDIO-2026-04-11-22-57-54.m4a
+13   6855    20/04/2026   1447/11/01    AUDIO-2026-04-18-20-49-59.m4a
+14   7075    04/05/2026   1447/11/15    مورد العذب.m4a
+15   7218    12/05/2026   1447/11/22    المورد العذب٢.m4a
+16   7344    18/05/2026   1447/11/29    المورد.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 11 | Msg 6754 | Greg 12/04/2026 | Hijri 1447/08/19 ---
+Audio   : AUDIO-2026-04-11-22-49-59.m4a
+Link    : https://t.me/daririhasan/6754
+Title   : الدرس الحادي عشر
+Duration: 41:25
+
+--- DB Lesson 12 | Msg 6755 | Greg 12/04/2026 | Hijri 1447/10/23 ---
+Audio   : AUDIO-2026-04-11-22-57-54.m4a
+Link    : https://t.me/daririhasan/6755
+Title   : الدرس الثاني عشر
+Duration: 35:44
+Note    : Same posting date as lesson 11 but later Hijri lecture date (batch post)
+
+--- DB Lesson 13 | Msg 6855 | Greg 20/04/2026 | Hijri 1447/11/01 ---
+Audio   : AUDIO-2026-04-18-20-49-59.m4a
+Link    : https://t.me/daririhasan/6855
+Title   : الدرس الثالث عشر
+Duration: 35:10
+
+--- DB Lesson 14 | Msg 7075 | Greg 04/05/2026 | Hijri 1447/11/15 ---
+Audio   : مورد العذب.m4a
+Link    : https://t.me/daririhasan/7075
+Title   : الدرس الرابع عشر
+Duration: 1:00:19
+
+--- DB Lesson 15 | Msg 7218 | Greg 12/05/2026 | Hijri 1447/11/22 ---
+Audio   : المورد العذب٢.m4a
+Link    : https://t.me/daririhasan/7218
+Title   : الدرس الخامس عشر
+Duration: 52:21
+
+--- DB Lesson 16 | Msg 7344 | Greg 18/05/2026 | Hijri 1447/11/29 ---
+Audio   : المورد.m4a
+Link    : https://t.me/daririhasan/7344
+Title   : الدرس السادس عشر
+Duration: 45:22
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

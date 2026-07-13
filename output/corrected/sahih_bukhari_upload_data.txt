@@ -1,0 +1,88 @@
+صحيح البخاري — Upload Data
+بجامع الورود، حي الورود، جدة
+كتاب: صحيح البخاري — للإمام محمد بن إسماعيل البخاري رحمه الله
+
+DB Status  : 2 lessons already in MongoDB (Sort Orders 0–1)
+To Upload  : 7 lessons (DB #3–9)
+Availability: No further lessons posted beyond the 9th (msg 7339) as of messages_june1.html
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- No out-of-order issues — upload DB lessons 3–9 in sequence.
+- Sessions cover كتاب العلم (lessons 3–8) then transition to كتاب التيمم (lesson 9).
+  Note: lesson 8 is labeled كتاب الغسل in the channel text (not كتاب العلم).
+- Lessons 5–7 include hadith range numbers in the chapter label.
+- DB lesson 9 (msg 7339): channel text says كتاب التيمم (not كتاب العلم).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ------  -----------  ------------  ----------------------------------------
+3    6324    01/02/2026   1447/08/11    AUDIO-2026-01-30-17-48-49.m4a
+4    6433    13/02/2026   1447/08/25    AUDIO-2026-02-13-17-49-55.m4a
+5    6646    05/04/2026   1447/10/15    AUDIO-2026-04-03-19-40-32.m4a
+6    6748    12/04/2026   1447/10/22    AUDIO-2026-04-10-17-58-14.m4a
+7    6941    29/04/2026   1447/11/07    AUDIO-2026-04-25-09-52-02.m4a
+8    7071    04/05/2026   1447/11/14    AUDIO-2026-05-01-20-04-02.m4a
+9    7339    18/05/2026   1447/11/28    AUDIO-2026-05-15-21-54-33.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 3 | Msg 6324 | Greg 01/02/2026 | Hijri 1447/08/11 ---
+Audio   : AUDIO-2026-01-30-17-48-49.m4a
+Link    : https://t.me/daririhasan/6324
+Title   : الدرس الثالث
+Chapter : كتاب العلم
+Duration: 1:02:59
+
+--- DB Lesson 4 | Msg 6433 | Greg 13/02/2026 | Hijri 1447/08/25 ---
+Audio   : AUDIO-2026-02-13-17-49-55.m4a
+Link    : https://t.me/daririhasan/6433
+Title   : الدرس الرابع
+Chapter : كتاب العلم
+Duration: 45:28
+
+--- DB Lesson 5 | Msg 6646 | Greg 05/04/2026 | Hijri 1447/10/15 ---
+Audio   : AUDIO-2026-04-03-19-40-32.m4a
+Link    : https://t.me/daririhasan/6646
+Title   : الدرس الخامس
+Chapter : باب حفظ العلم — حديث رقم ١١٨ - ١٤٩
+Duration: 46:57
+
+--- DB Lesson 6 | Msg 6748 | Greg 12/04/2026 | Hijri 1447/10/22 ---
+Audio   : AUDIO-2026-04-10-17-58-14.m4a
+Link    : https://t.me/daririhasan/6748
+Title   : الدرس السادس
+Chapter : باب الاستنجاء بالماء — حديث رقم ١٥٠ - ٢٠٠
+Duration: 1:03:38
+
+--- DB Lesson 7 | Msg 6941 | Greg 29/04/2026 | Hijri 1447/11/07 ---
+Audio   : AUDIO-2026-04-25-09-52-02.m4a
+Link    : https://t.me/daririhasan/6941
+Title   : الدرس السابع
+Chapter : باب الوضوء بالمد — حديث رقم ٢٠١ - ٢٤٧
+Duration: 1:08:38
+
+--- DB Lesson 8 | Msg 7071 | Greg 04/05/2026 | Hijri 1447/11/14 ---
+Audio   : AUDIO-2026-05-01-20-04-02.m4a
+Link    : https://t.me/daririhasan/7071
+Title   : الدرس الثامن
+Chapter : كتاب الغسل
+Duration: 1:06:49
+
+--- DB Lesson 9 | Msg 7339 | Greg 18/05/2026 | Hijri 1447/11/28 ---
+Audio   : AUDIO-2026-05-15-21-54-33.m4a
+Link    : https://t.me/daririhasan/7339
+Title   : الدرس التاسع
+Chapter : كتاب التيمم
+Duration: 42:06
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

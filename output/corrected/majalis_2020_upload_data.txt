@@ -1,0 +1,247 @@
+التعليق على كتاب مجالس شهر رمضان — Upload Data (2020 Series, العثيمين)
+عبر الإذاعة على اللاين (Online – LINE App)
+كتاب: مجالس شهر رمضان — للشيخ محمد بن صالح العثيمين رحمه الله
+
+DB Status  : 0 sessions in MongoDB
+To Upload  : 30 sessions (DB #1–30)
+Series     : COMPLETED — session 30 labeled "والأخير" (last).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- Delivered via the LINE app (online broadcast) during Ramadan 1441H / May 2020.
+- This is the 2020 العثيمين series. A separate 2025 الفوزان series exists
+  (القراءة في مجالس شهر رمضان) — see majalis_2025_upload_data.txt.
+- No durations in the message text (LINE broadcast format).
+- Hijri dates are approximate (derived from Gregorian posting dates; no Hijri
+  text in messages).
+- Sessions 2–7 all posted 06/05/2020 (batch upload). Sessions 21–30 all posted
+  26/05/2020 (Shawwal 3, 1441 — after Ramadan ended, batch uploaded).
+- Session 10 (msg 932): audio is .mp3 format, not .m4a.
+- Session 13 (msg 938): filename uses underscores: التعليق_على_كتاب_مجالس_شهر_رمضان_13.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ------  -----------  ------------  ----------------------------------------
+1    916     05/05/2020   1441/09/12    التعليق على مجالس شهر رمضان 01.m4a
+2    917     06/05/2020   1441/09/13    التعليق على مجالس شهر رمضان 02.m4a
+3    918     06/05/2020   1441/09/13    التعليق على مجالس شهر رمضان 03.m4a
+4    919     06/05/2020   1441/09/13    التعليق على مجالس شهر رمضان 04.m4a
+5    920     06/05/2020   1441/09/13    التعليق على مجالس شهر رمضان 05.m4a
+6    921     06/05/2020   1441/09/13    التعليق على مجالس شهر رمضان 06.m4a
+7    922     06/05/2020   1441/09/13    التعليق على مجالس شهر رمضان 07.m4a
+8    930     07/05/2020   1441/09/14    التعليق على مجالس شهر رمضان 08.m4a
+9    931     07/05/2020   1441/09/14    التعليق على مجالس شهر رمضان 09.m4a
+10   932     08/05/2020   1441/09/15    التعليق على مجالس شهر رمضان 10.mp3
+11   934     08/05/2020   1441/09/15    التعليق على مجالس شهر رمضان 11.m4a
+12   937     09/05/2020   1441/09/16    التعليق على مجالس شهر رمضان 12.m4a
+13   938     12/05/2020   1441/09/19    التعليق_على_كتاب_مجالس_شهر_رمضان_13.m4a
+14   939     12/05/2020   1441/09/19    التعليق على مجالس شهر رمضان 14.m4a
+15   946     13/05/2020   1441/09/20    التعليق على مجالس شهر رمضان 15.m4a
+16   947     15/05/2020   1441/09/22    التعليق على مجالس شهر رمضان 16.m4a
+17   948     15/05/2020   1441/09/22    التعليق على مجالس شهر رمضان 17.m4a
+18   949     15/05/2020   1441/09/22    التعليق على مجالس شهر رمضان 18.m4a
+19   950     17/05/2020   1441/09/24    التعليق على مجالس شهر رمضان 19.m4a
+20   951     17/05/2020   1441/09/24    التعليق على مجالس شهر رمضان 20.m4a
+21   959     26/05/2020   1441/10/03    التعليق على مجالس شهر رمضان 21.m4a
+22   960     26/05/2020   1441/10/03    التعليق على مجالس شهر رمضان 22.m4a
+23   961     26/05/2020   1441/10/03    التعليق على مجالس شهر رمضان 23.m4a
+24   962     26/05/2020   1441/10/03    التعليق على مجالس شهر رمضان 24.m4a
+25   963     26/05/2020   1441/10/03    التعليق على مجالس شهر رمضان 25.m4a
+26   964     26/05/2020   1441/10/03    التعليق على مجالس شهر رمضان 26.m4a
+27   965     26/05/2020   1441/10/03    التعليق على مجالس شهر رمضان 27.m4a
+28   966     26/05/2020   1441/10/03    التعليق على مجالس شهر رمضان 28.m4a
+29   967     26/05/2020   1441/10/03    التعليق على مجالس شهر رمضان 29.m4a
+30   968     26/05/2020   1441/10/03    التعليق على مجالس شهر رمضان 30.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Session 1 | Msg 916 | Greg 05/05/2020 | Hijri 1441/09/12 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 01.m4a
+Link    : https://t.me/daririhasan/916
+Title   : المجلس الأول
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 2 | Msg 917 | Greg 06/05/2020 | Hijri 1441/09/13 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 02.m4a
+Link    : https://t.me/daririhasan/917
+Title   : المجلس الثاني
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 3 | Msg 918 | Greg 06/05/2020 | Hijri 1441/09/13 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 03.m4a
+Link    : https://t.me/daririhasan/918
+Title   : المجلس الثالث
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 4 | Msg 919 | Greg 06/05/2020 | Hijri 1441/09/13 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 04.m4a
+Link    : https://t.me/daririhasan/919
+Title   : المجلس الرابع
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 5 | Msg 920 | Greg 06/05/2020 | Hijri 1441/09/13 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 05.m4a
+Link    : https://t.me/daririhasan/920
+Title   : المجلس الخامس
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 6 | Msg 921 | Greg 06/05/2020 | Hijri 1441/09/13 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 06.m4a
+Link    : https://t.me/daririhasan/921
+Title   : المجلس السادس
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 7 | Msg 922 | Greg 06/05/2020 | Hijri 1441/09/13 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 07.m4a
+Link    : https://t.me/daririhasan/922
+Title   : المجلس السابع
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 8 | Msg 930 | Greg 07/05/2020 | Hijri 1441/09/14 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 08.m4a
+Link    : https://t.me/daririhasan/930
+Title   : المجلس الثامن
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 9 | Msg 931 | Greg 07/05/2020 | Hijri 1441/09/14 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 09.m4a
+Link    : https://t.me/daririhasan/931
+Title   : المجلس التاسع
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 10 | Msg 932 | Greg 08/05/2020 | Hijri 1441/09/15 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 10.mp3
+Link    : https://t.me/daririhasan/932
+Title   : المجلس العاشر
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 11 | Msg 934 | Greg 08/05/2020 | Hijri 1441/09/15 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 11.m4a
+Link    : https://t.me/daririhasan/934
+Title   : المجلس الحادي عشر
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 12 | Msg 937 | Greg 09/05/2020 | Hijri 1441/09/16 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 12.m4a
+Link    : https://t.me/daririhasan/937
+Title   : المجلس الثاني عشر
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 13 | Msg 938 | Greg 12/05/2020 | Hijri 1441/09/19 (approx) ---
+Audio   : التعليق_على_كتاب_مجالس_شهر_رمضان_13.m4a
+Link    : https://t.me/daririhasan/938
+Title   : المجلس الثالث عشر
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 14 | Msg 939 | Greg 12/05/2020 | Hijri 1441/09/19 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 14.m4a
+Link    : https://t.me/daririhasan/939
+Title   : المجلس الرابع عشر
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 15 | Msg 946 | Greg 13/05/2020 | Hijri 1441/09/20 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 15.m4a
+Link    : https://t.me/daririhasan/946
+Title   : المجلس الخامس عشر
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 16 | Msg 947 | Greg 15/05/2020 | Hijri 1441/09/22 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 16.m4a
+Link    : https://t.me/daririhasan/947
+Title   : المجلس السادس عشر
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 17 | Msg 948 | Greg 15/05/2020 | Hijri 1441/09/22 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 17.m4a
+Link    : https://t.me/daririhasan/948
+Title   : المجلس السابع عشر
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 18 | Msg 949 | Greg 15/05/2020 | Hijri 1441/09/22 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 18.m4a
+Link    : https://t.me/daririhasan/949
+Title   : المجلس الثامن عشر
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 19 | Msg 950 | Greg 17/05/2020 | Hijri 1441/09/24 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 19.m4a
+Link    : https://t.me/daririhasan/950
+Title   : المجلس التاسع عشر
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 20 | Msg 951 | Greg 17/05/2020 | Hijri 1441/09/24 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 20.m4a
+Link    : https://t.me/daririhasan/951
+Title   : المجلس العشرون
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 21 | Msg 959 | Greg 26/05/2020 | Hijri 1441/10/03 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 21.m4a
+Link    : https://t.me/daririhasan/959
+Title   : المجلس الحادي والعشرون
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 22 | Msg 960 | Greg 26/05/2020 | Hijri 1441/10/03 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 22.m4a
+Link    : https://t.me/daririhasan/960
+Title   : المجلس الثاني والعشرون
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 23 | Msg 961 | Greg 26/05/2020 | Hijri 1441/10/03 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 23.m4a
+Link    : https://t.me/daririhasan/961
+Title   : المجلس الثالث والعشرون
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 24 | Msg 962 | Greg 26/05/2020 | Hijri 1441/10/03 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 24.m4a
+Link    : https://t.me/daririhasan/962
+Title   : المجلس الرابع والعشرون
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 25 | Msg 963 | Greg 26/05/2020 | Hijri 1441/10/03 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 25.m4a
+Link    : https://t.me/daririhasan/963
+Title   : المجلس الخامس والعشرون
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 26 | Msg 964 | Greg 26/05/2020 | Hijri 1441/10/03 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 26.m4a
+Link    : https://t.me/daririhasan/964
+Title   : المجلس السادس والعشرون
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 27 | Msg 965 | Greg 26/05/2020 | Hijri 1441/10/03 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 27.m4a
+Link    : https://t.me/daririhasan/965
+Title   : المجلس السابع والعشرون
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 28 | Msg 966 | Greg 26/05/2020 | Hijri 1441/10/03 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 28.m4a
+Link    : https://t.me/daririhasan/966
+Title   : المجلس الثامن والعشرون
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 29 | Msg 967 | Greg 26/05/2020 | Hijri 1441/10/03 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 29.m4a
+Link    : https://t.me/daririhasan/967
+Title   : المجلس التاسع والعشرون
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+--- DB Session 30 | Msg 968 | Greg 26/05/2020 | Hijri 1441/10/03 (approx) ---
+Audio   : التعليق على مجالس شهر رمضان 30.m4a
+Link    : https://t.me/daririhasan/968
+Title   : المجلس الثلاثون والأخير
+Note    : No duration — online LINE broadcast format, duration not in message text.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

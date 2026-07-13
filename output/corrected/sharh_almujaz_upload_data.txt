@@ -1,0 +1,90 @@
+الشرح الموجز الممهد لتوحيد الخالق الممجد — Upload Data
+بجامع الورود، حي الورود، جدة
+كتاب: الشرح الموجز الممهد لتوحيد الخالق الممجد الذي ألفه شيخ الإسلام محمد
+      — للعلامة أحمد بن يحيى النجمي رحمه الله
+
+DB Status  : 1 lesson already in MongoDB (Sort Order 0)
+To Upload  : 8 lessons (DB #2–9)
+Availability: No further lessons posted beyond the 9th (msg 7345) as of messages_june1.html
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- No out-of-order issues — upload DB lessons 2–9 in sequence.
+- DB lesson 7 (msg 7074) has a short Arabic audio filename: موجز التوحيد.m4a
+- DB lesson 9 (msg 7345) has a short Arabic audio filename: الموجز الممهد٢٩.m4a
+- DB lesson 6 (msg 6853) includes a chapter/باب reference in the title.
+- Chapter titles are only explicitly mentioned for DB lesson 6; others have no chapter in message text.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ------  -----------  ------------  ----------------------------------------
+2    6330    01/02/2026   1447/08/12    AUDIO-2026-02-01-10-15-46.m4a
+3    6392    09/02/2026   1447/08/19    AUDIO-2026-02-08-16-05-06.m4a
+4    6650    05/04/2026   1447/10/16    AUDIO-2026-04-04-21-54-53.m4a
+5    6752    12/04/2026   1447/10/23    AUDIO-2026-04-11-22-02-46.m4a
+6    6853    20/04/2026   1447/11/01    AUDIO-2026-04-18-20-48-22.m4a
+7    7074    04/05/2026   1447/11/15    موجز التوحيد.m4a
+8    7215    12/05/2026   1447/11/22    AUDIO-2026-05-10-23-30-14.m4a
+9    7345    18/05/2026   1447/11/29    الموجز الممهد٢٩.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 2 | Msg 6330 | Greg 01/02/2026 | Hijri 1447/08/12 ---
+Audio   : AUDIO-2026-02-01-10-15-46.m4a
+Link    : https://t.me/daririhasan/6330
+Title   : الدرس الثاني
+Duration: 57:46
+
+--- DB Lesson 3 | Msg 6392 | Greg 09/02/2026 | Hijri 1447/08/19 ---
+Audio   : AUDIO-2026-02-08-16-05-06.m4a
+Link    : https://t.me/daririhasan/6392
+Title   : الدرس الثالث
+Duration: 50:55
+
+--- DB Lesson 4 | Msg 6650 | Greg 05/04/2026 | Hijri 1447/10/16 ---
+Audio   : AUDIO-2026-04-04-21-54-53.m4a
+Link    : https://t.me/daririhasan/6650
+Title   : الدرس الرابع
+Duration: 44:18
+
+--- DB Lesson 5 | Msg 6752 | Greg 12/04/2026 | Hijri 1447/10/23 ---
+Audio   : AUDIO-2026-04-11-22-02-46.m4a
+Link    : https://t.me/daririhasan/6752
+Title   : الدرس الخامس
+Duration: 55:14
+
+--- DB Lesson 6 | Msg 6853 | Greg 20/04/2026 | Hijri 1447/11/01 ---
+Audio   : AUDIO-2026-04-18-20-48-22.m4a
+Link    : https://t.me/daririhasan/6853
+Title   : الدرس السادس
+Chapter : باب قول الله تعالى: ﴿إنك لا تهدي من أحببت ولكن الله يهدي من يشاء﴾
+Duration: 47:01
+
+--- DB Lesson 7 | Msg 7074 | Greg 04/05/2026 | Hijri 1447/11/15 ---
+Audio   : موجز التوحيد.m4a
+Link    : https://t.me/daririhasan/7074
+Title   : الدرس السابع
+Duration: 54:29
+
+--- DB Lesson 8 | Msg 7215 | Greg 12/05/2026 | Hijri 1447/11/22 ---
+Audio   : AUDIO-2026-05-10-23-30-14.m4a
+Link    : https://t.me/daririhasan/7215
+Title   : الدرس الثامن
+Duration: 32:54
+
+--- DB Lesson 9 | Msg 7345 | Greg 18/05/2026 | Hijri 1447/11/29 ---
+Audio   : الموجز الممهد٢٩.m4a
+Link    : https://t.me/daririhasan/7345
+Title   : الدرس التاسع
+Duration: 50:23
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,248 @@
+القراءة في كتاب مجالس شهر رمضان — Upload Data (2025 Series, الفوزان)
+بجامع الورود، حي الورود، جدة (WhatsApp format)
+كتاب: مجالس شهر رمضان — للعلامة صالح بن فوزان الفوزان حفظه الله
+
+DB Status  : 0 sessions in MongoDB
+To Upload  : 30 sessions (DB #1–30)
+Series     : COMPLETED — session 30 labeled "والأخير" (last).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- Title in channel text: "القراءة في كتاب مجالس شهر رمضان" (NOT "التعليق").
+- This is the 2025 الفوزان series. A separate 2020 العثيمين series exists
+  (التعليق على مجالس شهر رمضان) — see majalis_2020_upload_data.txt.
+- Delivered during Ramadan 1446H (March 2025) via WhatsApp/channel.
+- No durations in the message text (WhatsApp audio format).
+- Hijri dates are approximate (derived from Gregorian posting dates; no Hijri
+  text in messages). Sessions 1–3 posted 27/02/2025 = 28 Sha'ban 1446 (2 days
+  before Ramadan started ~1 March 2025).
+- Sessions 1–3 posted 27/02/2025 (batch); sessions 4–6 posted 07/03/2025 (batch);
+  sessions 7–10 posted 11/03/2025 (batch); etc.
+- Session 30 (msg 5284): AUD filename date is 20250329 (day before posting date).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ------  -----------  ------------  ----------------------------------------
+1    5192    27/02/2025   1446/08/28    AUD-20250226-WA0000.m4a
+2    5194    27/02/2025   1446/08/28    AUD-20250226-WA0001.m4a
+3    5196    27/02/2025   1446/08/28    AUD-20250226-WA0002.m4a
+4    5202    07/03/2025   1446/09/07    AUD-20250303-WA0000.m4a
+5    5204    07/03/2025   1446/09/07    AUD-20250307-WA0000.m4a
+6    5206    07/03/2025   1446/09/07    AUD-20250307-WA0001.m4a
+7    5212    11/03/2025   1446/09/11    AUD-20250311-WA0002.m4a
+8    5214    11/03/2025   1446/09/11    AUD-20250311-WA0003.m4a
+9    5216    11/03/2025   1446/09/11    AUD-20250311-WA0004.m4a
+10   5218    11/03/2025   1446/09/11    AUD-20250311-WA0005.m4a
+11   5220    13/03/2025   1446/09/13    AUD-20250312-WA0029.m4a
+12   5222    13/03/2025   1446/09/13    AUD-20250312-WA0028.m4a
+13   5224    15/03/2025   1446/09/15    AUD-20250313-WA0003.m4a
+14   5226    15/03/2025   1446/09/15    AUD-20250314-WA0023.m4a
+15   5228    15/03/2025   1446/09/15    AUD-20250315-WA0003.m4a
+16   5230    17/03/2025   1446/09/17    AUD-20250317-WA0000.m4a
+17   5232    18/03/2025   1446/09/18    AUD-20250317-WA0004.m4a
+18   5234    18/03/2025   1446/09/18    AUD-20250318-WA0001.m4a
+19   5246    21/03/2025   1446/09/21    AUD-20250320-WA0002.m4a
+20   5248    21/03/2025   1446/09/21    AUD-20250320-WA0003.m4a
+21   5258    23/03/2025   1446/09/23    AUD-20250322-WA0000.m4a
+22   5260    23/03/2025   1446/09/23    AUD-20250323-WA0000.m4a
+23   5262    24/03/2025   1446/09/24    AUD-20250324-WA0002.m4a
+24   5264    25/03/2025   1446/09/25    AUD-20250325-WA0000.m4a
+25   5271    27/03/2025   1446/09/27    AUD-20250327-WA0003.m4a
+26   5273    27/03/2025   1446/09/27    AUD-20250327-WA0004.m4a
+27   5277    29/03/2025   1446/09/29    AUD-20250329-WA0004.m4a
+28   5279    29/03/2025   1446/09/29    AUD-20250329-WA0005.m4a
+29   5281    29/03/2025   1446/09/29    AUD-20250329-WA0006.m4a
+30   5284    30/03/2025   1446/10/01    AUD-20250329-WA0007.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Session 1 | Msg 5192 | Greg 27/02/2025 | Hijri 1446/08/28 (approx) ---
+Audio   : AUD-20250226-WA0000.m4a
+Link    : https://t.me/daririhasan/5192
+Title   : المجلس الأول
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 2 | Msg 5194 | Greg 27/02/2025 | Hijri 1446/08/28 (approx) ---
+Audio   : AUD-20250226-WA0001.m4a
+Link    : https://t.me/daririhasan/5194
+Title   : المجلس الثاني
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 3 | Msg 5196 | Greg 27/02/2025 | Hijri 1446/08/28 (approx) ---
+Audio   : AUD-20250226-WA0002.m4a
+Link    : https://t.me/daririhasan/5196
+Title   : المجلس الثالث
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 4 | Msg 5202 | Greg 07/03/2025 | Hijri 1446/09/07 (approx) ---
+Audio   : AUD-20250303-WA0000.m4a
+Link    : https://t.me/daririhasan/5202
+Title   : المجلس الرابع
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 5 | Msg 5204 | Greg 07/03/2025 | Hijri 1446/09/07 (approx) ---
+Audio   : AUD-20250307-WA0000.m4a
+Link    : https://t.me/daririhasan/5204
+Title   : المجلس الخامس
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 6 | Msg 5206 | Greg 07/03/2025 | Hijri 1446/09/07 (approx) ---
+Audio   : AUD-20250307-WA0001.m4a
+Link    : https://t.me/daririhasan/5206
+Title   : المجلس السادس
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 7 | Msg 5212 | Greg 11/03/2025 | Hijri 1446/09/11 (approx) ---
+Audio   : AUD-20250311-WA0002.m4a
+Link    : https://t.me/daririhasan/5212
+Title   : المجلس السابع
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 8 | Msg 5214 | Greg 11/03/2025 | Hijri 1446/09/11 (approx) ---
+Audio   : AUD-20250311-WA0003.m4a
+Link    : https://t.me/daririhasan/5214
+Title   : المجلس الثامن
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 9 | Msg 5216 | Greg 11/03/2025 | Hijri 1446/09/11 (approx) ---
+Audio   : AUD-20250311-WA0004.m4a
+Link    : https://t.me/daririhasan/5216
+Title   : المجلس التاسع
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 10 | Msg 5218 | Greg 11/03/2025 | Hijri 1446/09/11 (approx) ---
+Audio   : AUD-20250311-WA0005.m4a
+Link    : https://t.me/daririhasan/5218
+Title   : المجلس العاشر
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 11 | Msg 5220 | Greg 13/03/2025 | Hijri 1446/09/13 (approx) ---
+Audio   : AUD-20250312-WA0029.m4a
+Link    : https://t.me/daririhasan/5220
+Title   : المجلس الحادي عشر
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 12 | Msg 5222 | Greg 13/03/2025 | Hijri 1446/09/13 (approx) ---
+Audio   : AUD-20250312-WA0028.m4a
+Link    : https://t.me/daririhasan/5222
+Title   : المجلس الثاني عشر
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 13 | Msg 5224 | Greg 15/03/2025 | Hijri 1446/09/15 (approx) ---
+Audio   : AUD-20250313-WA0003.m4a
+Link    : https://t.me/daririhasan/5224
+Title   : المجلس الثالث عشر
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 14 | Msg 5226 | Greg 15/03/2025 | Hijri 1446/09/15 (approx) ---
+Audio   : AUD-20250314-WA0023.m4a
+Link    : https://t.me/daririhasan/5226
+Title   : المجلس الرابع عشر
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 15 | Msg 5228 | Greg 15/03/2025 | Hijri 1446/09/15 (approx) ---
+Audio   : AUD-20250315-WA0003.m4a
+Link    : https://t.me/daririhasan/5228
+Title   : المجلس الخامس عشر
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 16 | Msg 5230 | Greg 17/03/2025 | Hijri 1446/09/17 (approx) ---
+Audio   : AUD-20250317-WA0000.m4a
+Link    : https://t.me/daririhasan/5230
+Title   : المجلس السادس عشر
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 17 | Msg 5232 | Greg 18/03/2025 | Hijri 1446/09/18 (approx) ---
+Audio   : AUD-20250317-WA0004.m4a
+Link    : https://t.me/daririhasan/5232
+Title   : المجلس السابع عشر
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 18 | Msg 5234 | Greg 18/03/2025 | Hijri 1446/09/18 (approx) ---
+Audio   : AUD-20250318-WA0001.m4a
+Link    : https://t.me/daririhasan/5234
+Title   : المجلس الثامن عشر
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 19 | Msg 5246 | Greg 21/03/2025 | Hijri 1446/09/21 (approx) ---
+Audio   : AUD-20250320-WA0002.m4a
+Link    : https://t.me/daririhasan/5246
+Title   : المجلس التاسع عشر
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 20 | Msg 5248 | Greg 21/03/2025 | Hijri 1446/09/21 (approx) ---
+Audio   : AUD-20250320-WA0003.m4a
+Link    : https://t.me/daririhasan/5248
+Title   : المجلس العشرون
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 21 | Msg 5258 | Greg 23/03/2025 | Hijri 1446/09/23 (approx) ---
+Audio   : AUD-20250322-WA0000.m4a
+Link    : https://t.me/daririhasan/5258
+Title   : المجلس الحادي والعشرون
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 22 | Msg 5260 | Greg 23/03/2025 | Hijri 1446/09/23 (approx) ---
+Audio   : AUD-20250323-WA0000.m4a
+Link    : https://t.me/daririhasan/5260
+Title   : المجلس الثاني والعشرون
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 23 | Msg 5262 | Greg 24/03/2025 | Hijri 1446/09/24 (approx) ---
+Audio   : AUD-20250324-WA0002.m4a
+Link    : https://t.me/daririhasan/5262
+Title   : المجلس الثالث والعشرون
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 24 | Msg 5264 | Greg 25/03/2025 | Hijri 1446/09/25 (approx) ---
+Audio   : AUD-20250325-WA0000.m4a
+Link    : https://t.me/daririhasan/5264
+Title   : المجلس الرابع والعشرون
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 25 | Msg 5271 | Greg 27/03/2025 | Hijri 1446/09/27 (approx) ---
+Audio   : AUD-20250327-WA0003.m4a
+Link    : https://t.me/daririhasan/5271
+Title   : المجلس الخامس والعشرون
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 26 | Msg 5273 | Greg 27/03/2025 | Hijri 1446/09/27 (approx) ---
+Audio   : AUD-20250327-WA0004.m4a
+Link    : https://t.me/daririhasan/5273
+Title   : المجلس السادس والعشرون
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 27 | Msg 5277 | Greg 29/03/2025 | Hijri 1446/09/29 (approx) ---
+Audio   : AUD-20250329-WA0004.m4a
+Link    : https://t.me/daririhasan/5277
+Title   : المجلس السابع والعشرون
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 28 | Msg 5279 | Greg 29/03/2025 | Hijri 1446/09/29 (approx) ---
+Audio   : AUD-20250329-WA0005.m4a
+Link    : https://t.me/daririhasan/5279
+Title   : المجلس الثامن والعشرون
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 29 | Msg 5281 | Greg 29/03/2025 | Hijri 1446/09/29 (approx) ---
+Audio   : AUD-20250329-WA0006.m4a
+Link    : https://t.me/daririhasan/5281
+Title   : المجلس التاسع والعشرون
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+--- DB Session 30 | Msg 5284 | Greg 30/03/2025 | Hijri 1446/10/01 (approx) ---
+Audio   : AUD-20250329-WA0007.m4a
+Link    : https://t.me/daririhasan/5284
+Title   : المجلس الثلاثون والأخير
+Note    : No duration — WhatsApp audio format, duration not in message text.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

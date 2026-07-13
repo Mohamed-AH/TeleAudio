@@ -1,0 +1,103 @@
+دروس عشر ذي الحجة — Upload Data
+بجامع الورود، حي الورود، جدة
+دروس عشر ذي الحجة (المستخرجة من توجيهات وزارة الحج)
+
+DB Status  : 0 lessons in MongoDB
+To Upload  : 10 lessons (DB #1–10)
+Series     : COMPLETE — all 10 days of Dhul-Hijja covered.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- All 10 lessons are short (6–17 min), corresponding to the 10 days of Dhul-Hijja 1447.
+- DB 1–2 were posted on 21/05/2026; DB 3–7 posted 24/05/2026; DB 8–10 posted 26/05/2026.
+- DB 7–10 all share Hijri date 1447/12/08 — four lessons posted in two batches (24th and 26th
+  of May 2026).
+- Audio filenames contain the actual recording date (AUDIO-2026-05-19, 05-20, 05-23, 05-24).
+  The Gregorian posting date (from HTML) and the Hijri lecture date are different.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ------  -----------  ------------  ----------------------------------------
+1    7431    21/05/2026   1447/12/01    AUDIO-2026-05-19-17-44-49.m4a
+2    7436    21/05/2026   1447/12/03    AUDIO-2026-05-20-17-46-26.m4a
+3    7459    24/05/2026   1447/12/04    AUDIO-2026-05-23-14-49-23.m4a
+4    7460    24/05/2026   1447/12/05    AUDIO-2026-05-24-05-13-50.m4a
+5    7461    24/05/2026   1447/12/06    AUDIO-2026-05-24-05-28-20.m4a
+6    7462    24/05/2026   1447/12/07    AUDIO-2026-05-24-05-40-05.m4a
+7    7463    24/05/2026   1447/12/08    AUDIO-2026-05-24-10-41-48.m4a
+8    7473    26/05/2026   1447/12/08    AUDIO-2026-05-24-10-53-13.m4a
+9    7474    26/05/2026   1447/12/08    AUDIO-2026-05-24-16-10-09.m4a
+10   7475    26/05/2026   1447/12/08    AUDIO-2026-05-24-16-17-27.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 1 | Msg 7431 | Greg 21/05/2026 | Hijri 1447/12/01 ---
+Audio   : AUDIO-2026-05-19-17-44-49.m4a
+Link    : https://t.me/daririhasan/7431
+Title   : الدرس الأول
+Duration: 9:43
+
+--- DB Lesson 2 | Msg 7436 | Greg 21/05/2026 | Hijri 1447/12/03 ---
+Audio   : AUDIO-2026-05-20-17-46-26.m4a
+Link    : https://t.me/daririhasan/7436
+Title   : الدرس الثاني
+Duration: 6:48
+
+--- DB Lesson 3 | Msg 7459 | Greg 24/05/2026 | Hijri 1447/12/04 ---
+Audio   : AUDIO-2026-05-23-14-49-23.m4a
+Link    : https://t.me/daririhasan/7459
+Title   : الدرس الثالث
+Duration: 16:39
+
+--- DB Lesson 4 | Msg 7460 | Greg 24/05/2026 | Hijri 1447/12/05 ---
+Audio   : AUDIO-2026-05-24-05-13-50.m4a
+Link    : https://t.me/daririhasan/7460
+Title   : الدرس الرابع
+Duration: 11:45
+
+--- DB Lesson 5 | Msg 7461 | Greg 24/05/2026 | Hijri 1447/12/06 ---
+Audio   : AUDIO-2026-05-24-05-28-20.m4a
+Link    : https://t.me/daririhasan/7461
+Title   : الدرس الخامس
+Duration: 12:47
+
+--- DB Lesson 6 | Msg 7462 | Greg 24/05/2026 | Hijri 1447/12/07 ---
+Audio   : AUDIO-2026-05-24-05-40-05.m4a
+Link    : https://t.me/daririhasan/7462
+Title   : الدرس السادس
+Duration: 10:28
+
+--- DB Lesson 7 | Msg 7463 | Greg 24/05/2026 | Hijri 1447/12/08 ---
+Audio   : AUDIO-2026-05-24-10-41-48.m4a
+Link    : https://t.me/daririhasan/7463
+Title   : الدرس السابع
+Duration: 6:26
+
+--- DB Lesson 8 | Msg 7473 | Greg 26/05/2026 | Hijri 1447/12/08 ---
+Audio   : AUDIO-2026-05-24-10-53-13.m4a
+Link    : https://t.me/daririhasan/7473
+Title   : الدرس الثامن
+Duration: 7:17
+
+--- DB Lesson 9 | Msg 7474 | Greg 26/05/2026 | Hijri 1447/12/08 ---
+Audio   : AUDIO-2026-05-24-16-10-09.m4a
+Link    : https://t.me/daririhasan/7474
+Title   : الدرس التاسع
+Duration: 6:49
+
+--- DB Lesson 10 | Msg 7475 | Greg 26/05/2026 | Hijri 1447/12/08 ---
+Audio   : AUDIO-2026-05-24-16-17-27.m4a
+Link    : https://t.me/daririhasan/7475
+Title   : الدرس العاشر
+Duration: 9:00
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

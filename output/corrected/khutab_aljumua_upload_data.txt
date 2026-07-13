@@ -1,0 +1,3927 @@
+# خطب الجمعة — Upload Data
+# Total: 327 records
+
+---
+DB: 1
+Series: خطب الجمعة
+Title: قصة الإسراء والمعراج
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة_الإسراء_والمعراج_٢٧_٧_١٤٣٩.m4a
+Duration: 19:00
+GregDate: 18/10/2018
+HijriDate: 1439/07/27
+HijriSource: text
+Location: Online
+MsgID: 209
+---
+DB: 2
+Series: خطب الجمعة
+Title: أسباب صلاح الأولاد
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: أسباب_صلاح_الأولاد@_١٤_١١_١٤٣٩.m4a
+Duration: 15:35
+GregDate: 25/10/2018
+HijriDate: 1439/11/14
+HijriSource: text
+Location: Online
+MsgID: 212
+---
+DB: 3
+Series: خطب الجمعة
+Title: من أحكام النكاح 1
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: من أحكام النكاح 1.amr
+Duration: 19:54
+GregDate: 28/10/2018
+HijriDate: 1440/02/19
+HijriSource: computed
+Location: Online
+MsgID: 214
+---
+DB: 4
+Series: خطب الجمعة
+Title: أضرار القات على الفرد والمجتمع
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: أضرار القات على الفرد والمجتمع.m4a
+Duration: 17:31
+GregDate: 25/01/2019
+HijriDate: 1440/05/19
+HijriSource: computed
+Location: Online
+MsgID: 259
+---
+DB: 5
+Series: خطب الجمعة
+Title: وقفات مع شهر رمضان (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: وقفات مع شهر رمضان 1-[AudioTrimmer.com].m4a
+Duration: 16:59
+GregDate: 17/05/2019
+HijriDate: 1440/08/27
+HijriSource: text
+Location: Online
+MsgID: 341
+---
+DB: 6
+Series: خطب الجمعة
+Title: وقفات مع شهر رمضان (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: وقفات مع شهر رمضان 2-[AudioTrimmer.com].m4a
+Duration: 16:11
+GregDate: 17/05/2019
+HijriDate: 1440/09/05
+HijriSource: text
+Location: Online
+MsgID: 343
+---
+DB: 7
+Series: خطب الجمعة
+Title: وقفات مع شهر رمضان (٣)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: وقفات مع شهر رمضان 3-[AudioTrimmer.com].m4a
+Duration: 17:53
+GregDate: 17/05/2019
+HijriDate: 1440/09/12
+HijriSource: text
+Location: Online
+MsgID: 345
+---
+DB: 8
+Series: خطب الجمعة
+Title: وقفات مع شهر رمضان (٤)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: وقفات مع شهر رمضان 4-[AudioTrimmer.com].m4a
+Duration: 17:15
+GregDate: 24/05/2019
+HijriDate: 1440/09/19
+HijriSource: text
+Location: Online
+MsgID: 349
+---
+DB: 9
+Series: خطب الجمعة
+Title: وقفات مع شهر رمضان (٥)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: وقفات مع شهر رمضان 5-[AudioTrimmer.com].m4a
+Duration: 16:48
+GregDate: 01/06/2019
+HijriDate: 1440/09/26
+HijriSource: text
+Location: Online
+MsgID: 352
+---
+DB: 10
+Series: خطب الجمعة
+Title: الموت ووجوب الاستعداد له
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الموت_ووجوب_الاستعداد_له_AudioTrimmer.m4a
+Duration: 16:32
+GregDate: 28/06/2019
+HijriDate: 1440/10/25
+HijriSource: text
+Location: Online
+MsgID: 388
+---
+DB: 11
+Series: خطب الجمعة
+Title: منكرات النكاح
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: منكرات الزواج-[AudioTrimmer.com].m4a
+Duration: 15:57
+GregDate: 12/07/2019
+HijriDate: 1440/11/09
+HijriSource: text
+Location: Online
+MsgID: 398
+---
+DB: 12
+Series: خطب الجمعة
+Title: نهاية عام وبداية عام دراسي جديد
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: نهاية عام وبداية عام دراسي جديد.m4a
+Duration: 12:56
+GregDate: 30/08/2019
+HijriDate: 1440/12/29
+HijriSource: text
+Location: Online
+MsgID: 421
+---
+DB: 13
+Series: خطب الجمعة
+Title: الهجرة النبوية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الهجرة النبوية.m4a
+Duration: 11:19
+GregDate: 14/09/2019
+HijriDate: 1441/01/15
+HijriSource: computed
+Location: Online
+MsgID: 433
+---
+DB: 14
+Series: خطب الجمعة
+Title: نعمة الأمن وبيان أسبابه
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: نعمة الأمن وبيان أسبابه.m4a
+Duration: 12:14
+GregDate: 21/09/2019
+HijriDate: 1441/01/22
+HijriSource: computed
+Location: Online
+MsgID: 441
+---
+DB: 15
+Series: خطب الجمعة
+Title: أهمية العقيدة الإسلامية وفضلها
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: أهمية العقيدة الإسلامية وفضلها.m4a
+Duration: 14:28
+GregDate: 28/09/2019
+HijriDate: 1441/01/29
+HijriSource: computed
+Location: Online
+MsgID: 451
+---
+DB: 16
+Series: خطب الجمعة
+Title: من حقوق الخدم والعمال
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: من حقوق الخدم والعمال.m4a
+Duration: 14:12
+GregDate: 04/10/2019
+HijriDate: 1441/02/05
+HijriSource: text
+Location: Online
+MsgID: 455
+---
+DB: 17
+Series: خطب الجمعة
+Title: النفخ في الصور
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: النفخ في الصور.m4a
+Duration: 15:00
+GregDate: 10/10/2019
+HijriDate: 1440/11/23
+HijriSource: text
+Location: Online
+MsgID: 465
+---
+DB: 18
+Series: خطب الجمعة
+Title: من أحكام النكاح ١
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: من أحكام النكاح ١.MP3
+Duration: 19:54
+GregDate: 12/11/2019
+HijriDate: 1441/03/15
+HijriSource: computed
+Location: Online
+MsgID: 495
+---
+DB: 19
+Series: خطب الجمعة
+Title: من أحكام النكاح ٢
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: من أحكام النكاح ٢.MP3
+Duration: 24:36
+GregDate: 12/11/2019
+HijriDate: 1441/03/15
+HijriSource: computed
+Location: Online
+MsgID: 496
+---
+DB: 20
+Series: خطب الجمعة
+Title: من أحكام النكاح ٣
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: من أحكام النكاح ٣.MP3
+Duration: 21:55
+GregDate: 12/11/2019
+HijriDate: 1441/03/15
+HijriSource: computed
+Location: Online
+MsgID: 497
+---
+DB: 21
+Series: خطب الجمعة
+Title: من أحكام النكاح ٤
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: من أحكام النكاح ٤.MP3
+Duration: 22:18
+GregDate: 12/11/2019
+HijriDate: 1441/03/15
+HijriSource: computed
+Location: Online
+MsgID: 498
+---
+DB: 22
+Series: خطب الجمعة
+Title: بعض المظاهر السيئة عند العمال والموظفين
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: بعض_المظاهر_السيئة_عند_العمال_والموظفين.m4a
+Duration: 14:01
+GregDate: 23/11/2019
+HijriDate: 1441/03/25
+HijriSource: text
+Location: Online
+MsgID: 513
+---
+DB: 23
+Series: خطب الجمعة
+Title: آيات من سورة الأعراف وتفسيرها
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: آيات_من_سورة_الأعراف_وتفسيرها_٢.m4a
+Duration: 16:04
+GregDate: 29/11/2019
+HijriDate: 1441/04/02
+HijriSource: text
+Location: Online
+MsgID: 523
+---
+DB: 24
+Series: خطب الجمعة
+Title: الإيمان بالملائكة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الإيمان بالملائكة ١٦-٤-١٤٤١.m4a
+Duration: 15:42
+GregDate: 21/12/2019
+HijriDate: 1441/04/16
+HijriSource: text
+Location: Online
+MsgID: 550
+---
+DB: 25
+Series: خطب الجمعة
+Title: فصل الشتاء
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: فصل الشتاء ٢٣-٤-١٤٤١.m4a
+Duration: 15:05
+GregDate: 21/12/2019
+HijriDate: 1441/04/23
+HijriSource: text
+Location: Online
+MsgID: 551
+---
+DB: 26
+Series: خطب الجمعة
+Title: قصة ابراهيم عليه السلام ( ١ )
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة_ابراهيم_عليه_السلام_١_٨_٥_١٤٤١.m4a
+Duration: 17:49
+GregDate: 03/01/2020
+HijriDate: 1441/05/08
+HijriSource: text
+Location: Online
+MsgID: 580
+---
+DB: 27
+Series: خطب الجمعة
+Title: الكتب الإلهية ( ١ )
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الكتب الالهية ١.m4a
+Duration: 11:13
+GregDate: 25/01/2020
+HijriDate: 1441/05/29
+HijriSource: text
+Location: Online
+MsgID: 607
+---
+DB: 28
+Series: خطب الجمعة
+Title: الايمان بالرسل عليهم الصلاة والسلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الايمان_بالرسل_عليهم_الصلاة_والسلام.m4a
+Duration: 14:37
+GregDate: 31/01/2020
+HijriDate: 1441/06/06
+HijriSource: text
+Location: Online
+MsgID: 621
+---
+DB: 29
+Series: خطب الجمعة
+Title: الجوالات الحديثة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الجوالات الحديثة.m4a
+Duration: 15:38
+GregDate: 08/02/2020
+HijriDate: 1441/06/13
+HijriSource: text
+Location: Online
+MsgID: 630
+---
+DB: 30
+Series: خطب الجمعة
+Title: آيات في وصف الجنة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: آيات في وصف الجنة ٢٠ - ٦ - ١٤٤١.m4a
+Duration: 16:55
+GregDate: 15/02/2020
+HijriDate: 1441/06/20
+HijriSource: text
+Location: Online
+MsgID: 643
+---
+DB: 31
+Series: خطب الجمعة
+Title: طلوع الشمس من مغربها
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: طلوع الشمس من مغربها ١٧ - ٦ - ١٤٤١.m4a
+Duration: 15:03
+GregDate: 21/02/2020
+HijriDate: 1441/06/27
+HijriSource: text
+Location: Online
+MsgID: 657
+---
+DB: 32
+Series: خطب الجمعة
+Title: مرض فيروس كورونا
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: مرض (فيروس كورونا).m4a
+Duration: 14:45
+GregDate: 28/02/2020
+HijriDate: 1441/07/04
+HijriSource: text
+Location: Online
+MsgID: 672
+---
+DB: 33
+Series: خطب الجمعة
+Title: تفسير سورة الفاتحة وشيء من فوائدها
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: تفسير_سورة_الفاتحة_وشيءمن_فوائدها.mp3
+Duration: 15:05
+GregDate: 06/03/2020
+HijriDate: 1441/07/11
+HijriSource: text
+Location: Online
+MsgID: 683
+---
+DB: 34
+Series: خطب الجمعة
+Title: الأذكار النبوية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الأذكار النبوية ١٨ رجب ١٤٤١.m4a
+Duration: 11:55
+GregDate: 13/03/2020
+HijriDate: 1441/07/18
+HijriSource: text
+Location: Online
+MsgID: 707
+---
+DB: 35
+Series: خطب الجمعة
+Title: صوم شعبان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: صوم شعبان.m4a
+Duration: 15:22
+GregDate: 28/03/2020
+HijriDate: 1439/08/04
+HijriSource: text
+Location: Online
+MsgID: 784
+---
+DB: 36
+Series: خطب الجمعة
+Title: العشر الآواخر من رمضان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: udr60zI4xE8.m4a
+Duration: 18:51
+GregDate: 12/05/2020
+HijriDate: 1441/09/19
+HijriSource: computed
+Location: Online
+MsgID: 945
+---
+DB: 37
+Series: خطب الجمعة
+Title: ماذا بعد رمضان ؟
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: ماذا بعد رمضان ؟ شوال ١٤٣٧.m4a
+Duration: 14:50
+GregDate: 30/05/2020
+HijriDate: 1441/10/07
+HijriSource: computed
+Location: Online
+MsgID: 977
+---
+DB: 38
+Series: خطب الجمعة
+Title: الأخذ بالاحترازات الوقائية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الأخذ_بالاحترازات_الوقائية_١٣_شوال_١٤٤١.m4a
+Duration: 09:32
+GregDate: 06/06/2020
+HijriDate: 1441/10/13
+HijriSource: text
+Location: Online
+MsgID: 983
+---
+DB: 39
+Series: خطب الجمعة
+Title: الدروس المستفادة من جائحة كورونا
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الدروس_المستفادة_من_جائحة_كورونا_٢٠_شوال_١٤٤١.m4a
+Duration: 09:01
+GregDate: 12/06/2020
+HijriDate: 1441/10/20
+HijriSource: text
+Location: Online
+MsgID: 990
+---
+DB: 40
+Series: خطب الجمعة
+Title: الدعاء ثمراته وآدابه
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الدعاء_ثمراته_وآدابه_٢٧_شوال_١٤٤١.m4a
+Duration: 10:35
+GregDate: 19/06/2020
+HijriDate: 1441/10/27
+HijriSource: text
+Location: Online
+MsgID: 1005
+---
+DB: 41
+Series: خطب الجمعة
+Title: الحج على المستطيع في ظل جائحة كورونا
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الحج_على_المستطيع_في_ظل_جائحة_كورونا.m4a
+Duration: 08:45
+GregDate: 27/06/2020
+HijriDate: 1441/11/05
+HijriSource: text
+Location: Online
+MsgID: 1022
+---
+DB: 42
+Series: خطب الجمعة
+Title: الصلاة في المساجد في ظل وباء كورونا
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الصلاة_في_المساجد_في_ظل_وباء_كورونا.m4a
+Duration: 09:29
+GregDate: 04/07/2020
+HijriDate: 1441/11/12
+HijriSource: text
+Location: Online
+MsgID: 1038
+---
+DB: 43
+Series: خطب الجمعة
+Title: الأشهُر الحُرُم في ظل جائحة كورونا
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الأشهر الحرم في ظل جائحة كورونا.m4a
+Duration: 07:56
+GregDate: 10/07/2020
+HijriDate: 1441/11/19
+HijriSource: text
+Location: Online
+MsgID: 1059
+---
+DB: 44
+Series: خطب الجمعة
+Title: أيام العشر من ذي الحجة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: أيام العشر من ذي الحجة ١٤٤٠.m4a
+Duration: 18:13
+GregDate: 17/07/2020
+HijriDate: 1440/12/01
+HijriSource: text
+Location: Online
+MsgID: 1067
+---
+DB: 45
+Series: خطب الجمعة
+Title: من أحكام الأضحية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: من أحكام الأضحية ٣-١٢-١٤٤١.m4a
+Duration: 10:22
+GregDate: 25/07/2020
+HijriDate: 1441/12/03
+HijriSource: text
+Location: Online
+MsgID: 1088
+---
+DB: 46
+Series: خطب الجمعة
+Title: نجاح حج ١٤٤١هـ
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: نجاح حج عام ١٤٤١.m4a
+Duration: 06:21
+GregDate: 01/08/2020
+HijriDate: 1441/12/10
+HijriSource: text
+Location: Online
+MsgID: 1114
+---
+DB: 47
+Series: خطب الجمعة
+Title: في ظلال حديث نبوي شريف ( ١ )
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: في ظلال حديث نبوي شريف ( ١ ).m4a
+Duration: 12:34
+GregDate: 14/08/2020
+HijriDate: 1441/12/24
+HijriSource: text
+Location: Online
+MsgID: 1129
+---
+DB: 48
+Series: خطب الجمعة
+Title: في ظلال حديث نبوي شريف ( ٢ )
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: في ظلال حديث نبوي شريف ( ٢ ).m4a
+Duration: 09:53
+GregDate: 21/08/2020
+HijriDate: 1442/01/02
+HijriSource: computed
+Location: Online
+MsgID: 1142
+---
+DB: 49
+Series: خطب الجمعة
+Title: التعليم ودعم الحكومة السعودية له
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: التعليم_ودعم_الحكومة_السعودية_له_٩_١_١٤٤٢.m4a
+Duration: 10:43
+GregDate: 28/08/2020
+HijriDate: 1442/01/09
+HijriSource: computed
+Location: Online
+MsgID: 1163
+---
+DB: 50
+Series: خطب الجمعة
+Title: في ظلال حديث نبوي شريف ( ٣ )
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: في_ظلال_حديث_نبوي_شريف_٣_١٦_١_١٤٤٢.m4a
+Duration: 11:24
+GregDate: 04/09/2020
+HijriDate: 1442/01/16
+HijriSource: computed
+Location: Online
+MsgID: 1177
+---
+DB: 51
+Series: خطب الجمعة
+Title: في ظلال آية قرآنية كريمة (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: في_ظلال_آية_قرآنية_كريمة_١_٢٣_١_١٤٤٢.m4a
+Duration: 11:05
+GregDate: 12/09/2020
+HijriDate: 1442/01/24
+HijriSource: computed
+Location: Online
+MsgID: 1189
+---
+DB: 52
+Series: خطب الجمعة
+Title: المملكة العربية السعودية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: المملكة_العربية_السعودية_١_٢_١٤٤٢.m4a
+Duration: 09:46
+GregDate: 18/09/2020
+HijriDate: 1442/02/01
+HijriSource: text
+Location: Online
+MsgID: 1199
+---
+DB: 53
+Series: خطب الجمعة
+Title: في ظلال آية قرآنية كريمة (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: في_ظلال_آية_قرآنية_كريمة_٢_٨_٢_١٤٤٢.m4a
+Duration: 10:49
+GregDate: 25/09/2020
+HijriDate: 1442/02/08
+HijriSource: text
+Location: Online
+MsgID: 1208
+---
+DB: 54
+Series: خطب الجمعة
+Title: الإيمان باليوم الآخر (٥) والأخذ بالاحترازات من كورونا
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الإيمان_باليوم_الآخر_٥_والأخذ_بالاحترازات.m4a
+Duration: 12:30
+GregDate: 09/10/2020
+HijriDate: 1442/02/15
+HijriSource: text
+Location: Online
+MsgID: 1228
+---
+DB: 55
+Series: خطب الجمعة
+Title: الإيمان بالقضاء والقدر (٦)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الإيمان_بالقضاء_والقدر_٦_٢٢_٢_١٤٤٢.m4a
+Duration: 11:26
+GregDate: 09/10/2020
+HijriDate: 1442/02/22
+HijriSource: text
+Location: Online
+MsgID: 1230
+---
+DB: 56
+Series: خطب الجمعة
+Title: الإيمان بالله تعالى
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الايمان بالله ٤ - ٣ - ١٤٤١.m4a
+Duration: 20:17
+GregDate: 14/10/2020
+HijriDate: 1441/03/04
+HijriSource: text
+Location: Online
+MsgID: 1234
+---
+DB: 57
+Series: خطب الجمعة
+Title: الدُّخَان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الدُّخَان ٢٩ - ٢ - ١٤٤٢.m4a
+Duration: 11:45
+GregDate: 16/10/2020
+HijriDate: 1442/02/29
+HijriSource: text
+Location: Online
+MsgID: 1240
+---
+DB: 58
+Series: خطب الجمعة
+Title: الاحتفال بالمولد النبوي
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الاحتفال_بالمولد_النبوي_١٠_٣_١٤٤٣٨.m4a
+Duration: 17:43
+GregDate: 20/10/2020
+HijriDate: 1438/03/10
+HijriSource: text
+Location: Online
+MsgID: 1258
+---
+DB: 59
+Series: خطب الجمعة
+Title: خصائص النبي صلى الله عليه وسلم والأخذ بالاحترازات الطبية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خصائص_النبي_صلى_الله_عليه_وسلم_والاخذ_بالاحترا.m4a
+Duration: 12:13
+GregDate: 23/10/2020
+HijriDate: 1442/03/06
+HijriSource: text
+Location: Online
+MsgID: 1260
+---
+DB: 60
+Series: خطب الجمعة
+Title: حق رسول الله ﷺ
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: سلسلة_الحقوق_الشرعية_٢_حق_رسول_الله_ﷺ_.mp3
+Duration: 16:41
+GregDate: 30/10/2020
+HijriDate: 1442/03/13
+HijriSource: computed
+Location: Online
+MsgID: 1269
+---
+DB: 61
+Series: خطب الجمعة
+Title: خصائص النبي صلى الله عليه وسلم (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: من_خصائص_النبي_صلى_الله_عليه_وسلم_٢.m4a
+Duration: 11:51
+GregDate: 06/11/2020
+HijriDate: 1442/03/20
+HijriSource: text
+Location: Online
+MsgID: 1277
+---
+DB: 62
+Series: خطب الجمعة
+Title: الحذر من الجماعات المفسدة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الحذر من الجماعات المفرقة.m4a
+Duration: 11:48
+GregDate: 13/11/2020
+HijriDate: 1442/03/27
+HijriSource: text
+Location: Online
+MsgID: 1291
+---
+DB: 63
+Series: خطب الجمعة
+Title: البعث والنشور
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: البعث والنشور ٥ - ٤ - ١٤٤٢.m4a
+Duration: 14:01
+GregDate: 20/11/2020
+HijriDate: 1442/04/05
+HijriSource: text
+Location: Online
+MsgID: 1300
+---
+DB: 64
+Series: خطب الجمعة
+Title: رزق الله تعالى لعباده
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: رزق الله تعالى لعباده ١٢ - ٤ - ١٤٤٢.m4a
+Duration: 12:50
+GregDate: 27/11/2020
+HijriDate: 1442/04/12
+HijriSource: text
+Location: Online
+MsgID: 1307
+---
+DB: 65
+Series: خطب الجمعة
+Title: تفسير سورة الفاتحة وشيء من فوائدها
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: تفسير_سورة_الفاتحة_وشيءمن_فوائدها.mp3
+Duration: 15:05
+GregDate: 01/12/2020
+HijriDate: 1441/07/11
+HijriSource: text
+Location: Online
+MsgID: 1310
+---
+DB: 66
+Series: خطب الجمعة
+Title: قصة لوط عليه السلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة لوط عليه السلام.m4a
+Duration: 13:49
+GregDate: 06/12/2020
+HijriDate: 1442/04/19
+HijriSource: text
+Location: Online
+MsgID: 1325
+---
+DB: 67
+Series: خطب الجمعة
+Title: العمل والعمال
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: العمل والعمال ٢٢ - ١١ - ٢٠١٩.m4a
+Duration: 12:03
+GregDate: 11/12/2020
+HijriDate: 1441/03/25
+HijriSource: text
+Location: Online
+MsgID: 1335
+---
+DB: 68
+Series: خطب الجمعة
+Title: طلحة بن عبيدالله رضي الله عنه
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: طلحة_بن_عبيدالله_رضي_الله_عنه_٣_٥_١٤٤٢.m4a
+Duration: 12:18
+GregDate: 18/12/2020
+HijriDate: 1442/05/03
+HijriSource: text
+Location: Online
+MsgID: 1342
+---
+DB: 69
+Series: خطب الجمعة
+Title: قصة آدم عليه السلام (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة_آدم_عليه_السلام_١_٨_٤_١٤٣٨.m4a
+Duration: 15:44
+GregDate: 19/12/2020
+HijriDate: 1438/04/08
+HijriSource: text
+Location: Online
+MsgID: 1344
+---
+DB: 70
+Series: خطب الجمعة
+Title: قصة آدم عليه السلام (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة_آدم_عليه_السلام_٢_١٥_٤_١٤٣٨.m4a
+Duration: 19:02
+GregDate: 19/12/2020
+HijriDate: 1438/04/15
+HijriSource: text
+Location: Online
+MsgID: 1345
+---
+DB: 71
+Series: خطب الجمعة
+Title: قصة ابني آدم عليه السلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة ابني آدم ٢٠ - ٦ - ١٤٣٨.m4a
+Duration: 18:36
+GregDate: 20/12/2020
+HijriDate: 1438/06/20
+HijriSource: text
+Location: Online
+MsgID: 1347
+---
+DB: 72
+Series: خطب الجمعة
+Title: خطر المخدرات ومنها القات
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطر_المخدرات_ومنها_القات_١٠_٥_١٤٤٢.m4a
+Duration: 10:26
+GregDate: 25/12/2020
+HijriDate: 1442/05/10
+HijriSource: text
+Location: Online
+MsgID: 1349
+---
+DB: 73
+Series: خطب الجمعة
+Title: الأخذ بلقاحات كورونا الآمنة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الأخذ_بلقاحات_كورونا_الآمنة_١٧_٥_١٤٤٢.m4a
+Duration: 09:27
+GregDate: 01/01/2021
+HijriDate: 1442/05/17
+HijriSource: text
+Location: Online
+MsgID: 1357
+---
+DB: 74
+Series: خطب الجمعة
+Title: في ظلال حديث نبوي شريف ( ٤ )
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: في ظلال حديث شريف ( ٤ ) ٢٤ - ٥ - ١٤٤٢.m4a
+Duration: 09:26
+GregDate: 09/01/2021
+HijriDate: 1442/05/24
+HijriSource: text
+Location: Online
+MsgID: 1363
+---
+DB: 75
+Series: خطب الجمعة
+Title: الحشر يوم القيامة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الحشر يوم القيامة ٢ - ٦ - ١٤٤٢.m4a
+Duration: 10:06
+GregDate: 15/01/2021
+HijriDate: 1442/06/02
+HijriSource: text
+Location: Online
+MsgID: 1368
+---
+DB: 76
+Series: خطب الجمعة
+Title: من أهوال يوم القيامة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: من أهوال يوم القيامة ٨ - ٦ - ١٤٤٢.m4a
+Duration: 10:45
+GregDate: 22/01/2021
+HijriDate: 1442/06/08
+HijriSource: text
+Location: Online
+MsgID: 1374
+---
+DB: 77
+Series: خطب الجمعة
+Title: الزبير بن العوام رضي الله عنه
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الزبير بن العوام ١٥ - ٦ - ١٤٤٢.m4a
+Duration: 11:07
+GregDate: 29/01/2021
+HijriDate: 1442/06/16
+HijriSource: text
+Location: Online
+MsgID: 1383
+---
+DB: 78
+Series: خطب الجمعة
+Title: في ظلال حديث نبوي شريف (٥)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: في ظلال حديث شريف ( ٥ ) ٢٣ - ٦ - ١٤٤٢.m4a
+Duration: 09:49
+GregDate: 05/02/2021
+HijriDate: 1442/06/23
+HijriSource: text
+Location: Online
+MsgID: 1388
+---
+DB: 79
+Series: خطب الجمعة
+Title: قصة أيوب عليه السلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة أيوب عليه السلام ٣٠ - ٦ - ١٤٤٢.m4a
+Duration: 11:24
+GregDate: 12/02/2021
+HijriDate: 1442/06/30
+HijriSource: text
+Location: Online
+MsgID: 1401
+---
+DB: 80
+Series: خطب الجمعة
+Title: أخطاء في الطهارة والصلاة (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: أخطاء_في_الطهارة_والصلاة_١_٧_٧_١٤٤٢.m4a
+Duration: 13:33
+GregDate: 19/02/2021
+HijriDate: 1442/07/07
+HijriSource: text
+Location: Online
+MsgID: 1410
+---
+DB: 81
+Series: خطب الجمعة
+Title: أخطاء في الطهارة والصلاة (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: أخطاء_في_الطهارة_والصلاة_٢_١٤_٧_١٤٤٢.m4a
+Duration: 9:54
+GregDate: 26/02/2021
+HijriDate: 1442/07/14
+HijriSource: text
+Location: Online
+MsgID: 1418
+---
+DB: 82
+Series: خطب الجمعة
+Title: دفاعي عن بلادي السعودية 🇸🇦
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: دفاعي عن بلادي السعودية.m4a
+Duration: 15:09
+GregDate: 05/03/2021
+HijriDate: 1442/07/21
+HijriSource: computed
+Location: Online
+MsgID: 1426
+---
+DB: 83
+Series: خطب الجمعة
+Title: من نواقض الإسلام (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: من_نواقص_الإسلام_الشرك_الأكبر_٢١_٧_١٤٤٢.m4a
+Duration: 11:46
+GregDate: 05/03/2021
+HijriDate: 1442/07/21
+HijriSource: text
+Location: Online
+MsgID: 1428
+---
+DB: 84
+Series: خطب الجمعة
+Title: من نواقض الإسلام (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: من_نواقض_الإسلام_من_جعل_بينه_وبين_الله_وسائط.m4a
+Duration: 10:34
+GregDate: 12/03/2021
+HijriDate: 1442/07/28
+HijriSource: text
+Location: Online
+MsgID: 1445
+---
+DB: 85
+Series: خطب الجمعة
+Title: الاستعداد لرمضان (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الاستعداد لرمضان (١) ١٣ - ٨ - ١٤٤٢.m4a
+Duration: 09:59
+GregDate: 26/03/2021
+HijriDate: 1442/08/13
+HijriSource: text
+Location: Online
+MsgID: 1457
+---
+DB: 86
+Series: خطب الجمعة
+Title: الاستعداد لرمضان (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الاستعداد لرمضان (٢) ٢٠ - ٨ - ١٤٤٢.m4a
+Duration: 11:15
+GregDate: 03/04/2021
+HijriDate: 1442/08/20
+HijriSource: text
+Location: Online
+MsgID: 1468
+---
+DB: 87
+Series: خطب الجمعة
+Title: استقبال شهر رمضان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: استقبال شهر رمضان ٢٣ - ٨ - ١٤٣٨.m4a
+Duration: 14:42
+GregDate: 05/04/2021
+HijriDate: 1438/08/23
+HijriSource: text
+Location: Online
+MsgID: 1474
+---
+DB: 88
+Series: خطب الجمعة
+Title: الاستعداد لرمضان (٣)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الاستعداد لرمضان (٣) ٢٧ - ٨ - ١٤٤٢.m4a
+Duration: 10:35
+GregDate: 09/04/2021
+HijriDate: 1442/08/27
+HijriSource: text
+Location: Online
+MsgID: 1489
+---
+DB: 89
+Series: خطب الجمعة
+Title: الجود في رمضان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الجود في رمضان ٤ - ٩ - ١٤٤٢.m4a
+Duration: 10:06
+GregDate: 16/04/2021
+HijriDate: 1442/09/04
+HijriSource: text
+Location: Online
+MsgID: 1503
+---
+DB: 90
+Series: خطب الجمعة
+Title: القرآن في رمضان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: القرآن في رمضان ١١ - ٩ - ١٤٤٢.m4a
+Duration: 10:48
+GregDate: 23/04/2021
+HijriDate: 1442/09/11
+HijriSource: text
+Location: Online
+MsgID: 1510
+---
+DB: 91
+Series: خطب الجمعة
+Title: الصلاة في رمضان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الصلاة في رمضان ١٨ - ٩ - ١٤٤٢.m4a
+Duration: 13:29
+GregDate: 30/04/2021
+HijriDate: 1442/09/18
+HijriSource: text
+Location: Online
+MsgID: 1517
+---
+DB: 92
+Series: خطب الجمعة
+Title: نهاية رمضان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: نهاية رمضان ٢٥ - ٩ - ١٤٤٢.m4a
+Duration: 10:15
+GregDate: 07/05/2021
+HijriDate: 1442/09/25
+HijriSource: text
+Location: Online
+MsgID: 1529
+---
+DB: 93
+Series: خطب الجمعة
+Title: في ظلال آية قرآنية كريمة (٤)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: في_ظلال_آية_قرآنية_كريمة_٥_٢_١٠_١٤٤٢.m4a
+Duration: 09:34
+GregDate: 15/05/2021
+HijriDate: 1442/10/02
+HijriSource: text
+Location: Online
+MsgID: 1534
+---
+DB: 94
+Series: خطب الجمعة
+Title: في ظلال سورة عظيمة (٥)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: في_ظلال_سورة_عظيمة_٥_١٦_١٠_١٤٤٢.m4a
+Duration: 10:12
+GregDate: 28/05/2021
+HijriDate: 1442/10/16
+HijriSource: text
+Location: Online
+MsgID: 1561
+---
+DB: 95
+Series: خطب الجمعة
+Title: خَطَرُ الدُّخَّانْ
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبة جمعة - الدخان ٢٣ - ١٠ - ١٤٤٢.m4a
+Duration: 10:18
+GregDate: 04/06/2021
+HijriDate: 1442/10/23
+HijriSource: text
+Location: Online
+MsgID: 1572
+---
+DB: 96
+Series: خطب الجمعة
+Title: مِنْ أَسْبَابِ صَلاَحِ الأَوْلاَدِ
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: من أسباب صلاح الأولاد ١ - ١١ - ١٤٤٢.m4a
+Duration: 12:28
+GregDate: 11/06/2021
+HijriDate: 1442/11/01
+HijriSource: text
+Location: Online
+MsgID: 1589
+---
+DB: 97
+Series: خطب الجمعة
+Title: دنو الشمس من الرؤوس يوم القيامة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: دنو_الشمس_من_الرؤوس_يوم_القيامة_٨_١١_١٤٤٢.m4a
+Duration: 09:48
+GregDate: 18/06/2021
+HijriDate: 1442/11/08
+HijriSource: text
+Location: Online
+MsgID: 1594
+---
+DB: 98
+Series: خطب الجمعة
+Title: الخسوفات الثلاث
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الخسوفات الثلاث ١١ - ٣ - ١٤٤١.m4a
+Duration: 11:57
+GregDate: 23/06/2021
+HijriDate: 1441/03/11
+HijriSource: text
+Location: Online
+MsgID: 1610
+---
+DB: 99
+Series: خطب الجمعة
+Title: نزول عيسى عليه السلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: نزول عيسى عليه السلام.m4a
+Duration: 14:55
+GregDate: 23/06/2021
+HijriDate: 1442/11/13
+HijriSource: computed
+Location: Online
+MsgID: 1613
+---
+DB: 100
+Series: خطب الجمعة
+Title: يأجوج ومأجوج
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: يأجوج ومأجوج.m4a
+Duration: 14:57
+GregDate: 24/06/2021
+HijriDate: 1442/11/14
+HijriSource: computed
+Location: Online
+MsgID: 1615
+---
+DB: 101
+Series: خطب الجمعة
+Title: نار تخرج من عدن تسوق الناس الى المحشر
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: نار_تخرج_من_عدن_تسوق_الناس_١٥_١١_١٤٤٢.m4a
+Duration: 12:19
+GregDate: 25/06/2021
+HijriDate: 1442/11/15
+HijriSource: text
+Location: Online
+MsgID: 1623
+---
+DB: 102
+Series: خطب الجمعة
+Title: حق الله تعالى
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الحقوق الشرعية 1- حق الله تعالى.mp3
+Duration: 21:05
+GregDate: 26/06/2021
+HijriDate: 1442/11/16
+HijriSource: computed
+Location: Online
+MsgID: 1629
+---
+DB: 103
+Series: خطب الجمعة
+Title: علامات الساعة الصغرى (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20210629-WA0005.mp3
+Duration: 16:08
+GregDate: 29/06/2021
+HijriDate: 1442/11/19
+HijriSource: computed
+Location: Online
+MsgID: 1636
+---
+DB: 104
+Series: خطب الجمعة
+Title: الشفاعة الكبرى
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الشفاعة الكبرى 22 - 11 - 1442.mp3
+Duration: 13:50
+GregDate: 02/07/2021
+HijriDate: 1442/11/22
+HijriSource: text
+Location: Online
+MsgID: 1650
+---
+DB: 105
+Series: خطب الجمعة
+Title: الأعمال الصالحة في أيام العشر
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الأعمال_الصالحة_في_أيام_العشر_٢٩_١١_١٤٤٢.m4a
+Duration: 10:11
+GregDate: 09/07/2021
+HijriDate: 1442/11/29
+HijriSource: text
+Location: Online
+MsgID: 1665
+---
+DB: 106
+Series: خطب الجمعة
+Title: وصايا لمن عزم الحج
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: وصايا لمن عزم الحج ٦ - ١٢ - ١٤٤٢.m4a
+Duration: 13:13
+GregDate: 16/07/2021
+HijriDate: 1442/12/06
+HijriSource: text
+Location: Online
+MsgID: 1678
+---
+DB: 107
+Series: خطب الجمعة
+Title: في ظلال آية قرآنية كريمة (٥)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: في_ظلال_آية_قرآنية_كريمة_٥_١٣_١٢_١٤٤٢.m4a
+Duration: 12:42
+GregDate: 23/07/2021
+HijriDate: 1442/12/13
+HijriSource: text
+Location: Online
+MsgID: 1685
+---
+DB: 108
+Series: خطب الجمعة
+Title: عبد الرحمن بن عوف رضي الله عنه
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: عبد_الرحمن_بن_عوف_رضي_الله_عنه_٢٠_١٢_١٤٤٢.m4a
+Duration: 12:08
+GregDate: 30/07/2021
+HijriDate: 1442/12/20
+HijriSource: text
+Location: Online
+MsgID: 1690
+---
+DB: 109
+Series: خطب الجمعة
+Title: نهاية العام والأخذ بالاحترازات ضد كورونا
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: نهاية_العام_والأخذ_بالاحترازات_٢٧_١٢_١٤٤٢.m4a
+Duration: 10:05
+GregDate: 06/08/2021
+HijriDate: 1442/12/27
+HijriSource: text
+Location: Online
+MsgID: 1693
+---
+DB: 110
+Series: خطب الجمعة
+Title: وقفات مع شهر الله المحرم
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: وقفات_مع_شهر_الله_المحرم_٥_١_١٤٤٣.m4a
+Duration: 10:10
+GregDate: 13/08/2021
+HijriDate: 1443/01/05
+HijriSource: computed
+Location: Online
+MsgID: 1695
+---
+DB: 111
+Series: خطب الجمعة
+Title: المعلمون وبعض الآداب الواجبة عليهم
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: المعلمون_وبعض_الآداب_الواجبة_عليهم_١١_١_١٤٤٣.m4a
+Duration: 9:33
+GregDate: 20/08/2021
+HijriDate: 1443/01/12
+HijriSource: computed
+Location: Online
+MsgID: 1702
+---
+DB: 112
+Series: خطب الجمعة
+Title: الطلاب وبعض الواجبات المهمة عليهم
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: بعض_الواجبات_المهمة_على_طلاب_العلم_١٨_١_١٤٤٣.m4a
+Duration: 9:29
+GregDate: 27/08/2021
+HijriDate: 1443/01/19
+HijriSource: computed
+Location: Online
+MsgID: 1712
+---
+DB: 113
+Series: خطب الجمعة
+Title: التمائم الشِّركية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: التمائم الشركية ٢٥ - ١ - ١٤٤٣.m4a
+Duration: 10:28
+GregDate: 03/09/2021
+HijriDate: 1443/01/26
+HijriSource: computed
+Location: Online
+MsgID: 1727
+---
+DB: 114
+Series: خطب الجمعة
+Title: قصة يوسف عليه السلام (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة يوسف عليه السلام (١).m4a
+Duration: 10:54
+GregDate: 17/09/2021
+HijriDate: 1443/02/10
+HijriSource: computed
+Location: Online
+MsgID: 1740
+---
+DB: 115
+Series: خطب الجمعة
+Title: قالوا عن السعودية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قالوا عن السعودية.m4a
+Duration: 13:59
+GregDate: 17/09/2021
+HijriDate: 1443/02/10
+HijriSource: computed
+Location: Online
+MsgID: 1742
+---
+DB: 116
+Series: خطب الجمعة
+Title: جماعة السرورية الإرهابية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: جماعة_السرورية_الارهابية_١٥_ربيع_الأول_١٤٤٣.m4a
+Duration: 12:14
+GregDate: 22/10/2021
+HijriDate: 1443/03/15
+HijriSource: text
+Location: Online
+MsgID: 1795
+---
+DB: 117
+Series: خطب الجمعة
+Title: الحذر من الكهَّان وأمثالهم
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الحذر_من_الكهان_وأمثالهم_٢٢_٣_١٤٤٣.m4a
+Duration: 9:34
+GregDate: 30/10/2021
+HijriDate: 1443/03/22
+HijriSource: text
+Location: Online
+MsgID: 1812
+---
+DB: 118
+Series: خطب الجمعة
+Title: قصة يوسف عليه السلام (٤)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة_يوسف_عليه_السلام_٤_٣٠_٣_١٤٤٣.m4a
+Duration: 11:36
+GregDate: 05/11/2021
+HijriDate: 1443/03/30
+HijriSource: text
+Location: Online
+MsgID: 1828
+---
+DB: 119
+Series: خطب الجمعة
+Title: قصة يوسف عليه السلام (٥)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة_يوسف_عليه_السلام_٥_٦_٤_١٤٤٣.m4a
+Duration: 11:33
+GregDate: 13/11/2021
+HijriDate: 1443/04/06
+HijriSource: text
+Location: Online
+MsgID: 1841
+---
+DB: 120
+Series: خطب الجمعة
+Title: اختبارت الطلاب
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20211119-WA0006-[AudioTrimmer.com].m4a
+Duration: 9:48
+GregDate: 19/11/2021
+HijriDate: 1443/04/13
+HijriSource: text
+Location: Online
+MsgID: 1854
+---
+DB: 121
+Series: خطب الجمعة
+Title: الصدقات في أوجه البر والإحسان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20211126-WA0006-[AudioTrimmer.com].m4a
+Duration: 10:58
+GregDate: 26/11/2021
+HijriDate: 1443/04/20
+HijriSource: text
+Location: Online
+MsgID: 1871
+---
+DB: 122
+Series: خطب الجمعة
+Title: قصة يوسف عليه السلام (٦)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: يوسف.m4a
+Duration: 15:24
+GregDate: 03/12/2021
+HijriDate: 1443/04/27
+HijriSource: text
+Location: Online
+MsgID: 1878
+---
+DB: 123
+Series: خطب الجمعة
+Title: التحذير البليغ من جماعة التبليغ
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: جماعة التبليغ.m4a
+Duration: 14:44
+GregDate: 10/12/2021
+HijriDate: 1443/05/06
+HijriSource: text
+Location: Online
+MsgID: 1893
+---
+DB: 124
+Series: خطب الجمعة
+Title: قصة يوسف عليه السلام (٧)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: يييوسسف.m4a
+Duration: 13:31
+GregDate: 17/12/2021
+HijriDate: 1443/05/13
+HijriSource: text
+Location: Online
+MsgID: 1913
+---
+DB: 125
+Series: خطب الجمعة
+Title: قصة يوسف عليه السلام (٨)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: يوسف 8.m4a
+Duration: 12:49
+GregDate: 24/12/2021
+HijriDate: 1443/05/20
+HijriSource: text
+Location: Online
+MsgID: 1917
+---
+DB: 126
+Series: خطب الجمعة
+Title: كورونا المتحور
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: كورونا المتحور-[AudioTrimmer.com].m4a
+Duration: 11:41
+GregDate: 01/01/2022
+HijriDate: 1443/05/27
+HijriSource: text
+Location: Online
+MsgID: 1933
+---
+DB: 127
+Series: خطب الجمعة
+Title: سيرة العلامة صالح اللحيدان رحمه الله
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: اللحيدان واحد.m4a
+Duration: 15:38
+GregDate: 07/01/2022
+HijriDate: 1443/06/04
+HijriSource: text
+Location: Online
+MsgID: 1948
+---
+DB: 128
+Series: خطب الجمعة
+Title: حقوق كبير السن في الإسلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220114-WA0015-[AudioTrimmer.com].m4a
+Duration: 12:16
+GregDate: 15/01/2022
+HijriDate: 1443/06/11
+HijriSource: text
+Location: Online
+MsgID: 1957
+---
+DB: 129
+Series: خطب الجمعة
+Title: قصة يوسف عليه السلام (٩)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220121-WA0003-[AudioTrimmer.com].m4a
+Duration: 16:35
+GregDate: 21/01/2022
+HijriDate: 1443/06/18
+HijriSource: text
+Location: Online
+MsgID: 1965
+---
+DB: 130
+Series: خطب الجمعة
+Title: قصة يوسف عليه السلام (١٠)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220128-WA0002-[AudioTrimmer.com].m4a
+Duration: 16:06
+GregDate: 28/01/2022
+HijriDate: 1443/06/25
+HijriSource: text
+Location: Online
+MsgID: 1979
+---
+DB: 131
+Series: خطب الجمعة
+Title: فضل الصحابة وبعض حقوقهم
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220204-WA0000-[AudioTrimmer.com].m4a
+Duration: 12:38
+GregDate: 04/02/2022
+HijriDate: 1443/07/03
+HijriSource: text
+Location: Online
+MsgID: 1987
+---
+DB: 132
+Series: خطب الجمعة
+Title: الضرورات الخمس الكلِّية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220211-WA0004-[AudioTrimmer.com].m4a
+Duration: 11:56
+GregDate: 11/02/2022
+HijriDate: 1443/07/10
+HijriSource: text
+Location: Online
+MsgID: 2012
+---
+DB: 133
+Series: خطب الجمعة
+Title: نعمة المياه، والحذر من الآبار المكشوفة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220218-WA0004-[AudioTrimmer.com].m4a
+Duration: 11:21
+GregDate: 18/02/2022
+HijriDate: 1443/07/17
+HijriSource: text
+Location: Online
+MsgID: 2024
+---
+DB: 134
+Series: خطب الجمعة
+Title: قصة يوسف عليه السلام (١١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220225-WA0004-[AudioTrimmer.com].m4a
+Duration: 15:20
+GregDate: 26/02/2022
+HijriDate: 1443/07/24
+HijriSource: text
+Location: Online
+MsgID: 2044
+---
+DB: 135
+Series: خطب الجمعة
+Title: قصة يوسف عليه السلام (١٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220304-WA0002-[AudioTrimmer.com].m4a
+Duration: 14:21
+GregDate: 04/03/2022
+HijriDate: 1443/08/01
+HijriSource: text
+Location: Online
+MsgID: 2054
+---
+DB: 136
+Series: خطب الجمعة
+Title: فضل شهر شعبان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220311-WA0002-[AudioTrimmer.com].m4a
+Duration: 11:30
+GregDate: 11/03/2022
+HijriDate: 1443/08/08
+HijriSource: text
+Location: Online
+MsgID: 2069
+---
+DB: 137
+Series: خطب الجمعة
+Title: بيان وزارة الداخلية عن الارهابيين المجرمين
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220318-WA0006-[AudioTrimmer.com].m4a
+Duration: 14:11
+GregDate: 19/03/2022
+HijriDate: 1443/08/15
+HijriSource: text
+Location: Online
+MsgID: 2084
+---
+DB: 138
+Series: خطب الجمعة
+Title: في ظلال آيات الصيام (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220408-WA0008-[AudioTrimmer.com].m4a
+Duration: 11:55
+GregDate: 09/04/2022
+HijriDate: 1443/09/07
+HijriSource: text
+Location: Online
+MsgID: 2126
+---
+DB: 139
+Series: خطب الجمعة
+Title: في ظلال آيات الصيام (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Ringtone_تسجيل جديد ٤٢.m4a
+Duration: 10:48
+GregDate: 15/04/2022
+HijriDate: 1443/09/14
+HijriSource: text
+Location: Online
+MsgID: 2145
+---
+DB: 140
+Series: خطب الجمعة
+Title: في ظلال سورة القدر
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220422-WA0002-[AudioTrimmer.com].m4a
+Duration: 11:25
+GregDate: 22/04/2022
+HijriDate: 1443/09/21
+HijriSource: text
+Location: Online
+MsgID: 2166
+---
+DB: 141
+Series: خطب الجمعة
+Title: زكاة الفطر
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220429-WA0000-[AudioTrimmer.com].m4a
+Duration: 14:29
+GregDate: 29/04/2022
+HijriDate: 1438/09/28
+HijriSource: text
+Location: Online
+MsgID: 2171
+---
+DB: 142
+Series: خطب الجمعة
+Title: قصة يوسف عليه السلام (١٣)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220507-WA0018-[AudioTrimmer.com].m4a
+Duration: 10:35
+GregDate: 09/05/2022
+HijriDate: 1443/10/05
+HijriSource: text
+Location: Online
+MsgID: 2181
+---
+DB: 143
+Series: خطب الجمعة
+Title: قصة يوسف عليه السلام (١٤)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبة_الشيخ_حسن_محمد_الدغريري_قصة_يوسف_عليه_السلام_14.mp3
+Duration: 11:32
+GregDate: 13/05/2022
+HijriDate: 1443/10/12
+HijriSource: text
+Location: Online
+MsgID: 2190
+---
+DB: 144
+Series: خطب الجمعة
+Title: تطاير الصحف يوم القيامة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220520-WA0002-[AudioTrimmer.com].m4a
+Duration: 11:58
+GregDate: 20/05/2022
+HijriDate: 1443/10/19
+HijriSource: text
+Location: Online
+MsgID: 2203
+---
+DB: 145
+Series: خطب الجمعة
+Title: الحساب يوم القيامة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220527-WA0004-[AudioTrimmer.com].m4a
+Duration: 10:40
+GregDate: 27/05/2022
+HijriDate: 1443/10/26
+HijriSource: text
+Location: Online
+MsgID: 2221
+---
+DB: 146
+Series: خطب الجمعة
+Title: الميزان يوم القيامة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: تسجيل_جديد_تتتت_AudioConverter_AudioTrimmer_com.m4a
+Duration: 13:37
+GregDate: 04/06/2022
+HijriDate: 1443/11/04
+HijriSource: text
+Location: Online
+MsgID: 2231
+---
+DB: 147
+Series: خطب الجمعة
+Title: واجبنا تجاه من يسيء للنبي ﷺ وأصحابه
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220610-WA0001-[AudioTrimmer.com].m4a
+Duration: 13:13
+GregDate: 10/06/2022
+HijriDate: 1443/11/11
+HijriSource: text
+Location: Online
+MsgID: 2239
+---
+DB: 148
+Series: خطب الجمعة
+Title: العشر الأولى من ذي الحجة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: تسيد ١٩٢-AudioConverter-[AudioTrimmer.com].m4a
+Duration: 10:32
+GregDate: 26/06/2022
+HijriDate: 1443/11/25
+HijriSource: text
+Location: Online
+MsgID: 2270
+---
+DB: 149
+Series: خطب الجمعة
+Title: من أحكام الأضحية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبة الشيخ حسن دغريري ١٤٤٣.mp3
+Duration: 9:29
+GregDate: 04/07/2022
+HijriDate: 1443/12/02
+HijriSource: text
+Location: Online
+MsgID: 2280
+---
+DB: 150
+Series: خطب الجمعة
+Title: أفضل أيام العام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220708-WA0000-[AudioTrimmer.com] (1).m4a
+Duration: 11:23
+GregDate: 08/07/2022
+HijriDate: 1443/12/09
+HijriSource: text
+Location: Online
+MsgID: 2288
+---
+DB: 151
+Series: خطب الجمعة
+Title: المدينة النبوية فضلها وبعض احكامها
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220726-WA0003-[AudioTrimmer.com].m4a
+Duration: 14:37
+GregDate: 29/07/2022
+HijriDate: 1443/12/16
+HijriSource: text
+Location: Online
+MsgID: 2322
+---
+DB: 152
+Series: خطب الجمعة
+Title: مكة المكرمة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220731-WA0003-[AudioTrimmer.com].m4a
+Duration: 11:17
+GregDate: 31/07/2022
+HijriDate: 1443/12/23
+HijriSource: text
+Location: Online
+MsgID: 2324
+---
+DB: 153
+Series: خطب الجمعة
+Title: نهاية العام وبداية جديد
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220730-WA0000-[AudioTrimmer.com].m4a
+Duration: 9:46
+GregDate: 31/07/2022
+HijriDate: 1443/12/30
+HijriSource: text
+Location: Online
+MsgID: 2326
+---
+DB: 154
+Series: خطب الجمعة
+Title: شهر الله المحرَّم
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220805-WA0001-[AudioTrimmer.com].m4a
+Duration: 10:06
+GregDate: 05/08/2022
+HijriDate: 1444/01/07
+HijriSource: text
+Location: Online
+MsgID: 2329
+---
+DB: 155
+Series: خطب الجمعة
+Title: نعمة نزول الأمطار
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220812-WA0004-[AudioTrimmer.com].m4a
+Duration: 9:15
+GregDate: 12/08/2022
+HijriDate: 1444/01/14
+HijriSource: text
+Location: Online
+MsgID: 2331
+---
+DB: 156
+Series: خطب الجمعة
+Title: الوقت والإجازة الصيفية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الوقت والإجازة الصيفية - جاهزة.m4a
+Duration: 16:26
+GregDate: 13/08/2022
+HijriDate: 1440/10/18
+HijriSource: text
+Location: Online
+MsgID: 2333
+---
+DB: 157
+Series: خطب الجمعة
+Title: الآداب الشرعية للمسافر
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الآداب الشرعية للمسافر.m4a
+Duration: 18:31
+GregDate: 16/08/2022
+HijriDate: 1444/01/18
+HijriSource: computed
+Location: Online
+MsgID: 2337
+---
+DB: 158
+Series: خطب الجمعة
+Title: التعامل مع الكفار المعاهَدين
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: التعامل_مع_الكفار_المعاهدين_٢١_١_١٤٤٤هـ.m4a
+Duration: 10:08
+GregDate: 19/08/2022
+HijriDate: 1444/01/21
+HijriSource: text
+Location: Online
+MsgID: 2341
+---
+DB: 159
+Series: خطب الجمعة
+Title: المعلمون المخلصون في مدارسهم
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220827-WA0003-[AudioTrimmer.com].m4a
+Duration: 9:39
+GregDate: 27/08/2022
+HijriDate: 1444/01/28
+HijriSource: text
+Location: Online
+MsgID: 2348
+---
+DB: 160
+Series: خطب الجمعة
+Title: سعد بن أبي وقاص رضي الله عنه
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220902-WA0007-[AudioTrimmer.com].m4a
+Duration: 11:48
+GregDate: 02/09/2022
+HijriDate: 1444/02/06
+HijriSource: text
+Location: Online
+MsgID: 2355
+---
+DB: 161
+Series: خطب الجمعة
+Title: اسم السميع وصفة السمع لله تعالى ( ٥ )
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: اسم السميع وصفة السمع لله.m4a
+Duration: 09:54
+GregDate: 10/09/2022
+HijriDate: 1444/02/13
+HijriSource: text
+Location: Online
+MsgID: 2385
+---
+DB: 162
+Series: خطب الجمعة
+Title: أهمية النفس البشرية والإسعافات الأولية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220916-WA0011-[AudioTrimmer.com].m4a
+Duration: 09:57
+GregDate: 17/09/2022
+HijriDate: 1444/02/20
+HijriSource: text
+Location: Online
+MsgID: 2396
+---
+DB: 163
+Series: خطب الجمعة
+Title: 🇸🇦 المملكة العربية السعودية 🇸🇦
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20220923-WA0001-[AudioTrimmer.com] (1).m4a
+Duration: 09:21
+GregDate: 23/09/2022
+HijriDate: 1444/02/27
+HijriSource: text
+Location: Online
+MsgID: 2408
+---
+DB: 164
+Series: خطب الجمعة
+Title: الايمان بحوض النبي صلى الله عليه وسلم
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الايمان_بحوض_النبي_صلى_الله_عليه_وسلم_.m4a
+Duration: 11:42
+GregDate: 07/10/2022
+HijriDate: 1444/03/11
+HijriSource: text
+Location: Online
+MsgID: 2414
+---
+DB: 165
+Series: خطب الجمعة
+Title: اسم البصير وصفة البصر لله ( ٦ )
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: اسم البصير وصفة البصر لله ( ٦ ).m4a
+Duration: 10:18
+GregDate: 09/10/2022
+HijriDate: 1444/03/04
+HijriSource: text
+Location: Online
+MsgID: 2415
+---
+DB: 166
+Series: خطب الجمعة
+Title: قصة يونس عليه السلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبة جمعة.m4a
+Duration: 10:05
+GregDate: 28/10/2022
+HijriDate: 1444/04/03
+HijriSource: text
+Location: Online
+MsgID: 2517
+---
+DB: 167
+Series: خطب الجمعة
+Title: الصراط يوم القيامة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبة 2.m4a
+Duration: 10:53
+GregDate: 04/11/2022
+HijriDate: 1444/04/10
+HijriSource: text
+Location: Online
+MsgID: 2538
+---
+DB: 168
+Series: خطب الجمعة
+Title: في ظِلال سورة الفيل
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20221111-WA0018-[AudioTrimmer.com].m4a
+Duration: 10:43
+GregDate: 11/11/2022
+HijriDate: 1444/04/17
+HijriSource: text
+Location: Online
+MsgID: 2574
+---
+DB: 169
+Series: خطب الجمعة
+Title: الحذر من الخلع أو الطلاق ووصايا في أيام الاختبارات
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20221118-WA0005-[AudioTrimmer.com].m4a
+Duration: 9:37
+GregDate: 18/11/2022
+HijriDate: 1444/04/24
+HijriSource: text
+Location: Online
+MsgID: 2607
+---
+DB: 170
+Series: خطب الجمعة
+Title: في ظلال سورة قريش
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبة جمعة (1).m4a
+Duration: 09:46
+GregDate: 25/11/2022
+HijriDate: 1444/05/01
+HijriSource: text
+Location: Online
+MsgID: 2635
+---
+DB: 171
+Series: خطب الجمعة
+Title: قصة موسى عليه السلام (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة موسى عليه السلام (1).mp3
+Duration: 12:45
+GregDate: 02/12/2022
+HijriDate: 1444/05/08
+HijriSource: text
+Location: Online
+MsgID: 2640
+---
+DB: 172
+Series: خطب الجمعة
+Title: النهي عن الفساد بأنواعه
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20221209-WA0004-[AudioTrimmer.com].m4a
+Duration: 9:28
+GregDate: 09/12/2022
+HijriDate: 1444/05/15
+HijriSource: text
+Location: Online
+MsgID: 2659
+---
+DB: 173
+Series: خطب الجمعة
+Title: قصة موسى عليه السلام (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبة_جمعة_للشيخ_حسن_الدغريري_قصة_موسى_عليه_السلام.mp3
+Duration: 11:44
+GregDate: 17/12/2022
+HijriDate: 1444/05/22
+HijriSource: text
+Location: Online
+MsgID: 2696
+---
+DB: 174
+Series: خطب الجمعة
+Title: المحافظة على نظافة المتنزهات والاستعداد للموت
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20221223-WA0004-[AudioTrimmer.com].m4a
+Duration: 9:41
+GregDate: 23/12/2022
+HijriDate: 1444/05/29
+HijriSource: text
+Location: Online
+MsgID: 2719
+---
+DB: 175
+Series: خطب الجمعة
+Title: قصة موسى عليه السلام (٣)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20221230-WA0006-[AudioTrimmer.com].m4a
+Duration: 11:14
+GregDate: 30/12/2022
+HijriDate: 1444/06/07
+HijriSource: text
+Location: Online
+MsgID: 2756
+---
+DB: 176
+Series: خطب الجمعة
+Title: الحذر من المخدِّرات
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230106-WA0002-[AudioTrimmer.com].m4a
+Duration: 10:54
+GregDate: 06/01/2023
+HijriDate: 1444/06/13
+HijriSource: text
+Location: Online
+MsgID: 2807
+---
+DB: 177
+Series: خطب الجمعة
+Title: أهمية العقيدة الإسلامية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: أهمية_العقيدة_الإسلامية_xVbygkjOahQ_139.m4a
+Duration: 17:36
+GregDate: 17/01/2023
+HijriDate: 1444/06/24
+HijriSource: computed
+Location: Online
+MsgID: 2875
+---
+DB: 178
+Series: خطب الجمعة
+Title: الحذر من الغيبة والنميمة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230120-WA0002-[AudioTrimmer.com].m4a
+Duration: 11:53
+GregDate: 20/01/2023
+HijriDate: 1444/06/27
+HijriSource: text
+Location: Online
+MsgID: 2883
+---
+DB: 179
+Series: خطب الجمعة
+Title: قصة موسى عليه السلام (٤)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230127-WA0025-[AudioTrimmer.com].m4a
+Duration: 11:14
+GregDate: 27/01/2023
+HijriDate: 1444/07/05
+HijriSource: text
+Location: Online
+MsgID: 2917
+---
+DB: 180
+Series: خطب الجمعة
+Title: قصة موسى عليه السلام (٥)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230203-WA0009-[AudioTrimmer.com].m4a
+Duration: 11:14
+GregDate: 03/02/2023
+HijriDate: 1444/07/12
+HijriSource: text
+Location: Online
+MsgID: 2951
+---
+DB: 181
+Series: خطب الجمعة
+Title: الزلزال المُدمِّرُ في سوريا وتركيا
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230210-WA0005-[AudioTrimmer.com].m4a
+Duration: 11:46
+GregDate: 10/02/2023
+HijriDate: 1444/07/19
+HijriSource: text
+Location: Online
+MsgID: 2975
+---
+DB: 182
+Series: خطب الجمعة
+Title: قصة موسى عليه السلام (٦)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة موسى عليه السلام 6.mp3
+Duration: 12:43
+GregDate: 17/02/2023
+HijriDate: 1444/07/26
+HijriSource: text
+Location: Online
+MsgID: 3003
+---
+DB: 183
+Series: خطب الجمعة
+Title: الحذر من الغشِّ التجاري والاختبارات المدرسية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230225-WA0035-[AudioTrimmer.com].m4a
+Duration: 10:12
+GregDate: 26/02/2023
+HijriDate: 1444/08/04
+HijriSource: text
+Location: Online
+MsgID: 3042
+---
+DB: 184
+Series: خطب الجمعة
+Title: شعبان فضله وأحكامه واستغلال الاوقات بعد الاختبارات
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2023-03-03-17-08-58.m4a
+Duration: 8:42
+GregDate: 03/03/2023
+HijriDate: 1444/08/11
+HijriSource: text
+Location: Online
+MsgID: 3066
+---
+DB: 185
+Series: خطب الجمعة
+Title: فضل الصَّدقات في شهر الخيرات
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230318-WA0012-[AudioTrimmer.com].m4a
+Duration: 10:56
+GregDate: 18/03/2023
+HijriDate: 1444/08/25
+HijriSource: text
+Location: Online
+MsgID: 3106
+---
+DB: 186
+Series: خطب الجمعة
+Title: فضل الصيام، وأهمية الصلاة في رمضان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230331-WA0002-[AudioTrimmer.com].m4a
+Duration: 11:10
+GregDate: 31/03/2023
+HijriDate: 1444/09/09
+HijriSource: text
+Location: Online
+MsgID: 3151
+---
+DB: 187
+Series: خطب الجمعة
+Title: أهمية القرآن في رمضان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230407-WA0000-[AudioTrimmer.com].m4a
+Duration: 10:43
+GregDate: 07/04/2023
+HijriDate: 1444/09/16
+HijriSource: text
+Location: Online
+MsgID: 3184
+---
+DB: 188
+Series: خطب الجمعة
+Title: السبع البواقي من رمضان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230415-WA0002-[AudioTrimmer.com].m4a
+Duration: 8:58
+GregDate: 15/04/2023
+HijriDate: 1444/09/23
+HijriSource: text
+Location: Online
+MsgID: 3214
+---
+DB: 189
+Series: خطب الجمعة
+Title: فضل الصيام والست من شوال
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230421-WA0016-[AudioTrimmer.com].m4a
+Duration: 5:21
+GregDate: 22/04/2023
+HijriDate: 1444/10/01
+HijriSource: text
+Location: Online
+MsgID: 3218
+---
+DB: 190
+Series: خطب الجمعة
+Title: المسكرات والمخدرات والمفترات
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230505-WA0001-[AudioTrimmer.com].m4a
+Duration: 9:26
+GregDate: 05/05/2023
+HijriDate: 1444/10/15
+HijriSource: text
+Location: Online
+MsgID: 3246
+---
+DB: 191
+Series: خطب الجمعة
+Title: قصة موسى عليه السلام (٧)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230526-WA0009-[AudioTrimmer.com].m4a
+Duration: 12:00
+GregDate: 26/05/2023
+HijriDate: 1444/11/06
+HijriSource: text
+Location: Online
+MsgID: 3328
+---
+DB: 192
+Series: خطب الجمعة
+Title: قصة موسى عليه السلام (٨)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: one_AUD-20-AudioConverter.m4a
+Duration: 13:20
+GregDate: 02/06/2023
+HijriDate: 1444/11/13
+HijriSource: text
+Location: Online
+MsgID: 3346
+---
+DB: 193
+Series: خطب الجمعة
+Title: الحج آداب ومنافع
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230609-WA0004-[AudioTrimmer.com].m4a
+Duration: 10:16
+GregDate: 10/06/2023
+HijriDate: 1444/11/20
+HijriSource: text
+Location: Online
+MsgID: 3377
+---
+DB: 194
+Series: خطب الجمعة
+Title: الأعمال الصالحة في أيام العشر
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230616-WA0017-[AudioTrimmer.com].m4a
+Duration: 10:01
+GregDate: 16/06/2023
+HijriDate: 1444/11/27
+HijriSource: text
+Location: Online
+MsgID: 3409
+---
+DB: 195
+Series: خطب الجمعة
+Title: من أحكام الأضحية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230623-WA0000-[AudioTrimmer.com].m4a
+Duration: 9:18
+GregDate: 23/06/2023
+HijriDate: 1444/12/05
+HijriSource: text
+Location: Online
+MsgID: 3439
+---
+DB: 196
+Series: خطب الجمعة
+Title: من نواقض الإسلام (٣)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230707-WA0000-[AudioTrimmer.com].m4a
+Duration: 11:17
+GregDate: 07/07/2023
+HijriDate: 1444/12/19
+HijriSource: text
+Location: Online
+MsgID: 3448
+---
+DB: 197
+Series: خطب الجمعة
+Title: من نواقض الإسلام (٤)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Ringtone_AUD-20230721-WA0004.mp3
+Duration: 11:00
+GregDate: 21/07/2023
+HijriDate: 1445/01/03
+HijriSource: text
+Location: Online
+MsgID: 3455
+---
+DB: 198
+Series: خطب الجمعة
+Title: سعيد بن زيد -رضي الله عنه-
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230728-WA0012-[AudioTrimmer.com].m4a
+Duration: 9:51
+GregDate: 28/07/2023
+HijriDate: 1445/01/10
+HijriSource: text
+Location: Online
+MsgID: 3474
+---
+DB: 199
+Series: خطب الجمعة
+Title: من نواقض الإسلام (٥)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230804-WA0006-[AudioTrimmer.com].m4a
+Duration: 10:49
+GregDate: 04/08/2023
+HijriDate: 1445/01/17
+HijriSource: text
+Location: Online
+MsgID: 3483
+---
+DB: 200
+Series: خطب الجمعة
+Title: من نواقض الإسلام (٦)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230811-WA0000-[AudioTrimmer.com].m4a
+Duration: 10:54
+GregDate: 11/08/2023
+HijriDate: 1445/01/24
+HijriSource: text
+Location: Online
+MsgID: 3518
+---
+DB: 201
+Series: خطب الجمعة
+Title: من نواقض الإسلام (٧)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230825-WA0001-[AudioTrimmer.com].m4a
+Duration: 10:24
+GregDate: 25/08/2023
+HijriDate: 1445/02/09
+HijriSource: text
+Location: Online
+MsgID: 3589
+---
+DB: 202
+Series: خطب الجمعة
+Title: من نواقض الإسلام (٨)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230901-WA0009-[AudioTrimmer.com].m4a
+Duration: 10:56
+GregDate: 01/09/2023
+HijriDate: 1445/02/16
+HijriSource: text
+Location: Online
+MsgID: 3626
+---
+DB: 203
+Series: خطب الجمعة
+Title: برُّ الوالدين
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230908-WA0009-[AudioTrimmer.com].m4a
+Duration: 11:38
+GregDate: 08/09/2023
+HijriDate: 1445/02/23
+HijriSource: text
+Location: Online
+MsgID: 3647
+---
+DB: 204
+Series: خطب الجمعة
+Title: من نواقض الإسلام (٩)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20230922-WA0000-[AudioTrimmer.com].m4a
+Duration: 9:38
+GregDate: 22/09/2023
+HijriDate: 1445/03/07
+HijriSource: text
+Location: Online
+MsgID: 3695
+---
+DB: 205
+Series: خطب الجمعة
+Title: الإسراف في الأغذية والمياه
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Ringtone_AUD-20230929-WA0003.mp3
+Duration: 9:31
+GregDate: 29/09/2023
+HijriDate: 1445/03/14
+HijriSource: text
+Location: Online
+MsgID: 3727
+---
+DB: 206
+Series: خطب الجمعة
+Title: من نواقض الإسلام (١٠)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20231006-WA0005.mp3
+Duration: 11:39
+GregDate: 06/10/2023
+HijriDate: 1445/03/21
+HijriSource: text
+Location: Online
+MsgID: 3751
+---
+DB: 207
+Series: خطب الجمعة
+Title: القِصاصُ والقنطرة يوم القيامة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Ringtone_AUD-20231020-WA0002.m4a
+Duration: 11:08
+GregDate: 20/10/2023
+HijriDate: 1445/04/05
+HijriSource: text
+Location: Online
+MsgID: 3794
+---
+DB: 208
+Series: خطب الجمعة
+Title: قصة داود عليه السلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20231028-WA0006-[AudioTrimmer.com].m4a
+Duration: 10:07
+GregDate: 30/10/2023
+HijriDate: 1445/04/12
+HijriSource: text
+Location: Online
+MsgID: 3802
+---
+DB: 209
+Series: خطب الجمعة
+Title: قصة سليمان عليه السلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة_النبي_سليمان_عليه_السلام_خطبة_الجمعة_للشيخ_حسن_محمد_الدغريري.mp3
+Duration: 12:40
+GregDate: 08/11/2023
+HijriDate: 1445/04/19
+HijriSource: text
+Location: Online
+MsgID: 3810
+---
+DB: 210
+Series: خطب الجمعة
+Title: رضا الله عزوجل
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: رضا_الله_عز_وجل_خطبة_الجمعة_للشيخ_حسن_بن_محمد_الدغريري.mp3
+Duration: 10:06
+GregDate: 18/11/2023
+HijriDate: 1445/05/03
+HijriSource: text
+Location: Online
+MsgID: 3815
+---
+DB: 211
+Series: خطب الجمعة
+Title: قصة صالح عليه السلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: قصة صالح عليه السلام 55.m4a
+Duration: 17:32
+GregDate: 18/11/2023
+HijriDate: 1440/04/28
+HijriSource: text
+Location: Online
+MsgID: 3817
+---
+DB: 212
+Series: خطب الجمعة
+Title: بناء الأسرة المسلمة ومسؤولية الأولاد
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: بناء_الأسرة_المسلمة_ومسؤولية_الأولاد_خطبة_جمعة_للشيخ_حسن_بن_محمد.mp3
+Duration: 9:12
+GregDate: 27/11/2023
+HijriDate: 1445/05/10
+HijriSource: text
+Location: Online
+MsgID: 3829
+---
+DB: 213
+Series: خطب الجمعة
+Title: الفردوس الأعلى من الجنة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: الفردوس_الأعلى_من_الجنة_خطبة_جمعة_للشيخ_حسن_بن_محمد_الدغريري.mp3
+Duration: 9:36
+GregDate: 01/12/2023
+HijriDate: 1445/05/17
+HijriSource: computed
+Location: Online
+MsgID: 3843
+---
+DB: 214
+Series: خطب الجمعة
+Title: أدنى أهل الجنة منزلة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: أدنى_أهل_الجنة_منزلة_خطبة_جمعة_للشيخ_حسن_بن_محمد_منصور_الدغريري.mp3
+Duration: 9:27
+GregDate: 08/12/2023
+HijriDate: 1445/05/24
+HijriSource: computed
+Location: Online
+MsgID: 3867
+---
+DB: 215
+Series: خطب الجمعة
+Title: خطر الإشاعات الكاذبة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20231222-WA0000-[AudioTrimmer.com].m4a
+Duration: 8:53
+GregDate: 22/12/2023
+HijriDate: 1445/06/09
+HijriSource: computed
+Location: Online
+MsgID: 3903
+---
+DB: 216
+Series: خطب الجمعة
+Title: معاوية بن أبي سفيان -رضي الله عنه-
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20231229-WA0004-[AudioTrimmer.com].m4a
+Duration: 9:24
+GregDate: 29/12/2023
+HijriDate: 1445/06/16
+HijriSource: computed
+Location: Online
+MsgID: 3927
+---
+DB: 217
+Series: خطب الجمعة
+Title: اسم الرب تبارك تعالى
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240105-WA0004-[AudioTrimmer.com].m4a
+Duration: 8:07
+GregDate: 05/01/2024
+HijriDate: 1445/06/23
+HijriSource: computed
+Location: Online
+MsgID: 3959
+---
+DB: 218
+Series: خطب الجمعة
+Title: قصة يحيى ووالده زكريا عليهما السلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240119-WA0001-[AudioTrimmer.com] (2).m4a
+Duration: 11:35
+GregDate: 20/01/2024
+HijriDate: 1445/07/08
+HijriSource: computed
+Location: Online
+MsgID: 4001
+---
+DB: 219
+Series: خطب الجمعة
+Title: قصة مريم بنت عمران عليها السلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240126-WA0001-[AudioTrimmer.com].m4a
+Duration: 10:36
+GregDate: 26/01/2024
+HijriDate: 1445/07/14
+HijriSource: computed
+Location: Online
+MsgID: 4053
+---
+DB: 220
+Series: خطب الجمعة
+Title: قصة عيسى عليه السلام (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240202-WA0000-[AudioTrimmer.com].m4a
+Duration: 12:19
+GregDate: 02/02/2024
+HijriDate: 1445/07/21
+HijriSource: computed
+Location: Online
+MsgID: 4104
+---
+DB: 221
+Series: خطب الجمعة
+Title: قصة عيسى عليه السلام (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240209-WA0004-[AudioTrimmer.com].m4a
+Duration: 9:19
+GregDate: 09/02/2024
+HijriDate: 1445/07/28
+HijriSource: computed
+Location: Online
+MsgID: 4135
+---
+DB: 222
+Series: خطب الجمعة
+Title: شهر شعبان وتأسيس السعودية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240216-WA0000-[AudioTrimmer.com].m4a
+Duration: 9:07
+GregDate: 16/02/2024
+HijriDate: 1445/08/06
+HijriSource: computed
+Location: Online
+MsgID: 4162
+---
+DB: 223
+Series: خطب الجمعة
+Title: قصة عيسى عليه السلام (٣)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240223-WA0006-[AudioTrimmer.com].m4a
+Duration: 10:53
+GregDate: 23/02/2024
+HijriDate: 1445/08/13
+HijriSource: computed
+Location: Online
+MsgID: 4188
+---
+DB: 224
+Series: خطب الجمعة
+Title: الاستعداد لشهر رمضان (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240301-WA0002-[AudioTrimmer.com].m4a
+Duration: 10:00
+GregDate: 01/03/2024
+HijriDate: 1445/08/20
+HijriSource: computed
+Location: Online
+MsgID: 4221
+---
+DB: 225
+Series: خطب الجمعة
+Title: الاستعداد لشهر رمضان (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240308-WA0004-[AudioTrimmer.com].m4a
+Duration: 8:58
+GregDate: 08/03/2024
+HijriDate: 1445/08/27
+HijriSource: computed
+Location: Online
+MsgID: 4240
+---
+DB: 226
+Series: خطب الجمعة
+Title: بعض أخطاء الصائمين (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240323-WA0008-[AudioTrimmer.com].m4a
+Duration: 12:11
+GregDate: 24/03/2024
+HijriDate: 1445/09/14
+HijriSource: computed
+Location: Online
+MsgID: 4261
+---
+DB: 227
+Series: خطب الجمعة
+Title: بعض أخطاء الصائمين (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240329-WA0000-[AudioTrimmer.com].m4a
+Duration: 11:36
+GregDate: 29/03/2024
+HijriDate: 1445/09/19
+HijriSource: computed
+Location: Online
+MsgID: 4277
+---
+DB: 228
+Series: خطب الجمعة
+Title: نهاية شهر رمضان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240405-WA0004-[AudioTrimmer.com].m4a
+Duration: 10:57
+GregDate: 05/04/2024
+HijriDate: 1445/09/26
+HijriSource: computed
+Location: Online
+MsgID: 4286
+---
+DB: 229
+Series: خطب الجمعة
+Title: إحياءُ الله للموتى في الدنيا (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240419-WA0004-[AudioTrimmer.com].m4a
+Duration: 9:34
+GregDate: 19/04/2024
+HijriDate: 1445/10/10
+HijriSource: computed
+Location: Online
+MsgID: 4307
+---
+DB: 230
+Series: خطب الجمعة
+Title: شكر نعم الله علينا في بلادنا السعودية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240426-WA0003-[AudioTrimmer.com].m4a
+Duration: 9:02
+GregDate: 26/04/2024
+HijriDate: 1445/10/17
+HijriSource: computed
+Location: Online
+MsgID: 4334
+---
+DB: 231
+Series: خطب الجمعة
+Title: الاستعداد للصلاة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240503-WA0001-[AudioTrimmer.com].m4a
+Duration: 9:36
+GregDate: 03/05/2024
+HijriDate: 1445/10/24
+HijriSource: computed
+Location: Online
+MsgID: 4360
+---
+DB: 232
+Series: خطب الجمعة
+Title: إحياء الله للموتى في الدنيا (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240510-WA0001-[AudioTrimmer.com].m4a
+Duration: 11:43
+GregDate: 10/05/2024
+HijriDate: 1445/11/02
+HijriSource: computed
+Location: Online
+MsgID: 4386
+---
+DB: 233
+Series: خطب الجمعة
+Title: آداب ووصايا لمريد الحج
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240517-WA0002-[AudioTrimmer.com].m4a
+Duration: 11:45
+GregDate: 17/05/2024
+HijriDate: 1445/11/09
+HijriSource: computed
+Location: Online
+MsgID: 4403
+---
+DB: 234
+Series: خطب الجمعة
+Title: آداب ووصايا لمريد الحج (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240601-WA0010.mp3
+Duration: 08:36
+GregDate: 03/06/2024
+HijriDate: 1445/11/26
+HijriSource: computed
+Location: Online
+MsgID: 4444
+---
+DB: 235
+Series: خطب الجمعة
+Title: الأعمال الصالحة في العشر والأخذ بأسباب السلامة في الحج
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240607-WA0001-[AudioTrimmer.com].m4a
+Duration: 10:04
+GregDate: 07/06/2024
+HijriDate: 1445/12/01
+HijriSource: computed
+Location: Online
+MsgID: 4449
+---
+DB: 236
+Series: خطب الجمعة
+Title: صفة الأنساك الثلاثة (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240616-WA0008.mp3
+Duration: 11:16
+GregDate: 18/06/2024
+HijriDate: 1445/12/12
+HijriSource: computed
+Location: Online
+MsgID: 4479
+---
+DB: 237
+Series: خطب الجمعة
+Title: إحياء الله للموتى في الدنيا (٣) والإجازة الصيفية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240628-WA0002-[AudioTrimmer.com].m4a
+Duration: 9:17
+GregDate: 28/06/2024
+HijriDate: 1445/12/22
+HijriSource: computed
+Location: Online
+MsgID: 4502
+---
+DB: 238
+Series: خطب الجمعة
+Title: إحياء الله للموتى في الدنيا (٤) والعام الهجري الجديد
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240705-WA0004-[AudioTrimmer.com].m4a
+Duration: 10:30
+GregDate: 05/07/2024
+HijriDate: 1445/12/29
+HijriSource: computed
+Location: Online
+MsgID: 4507
+---
+DB: 239
+Series: خطب الجمعة
+Title: إحياء الله للموتى في الدنيا (٥) وصيام شهر الله المحرم
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240713-WA0001-[AudioTrimmer.com].m4a
+Duration: 9:34
+GregDate: 13/07/2024
+HijriDate: 1446/01/07
+HijriSource: computed
+Location: Online
+MsgID: 4511
+---
+DB: 240
+Series: خطب الجمعة
+Title: المسائل الأربع العقدية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240719-WA0002-[AudioTrimmer.com].m4a
+Duration: 9:42
+GregDate: 19/07/2024
+HijriDate: 1446/01/13
+HijriSource: computed
+Location: Online
+MsgID: 4520
+---
+DB: 241
+Series: خطب الجمعة
+Title: المسائل الثلاث العقدية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240726-WA0000-[AudioTrimmer.com].m4a
+Duration: 10:19
+GregDate: 27/07/2024
+HijriDate: 1446/01/21
+HijriSource: computed
+Location: Online
+MsgID: 4524
+---
+DB: 242
+Series: خطب الجمعة
+Title: نعمة نزول الأمطار
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240803-WA0000-[AudioTrimmer.com].m4a
+Duration: 10:22
+GregDate: 03/08/2024
+HijriDate: 1446/01/28
+HijriSource: computed
+Location: Online
+MsgID: 4533
+---
+DB: 243
+Series: خطب الجمعة
+Title: سورة الشرح
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240810-WA0000-[AudioTrimmer.com].m4a
+Duration: 10:04
+GregDate: 10/08/2024
+HijriDate: 1446/02/06
+HijriSource: computed
+Location: Online
+MsgID: 4550
+---
+DB: 244
+Series: خطب الجمعة
+Title: وصايا في بداية العام الدراسي
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240817-WA0003-[AudioTrimmer.com].m4a
+Duration: 9:27
+GregDate: 17/08/2024
+HijriDate: 1446/02/13
+HijriSource: computed
+Location: Online
+MsgID: 4566
+---
+DB: 245
+Series: خطب الجمعة
+Title: فضل الطهارة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240823-WA0007-[AudioTrimmer.com].m4a
+Duration: 10:49
+GregDate: 23/08/2024
+HijriDate: 1446/02/19
+HijriSource: computed
+Location: Online
+MsgID: 4591
+---
+DB: 246
+Series: خطب الجمعة
+Title: شرح حديث «نضَّر اللهُ امرَأً سمِع منّا حديثا ...»
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240906-WA0000-[AudioTrimmer.com].m4a
+Duration: 9:50
+GregDate: 06/09/2024
+HijriDate: 1446/03/03
+HijriSource: computed
+Location: Online
+MsgID: 4627
+---
+DB: 247
+Series: خطب الجمعة
+Title: آداب قضاء الحاجة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240913-WA0001-[AudioTrimmer.com].m4a
+Duration: 9:38
+GregDate: 13/09/2024
+HijriDate: 1446/03/10
+HijriSource: computed
+Location: Online
+MsgID: 4653
+---
+DB: 248
+Series: خطب الجمعة
+Title: النِّعَمُ فِي السُّعُودِيَّةِ
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240920-WA0003-[AudioTrimmer.com].m4a
+Duration: 7:48
+GregDate: 20/09/2024
+HijriDate: 1446/03/17
+HijriSource: computed
+Location: Online
+MsgID: 4671
+---
+DB: 249
+Series: خطب الجمعة
+Title: سيرة محمد بن عبدالله صلوات الله وسلامه عليه (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20240927-WA0001-[AudioTrimmer.com].m4a
+Duration: 12:45
+GregDate: 27/09/2024
+HijriDate: 1446/03/24
+HijriSource: computed
+Location: Online
+MsgID: 4689
+---
+DB: 250
+Series: خطب الجمعة
+Title: سيرة محمد بن عبدالله صلوات الله وسلامه عليه (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20241004-WA0029-[AudioTrimmer.com].m4a
+Duration: 10:46
+GregDate: 04/10/2024
+HijriDate: 1446/04/01
+HijriSource: computed
+Location: Online
+MsgID: 4701
+---
+DB: 251
+Series: خطب الجمعة
+Title: حقوق كبار السن والعاجزين والضعفة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20241011-WA0012-[AudioTrimmer.com].m4a
+Duration: 8:20
+GregDate: 11/10/2024
+HijriDate: 1446/04/08
+HijriSource: computed
+Location: Online
+MsgID: 4733
+---
+DB: 252
+Series: خطب الجمعة
+Title: أهمية الصحَّة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: أهمية_الصحة_لفضيلة_الشيخ_حسن_بن_محمد_الدغريري.mp3
+Duration: 8:50
+GregDate: 18/10/2024
+HijriDate: 1446/04/15
+HijriSource: computed
+Location: Online
+MsgID: 4768
+---
+DB: 253
+Series: خطب الجمعة
+Title: سيرة محمد بن عبدالله صلوات الله وسلامه عليه (٣)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20241030-WA0000-[AudioTrimmer.com].m4a
+Duration: 10:38
+GregDate: 30/10/2024
+HijriDate: 1446/04/27
+HijriSource: computed
+Location: Online
+MsgID: 4788
+---
+DB: 254
+Series: خطب الجمعة
+Title: سيرة محمد بن عبدالله صلوات الله وسلامه عليه (٤)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبة_جمعة_للشيخ_حسن_سيرة_محمد_بن_عبدالله_صلوات_الله_وسلامه_عليه.mp3
+Duration: 11:03
+GregDate: 09/11/2024
+HijriDate: 1446/05/07
+HijriSource: computed
+Location: Online
+MsgID: 4817
+---
+DB: 255
+Series: خطب الجمعة
+Title: العناية بالمساجد في الإسلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20241109-WA0001-[AudioTrimmer.com].m4a
+Duration: 8:51
+GregDate: 11/11/2024
+HijriDate: 1446/05/09
+HijriSource: computed
+Location: Online
+MsgID: 4836
+---
+DB: 256
+Series: خطب الجمعة
+Title: الإيمان عند أهل السنة والجماعة (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20241122-WA0003.m4a
+Duration: 9:28
+GregDate: 22/11/2024
+HijriDate: 1446/05/20
+HijriSource: computed
+Location: Online
+MsgID: 4851
+---
+DB: 257
+Series: خطب الجمعة
+Title: ثمرات الإيمان عند أهل السنة والجماعة (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20241122-WA0005-[AudioTrimmer.com].m4a
+Duration: 9:07
+GregDate: 22/11/2024
+HijriDate: 1446/05/20
+HijriSource: computed
+Location: Online
+MsgID: 4853
+---
+DB: 258
+Series: خطب الجمعة
+Title: شرح حديث «الطهور شطر الإيمان»
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20241130-WA0000-[AudioTrimmer.com].m4a
+Duration: 9:35
+GregDate: 30/11/2024
+HijriDate: 1446/05/28
+HijriSource: computed
+Location: Online
+MsgID: 4897
+---
+DB: 259
+Series: خطب الجمعة
+Title: أهمية النزاهة والأمانة ومكافحة الفساد
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20241206-WA0001-[AudioTrimmer.com].m4a
+Duration: 8:41
+GregDate: 07/12/2024
+HijriDate: 1446/06/06
+HijriSource: computed
+Location: Online
+MsgID: 4933
+---
+DB: 260
+Series: خطب الجمعة
+Title: بر الوالدين والإحسان إلى الأقارب
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20241213-WA0007-[AudioTrimmer.com].m4a
+Duration: 9:34
+GregDate: 13/12/2024
+HijriDate: 1446/06/12
+HijriSource: computed
+Location: Online
+MsgID: 4965
+---
+DB: 261
+Series: خطب الجمعة
+Title: أهمية السواك في الإسلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20241223-WA0025.mp3
+Duration: 9:29
+GregDate: 23/12/2024
+HijriDate: 1446/06/22
+HijriSource: computed
+Location: Online
+MsgID: 4997
+---
+DB: 262
+Series: خطب الجمعة
+Title: خصال الفطرة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20241227-WA0002-[AudioTrimmer.com].m4a
+Duration: 8:44
+GregDate: 28/12/2024
+HijriDate: 1446/06/27
+HijriSource: computed
+Location: Online
+MsgID: 5019
+---
+DB: 263
+Series: خطب الجمعة
+Title: التحذير من الظلم في المواريث
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250105-WA0000-[AudioTrimmer.com].m4a
+Duration: 10:14
+GregDate: 05/01/2025
+HijriDate: 1446/07/05
+HijriSource: computed
+Location: Online
+MsgID: 5053
+---
+DB: 264
+Series: خطب الجمعة
+Title: وقفات مع السيرة النبوية (٥)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250111-WA0000.mp3
+Duration: 9:24
+GregDate: 12/01/2025
+HijriDate: 1446/07/12
+HijriSource: computed
+Location: Online
+MsgID: 5072
+---
+DB: 265
+Series: خطب الجمعة
+Title: وقفات مع السيرة النبوية (٦)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250117-WA0002-[AudioTrimmer.com].m4a
+Duration: 11:53
+GregDate: 19/01/2025
+HijriDate: 1446/07/19
+HijriSource: computed
+Location: Online
+MsgID: 5085
+---
+DB: 266
+Series: خطب الجمعة
+Title: أنواع الرؤى المنامية
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250126-WA0000.mp3
+Duration: 10:44
+GregDate: 26/01/2025
+HijriDate: 1446/07/26
+HijriSource: computed
+Location: Online
+MsgID: 5101
+---
+DB: 267
+Series: خطب الجمعة
+Title: آيات من سورة الرحمن في وصف الجنة (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250201-WA0003-[AudioTrimmer.com].m4a
+Duration: 9:25
+GregDate: 01/02/2025
+HijriDate: 1446/08/02
+HijriSource: computed
+Location: Online
+MsgID: 5127
+---
+DB: 268
+Series: خطب الجمعة
+Title: مكانة صلاة الجمعة في الإسلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250208-WA0002-[AudioTrimmer.com].m4a
+Duration: 8:49
+GregDate: 08/02/2025
+HijriDate: 1446/08/09
+HijriSource: computed
+Location: Online
+MsgID: 5143
+---
+DB: 269
+Series: خطب الجمعة
+Title: خطر التسول في الإسلام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250218-WA0004-[AudioTrimmer.com].m4a
+Duration: 8:28
+GregDate: 18/02/2025
+HijriDate: 1446/08/19
+HijriSource: computed
+Location: Online
+MsgID: 5170
+---
+DB: 270
+Series: خطب الجمعة
+Title: حديث "إذا دخل رمضان فتحت أبواب الجنة"
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250221-WA0003-[AudioTrimmer.com].m4a
+Duration: 9:15
+GregDate: 21/02/2025
+HijriDate: 1446/08/22
+HijriSource: computed
+Location: Online
+MsgID: 5183
+---
+DB: 271
+Series: خطب الجمعة
+Title: آيتان في الصيام من سورة البقرة (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250228-WA0001-[AudioTrimmer.com].m4a
+Duration: 9:08
+GregDate: 28/02/2025
+HijriDate: 1446/08/29
+HijriSource: computed
+Location: Online
+MsgID: 5199
+---
+DB: 272
+Series: خطب الجمعة
+Title: آية في الصيام من سورة البقرة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250308-WA0001-[AudioTrimmer.com].m4a
+Duration: 9:42
+GregDate: 08/03/2025
+HijriDate: 1446/09/08
+HijriSource: computed
+Location: Online
+MsgID: 5208
+---
+DB: 273
+Series: خطب الجمعة
+Title: حديث: «إذا دخل العشر أحيا ليله...»
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250322-WA0001-[AudioTrimmer.com].m4a
+Duration: 9:19
+GregDate: 25/03/2025
+HijriDate: 1446/09/25
+HijriSource: computed
+Location: Online
+MsgID: 5266
+---
+DB: 274
+Series: خطب الجمعة
+Title: حديث: «فرض رسول الله زكاة الفطر ..»
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250329-WA0001-[AudioTrimmer.com].m4a
+Duration: 10:00
+GregDate: 29/03/2025
+HijriDate: 1446/09/29
+HijriSource: computed
+Location: Online
+MsgID: 5275
+---
+DB: 275
+Series: خطب الجمعة
+Title: حديث: «من صام رمضان ثم اتبعه من شوال..»
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250406-WA0000-[AudioTrimmer.com].m4a
+Duration: 09:00
+GregDate: 06/04/2025
+HijriDate: 1446/10/08
+HijriSource: computed
+Location: Online
+MsgID: 5319
+---
+DB: 276
+Series: خطب الجمعة
+Title: حديث: «أفضل الصيام بعد رمضان...»
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250411-WA0026-[AudioTrimmer.com].m4a
+Duration: 08:02
+GregDate: 12/04/2025
+HijriDate: 1446/10/14
+HijriSource: computed
+Location: Online
+MsgID: 5326
+---
+DB: 277
+Series: خطب الجمعة
+Title: ظاهرة الإسراف في الولائم والمطاهاة بها
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250418-WA0001-[AudioTrimmer.com].m4a
+Duration: 10:05
+GregDate: 20/04/2025
+HijriDate: 1446/10/22
+HijriSource: computed
+Location: Online
+MsgID: 5341
+---
+DB: 278
+Series: خطب الجمعة
+Title: قصة طالوت وجالوت (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250425-WA0001-[AudioTrimmer.com].m4a
+Duration: 09:33
+GregDate: 26/04/2025
+HijriDate: 1446/10/28
+HijriSource: computed
+Location: Online
+MsgID: 5354
+---
+DB: 279
+Series: خطب الجمعة
+Title: قصة طالوت وجالوت (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250502-WA0001-[AudioTrimmer.com].m4a
+Duration: 09:10
+GregDate: 02/05/2025
+HijriDate: 1446/11/04
+HijriSource: computed
+Location: Online
+MsgID: 5371
+---
+DB: 280
+Series: خطب الجمعة
+Title: قصة إبراهيم عليه السلام مع النمرود (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250509-WA0004-[AudioTrimmer.com].m4a
+Duration: 09:29
+GregDate: 09/05/2025
+HijriDate: 1446/11/11
+HijriSource: computed
+Location: Online
+MsgID: 5386
+---
+DB: 281
+Series: خطب الجمعة
+Title: قصة إبراهيم عليه السلام مع النمرود (٢) والتحذير من الحج بلا تصريح
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250516-WA0002-[AudioTrimmer.com].m4a
+Duration: 09:23
+GregDate: 16/05/2025
+HijriDate: 1446/11/18
+HijriSource: computed
+Location: Online
+MsgID: 5406
+---
+DB: 282
+Series: خطب الجمعة
+Title: وصايا لحجاج بيت الله
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: وصايا لحجاج بيت الله.m4a
+Duration: 09:07
+GregDate: 30/05/2025
+HijriDate: 1446/12/03
+HijriSource: computed
+Location: Online
+MsgID: 5439
+---
+DB: 283
+Series: خطب الجمعة
+Title: قصة ذبح إبراهيم لابنه إسماعيل
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250606-WA0006-[AudioTrimmer.com].m4a
+Duration: 07:08
+GregDate: 07/06/2025
+HijriDate: 1446/12/11
+HijriSource: computed
+Location: Online
+MsgID: 5455
+---
+DB: 284
+Series: خطب الجمعة
+Title: نجاح حج عام ١٤٤٦هـ
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250614-WA0001-[AudioTrimmer.com].m4a
+Duration: 09:36
+GregDate: 14/06/2025
+HijriDate: 1446/12/18
+HijriSource: computed
+Location: Online
+MsgID: 5471
+---
+DB: 285
+Series: خطب الجمعة
+Title: وقفات مع حديث: «اشتكت النار إلى ربها...»
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبة_الجمعة_للشيخ_حسن_بن_محمد_منصور_الدغريري.mp3
+Duration: 09:11
+GregDate: 22/06/2025
+HijriDate: 1446/12/26
+HijriSource: computed
+Location: Online
+MsgID: 5492
+---
+DB: 286
+Series: خطب الجمعة
+Title: وقفات مع شهر الله المحرَّم
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250627-WA0002-[AudioTrimmer.com].m4a
+Duration: 08:32
+GregDate: 27/06/2025
+HijriDate: 1447/01/02
+HijriSource: computed
+Location: Online
+MsgID: 5507
+---
+DB: 287
+Series: خطب الجمعة
+Title: يوم عاشوراء
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250704-WA0003-[AudioTrimmer.com].m4a
+Duration: 09:02
+GregDate: 04/07/2025
+HijriDate: 1447/01/09
+HijriSource: computed
+Location: Online
+MsgID: 5528
+---
+DB: 288
+Series: خطب الجمعة
+Title: خطر الإشاعات الكاذبة، وسيرة العلامة ربيع بن هادي -رحمه الله-
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250711-WA0001-[AudioTrimmer.com].m4a
+Duration: 09:05
+GregDate: 11/07/2025
+HijriDate: 1447/01/16
+HijriSource: computed
+Location: Online
+MsgID: 5569
+---
+DB: 289
+Series: خطب الجمعة
+Title: من صفات أهل السنة والجماعة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250719-WA0004-[AudioTrimmer.com].m4a
+Duration: 08:41
+GregDate: 19/07/2025
+HijriDate: 1447/01/24
+HijriSource: computed
+Location: Online
+MsgID: 5610
+---
+DB: 290
+Series: خطب الجمعة
+Title: من أحكام الوضوء
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250801-WA0000-[AudioTrimmer.com].m4a
+Duration: 10:18
+GregDate: 01/08/2025
+HijriDate: 1447/02/07
+HijriSource: computed
+Location: Online
+MsgID: 5619
+---
+DB: 291
+Series: خطب الجمعة
+Title: وقفات مع السيرة النبوية (٧)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250808-WA0001-[AudioTrimmer.com].m4a
+Duration: 10:20
+GregDate: 09/08/2025
+HijriDate: 1447/02/15
+HijriSource: computed
+Location: Online
+MsgID: 5635
+---
+DB: 292
+Series: خطب الجمعة
+Title: وصايا مهمة لمنسوبي التعليم
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250823-WA0002-[AudioTrimmer.com].m4a
+Duration: 09:51
+GregDate: 30/08/2025
+HijriDate: 1447/03/07
+HijriSource: computed
+Location: Online
+MsgID: 5649
+---
+DB: 293
+Series: خطب الجمعة
+Title: الاحتفال بالمولد النبوي
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250830-WA0006-[AudioTrimmer.com].m4a
+Duration: 09:31
+GregDate: 30/08/2025
+HijriDate: 1447/03/07
+HijriSource: computed
+Location: Online
+MsgID: 5655
+---
+DB: 294
+Series: خطب الجمعة
+Title: مفاسد المظاهرات
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: مفاسد المظاهرات (1).m4a
+Duration: 14:56
+GregDate: 03/10/2025
+HijriDate: 1440/06/17
+HijriSource: text
+Location: Online
+MsgID: 5689
+---
+DB: 295
+Series: خطب الجمعة
+Title: حقوق كبار السن
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: 4_5996911497937164125.mp3
+Duration: 08:23
+GregDate: 08/10/2025
+HijriDate: 1447/03/27
+HijriSource: text
+Location: Online
+MsgID: 5702
+---
+DB: 296
+Series: خطب الجمعة
+Title: النعم في السعودية. لفضيلة الشيخ: حسن بن محمد منصور الدغريري – حفظه الله –🖋
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Mp3 Editor_251010210714.mp3
+Duration: 07:44
+GregDate: 10/10/2025
+HijriDate: 1447/04/04
+HijriSource: text
+Location: Online
+MsgID: 5721
+---
+DB: 297
+Series: خطب الجمعة
+Title: الرحمة بالمستأجرين. لفضيلة الشيخ: حسن بن محمد منصور الدغريري – حفظه الله –
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Mp3 Editor_251010212128.mp3
+Duration: 09:08
+GregDate: 10/10/2025
+HijriDate: 1447/04/18
+HijriSource: text
+Location: Online
+MsgID: 5722
+---
+DB: 298
+Series: خطب الجمعة
+Title: وقفات مع السيرة النبوية(١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251012-WA0020.m4a
+Duration: 11:04
+GregDate: 16/10/2025
+HijriDate: 1447/04/11
+HijriSource: text
+Location: Online
+MsgID: 5745
+---
+DB: 299
+Series: خطب الجمعة
+Title: وقفات مع السيرة النبوية(٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251017-WA0000.m4a
+Duration: 09:44
+GregDate: 17/10/2025
+HijriDate: 1447/04/25
+HijriSource: text
+Location: Online
+MsgID: 5765
+---
+DB: 300
+Series: خطب الجمعة
+Title: وقفات مع السيرة النبوية(٣)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251026-WA0003.m4a
+Duration: 10:45
+GregDate: 26/10/2025
+HijriDate: 1447/02/05
+HijriSource: text
+Location: Online
+MsgID: 5817
+---
+DB: 301
+Series: خطب الجمعة
+Title: السيرة النبوية (٦)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2025-11-28-23-15-18.m4a
+Duration: 12:16
+GregDate: 28/11/2025
+HijriDate: 1447/06/07
+HijriSource: text
+Location: Online
+MsgID: 5899
+---
+DB: 302
+Series: خطب الجمعة
+Title: أهمية النزاهة والأمانة، ومكافحة الفساد المالي
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Ringtone_AUD-20251207-WA0004.mp3
+Duration: 10:07
+GregDate: 08/12/2025
+HijriDate: 1447/06/17
+HijriSource: computed
+Location: Online
+MsgID: 5945
+---
+DB: 303
+Series: خطب الجمعة
+Title: وقفات مع السيرة النبوية (٤)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251213-WA0011.m4a
+Duration: 10:39
+GregDate: 13/12/2025
+HijriDate: 1447/05/16
+HijriSource: text
+Location: Online
+MsgID: 6004
+---
+DB: 304
+Series: خطب الجمعة
+Title: وقفات مع السيرة النبوية (٥)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251213-WA0012.mp3
+Duration: 9:49
+GregDate: 13/12/2025
+HijriDate: 1447/05/23
+HijriSource: text
+Location: Online
+MsgID: 6005
+---
+DB: 305
+Series: خطب الجمعة
+Title: (( عناية الإسلام بالمرأة ))
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251213-WA0013.m4a
+Duration: 10:17
+GregDate: 13/12/2025
+HijriDate: 1447/06/21
+HijriSource: text
+Location: Online
+MsgID: 6006
+---
+DB: 306
+Series: خطب الجمعة
+Title: وقفات مع السيرة النبوية (٧)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2025-12-19-17-36-02.m4a
+Duration: 10:27
+GregDate: 19/12/2025
+HijriDate: 1447/06/28
+HijriSource: text
+Location: Online
+MsgID: 6046
+---
+DB: 307
+Series: خطب الجمعة
+Title: بدع شهر رجبلفضيلة الشيخ: حسن بن محمد منصور الدغريري – حفظه الله –
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2025-12-26-14-10-13.m4a
+Duration: 9:40
+GregDate: 26/12/2025
+HijriDate: 1447/07/06
+HijriSource: text
+Location: Online
+MsgID: 6101
+---
+DB: 308
+Series: خطب الجمعة
+Title: وقفات مع السيرة النبوية (٨)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20260102-WA0003.mp3
+Duration: 12:27
+GregDate: 02/01/2026
+HijriDate: 1447/07/12
+HijriSource: text
+Location: Online
+MsgID: 6155
+---
+DB: 309
+Series: خطب الجمعة
+Title: وقفات مع السيرة النبوية (٩)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-01-16-14-51-11.m4a
+Duration: 12:26
+GregDate: 16/01/2026
+HijriDate: 1447/07/27
+HijriSource: text
+Location: Online
+MsgID: 6195
+---
+DB: 310
+Series: خطب الجمعة
+Title: تيسير تكاليف الزواج
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-01-23-13-07-41.m4a
+Duration: 11:24
+GregDate: 23/01/2026
+HijriDate: 1447/08/04
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 6251
+---
+DB: 311
+Series: خطب الجمعة
+Title: أعمال صالحة في شهر شعبان (١)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-01-30-13-06-37.m4a
+Duration: 10:34
+GregDate: 30/01/2026
+HijriDate: 1447/08/11
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 6316
+---
+DB: 312
+Series: خطب الجمعة
+Title: أعمال صالحة في شهر شعبان (٢)
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-02-13-13-15-20.m4a
+Duration: 9:50
+GregDate: 13/02/2026
+HijriDate: 1447/08/25
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 6432
+---
+DB: 313
+Series: خطب الجمعة
+Title: فضل رمضان، والأعمال الصالحة فيه
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبة الجمعة 3-9-1447.m4a
+Duration: 11:43
+GregDate: 20/02/2026
+HijriDate: 1447/09/03
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 6456
+---
+DB: 314
+Series: خطب الجمعة
+Title: آداب واجبةٌ ومستحبةٌ في شهر الصيام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-02-27-19-04-52.m4a
+Duration: 11:33
+GregDate: 27/02/2026
+HijriDate: 1447/09/10
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 6482
+---
+DB: 315
+Series: خطب الجمعة
+Title: نعمة الأمن وأسباب استدامته
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبة الجمعة 17-9-1447.m4a
+Duration: 10:49
+GregDate: 06/03/2026
+HijriDate: 1447/09/17
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 6499
+---
+DB: 316
+Series: خطب الجمعة
+Title: عبادات تشرع في نهاية رمضان
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-03-13-17-27-21.m4a
+Duration: 13:00
+GregDate: 13/03/2026
+HijriDate: 1447/09/24
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 6515
+---
+DB: 317
+Series: خطب الجمعة
+Title: زكاة الفطر
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: 4_6005569134098648111.m4a
+Duration: 14:29
+GregDate: 19/03/2026
+HijriDate: 1438/09/28
+HijriSource: text
+Location: Online
+MsgID: 6532
+---
+DB: 318
+Series: خطب الجمعة
+Title: حديث: «فرض رسول الله زكاة الفطر ..»
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20250329-WA0001-[AudioTrimmer.com].m4a
+Duration: 10:00
+GregDate: 19/03/2026
+HijriDate: 1447/09/30
+HijriSource: computed
+Location: Online
+MsgID: 6537
+---
+DB: 319
+Series: خطب الجمعة
+Title: فضل الصيام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-03-20-13-01-56.m4a
+Duration: 6:21
+GregDate: 21/03/2026
+HijriDate: 1447/10/01
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 6544
+---
+DB: 320
+Series: خطب الجمعة
+Title: الثلاث مسائل في العقيدة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبة الجمعة 15-10-1447.m4a
+Duration: 12:02
+GregDate: 05/04/2026
+HijriDate: 1447/10/15
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 6645
+---
+DB: 321
+Series: خطب الجمعة
+Title: المسائل الأربع في العقيدة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Khutba22shawwal.m4a
+Duration: 10:03
+GregDate: 12/04/2026
+HijriDate: 1447/10/22
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 6744
+---
+DB: 322
+Series: خطب الجمعة
+Title: الفتن وأسباب الوقاية منها
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Khutba.m4a
+Duration: 13:39
+GregDate: 20/04/2026
+HijriDate: 1447/10/29
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 6850
+---
+DB: 323
+Series: خطب الجمعة
+Title: مكانة المساجد والحذر من اذية المصلين
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: Khutba.m4a
+Duration: 10:00
+GregDate: 24/04/2026
+HijriDate: 1447/11/07
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 6885
+---
+DB: 324
+Series: خطب الجمعة
+Title: الذكاء الاصطناعي و مواقع التواصل الاجتماعي
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: KhutbaAI.m4a
+Duration: 9:47
+GregDate: 12/05/2026
+HijriDate: 1447/11/21
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 7211
+---
+DB: 325
+Series: خطب الجمعة
+Title: توجيهات متعلقة بالحج
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: خطبه الجمعه.m4a
+Duration: 13:03
+GregDate: 15/05/2026
+HijriDate: 1447/11/28
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 7269
+---
+DB: 326
+Series: خطب الجمعة
+Title: افضل ايام العشر
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20260522-WA0041.m4a
+Duration: 10:38
+GregDate: 22/05/2026
+HijriDate: 1447/12/05
+HijriSource: text
+Location: Online
+MsgID: 7448
+---
+DB: 327
+Series: خطب الجمعة
+Title: بعض آيات الحج من سورة البقرة
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-05-29-12-55-24.m4a
+Duration: 13:58
+GregDate: 29/05/2026
+HijriDate: 1447/12/12
+HijriSource: text
+Location: بجامع الورود، حي الورود، جدة
+MsgID: 7497

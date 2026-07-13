@@ -1,0 +1,185 @@
+# تأسيس الأحكام - عن بعد — Upload Data
+# Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+# Author: للعلامة أحمد بن يحي النجمي رحمه الله
+# Total: 12 lessons
+# Source: messages4.html, messages_june1.html, messages_new.html
+
+---
+DB: 1
+LessonNum: 1
+ChapterLessonNum: 7
+Chapter: كتاب النكاح: باب الصداق
+Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251022-WA0024.m4a
+Duration: 20:30
+GregDate: 26/10/2025
+HijriDate: 1447/05/04
+HijriSource: computed
+Location: Online
+MsgID: 5816
+
+---
+DB: 2
+LessonNum: 2
+ChapterLessonNum: 8
+Chapter: كتاب الطلاق: باب العدة
+Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUD-20251208-WA0011.m4a
+Duration: 25:14
+GregDate: 09/12/2025
+HijriDate: 1447/06/18
+HijriSource: computed
+Location: Online
+MsgID: 5973
+
+---
+DB: 3
+LessonNum: 3
+ChapterLessonNum: 1
+Chapter: كتاب اللعان
+Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2025-12-22-07-20-24.m4a
+Duration: 29:17
+GregDate: 22/12/2025
+HijriDate: 1447/06/26
+HijriSource: text
+Location: Online
+MsgID: 6059
+
+---
+DB: 4
+LessonNum: 4
+ChapterLessonNum: 2
+Chapter: كتاب اللعان
+Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2025-12-25-21-15-03.m4a
+Duration: 21:52
+GregDate: 26/12/2025
+HijriDate: 1447/07/04
+HijriSource: text
+Location: Online
+MsgID: 6100
+
+---
+DB: 5
+LessonNum: 5
+ChapterLessonNum: 3
+Chapter: كتاب اللعان
+Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2025-12-31-23-27-32.m4a
+Duration: 21:04
+GregDate: 01/01/2026
+HijriDate: 1447/07/11
+HijriSource: text
+Location: Online
+MsgID: 6133
+
+---
+DB: 6
+LessonNum: 6
+ChapterLessonNum: 1
+Chapter: كتاب الرضاع
+Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-01-21-21-52-57.m4a
+Duration: 21:41
+GregDate: 22/01/2026
+HijriDate: 1447/08/02
+HijriSource: text
+Location: Online
+MsgID: 6248
+
+---
+DB: 7
+LessonNum: 7
+ChapterLessonNum: 2
+Chapter: كتاب الرضاع
+Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-01-28-21-32-25.m4a
+Duration: 23:06
+GregDate: 29/01/2026
+HijriDate: 1447/08/09
+HijriSource: text
+Location: Online
+MsgID: 6313
+
+---
+DB: 8
+LessonNum: 8
+ChapterLessonNum: 1
+Chapter: كتاب القصاص
+Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-02-04-21-21-24.m4a
+Duration: 15:09
+GregDate: 06/02/2026
+HijriDate: 1447/08/16
+HijriSource: text
+Location: Online
+MsgID: 6375
+
+---
+DB: 9
+LessonNum: 9
+ChapterLessonNum: 2
+Chapter: كتاب القصاص
+Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-02-11-22-20-02.m4a
+Duration: 20:07
+GregDate: 12/02/2026
+HijriDate: 1447/08/23
+HijriSource: text
+Location: Online
+MsgID: 6423
+
+---
+DB: 10
+LessonNum: 10
+ChapterLessonNum: 3
+Chapter: كتاب القصاص
+Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-04-08-21-53-49.m4a
+Duration: 22:26
+GregDate: 09/04/2026
+HijriDate: 1447/10/20
+HijriSource: text
+Location: Online
+MsgID: 6707
+
+---
+DB: 11
+LessonNum: 11
+ChapterLessonNum: 4
+Chapter: كتاب القصاص
+Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-05-06-21-54-39.m4a
+Duration: 19:41
+GregDate: 08/05/2026
+HijriDate: 1447/11/19
+HijriSource: text
+Location: Online
+MsgID: 7139
+
+---
+DB: 12
+LessonNum: 12
+ChapterLessonNum: 1
+Chapter: كتاب الحدود
+Series: تأسيس الأحكام على ما صح من خير الأنام بشرح عمدة الأحكام
+Sheikh: حسن بن محمد منصور الدغريري
+Audio: AUDIO-2026-05-14-10-23-34.m4a
+Duration: 14:03
+GregDate: 15/05/2026
+HijriDate: 1447/11/26
+HijriSource: text
+Location: Online
+MsgID: 7268

@@ -1,0 +1,66 @@
+التعليقات الأثرية على العقيدة الواسطية — Upload Data (2026 Series)
+بجامع الورود، حي الورود، جدة
+كتاب: التعليقات الأثرية على العقيدة الواسطية — للعلامة أحمد بن يحيى النجمي رحمه الله
+
+DB Status  : 0 lessons in MongoDB
+To Upload  : 5 lessons (DB #1–5)
+Availability: Series ongoing — 5 lessons posted as of messages_june1.html
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- This is the 2026 mosque series (AUDIO-2026-* filenames, جامع الورود format).
+- A separate 2022 WhatsApp series (19 lessons) exists — see wasatiyya_old_2022_upload_data.txt.
+- All 5 lessons have durations in the message text.
+- Hijri dates are from the message text.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UPLOAD SUMMARY TABLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DB#  Msg ID  Greg Date    Hijri Date    Audio Filename
+---  ------  -----------  ------------  ----------------------------------------
+1    6753    12/04/2026   1447/10/23    AUDIO-2026-04-11-22-05-16.m4a
+2    6854    20/04/2026   1447/11/01    AUDIO-2026-04-18-20-48-23.m4a
+3    7072    04/05/2026   1447/11/15    AUDIO-2026-05-03-05-13-18.m4a
+4    7219    12/05/2026   1447/11/21    AUDIO-2026-05-11-08-18-29.m4a
+5    7352    18/05/2026   1447/11/29    AUDIO-2026-05-18-11-07-02.m4a
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DETAILED RECORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- DB Lesson 1 | Msg 6753 | Greg 12/04/2026 | Hijri 1447/10/23 ---
+Audio   : AUDIO-2026-04-11-22-05-16.m4a
+Link    : https://t.me/daririhasan/6753
+Title   : الدرس الأول
+Duration: 30:18
+
+--- DB Lesson 2 | Msg 6854 | Greg 20/04/2026 | Hijri 1447/11/01 ---
+Audio   : AUDIO-2026-04-18-20-48-23.m4a
+Link    : https://t.me/daririhasan/6854
+Title   : الدرس الثاني
+Duration: 30:16
+
+--- DB Lesson 3 | Msg 7072 | Greg 04/05/2026 | Hijri 1447/11/15 ---
+Audio   : AUDIO-2026-05-03-05-13-18.m4a
+Link    : https://t.me/daririhasan/7072
+Title   : الدرس الثالث
+Duration: 27:38
+
+--- DB Lesson 4 | Msg 7219 | Greg 12/05/2026 | Hijri 1447/11/21 ---
+Audio   : AUDIO-2026-05-11-08-18-29.m4a
+Link    : https://t.me/daririhasan/7219
+Title   : الدرس الرابع
+Duration: 34:13
+
+--- DB Lesson 5 | Msg 7352 | Greg 18/05/2026 | Hijri 1447/11/29 ---
+Audio   : AUDIO-2026-05-18-11-07-02.m4a
+Link    : https://t.me/daririhasan/7352
+Title   : الدرس الخامس
+Duration: 46:04
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
